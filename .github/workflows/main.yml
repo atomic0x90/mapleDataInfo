@@ -1,24 +1,24 @@
 name: Call the API
 on:
-	schedule:
-		- cron: '0 3 * * *' # 매일 03:00에 실행
+  schedule:
+    - cron: '0 3 * * *' # 매일 03:00에 실행
 jobs:
-	call-ranking-overall:
-		runs-on: ubuntu-latest
-		name: Call the API of ranking overall
-	steps:
-		- name: Checkout repository
-		uses: actions/checkout@v2
+  call-ranking-overall:
+    runs-on: ubuntu-latest
+    name: Call the API of ranking overall
+  steps:
+    - name: Checkout repository
+    uses: actions/checkout@v2
 
-		- name: Set up Node.js
-		uses: actions/setup-node@v4
-		with:
-		node-version: '14'
+    - name: Set up Node.js
+    uses: actions/setup-node@v4
+    with:
+    node-version: '14'
 
-		- name: Install node-fetch
-		run: npm install node-fetch
+    - name: Install node-fetch
+    run: npm install node-fetch
 
-		- name: Run CallRankingOverall JavaScript code
-		run: node _script/CallRankingOverall.js
-		env:
-			API_KEY: ${{ secrets.API_KEY }}
+    - name: Run CallRankingOverall JavaScript code
+    run: node _script/CallRankingOverall.js
+    env:
+      API_KEY: ${{ secrets.API_KEY }}
