@@ -9,7 +9,7 @@ function rankingOverall(world_type = 0, characterClass = ""){
 	var currentDate = new Date();
 	var date = currentDate.toISOString().split('T')[0];
 
-	const headers = { "x-nxopen-api-key": API_KEY };
+	const headers = { "x-nxopen-api-key": process.env.API_KEY };
 
 	var queryParams = new URLSearchParams({
 		world_type: world_type,
