@@ -16,9 +16,6 @@ jobs:
       - name: Install node-fetch
         run: npm install node-fetch
 
-      - name: Install esm
-        run: npm install esm 
-
       - name: Run CallRankingOverall JavaScript code
         run: node script/CallRankingOverall.js
         env:

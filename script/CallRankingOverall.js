@@ -1,5 +1,3 @@
-require = require('esm')(module /*, options*/);
-
 const fetch = require('node-fetch-commonjs');
 const path = require('path');
 const fs = require('fs').promises;
