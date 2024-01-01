@@ -20,6 +20,6 @@ jobs:
         run: npm install esm 
 
       - name: Run CallRankingOverall JavaScript code
-        run: node _script/CallRankingOverall.js
+        run: node script/CallRankingOverall.js
         env:
           API_KEY: ${{ secrets.API_KEY }}
