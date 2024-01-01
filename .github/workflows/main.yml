@@ -13,8 +13,8 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
 
-      - name: Install node-fetch
-        run: npm install node-fetch
+      - name: Install node-fetch-commonjs
+        run: npm install node-fetch-commonjs
 
       - name: Run CallRankingOverall JavaScript code
         run: node script/CallRankingOverall.js
