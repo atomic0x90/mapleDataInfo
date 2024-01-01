@@ -1,22 +1,23 @@
 name: Call the API
-on:
-  schedule:
-    - cron: '0 3 * * *' # 매일 03:00에 실행
+on: [push]
+#  schedule:
+#    - cron: '0 18 * * *' # 매일 03:00에 실행
 jobs:
   call-ranking-overall:
     runs-on: ubuntu-latest
     name: Call the API of ranking overall
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
-        with:
-          node-version: '14'
 
       - name: Install node-fetch
         run: npm install node-fetch
+
+      - name: Install esm
+        run: npm install esm 
 
       - name: Run CallRankingOverall JavaScript code
         run: node _script/CallRankingOverall.js

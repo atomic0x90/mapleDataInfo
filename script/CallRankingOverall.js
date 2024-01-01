@@ -1,4 +1,6 @@
-const fetch = require('node-fetch');
+require = require('esm')(module /*, options*/);
+
+const fetch = require('node-fetch-commonjs');
 const path = require('path');
 const fs = require('fs').promises;
 
@@ -36,7 +38,7 @@ function rankingOverall(world_type = 0, characterClass = ""){
 async function saveRankingDataToFile(rankingData, world_type, characterClass){
 	try {
 		// _data 폴더 경로 지정
-		const directoryPath = path.join(__dirname, '_data');
+		const directoryPath = path.join(__dirname, 'data');
 		// _data 디렉토리가 없다면 생성
 		await fs.mkdir(directoryPath, { recursive: true });
 
