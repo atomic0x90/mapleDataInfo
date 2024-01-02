@@ -37,9 +37,9 @@ function rankingOverall(world_type = 0, characterClass = ""){
 
 async function saveRankingDataToFile(rankingData, world_type, characterClass){
 	try {
-		// _data 폴더 경로 지정
+		// data 폴더 경로 지정
 		const directoryPath = path.join(__dirname, 'data');
-		// _data 디렉토리가 없다면 생성
+		// data 디렉토리가 없다면 생성
 		await fs.mkdir(directoryPath, { recursive: true });
 
 		// 파일 이름을 생성
