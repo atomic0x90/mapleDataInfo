@@ -28,6 +28,8 @@ function rankingOverall(world_type = 0, characterClass = ""){
 	.then(response => response.json())
 	.then(data => {
 		//해당 직업 랭킹 1 ~ 200 데이터 저장
+		console.log("ranking");
+		console.log(data.ranking);
 	      saveRankingDataToFile(data.ranking, world_type, characterClass);
 	})
 	.catch(error => console.error(error));
