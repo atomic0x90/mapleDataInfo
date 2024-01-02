@@ -3,39 +3,38 @@ const path = require('path');
 const fs = require('fs').promises; //file system
 
 //캐릭터 식별자
-function characterID(world_type = 0, characterClass = ""){
+async function characterID(world_type = 0, characterClass = ""){
 	const characterOCIDUrlString = "https://open.api.nexon.com/maplestory/v1/id";
 
-	const headers = new Headers({
-		"x-nxopen-api-key": process.env.API_KEY
-	});
+	const headers = { "x-nxopen-api-key": process.env.API_KEY };
 
-	try{
+	try {
 		// 파일 읽기
 		const filePath = path.join(__dirname, 'data', `RankingOverall_${world_type}_${characterClass}.json`);
 		const fileData = await fs.readFile(filePath, 'utf-8');
 		const rankingOverallDataArray = JSON.parse(fileData);
+
+		const queryParams = new URLSearchParams({
+			character_name: rankingOverallDataArray[0].character_name
+		});
+
+		const requestUrl = `${characterOCIDUrlString}?${queryParams}`;
+
+		var answer = fetch(requestUrl, {
+			method: 'GET',
+			headers: headers
+		})
+		.then(response => response.json())
+		.then(data => {
+			console.log(data.ocid);
+			saveCharacterOCIDToFile(data.ocid, world_type, characterClass);
+			console.log("success");
+		})
+		.catch(error => console.error(error));
+
 	}catch(error){
-		console.error('Error open RankingOverall file:', error);
+		console.error(error);
 	}
-
-	var queryParams = new URLSearchParams({
-		character_name: rankingOverallDataArray[0].character_name
-	});
-
-	var requestUrl = `${characterOCIDUrlString}?${queryParams}`;
-	
-	var answer = fetch(requestUrl, {
-		headers: headers
-	})
-	.then(response => response.json())
-	.then(data => {
-		console.log(data);
-		ocid[0] = data.ocid;
-		saveCharacterOCIDToFile(data.ocid,world_type,characterClass);
-		console.log("success");
-	})
-	.catch(error => console.error(error));
 }
 
 async function saveCharacterOCIDToFile(OCID_Data, world_type, characterClass){
