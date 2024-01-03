@@ -30,3 +30,13 @@ jobs:
         run: node script/CallLinkSkill.js
         env:
           API_KEY: ${{ secrets.API_KEY }}
+
+      - name: Run CallHyperpassiveSkill JavaScript code
+        run: node script/CallHyperpassiveSkill.js
+        env:
+           API_KEY: ${{ secrets.API_KEY }}
+
+      - name: Run CallSixSkill JavaScript code
+        run: node script/CallSixSkill.js
+        env:
+           API_KEY: ${{ secrets.API_KEY }}

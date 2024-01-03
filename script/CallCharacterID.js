@@ -2,6 +2,8 @@ const fetch = require('node-fetch-commonjs');
 const path = require('path');
 const fs = require('fs').promises; //file system
 
+const saveDataToFile = require('./SaveDataToFile.js');
+
 //캐릭터 식별자
 async function characterID(world_type = 0, characterClass = ""){
 	const characterOCIDUrlString = "https://open.api.nexon.com/maplestory/v1/id";
@@ -27,31 +29,13 @@ async function characterID(world_type = 0, characterClass = ""){
 		.then(response => response.json())
 		.then(data => {
 			console.log(data.ocid);
-			saveCharacterOCIDToFile(data.ocid, world_type, characterClass);
+			saveDataToFile("CharacterOCID", data.ocid, world_type, characterClass);
 			console.log("success");
 		})
 		.catch(error => console.error(error));
 
 	}catch(error){
 		console.error(error);
-	}
-}
-
-async function saveCharacterOCIDToFile(OCID_Data, world_type, characterClass){
-	try {
-		// data 폴더 경로 지정
-		const directoryPath = path.join(__dirname, 'data');
-		// data 디렉토리가 없다면 생성
-		await fs.mkdir(directoryPath, { recursive: true });
-
-		// 파일 이름을 생성
-		const fileName = `CharacterOCID_${world_type}_${characterClass}.json`;
-		// 데이터를 JSON 형식의 문자열로 변환
-		const jsonData = JSON.stringify(OCID_Data, null, 4);
-		// 파일에 데이터를 쓰기 (파일이 존재하면 덮어쓰기)
-		await fs.writeFile(path.join(directoryPath, fileName), jsonData, 'utf-8');
-	}catch(error){
-		console.error('Error saving OCID data to file:', error);
 	}
 }
 

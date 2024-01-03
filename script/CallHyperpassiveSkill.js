@@ -4,9 +4,9 @@ const fs = require('fs').promises; //file system
 
 const saveDataToFile = require('./SaveDataToFile.js');
 
-async function linkSkill(world_type = 0, characterClass = ""){
-	const linkSkillUrlString = "https://open.api.nexon.com/maplestory/v1/character/link-skill";
-	// 현재 날짜를 얻어옴
+async function hyperpassiveSkill(world_type = 0, characterClass = ""){
+	const skillUrlString = "https://open.api.nexon.com/maplestory/v1/character/skill";
+	
 	var currentDate = new Date();
 	// API 업데이트 고려해서 2일 전 날짜로 설정
 	currentDate.setDate(currentDate.getDate() - 2);
@@ -23,10 +23,11 @@ async function linkSkill(world_type = 0, characterClass = ""){
 
 		const queryParams = new URLSearchParams({
 			ocid: characterOCIDDataArray[0],
-			date: date
+			date: date,
+			character_skill_grade: "hyperpassive"
 		});
 
-		const requestUrl = `${linkSkillUrlString}?${queryParams}`;
+		const requestUrl = `${skillUrlString}?${queryParams}`;
 
 		var answer = fetch(requestUrl, {
 			method: 'GET',
@@ -35,7 +36,7 @@ async function linkSkill(world_type = 0, characterClass = ""){
 		.then(response => response.json())
 		.then(data => {
 			console.log(data);
-			saveDataToFile("LinkSkill", data, world_type, characterClass);
+			saveDataToFile("HyperpassiveSkill", data, world_type, characterClass);
 			console.log("success");
 		})
 		.catch(error => console.error(error));
@@ -45,4 +46,4 @@ async function linkSkill(world_type = 0, characterClass = ""){
 	}
 }
 
-characterID(0,"해적-캡틴");
+hyperpassiveSkill(0,"해적-캡틴");
