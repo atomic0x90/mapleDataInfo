@@ -45,4 +45,4 @@ async function linkSkill(world_type = 0, characterClass = ""){
 	}
 }
 
-characterID(0,"해적-캡틴");
+linkSkill(0,"해적-캡틴");
