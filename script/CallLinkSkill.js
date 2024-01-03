@@ -25,6 +25,8 @@ async function linkSkill(world_type = 0, characterClass = ""){
 			ocid: characterOCIDDataArray[0],
 			date: date
 		});
+		console.log("path:"+__dirname);
+		console.log("ocid:"+characterOCIDDataArray[0]);
 
 		const requestUrl = `${linkSkillUrlString}?${queryParams}`;
 
