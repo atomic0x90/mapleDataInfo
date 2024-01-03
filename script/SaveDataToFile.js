@@ -13,8 +13,11 @@ async function saveDataToFile(saveName, data, world_type, characterClass){
 		console.log("fileName:"+fileName);
 		// 데이터를 JSON 형식의 문자열로 변환
 		const jsonData = JSON.stringify(data, null, 4);
-		// 파일에 데이터를 쓰기 (파일이 존재하면 덮어쓰기)
-		await fs.writeFile(path.join(directoryPath, fileName), jsonData, 'utf-8');
+
+		// 파일이 이미 존재하면 append 모드로 열어서 데이터를 추가
+		const existingData = await fs.readFile(path.join(directoryPath, fileName), 'utf-8').catch(() => ''); // 파일이 없는 경우 빈 문자열로 초기화
+		await fs.writeFile(path.join(directoryPath, fileName), existingData + jsonData, 'utf-8');
+
 	}catch(error){
 		console.error(`Error saving ${saveName} data to file:`, error);
 	}
