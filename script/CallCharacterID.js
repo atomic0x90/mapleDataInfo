@@ -16,24 +16,26 @@ async function characterID(world_type = 0, characterClass = ""){
 		const fileData = await fs.readFile(filePath, 'utf-8');
 		const rankingOverallDataArray = JSON.parse(fileData);
 
-		const queryParams = new URLSearchParams({
-			character_name: rankingOverallDataArray[0].character_name
-		});
+		for(var i = 0;i < 3/*rankingOverallDataArray.length*/;i++){
+			const queryParams = new URLSearchParams({
+				character_name: rankingOverallDataArray[i].character_name
+			});
 
-		const requestUrl = `${characterOCIDUrlString}?${queryParams}`;
+			const requestUrl = `${characterOCIDUrlString}?${queryParams}`;
 
-		var answer = fetch(requestUrl, {
-			method: 'GET',
-			headers: headers
-		})
-		.then(response => response.json())
-		.then(data => {
-			console.log(data.ocid);
-			saveDataToFile("CharacterOCID", data.ocid, world_type, characterClass);
-			console.log("success");
-		})
-		.catch(error => console.error(error));
+			var answer = fetch(requestUrl, {
+				method: 'GET',
+				headers: headers
+			})
+			.then(response => response.json())
+			.then(data => {
+				console.log(data.ocid);
+				saveDataToFile("CharacterOCID", data.ocid, world_type, characterClass);
+				console.log("success");
+			})
+			.catch(error => console.error(error));
 
+		}
 	}catch(error){
 		console.error(error);
 	}
