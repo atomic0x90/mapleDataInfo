@@ -21,6 +21,8 @@ async function linkSkill(world_type = 0, characterClass = ""){
 		const fileData = await fs.readFile(filePath, 'utf-8');
 		const characterOCIDDataArray = JSON.parse(fileData);
 
+		console.log("fileData:"+fileData);
+
 		const queryParams = new URLSearchParams({
 			ocid: characterOCIDDataArray[0],
 			date: date
