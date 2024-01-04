@@ -29,8 +29,8 @@ async function characterID(world_type = 0, characterClass = ""){
 			})
 			.then(response => response.json())
 			.then(data => {
-				console.log(data.ocid);
-				saveDataToFile("CharacterOCID", data.ocid, world_type, characterClass);
+				console.log(data);
+				saveDataToFile("CharacterOCID", data, world_type, characterClass);
 				console.log("success");
 			})
 			.catch(error => console.error(error));
