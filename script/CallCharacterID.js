@@ -2,7 +2,7 @@ const fetch = require('node-fetch-commonjs');
 const path = require('path');
 const fs = require('fs').promises; //file system
 
-const saveDataToFile = require('./SaveDataToFile.js');
+const saveOCIDToFile = require('./saveOCIDToFile.js');
 
 //캐릭터 식별자
 async function characterID(world_type = 0, characterClass = ""){
@@ -29,8 +29,8 @@ async function characterID(world_type = 0, characterClass = ""){
 			})
 			.then(response => response.json())
 			.then(data => {
-				console.log(data);
-				saveDataToFile("CharacterOCID", data, world_type, characterClass);
+				console.log(data.ocid);
+				saveOCIDToFile(data.ocid, world_type, characterClass);
 				console.log("success");
 			})
 			.catch(error => console.error(error));

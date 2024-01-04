@@ -3,6 +3,7 @@ const path = require('path');
 const fs = require('fs').promises; //file system
 
 const saveDataToFile = require('./SaveDataToFile.js');
+const readOCIDInFile = require('./ReadOCIDInFile.js');
 
 async function sixSkill(world_type = 0, characterClass = ""){
 	const sixSkillUrlString = "https://open.api.nexon.com/maplestory/v1/character/skill";
@@ -17,9 +18,9 @@ async function sixSkill(world_type = 0, characterClass = ""){
 
 	try {
 		// 파일 읽기
-		const filePath = path.join(__dirname, 'data', `CharacterOCID_${world_type}_${characterClass}.json`);
-		const fileData = await fs.readFile(filePath, 'utf-8');
-		const characterOCIDDataArray = JSON.parse(fileData);
+		const characterOCIDDataArray = await readOCIDInFile(world_type,characterClass);
+
+		console.log("characterOCIDDataArray:", characterOCIDDataArray);
 
 		const queryParams = new URLSearchParams({
 			ocid: characterOCIDDataArray[0],
