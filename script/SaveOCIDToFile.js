@@ -12,9 +12,16 @@ async function saveOCIDToFile(data, world_type, characterClass){
 		const fileName = `CharacterOCID_${world_type}_${characterClass}.json`;
 		console.log("fileName:"+fileName);
 
-		// 파일이 이미 존재하면 append 모드로 열어서 데이터를 추가
-		const existingData = await fs.readFile(path.join(directoryPath, fileName), 'utf-8').catch(() => ''); // 파일이 없는 경우 빈 문자열로 초기화
-		await fs.writeFile(path.join(directoryPath, fileName), existingData + '\n' + data, 'utf-8');
+		// 파일이 이미 존재하는지 확인
+		const fileExists = await fs.access(path.join(directoryPath, fileName))
+		.then(() => true)
+		.catch(() => false);
+
+		if(fileExists){
+			const existingData = await fs.readFile(path.join(directoryPath, fileName), 'utf-8').catch(() => '');
+			await fs.writeFile(path.join(directoryPath, fileName), existingData + '\n' + data, 'utf-8');
+		}
+		else{ await fs.writeFile(path.join(directoryPath, fileName), data, 'utf-8'); }
 
 	}catch(error){
 		console.error(`Error saving CharacterOCID data to file:`, error);
