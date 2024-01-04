@@ -2,7 +2,7 @@ const fetch = require('node-fetch-commonjs');
 const path = require('path');
 const fs = require('fs').promises; //file system
 
-const saveOCIDToFile = require('./saveOCIDToFile.js');
+const saveOCIDToFile = require('./SaveOCIDToFile.js');
 
 //캐릭터 식별자
 async function characterID(world_type = 0, characterClass = ""){
