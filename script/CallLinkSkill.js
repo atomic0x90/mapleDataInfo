@@ -2,7 +2,7 @@ const fetch = require('node-fetch-commonjs');
 const path = require('path');
 const fs = require('fs').promises; //file system
 
-const saveDataToFile = require('./SaveDataToFile.js');
+const saveLinkSkillToFile = require('./SaveLinkSkillToFile.js');
 const readOCIDInFile = require('./ReadOCIDInFile.js');
 
 async function linkSkill(world_type = 0, characterClass = ""){
@@ -38,7 +38,7 @@ async function linkSkill(world_type = 0, characterClass = ""){
 		.then(response => response.json())
 		.then(data => {
 			console.log(data);
-			saveDataToFile("LinkSkill", data, world_type, characterClass);
+			saveLinkSkillToFile("LinkSkill", data, world_type, characterClass);
 			console.log("success");
 		})
 		.catch(error => console.error(error));
