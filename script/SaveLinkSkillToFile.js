@@ -25,7 +25,7 @@ async function saveLinkSkillToFile(saveName, data, world_type, characterClass){
 			const jsonExistingData = JSON.stringify(existingData,null,4);
 			console.log("jsonExistingData:"+jsonExistingData);
 		}
-		else{ await fs.writeFile(path.join(directoryPath, fileName), data, 'utf-8'); }
+		else{ await fs.writeFile(path.join(directoryPath, fileName), jsonData, 'utf-8'); }
 
 	}catch(error){
 		console.error(`Error saving ${saveName} data to file:`, error);
