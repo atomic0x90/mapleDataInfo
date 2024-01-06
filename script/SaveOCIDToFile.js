@@ -18,7 +18,7 @@ async function saveOCIDToFile(data, world_type, characterClass){
 		.catch(() => false);
 
 		if(fileExists){
-			const existingData = await fs.readFile(path.join(directoryPath, fileName), 'utf-8').catch(() => '');
+			const existingData = await fs.readFile(path.join(directoryPath, fileName), 'utf-8');
 			await fs.writeFile(path.join(directoryPath, fileName), existingData + '\n' + data, 'utf-8');
 		}
 		else{ await fs.writeFile(path.join(directoryPath, fileName), data, 'utf-8'); }
