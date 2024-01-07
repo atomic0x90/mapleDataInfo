@@ -17,8 +17,6 @@ async function linkSkill(world_type = 0, characterClass = ""){
 		for(var i = 0;i < characterOCIDDataArray.length;i++){
 			const data = await responseData(characterOCIDDataArray[i]);
 
-			console.log(data);
-
 			saveResponseData = await processData(saveResponseData, data);
 		}
 
@@ -30,6 +28,8 @@ async function linkSkill(world_type = 0, characterClass = ""){
 			console.log("Skill Icon:", skill.skill_icon);
 			console.log("--------------------");
 		}
+
+		saveLinkSkillToFile("LinkSkill", saveResponseData, world_type, characterClass);
 
 	}catch(error){
 		console.error(error);

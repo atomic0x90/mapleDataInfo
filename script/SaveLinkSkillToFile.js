@@ -15,17 +15,11 @@ async function saveLinkSkillToFile(saveName, data, world_type, characterClass){
 		// 데이터를 JSON 형식의 문자열로 변환
 		const jsonData = JSON.stringify(data, null, 4);
 
-		// 파일이 이미 존재하는지 확인
-		const fileExists = await fs.access(path.join(directoryPath, fileName))
-		.then(() => true)
-		.catch(() => false);
+		await fs.writeFile(path.join(directoryPath, fileName), jsonData, 'utf-8');
 
-		if(fileExists){
-			const existingData = await fs.readFile(path.join(directoryPath, fileName), 'utf-8');
-			const jsonExistingData = JSON.stringify(existingData,null,4);
-			console.log("jsonExistingData:"+jsonExistingData);
-		}
-		else{ await fs.writeFile(path.join(directoryPath, fileName), jsonData, 'utf-8'); }
+		const fileContent = await fs.readFile(filePath, 'utf-8');
+
+		console.log(`Contents of ${fileName}:\n${fileContent}`);
 
 	}catch(error){
 		console.error(`Error saving ${saveName} data to file:`, error);
