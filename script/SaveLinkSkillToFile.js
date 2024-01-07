@@ -17,7 +17,7 @@ async function saveLinkSkillToFile(saveName, data, world_type, characterClass){
 
 		await fs.writeFile(path.join(directoryPath, fileName), jsonData, 'utf-8');
 
-		const fileContent = await fs.readFile(filePath, 'utf-8');
+		const fileContent = await fs.readFile(path.join(directoryPath, fileName), 'utf-8');
 
 		console.log(`Contents of ${fileName}:\n${fileContent}`);
 
