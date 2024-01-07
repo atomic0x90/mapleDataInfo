@@ -19,7 +19,7 @@ async function linkSkill(world_type = 0, characterClass = ""){
 
 			console.log(data);
 
-			saveResponseData = processData(saveResponseData, data);
+			saveResponseData = await processData(saveResponseData, data);
 		}
 	
 		console.log("saveResponseData:"+saveResponseData);
