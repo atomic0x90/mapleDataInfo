@@ -21,8 +21,15 @@ async function linkSkill(world_type = 0, characterClass = ""){
 
 			saveResponseData = await processData(saveResponseData, data);
 		}
-	
-		console.log("saveResponseData:"+saveResponseData);
+
+		for (const skill of saveResponseData) {
+			console.log("Skill Name:", skill.skill_name);
+			console.log("Skill Description:", skill.skill_description);
+			console.log("Skill Level:", skill.skill_level);
+			console.log("Skill Effect:", skill.skill_effect);
+			console.log("Skill Icon:", skill.skill_icon);
+			console.log("--------------------");
+		}
 
 	}catch(error){
 		console.error(error);
