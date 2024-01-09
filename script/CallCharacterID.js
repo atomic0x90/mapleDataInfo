@@ -23,18 +23,21 @@ async function characterID(world_type = 0, characterClass = ""){
 
 			const requestUrl = `${characterOCIDUrlString}?${queryParams}`;
 
-			var answer = fetch(requestUrl, {
+			var answer = await fetch(requestUrl, {
 				method: 'GET',
 				headers: headers
-			})
+			});/*
 			.then(response => response.json())
 			.then(data => {
 				console.log(data.ocid);
 				saveOCIDToFile(data.ocid, world_type, characterClass);
 				console.log("success");
 			})
-			.catch(error => console.error(error));
+			.catch(error => console.error(error));*/
 
+			const response = await answer.json();
+
+			await saveOCIDToFile(response.ocid, world_type, characterClass);
 		}
 	}catch(error){
 		console.error(error);
