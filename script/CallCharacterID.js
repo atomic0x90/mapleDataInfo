@@ -46,4 +46,8 @@ async function characterID(world_type = 0, characterClass = ""){
 	}
 }
 
+function sleep(ms) {
+	return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 characterID(0,"해적-캡틴");
