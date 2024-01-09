@@ -3,8 +3,9 @@ const path = require('path');
 const fs = require('fs').promises; //file system
 
 const saveDataToFile = require('./SaveDataToFile.js');
+const timeSleep = require('./TimeSleep.js');
 
-function rankingOverall(world_type = 0, characterClass = ""){
+async function rankingOverall(world_type = 0, characterClass = ""){
 	const rankUrlString = "https://open.api.nexon.com/maplestory/v1/ranking/overall";
 	
 	// 현재 날짜를 얻어옴
@@ -26,18 +27,16 @@ function rankingOverall(world_type = 0, characterClass = ""){
 
 	console.log(requestUrl);
 
-	var answer = fetch(requestUrl, {
+	var answer = await fetch(requestUrl, {
 		method: 'GET',
 		headers: headers
-	})
-	.then(response => response.json())
-	.then(data => {
-		//해당 직업 랭킹 1 ~ 200 데이터 저장
-		//console.log("ranking");
-		//console.log(data.ranking);
-	      saveDataToFile("RankingOverall", data.ranking, world_type, characterClass);
-	})
-	.catch(error => console.error(error));
+	});
+
+	await timeSleep(500);
+
+	const response = await answer.json();
+
+	await saveDataToFile("RankingOverall", response.ranking, world_type, characterClass);
 }
 
 rankingOverall(0,"해적-캡틴");

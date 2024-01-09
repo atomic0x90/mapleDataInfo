@@ -4,6 +4,7 @@ const fs = require('fs').promises; //file system
 
 const saveDataToFile = require('./SaveDataToFile.js');
 const readOCIDInFile = require('./ReadOCIDInFile.js');
+const timeSleep = require('./TimeSleep.js');
 
 async function hyperpassiveSkill(world_type = 0, characterClass = ""){
 	const skillUrlString = "https://open.api.nexon.com/maplestory/v1/character/skill";
@@ -30,17 +31,17 @@ async function hyperpassiveSkill(world_type = 0, characterClass = ""){
 
 		const requestUrl = `${skillUrlString}?${queryParams}`;
 
-		var answer = fetch(requestUrl, {
+		var answer = await fetch(requestUrl, {
 			method: 'GET',
 			headers: headers
-		})
-		.then(response => response.json())
-		.then(data => {
-			console.log(data);
-			saveDataToFile("HyperpassiveSkill", data, world_type, characterClass);
-			console.log("success");
-		})
-		.catch(error => console.error(error));
+		});
+
+		await timeSleep(500);
+
+		const response = await answer.json();
+
+		console.log(response);
+		saveDataToFile("HyperpassiveSkill", response, world_type, characterClass);
 
 	}catch(error){
 		console.error(error);
