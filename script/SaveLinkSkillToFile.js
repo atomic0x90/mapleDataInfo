@@ -12,10 +12,15 @@ async function saveLinkSkillToFile(saveName, data, world_type, characterClass){
 		const fileName = `${saveName}_${world_type}_${characterClass}.json`;
 		console.log("fileName:"+fileName);
 
-		// 데이터를 JSON 형식의 문자열로 변환
-		const jsonData = JSON.stringify(data, null, 4);
+		if(data == undefined){
+			await fs.writeFile(path.join(directoryPath, fileName), '', 'utf-8');
+		}
+		else{
+			// 데이터를 JSON 형식의 문자열로 변환
+			const jsonData = JSON.stringify(data, null, 4);
 
-		await fs.writeFile(path.join(directoryPath, fileName), jsonData, 'utf-8');
+			await fs.writeFile(path.join(directoryPath, fileName), jsonData, 'utf-8');
+		}
 
 		const fileContent = await fs.readFile(path.join(directoryPath, fileName), 'utf-8');
 
