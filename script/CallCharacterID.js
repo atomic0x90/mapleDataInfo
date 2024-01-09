@@ -35,6 +35,8 @@ async function characterID(world_type = 0, characterClass = ""){
 			})
 			.catch(error => console.error(error));*/
 
+			await sleep(500);
+
 			const response = await answer.json();
 
 			await saveOCIDToFile(response.ocid, world_type, characterClass);
