@@ -11,6 +11,7 @@ async function saveOCIDToFile(data, world_type, characterClass){
 		// 파일 이름을 생성
 		const fileName = `CharacterOCID_${world_type}_${characterClass}.json`;
 		console.log("fileName:"+fileName);
+		console.log("data:"+data+"\n");
 
 		// 파일이 이미 존재하는지 확인
 		const fileExists = await fs.access(path.join(directoryPath, fileName))
