@@ -19,7 +19,7 @@ async function linkSkill(world_type = 0, characterClass = ""){
 		for(var i = 0;i < characterOCIDDataArray.length;i++){
 			const data = await responseData(characterOCIDDataArray[i]);
 
-			if(data.find(skill => skill.skill_name == "엘프의 축복") || data.find(skill => skill.skill_name == "룬 퍼시스턴스") ){
+			if(data.character_link_skill.find(skill => skill.skill_name == "엘프의 축복") || data.find(skill => skill.skill_name == "룬 퍼시스턴스") ){
 				hunt += 1;
 				saveResponseHuntData = await processData(saveResponseHuntData, data);
 			}
