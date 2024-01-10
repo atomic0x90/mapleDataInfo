@@ -4,6 +4,7 @@ const fs = require('fs').promises; //file system
 
 const saveOCIDToFile = require('./SaveOCIDToFile.js');
 const timeSleep = require('./TimeSleep.js');
+const jobs = require('./Jobs.js'); // 직업
 
 //캐릭터 식별자
 async function characterID(world_type = 0, characterClass = ""){
@@ -40,4 +41,7 @@ async function characterID(world_type = 0, characterClass = ""){
 	}
 }
 
-characterID(0,"해적-캡틴");
+for(var i = 0;i < jobs.length;i++){
+	await characterID(0, jobs[i]);
+	await characterID(1, jobs[i]);
+}

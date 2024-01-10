@@ -5,6 +5,7 @@ const fs = require('fs').promises; //file system
 const saveJSONSkillDataToFile = require('./SaveJSONSkillDataToFile.js');
 const readOCIDInFile = require('./ReadOCIDInFile.js');
 const timeSleep = require('./TimeSleep.js');
+const jobs = require('./Jobs.js'); // 직업
 
 async function linkSkill(world_type = 0, characterClass = ""){
 	try {
@@ -118,4 +119,7 @@ async function processData(saveResponseData, data){
 	}
 }
 
-linkSkill(0,"해적-캡틴");
+for(var i = 0;i < jobs.length;i++){
+	await linkSkill(0, jobs[i]);
+	await linkSkill(1, jobs[i]);
+}

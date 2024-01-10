@@ -5,6 +5,7 @@ const fs = require('fs').promises; //file system
 const saveJSONSkillDataToFile = require('./SaveJSONSkillDataToFile.js');
 const readOCIDInFile = require('./ReadOCIDInFile.js');
 const timeSleep = require('./TimeSleep.js');
+const jobs = require('./Jobs.js'); // 직업
 
 async function sixSkill(world_type = 0, characterClass = ""){
 	try {
@@ -97,4 +98,7 @@ async function processData(saveResponseData, data){
 	}
 }
 
-sixSkill(0,"해적-캡틴");
+for(var i = 0;i < jobs.length;i++){
+	await sixSkill(0, jobs[i]);
+	await sixSkill(1, jobs[i]);
+}

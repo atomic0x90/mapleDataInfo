@@ -5,6 +5,7 @@ const fs = require('fs').promises; //file system
 const saveJSONSkillDataToFile = require('./SaveJSONSkillDataToFile.js');
 const readOCIDInFile = require('./ReadOCIDInFile.js');
 const timeSleep = require('./TimeSleep.js');
+const jobs = require('./Jobs.js'); // 직업
 
 async function hyperpassiveSkill(world_type = 0, characterClass = ""){
 	try {
@@ -82,4 +83,8 @@ async function processData(saveResponseData, data){
 		console.error(error);
 	}
 }
-hyperpassiveSkill(0,"해적-캡틴");
+
+for(var i = 0;i < jobs.length;i++){
+	await hyperpassiveSkill(0, jobs[i]);
+	await hyperpassiveSkill(1, jobs[i]);
+}

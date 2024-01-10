@@ -4,6 +4,7 @@ const fs = require('fs').promises; //file system
 
 const saveDataToFile = require('./SaveDataToFile.js');
 const timeSleep = require('./TimeSleep.js');
+const jobs = require('./Jobs.js'); // 직업
 
 async function rankingOverall(world_type = 0, characterClass = ""){
 	const rankUrlString = "https://open.api.nexon.com/maplestory/v1/ranking/overall";
@@ -39,4 +40,7 @@ async function rankingOverall(world_type = 0, characterClass = ""){
 	await saveDataToFile("RankingOverall", response.ranking, world_type, characterClass);
 }
 
-rankingOverall(0,"해적-캡틴");
+for(var i = 0;i < jobs.length;i++){
+	await rankingOverall(0, jobs[i]);
+	await rankingOverall(1, jobs[i]);
+}
