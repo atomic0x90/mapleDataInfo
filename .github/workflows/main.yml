@@ -42,7 +42,7 @@ jobs:
           API_KEY: ${{ secrets.API_KEY }}
 
       - name: Push ./data/* file
-         run: |
+        run: |
            git config --local user.email "hanyujun.study@gmail.com"
            git config --local user.name "atomic0x90"
            git add ./data/*
