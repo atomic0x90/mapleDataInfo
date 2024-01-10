@@ -20,8 +20,6 @@ async function linkSkill(world_type = 0, characterClass = ""){
 		for(var i = 0;i < characterOCIDDataArray.length;i++){
 			const data = await responseData(characterOCIDDataArray[i]);
 
-			console.log("data.character_link_skill:"+data.character_link_skill);
-
 			var flag = false;
 			for(var j = 0;j < data.character_link_skill.length;j++){
 				if(data.character_link_skill[j].skill_name == "엘프의 축복" || data.character_link_skill[j].skill_name == "룬 퍼시스턴스"){
@@ -38,16 +36,14 @@ async function linkSkill(world_type = 0, characterClass = ""){
 				boss += 1;
 				saveResponseBossData = await processData(saveResponseBossData, data);
 			}
-
-
 		}
 
 		console.log("hunt:"+hunt);
 		console.log("boss:"+boss);
 
-		saveLinkSkillToFile("LinkSkillHunt", saveResponseHuntData, world_type, characterClass);
+		saveLinkSkillToFile("LinkSkillHunt", saveResponseHuntData, hunt, world_type, characterClass);
 
-		saveLinkSkillToFile("LinkSkillBoss", saveResponseBossData, world_type, characterClass);
+		saveLinkSkillToFile("LinkSkillBoss", saveResponseBossData, boss, world_type, characterClass);
 
 	}catch(error){
 		console.error(error);

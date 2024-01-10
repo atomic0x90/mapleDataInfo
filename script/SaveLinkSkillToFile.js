@@ -1,7 +1,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-async function saveLinkSkillToFile(saveName, data, world_type, characterClass){
+async function saveLinkSkillToFile(saveName, data, num, world_type, characterClass){
 	try {
 		// data 폴더 경로 지정
 		const directoryPath = path.join(__dirname, 'data');
@@ -19,7 +19,8 @@ async function saveLinkSkillToFile(saveName, data, world_type, characterClass){
 			// 데이터를 JSON 형식의 문자열로 변환
 			const jsonData = JSON.stringify(data, null, 4);
 
-			await fs.writeFile(path.join(directoryPath, fileName), jsonData, 'utf-8');
+			// 해당 데이터 개수, 이후 JSON Data write, parsing caution
+			await fs.writeFile(path.join(directoryPath, fileName), num+'\n'+jsonData, 'utf-8');
 		}
 
 		const fileContent = await fs.readFile(path.join(directoryPath, fileName), 'utf-8');
