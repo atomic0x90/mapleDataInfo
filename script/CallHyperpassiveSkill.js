@@ -84,7 +84,11 @@ async function processData(saveResponseData, data){
 	}
 }
 
-for(var i = 0;i < jobs.length;i++){
-	await hyperpassiveSkill(0, jobs[i]);
-	await hyperpassiveSkill(1, jobs[i]);
+async function run(){
+	for (var i = 0; i < jobs.length; i++) {
+		await hyperpassiveSkill(0, jobs[i]);
+		await hyperpassiveSkill(1, jobs[i]);
+	}
 }
+
+run();

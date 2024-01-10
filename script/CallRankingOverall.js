@@ -40,7 +40,11 @@ async function rankingOverall(world_type = 0, characterClass = ""){
 	await saveDataToFile("RankingOverall", response.ranking, world_type, characterClass);
 }
 
-for(var i = 0;i < jobs.length;i++){
-	await rankingOverall(0, jobs[i]);
-	await rankingOverall(1, jobs[i]);
+async function run(){
+	for (var i = 0; i < jobs.length; i++) {
+		await rankingOverall(0, jobs[i]);
+		await rankingOverall(1, jobs[i]);
+	}
 }
+
+run();
