@@ -2,7 +2,7 @@ const fetch = require('node-fetch-commonjs');
 const path = require('path');
 const fs = require('fs').promises; //file system
 
-const saveJSONSkillDataToFile = require('./SaveLinkSkillToFile.js');
+const saveJSONSkillDataToFile = require('./SaveJSONSkillDataToFile.js');
 const readOCIDInFile = require('./ReadOCIDInFile.js');
 const timeSleep = require('./TimeSleep.js');
 
@@ -21,7 +21,7 @@ async function sixSkill(world_type = 0, characterClass = ""){
 			saveResponseData = await processData(saveResponseData,data);
 		}
 
-		saveJSONSkillDataToFile("SixSkill", response, characterOCIDDataArray.length, world_type, characterClass);
+		saveJSONSkillDataToFile("SixSkill", saveResponseData, characterOCIDDataArray.length, world_type, characterClass);
 	}catch(error){
 		console.error(error);
 	}
