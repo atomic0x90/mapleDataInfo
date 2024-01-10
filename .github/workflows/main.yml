@@ -34,12 +34,12 @@ jobs:
       - name: Run CallHyperpassiveSkill JavaScript code
         run: node script/CallHyperpassiveSkill.js
         env:
-           API_KEY: ${{ secrets.API_KEY }}
+          API_KEY: ${{ secrets.API_KEY }}
 
       - name: Run CallSixSkill JavaScript code
         run: node script/CallSixSkill.js
         env:
-           API_KEY: ${{ secrets.API_KEY }}
+          API_KEY: ${{ secrets.API_KEY }}
 
       - name: Push ./data/* file
          run: |
