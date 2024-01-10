@@ -32,15 +32,6 @@ async function linkSkill(world_type = 0, characterClass = ""){
 
 		}
 
-		for (const skill of saveResponseHuntData) {
-			console.log("Skill Name:", skill.skill_name);
-			console.log("Skill Description:", skill.skill_description);
-			console.log("Skill Level:", skill.skill_level);
-			console.log("Skill Effect:", skill.skill_effect);
-			console.log("Skill Icon:", skill.skill_icon);
-			console.log("--------------------");
-		}
-
 		saveLinkSkillToFile("LinkSkillHunt", saveResponseHuntData, world_type, characterClass);
 
 		saveLinkSkillToFile("LinkSkillBoss", saveResponseBossData, world_type, characterClass);
