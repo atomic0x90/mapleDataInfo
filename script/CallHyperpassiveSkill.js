@@ -2,29 +2,45 @@ const fetch = require('node-fetch-commonjs');
 const path = require('path');
 const fs = require('fs').promises; //file system
 
-const saveDataToFile = require('./SaveDataToFile.js');
+const saveJSONSkillDataToFile = require('./SaveLinkSkillToFile.js');
 const readOCIDInFile = require('./ReadOCIDInFile.js');
 const timeSleep = require('./TimeSleep.js');
 
 async function hyperpassiveSkill(world_type = 0, characterClass = ""){
-	const skillUrlString = "https://open.api.nexon.com/maplestory/v1/character/skill";
-	
-	var currentDate = new Date();
-	// API 업데이트 고려해서 2일 전 날짜로 설정
-	currentDate.setDate(currentDate.getDate() - 2);
-
-	var date = currentDate.toISOString().split('T')[0];
-
-	const headers = { "x-nxopen-api-key": process.env.API_KEY };
-
 	try {
 		// 파일 읽기
 		const characterOCIDDataArray = await readOCIDInFile(world_type,characterClass);
 
 		console.log("characterOCIDDataArray:", characterOCIDDataArray);
 
+		var saveResponseData;
+
+		for(var i = 0;i < characterOCIDDataArray.length;i++){
+			const data = await responseData(characterOCIDDataArray[i]);
+
+			saveResponseData = await processData(saveResponseData,data);
+		}
+
+		saveJSONSkillDataToFile("HyperpassiveSkill", saveResponseData, characterOCIDDataArray.length, world_type, characterClass);
+	}catch(error){
+		console.error(error);
+	}
+}
+
+async function responseData(characterOCID){
+	try{
+		const skillUrlString = "https://open.api.nexon.com/maplestory/v1/character/skill";
+
+		var currentDate = new Date();
+		// API 업데이트 고려해서 2일 전 날짜로 설정
+		currentDate.setDate(currentDate.getDate() - 2);
+
+		var date = currentDate.toISOString().split('T')[0];
+
+		const headers = { "x-nxopen-api-key": process.env.API_KEY };
+
 		const queryParams = new URLSearchParams({
-			ocid: characterOCIDDataArray[0],
+			ocid: characterOCID,
 			date: date,
 			character_skill_grade: "hyperpassive"
 		});
@@ -38,14 +54,32 @@ async function hyperpassiveSkill(world_type = 0, characterClass = ""){
 
 		await timeSleep(500);
 
-		const response = await answer.json();
-
-		console.log(response);
-		saveDataToFile("HyperpassiveSkill", response, world_type, characterClass);
-
+		return await answer.json();
 	}catch(error){
 		console.error(error);
 	}
 }
 
+async function processData(saveResponseData, data){
+	try{
+		if(saveResponseData){
+			for(var i = 0;i < data.character_skill.length;i++){
+				saveResponseData[i].skill_level += data.character_skill[i].skill_level;
+			}
+		}
+		else{
+			saveResponseData = data.character_skill.map(skill => ({
+				skill_name: skill.skill_name,
+				skill_description: skill.skill_description,
+				skill_level: skill.skill_level,
+				skill_effect: skill.skill_effect,
+				skill_icon: skill.skill_icon
+			}));
+		}
+
+		return saveResponseData;
+	}catch(error){
+		console.error(error);
+	}
+}
 hyperpassiveSkill(0,"해적-캡틴");

@@ -2,7 +2,7 @@ const fetch = require('node-fetch-commonjs');
 const path = require('path');
 const fs = require('fs').promises; //file system
 
-const saveLinkSkillToFile = require('./SaveLinkSkillToFile.js');
+const saveJSONSkillDataToFile = require('./SaveLinkSkillToFile.js');
 const readOCIDInFile = require('./ReadOCIDInFile.js');
 const timeSleep = require('./TimeSleep.js');
 
@@ -41,7 +41,7 @@ async function linkSkill(world_type = 0, characterClass = ""){
 		console.log("hunt:"+hunt);
 		console.log("boss:"+boss);
 
-		saveLinkSkillToFile("LinkSkillHunt", saveResponseHuntData, hunt, world_type, characterClass);
+		saveJSONSkillDataToFile("LinkSkillHunt", saveResponseHuntData, hunt, world_type, characterClass);
 
 		saveLinkSkillToFile("LinkSkillBoss", saveResponseBossData, boss, world_type, characterClass);
 

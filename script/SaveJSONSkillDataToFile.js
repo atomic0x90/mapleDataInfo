@@ -1,7 +1,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-async function saveLinkSkillToFile(saveName, data, num, world_type, characterClass){
+async function saveJSONSkillDataToFile(saveName, data, num, world_type, characterClass){
 	try {
 		// data 폴더 경로 지정
 		const directoryPath = path.join(__dirname, 'data');
@@ -32,4 +32,4 @@ async function saveLinkSkillToFile(saveName, data, num, world_type, characterCla
 	}
 }
 
-module.exports = saveLinkSkillToFile;
+module.exports = saveJSONSkillDataToFile;
