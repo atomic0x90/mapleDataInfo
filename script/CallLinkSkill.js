@@ -43,7 +43,7 @@ async function linkSkill(world_type = 0, characterClass = ""){
 
 		saveJSONSkillDataToFile("LinkSkillHunt", saveResponseHuntData, hunt, world_type, characterClass);
 
-		saveLinkSkillToFile("LinkSkillBoss", saveResponseBossData, boss, world_type, characterClass);
+		saveJSONSkillDataToFile("LinkSkillBoss", saveResponseBossData, boss, world_type, characterClass);
 
 	}catch(error){
 		console.error(error);
