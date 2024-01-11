@@ -42,7 +42,7 @@ jobs:
           API_KEY: ${{ secrets.API_KEY }}
 
       - name: Output current working directory
-        run: echo "Current working directory: ${{ github.workspace }}"
+        run: echo "Current working directory ${{ github.workspace }}"
 
       - name: List files in current working directory
         run: ls
