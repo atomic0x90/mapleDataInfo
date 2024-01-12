@@ -1,7 +1,7 @@
 name: Call the API
 on:
   schedule:
-    - cron: '10 17 * * *'
+    - cron: '5 2 * * *'
 jobs:
   call-api-and-save-data:
     runs-on: ubuntu-latest
@@ -51,11 +51,11 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: data
-          path: ./data/*
+          path: ./data/
 
       - name: Push data to another branch
         run: |
-          git add ./data/*
+          git add ./data/
           git commit -m "Add auto-generated file"
           export GITHUB_TOKEN=${{ secrets.TOKEN_GITHUB }}
           git push origin main
