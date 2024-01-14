@@ -23,7 +23,7 @@ async function saveJSONSkillDataToFile(saveName, data, num, world_type, characte
 			await fs.writeFile(path.join(directoryPath, fileName), num+'\n'+jsonData, 'utf-8');
 		}
 		const filePath = path.join(directoryPath, fileName);
-		console.log("File created at:", filePath);  // 추가된 부분
+		console.log("File created at:", filePath);
 
 		const fileContent = await fs.readFile(filePath, 'utf-8');
 
