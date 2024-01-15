@@ -10,7 +10,7 @@
     {
         "skill_name": "슈퍼 캐논 익스플로젼",
         "skill_description": "[마스터 레벨 : 30]\r\n거대한 캐논을 날려보내 일대를 초토화시킨다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 240,
+        "skill_level": 241,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 9000%의 데미지로 4번 공격하는 폭격이 12회 발생\n이후 최대 15명의 적을 12900%의 데미지로 5번 공격하는 대폭발이 8회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIDPEMA.png"
     },

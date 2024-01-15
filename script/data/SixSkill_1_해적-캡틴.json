@@ -3,7 +3,7 @@
     {
         "skill_name": "래피드 파이어 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n아주 빠른 속도로 탄을 발사한다. 스킬 키를 누르고 있으면 지속적으로 탄이 나가며 좌우로 이동할 수 있다. 일정 횟수 적중 시 클립이 충전되고 클립이 전부 충전되면 난사 모드로 변한다.\n지속 중 이동속도는 고정된다.\n함장의 기개로 캡틴 디그니티의 데미지가 증가한다.\n필요 스킬 : 래피드 파이어 30레벨 이상",
-        "skill_level": 232,
+        "skill_level": 236,
         "skill_effect": "공격당 MP 19 소비, 발당 549%의 데미지, 공격 5회 적중 시 클립 1개 충전, 클립이 10개만큼 충전되면 난사 모드로 변경, 지속 중 이동속도 120으로 고정\n[패시브 효과 : 캡틴 디그니티의 데미지 141%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHJDPBMA.png"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "노틸러스 어썰트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n노틸러스 어썰트를 강화한다.",
-        "skill_level": 180,
+        "skill_level": 181,
         "skill_effect": "노틸러스 어썰트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJE.png"
     },
