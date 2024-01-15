@@ -1,7 +1,7 @@
 name: Call the API
 on:
   schedule:
-    - cron: '40 04 15 * *'
+    - cron: '5 07 15 * *'
 jobs:
   call-api-and-save-data:
     runs-on: ubuntu-latest
@@ -47,17 +47,19 @@ jobs:
       - name: List files in current working directory
         run: ls
 
-      - name: Archive data directory
-        uses: actions/upload-artifact@v4
-        with:
-          name: data
-          path: ./script/data/
+#      - name: Archive data directory
+#        uses: actions/upload-artifact@v4
+#        with:
+#          name: data
+#          path: ./script/data/
 
       - name: Push data to main branch
         run: |
           export GITHUB_TOKEN=${{ secrets.TOKEN_GITHUB }}
           git config user.email "hanyujun.study@gmail.com"
           git config user.name "atomic0x90"
-          git add ./script/data/
+          git add ./script/data/HyperpassiveSkill*
+          git add ./script/data/LinkSkill*
+          git add ./script/data/SixSkill*
           git commit -m "Add auto-generated file"
           git push origin main
