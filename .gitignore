@@ -3,3 +3,7 @@
 ./script/data/CharacterOCID*
 
 ./script/data/RankingOverall*
+
+.jekyll-cache
+
+_site/
