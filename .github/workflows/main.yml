@@ -1,7 +1,7 @@
 name: Call the API
 on:
   schedule:
-    - cron: '0 19 14 * *'
+    - cron: '35 03 15 * *'
 jobs:
   call-api-and-save-data:
     runs-on: ubuntu-latest
@@ -15,9 +15,6 @@ jobs:
 
       - name: Install node-fetch-commonjs
         run: npm install node-fetch-commonjs
-
-#      - name: Run DeleteOCIDFile JavaScript code
-#        run: node script/DeleteOCIDFile.js
 
       - name: Run CallRankingOverall JavaScript code
         run: node script/CallRankingOverall.js
@@ -58,9 +55,9 @@ jobs:
 
       - name: Push data to main branch
         run: |
+          export GITHUB_TOKEN=${{ secrets.TOKEN_GITHUB }}
           git config user.email "hanyujun.study@gmail.com"
           git config user.name "atomic0x90"
-          find ./script/data/ -type f ! \( -name 'CharacterOCID*' -o -name 'RankingOverall*' \) -exec git add {} +
+          git add ./script/data/
           git commit -m "Add auto-generated file"
-          export GITHUB_TOKEN=${{ secrets.TOKEN_GITHUB }}
           git push origin main

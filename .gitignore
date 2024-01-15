@@ -1,0 +1,5 @@
+# .gitignore
+
+./script/data/CharacterOCID*
+
+./script/data/RankingOverall*
