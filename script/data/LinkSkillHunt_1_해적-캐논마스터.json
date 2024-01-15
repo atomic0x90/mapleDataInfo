@@ -1,23 +1,23 @@
-1
+2
 [
     {
         "skill_name": "엘프의 축복",
         "skill_description": "[마스터 레벨 : 2]\r\n고대 엘프의 축복으로 에우렐로 돌아갈 수 있고,  영구적으로 경험치를 추가로 받을 수 있다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "사용 시 에우렐로 귀환\n재사용 대기시간 1800초\n추가효과 : 영구적으로 경험치 15% 추가 획득",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHPBIA.png"
     },
     {
         "skill_name": "소울 컨트랙트",
         "skill_description": "[마스터 레벨 : 2]\r\n에스카다와의 계약을 통해 순간적으로 데미지를 극대화한다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "10초 동안 데미지 45% 증가\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHPAJF.png"
     },
     {
         "skill_name": "룬 퍼시스턴스",
         "skill_description": "[마스터 레벨 : 2]\r\n룬의 마력을 증폭시켜 해방된 룬의 힘 지속시간을 증가 시킨다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "해방된 룬의 힘 지속시간 50% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCKJ.png"
     }
