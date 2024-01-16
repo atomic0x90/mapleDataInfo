@@ -1,0 +1,194 @@
+.class-img-hero,
+.class-img-paladin,
+.class-img-dark-knight,
+.class-img-arch-mage-fire-poison,
+.class-img-arch-mage-ice-lightning,
+.class-img-bishop,
+.class-img-bow-master,
+.class-img-marksman,
+.class-img-pathfinder,
+.class-img-night-lord,
+.class-img-shadower,
+.class-img-dual-blade,
+.class-img-viper,
+.class-img-captain,
+.class-img-cannon-shooter,
+.class-img-soul-master,
+.class-img-flame-wizard,
+.class-img-wind-breaker,
+.class-img-night-walker,
+.class-img-striker,
+.class-img-mihile,
+.class-img-blaster,
+.class-img-battle-mage,
+.class-img-wild-hunter,
+.class-img-mechanic,
+.class-img-xenon,
+.class-img-demon-slayer,
+.class-img-demon-avenger,
+.class-img-mercedes,
+.class-img-aran,
+.class-img-phantom,
+.class-img-luminous,
+.class-img-evan,
+.class-img-eunwol,
+.class-img-kaiser,
+.class-img-kaine,
+.class-img-cadena,
+.class-img-angelic-buster,
+.class-img-adele,
+.class-img-illium,
+.class-img-khali,
+.class-img-ark,
+.class-img-lara,
+.class-img-hoyoung,
+.class-img-zero,
+.class-img-kinesis{
+	width: 78px;
+	height: 64px;
+	color: #000;
+	text-align: left;
+	padding: 0px;
+}
+
+.class-img-hero{
+	background: url('/assets/img/히어로.jpg') top/cover;
+}
+.class-img-paladin{
+	background: url('/assets/img/팔라딘.jpg') top/cover;
+}
+.class-img-dark-knight{
+	background: url('/assets/img/다크나이트.jpg') top/cover;
+}
+.class-img-arch-mage-fire-poison{
+	background: url('/assets/img/불독.jpg') top/cover;
+}
+.class-img-arch-mage-ice-lightning{
+	background: url('/assets/img/썬콜.jpg') top/cover;
+}
+.class-img-bishop{
+	background: url('/assets/img/비숍.jpg') top/cover;
+}
+.class-img-bow-master{
+	background: url('/assets/img/보우마스터.jpg') top/cover;
+}
+.class-img-marksman{
+	background: url('/assets/img/신궁.jpg') top/cover;
+}
+.class-img-pathfinder{
+	background: url('/assets/img/패스파인더.jpg') top/cover;
+}
+.class-img-night-lord{
+	background: url('/assets/img/나이트로드.jpg') top/cover;
+}
+.class-img-shadower{
+	background: url('/assets/img/섀도어.jpg') top/cover;
+}
+.class-img-dual-blade{
+	background: url('/assets/img/듀얼블레이드.jpg') top/cover;
+}
+.class-img-viper{
+	background: url('/assets/img/바이퍼.jpg') top/cover;
+}
+.class-img-captain{
+	background: url('/assets/img/캡틴.jpg') top/cover;
+}
+.class-img-cannon-shooter{
+	background: url('/assets/img/캐논슈터.jpg') top/cover;
+}
+.class-img-soul-master{
+	background: url('/assets/img/소울마스터.jpg') top/cover;
+}
+.class-img-flame-wizard{
+	background: url('/assets/img/플레임위자드.jpg') top/cover;
+}
+.class-img-wind-breaker{
+	background: url('/assets/img/윈드브레이커.jpg') top/cover;
+}
+.class-img-night-walker{
+	background: url('/assets/img/나이트워커.jpg') top/cover;
+}
+.class-img-striker{
+	background: url('/assets/img/스트라이커.jpg') top/cover;
+}
+.class-img-mihile{
+	background: url('/assets/img/미하일.jpg') top/cover;
+}
+.class-img-blaster{
+	background: url('/assets/img/블래스터.jpg') top/cover;
+}
+.class-img-battle-mage{
+	background: url('/assets/img/배틀메이지.jpg') top/cover;
+}
+.class-img-wild-hunter{
+	background: url('/assets/img/와일드헌터.jpg') top/cover;
+}
+.class-img-mechanic{
+	background: url('/assets/img/메카닉.jpg') top/cover;
+}
+.class-img-xenon{
+	background: url('/assets/img/제논.jpg') top/cover;
+}
+.class-img-demon-slayer{
+	background: url('/assets/img/데몬슬레이어.jpg') top/cover;
+}
+.class-img-demon-avenger{
+	background: url('/assets/img/데몬어벤져.jpg') top/cover;
+}
+.class-img-mercedes{
+	background: url('/assets/img/메르세데스.jpg') top/cover;
+}
+.class-img-aran{
+	background: url('/assets/img/아란.jpg') top/cover;
+}
+.class-img-phantom{
+	background: url('/assets/img/팬텀.jpg') top/cover;
+}
+.class-img-luminous{
+	background: url('/assets/img/루미너스.jpg') top/cover;
+}
+.class-img-evan{
+	background: url('/assets/img/에반.jpg') top/cover;
+}
+.class-img-eunwol{
+	background: url('/assets/img/은월.jpg') top/cover;
+}
+.class-img-kaiser{
+	background: url('/assets/img/카이저.jpg') top/cover;
+}
+.class-img-kaine{
+	background: url('/assets/img/카인.jpg') top/cover;
+}
+.class-img-cadena{
+	background: url('/assets/img/카데나.jpg') top/cover;
+}
+.class-img-angelic-buster{
+	background: url('/assets/img/엔젤릭버스터.jpg') top/cover;
+}
+.class-img-adele{
+	background: url('/assets/img/아델.jpg') top/cover;
+}
+.class-img-illium{
+	background: url('/assets/img/일리움.jpg') top/cover;
+}
+.class-img-khali{
+	background: url('/assets/img/칼리.jpg') top/cover;
+}
+.class-img-ark{
+	background: url('/assets/img/아크.jpg') top/cover;
+}
+.class-img-lara{
+	background: url('/assets/img/라라.jpg') top/cover;
+}
+.class-img-hoyoung{
+	background: url('/assets/img/호영.jpg') top/cover;
+}
+.class-img-zero{
+	background: url('/assets/img/제로.jpg') top/cover;
+}
+.class-img-kinesis{
+	background: url('/assets/img/키네시스.jpg') top/cover;
+}
+
+
+
