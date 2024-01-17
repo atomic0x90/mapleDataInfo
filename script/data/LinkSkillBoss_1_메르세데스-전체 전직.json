@@ -1,0 +1,24 @@
+1
+[
+    {
+        "skill_name": "스피릿 오브 프리덤",
+        "skill_description": "[마스터 레벨 : 8]\r\n자유를 염원하는 레지스탕스가 가진 혼의 힘으로 부활 시 일정 시간 동안 피해를 받지 않는다.",
+        "skill_level": 1,
+        "skill_effect": "부활 시 8초 동안 피해를 받지 않음, 맵 이동 시 해제",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCOJ.png"
+    },
+    {
+        "skill_name": "인빈서블 빌리프",
+        "skill_description": "[마스터 레벨 : 6]\r\n꺾이지 않는 신념을 가져 위기 상황일 때 HP를 대량으로 회복한다.\n마을 및 특정한 회복 불가 상황에서는 발동되지 않고 재사용 대기시간 초기화, 버프 지속시간 증가, 회복 스킬 효율 증가 및 감소의 효과를 받지 않는다.\n월드 내 서로 다른 모험가 전사 직업군이 존재할 경우 한 캐릭터에 최대 3번 중복해서 링크 스킬 지급이 가능하다.",
+        "skill_level": 1,
+        "skill_effect": "현재 HP가 최대 HP의 15% 이하가 되었을 때 자동 발동되어 3초 동안 1초 마다 최대 HP의 35% 회복\n재발동 대기시간 210초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGJI.png"
+    },
+    {
+        "skill_name": "노블레스",
+        "skill_description": "[마스터 레벨 : 2]\r\n강력한 상대로부터 누군가를 지켜야 할 때 더 큰 힘을 발휘하는 숭고함을 가진다.",
+        "skill_level": 1,
+        "skill_effect": "보스 몬스터 공격 시 데미지 4% 증가\n같은 맵에 있는 자신을 포함한 파티원 1명 당 데미지 2% 증가, 최대 8%까지 증가\n파티를 하지 않았을 때는 자신만 파티한 것으로 취급",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMJJH.png"
+    }
+]
