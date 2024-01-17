@@ -1,7 +1,7 @@
 name: Call the API
 on:
   schedule:
-    - cron: '5 08 15 * *'
+    - cron: '40 07 * * *'
 jobs:
   call-api-and-save-data:
     runs-on: ubuntu-latest
@@ -46,12 +46,6 @@ jobs:
 
       - name: List files in current working directory
         run: ls
-
-#      - name: Archive data directory
-#        uses: actions/upload-artifact@v4
-#        with:
-#          name: data
-#          path: ./script/data/
 
       - name: Push data to main branch
         run: |
