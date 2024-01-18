@@ -3,6 +3,8 @@ const path = require('path');
 
 async function saveOCIDToFile(data, world_type, characterClass){
 	try {
+		if(data == undefined) return;
+
 		// data 폴더 경로 지정
 		const directoryPath = path.join(__dirname, 'data');
 		// data 디렉토리가 없다면 생성
