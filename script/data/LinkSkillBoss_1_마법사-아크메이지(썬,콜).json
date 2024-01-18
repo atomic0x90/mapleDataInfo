@@ -1,0 +1,10 @@
+1
+[
+    {
+        "skill_name": "스피릿 오브 프리덤",
+        "skill_description": "[마스터 레벨 : 8]\r\n자유를 염원하는 레지스탕스가 가진 혼의 힘으로 부활 시 일정 시간 동안 피해를 받지 않는다.",
+        "skill_level": 1,
+        "skill_effect": "부활 시 8초 동안 피해를 받지 않음, 맵 이동 시 해제",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCOJ.png"
+    }
+]

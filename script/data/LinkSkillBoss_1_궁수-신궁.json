@@ -1,0 +1,24 @@
+1
+[
+    {
+        "skill_name": "와일드 레이지",
+        "skill_description": "[마스터 레벨 : 2]\r\n분노로 인해 데미지가 증가한다.",
+        "skill_level": 1,
+        "skill_effect": "데미지 10% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJA.png"
+    },
+    {
+        "skill_name": "스피릿 오브 프리덤",
+        "skill_description": "[마스터 레벨 : 8]\r\n자유를 염원하는 레지스탕스가 가진 혼의 힘으로 부활 시 일정 시간 동안 피해를 받지 않는다.",
+        "skill_level": 1,
+        "skill_effect": "부활 시 2초 동안 피해를 받지 않음, 맵 이동 시 해제",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCOJ.png"
+    },
+    {
+        "skill_name": "노블레스",
+        "skill_description": "[마스터 레벨 : 2]\r\n강력한 상대로부터 누군가를 지켜야 할 때 더 큰 힘을 발휘하는 숭고함을 가진다.",
+        "skill_level": 1,
+        "skill_effect": "보스 몬스터 공격 시 데미지 4% 증가\n같은 맵에 있는 자신을 포함한 파티원 1명 당 데미지 2% 증가, 최대 8%까지 증가\n파티를 하지 않았을 때는 자신만 파티한 것으로 취급",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMJJH.png"
+    }
+]

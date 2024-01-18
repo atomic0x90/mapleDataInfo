@@ -11,7 +11,7 @@
         "skill_name": "데드 스페이스",
         "skill_description": "[마스터 레벨 : 30]\r\n어둠의 기운을 응집시킨 창을 던져 주변의 모든 생명을 거두어 간다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
         "skill_level": 60,
-        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 3600%의 데미지로 6번 공격하는 참격이 2회 발생, 이후 최대 15명의 적을 6000%의 데미지로 14번 공격하는 어둠의 기운 10회 방출\n재사용 대기시간 360초",
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1200%의 데미지로 6번 공격하는 참격이 6회 발생, 이후 최대 15명의 적을 1035%의 데미지로 14번 공격하는 어둠의 기운 58회 방출\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIDPEMA.png"
     },
     {
@@ -52,8 +52,8 @@
     {
         "skill_name": "다크니스 오라 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크니스 오라를 강화한다.",
-        "skill_level": 30,
-        "skill_effect": "다크니스 오라의 최종 데미지 46% 증가",
+        "skill_level": 32,
+        "skill_effect": "다크니스 오라의 최종 데미지 48% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBNB.png"
     },
     {
