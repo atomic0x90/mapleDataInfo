@@ -45,6 +45,7 @@ async function run(){
 	for (var i = 0; i < jobs.length; i++) {
 		await characterID(0, jobs[i]);
 		await characterID(1, jobs[i]);
+		await timeSleep(1000);
 	}
 }
 
