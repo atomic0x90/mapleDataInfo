@@ -29,6 +29,13 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKI.png"
     },
     {
+        "skill_name": "무아",
+        "skill_description": "[마스터 레벨 : 2]\r\n자신을 잊어버릴 정도로 전투에 집중한다.\n일정 시간 동안 전투 상태가 지속되면 데미지가 증가한다.",
+        "skill_level": 2,
+        "skill_effect": "전투 상태가 5초 지속되면 발동되며 최대 5회 중첩가능, 지속시간 5초\n발동 시 데미지 1% 증가, 중첩당 데미지 2% 추가 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOENE.png"
+    },
+    {
         "skill_name": "자신감",
         "skill_description": "[마스터 레벨 : 2]\r\n강한 적에게도 위축되지 않는 자신감으로 적의 방어율을 일정 부분 무시하고 체력이 가득 찬 몬스터를 공격할 때 더 큰 피해를 입힌다.",
         "skill_level": 2,
@@ -83,12 +90,5 @@
         "skill_level": 1,
         "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
-    },
-    {
-        "skill_name": "무아",
-        "skill_description": "[마스터 레벨 : 2]\r\n자신을 잊어버릴 정도로 전투에 집중한다.\n일정 시간 동안 전투 상태가 지속되면 데미지가 증가한다.",
-        "skill_level": 1,
-        "skill_effect": "전투 상태가 5초 지속되면 발동되며 최대 5회 중첩가능, 지속시간 5초\n발동 시 데미지 1% 증가, 중첩당 데미지 2% 추가 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOENE.png"
     }
 ]
