@@ -53,7 +53,7 @@ async function responseData(characterOCID){
 			headers: headers
 		});
 
-		await timeSleep(500);
+		await timeSleep(1000);
 
 		return await answer.json();
 	}catch(error){
