@@ -1,0 +1,17 @@
+1
+[
+    {
+        "skill_name": "무아",
+        "skill_description": "[마스터 레벨 : 2]\r\n자신을 잊어버릴 정도로 전투에 집중한다.\n일정 시간 동안 전투 상태가 지속되면 데미지가 증가한다.",
+        "skill_level": 1,
+        "skill_effect": "전투 상태가 5초 지속되면 발동되며 최대 5회 중첩가능, 지속시간 5초\n발동 시 데미지 1% 증가, 중첩당 데미지 2% 추가 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOENE.png"
+    },
+    {
+        "skill_name": "인빈서블 빌리프",
+        "skill_description": "[마스터 레벨 : 6]\r\n꺾이지 않는 신념을 가져 위기 상황일 때 HP를 대량으로 회복한다.\n마을 및 특정한 회복 불가 상황에서는 발동되지 않고 재사용 대기시간 초기화, 버프 지속시간 증가, 회복 스킬 효율 증가 및 감소의 효과를 받지 않는다.\n월드 내 서로 다른 모험가 전사 직업군이 존재할 경우 한 캐릭터에 최대 3번 중복해서 링크 스킬 지급이 가능하다.",
+        "skill_level": 1,
+        "skill_effect": "현재 HP가 최대 HP의 15% 이하가 되었을 때 자동 발동되어 3초 동안 1초 마다 최대 HP의 35% 회복\n재발동 대기시간 210초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGJI.png"
+    }
+]

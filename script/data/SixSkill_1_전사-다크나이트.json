@@ -31,7 +31,7 @@
     {
         "skill_name": "다크 스피어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크 스피어를 강화한다.",
-        "skill_level": 59,
+        "skill_level": 60,
         "skill_effect": "다크 스피어의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBMI.png"
     },
@@ -52,8 +52,8 @@
     {
         "skill_name": "다크니스 오라 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크니스 오라를 강화한다.",
-        "skill_level": 32,
-        "skill_effect": "다크니스 오라의 최종 데미지 48% 증가",
+        "skill_level": 33,
+        "skill_effect": "다크니스 오라의 최종 데미지 49% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBNB.png"
     },
     {

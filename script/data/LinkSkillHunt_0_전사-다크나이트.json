@@ -17,7 +17,7 @@
     {
         "skill_name": "하이브리드 로직",
         "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
-        "skill_level": 2,
+        "skill_level": 1,
         "skill_effect": "모든 능력치 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
     },

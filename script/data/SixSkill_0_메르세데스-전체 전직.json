@@ -52,8 +52,8 @@
     {
         "skill_name": "로얄 나이츠 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n로얄 나이츠를 강화한다.",
-        "skill_level": 53,
-        "skill_effect": "로얄 나이츠의 최종 데미지 43% 증가",
+        "skill_level": 54,
+        "skill_effect": "로얄 나이츠의 최종 데미지 44% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFB.png"
     },
     {

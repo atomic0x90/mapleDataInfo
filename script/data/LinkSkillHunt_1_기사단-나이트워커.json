@@ -36,13 +36,6 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOAEI.png"
     },
     {
-        "skill_name": "콤보킬 어드밴티지",
-        "skill_description": "[마스터 레벨 : 2]\r\n폴암의 정령 마하의 신비한 힘을 통해 콤보 플레이에 대한 축복을 받는다.",
-        "skill_level": 1,
-        "skill_effect": "영구적으로 콤보킬 구슬 경험치 획득량 650% 추가 획득",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCLA.png"
-    },
-    {
         "skill_name": "룬 퍼시스턴스",
         "skill_description": "[마스터 레벨 : 2]\r\n룬의 마력을 증폭시켜 해방된 룬의 힘 지속시간을 증가 시킨다.",
         "skill_level": 1,
@@ -71,17 +64,24 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOHMJ.png"
     },
     {
-        "skill_name": "어드벤쳐러 큐리어스",
-        "skill_description": "[마스터 레벨 : 6]\r\n특유의 호기심을 발휘해 몬스터 컬렉션 등록 확률과 크리티컬 확률을 증가시킨다.\n몬스터 컬렉션 등록 확률은 기존 확률에 곱적용으로 적용된다.",
+        "skill_name": "시프 커닝",
+        "skill_description": "[마스터 레벨 : 6]\r\n도적 특유의 교활함을 발휘해 적을 약화시키면 데미지가 증가한다.\n재사용 대기시간 초기화, 버프 지속시간 증가의 효과를 받지 않는다.",
         "skill_level": 1,
-        "skill_effect": "몬스터 컬렉션 등록 확률 35%, 크리티컬 확률 10% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGKG.png"
+        "skill_effect": "적에게 상태 이상을 적용시키면 10초 동안 데미지 18% 증가\n재발동 대기시간 20초 ",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGLA.png"
     },
     {
-        "skill_name": "이네이트 기프트",
-        "skill_description": "[마스터 레벨 : 2]\r\n사막의 축복을 받아 공격 시 짧은 시간 동안 HP와 MP를 회복한다. 추가로 영구적으로 데미지가 증가한다. 이네이트 기프트는 재사용 대기시간 초기화, 재사용 대기시간 감소, 버프 지속시간 증가의 효과를 받지 않는다.",
+        "skill_name": "프라이어 프리퍼레이션",
+        "skill_description": "[마스터 레벨 : 2]\r\n적을 확실하게 처리하기 위한 사전 준비를 한다.",
         "skill_level": 1,
-        "skill_effect": "데미지 5% 증가\n공격 시 100% 확률로 5초 동안 매초 최대 HP/MP의 2% 회복\n재발동 대기시간 30초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNDOE.png"
+        "skill_effect": "적 8명 처치, 혹은 보스 몬스터에게 5번 공격 적중 시 사전 준비 1번 완료, 사전 준비를 5번 마치면 20초 동안 데미지 17% 증가\n재발동 대기시간 40초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNBNF.png"
+    },
+    {
+        "skill_name": "자연의 벗",
+        "skill_description": "[마스터 레벨 : 2]\r\n주변의 자연과 친구가 되어 도움을 받는다. 신비한 자연의 힘을 견디지 못하는 약한 몬스터에게는 더 큰 효과가 있다.",
+        "skill_level": 1,
+        "skill_effect": "데미지 5% 증가\n일반 몬스터 20명 처치 시 자연의 도움 발동, 자연의 도움 발동 시 30초 동안 일반 몬스터 공격 시 데미지 11% 증가\n재발동 대기시간 30초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNBJI.png"
     }
 ]

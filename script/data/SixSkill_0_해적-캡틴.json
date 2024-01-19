@@ -59,8 +59,8 @@
     {
         "skill_name": "데드아이 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데드아이를 강화한다.",
-        "skill_level": 8,
-        "skill_effect": "데드아이의 최종 데미지 18% 증가",
+        "skill_level": 9,
+        "skill_effect": "데드아이의 최종 데미지 19% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJD.png"
     }
 ]

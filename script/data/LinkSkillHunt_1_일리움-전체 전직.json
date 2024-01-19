@@ -90,12 +90,5 @@
         "skill_level": 1,
         "skill_effect": "힘 70, 민첩 70, 지력 70, 운 70 , 최대 HP 1225, 최대 MP 1225 증가, 피격 데미지 15% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGLE.png"
-    },
-    {
-        "skill_name": "데들리 인스팅트",
-        "skill_description": "[마스터 레벨 : 2]\r\n뛰어난 통찰력을 통해 적의 치명적인 약점을 찾아내는 본성을 가지고 있다.",
-        "skill_level": 1,
-        "skill_effect": "크리티컬 확률 15% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMC.png"
     }
 ]
