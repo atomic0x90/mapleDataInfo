@@ -12,60 +12,86 @@
 <body>
 	<!-- main -->
 	<div id="main">
-		<!-- class-box -->
-		<div class="class-box">
-			<!-- classes -->
-			<div class="classes">
-				<details>
-					<summary class="class-adventurer">모험가</summary>
-					<span>
-						{% include html/adventurerDetailList.html %}
-					</span>
-				</details>
-				<details>
-					<summary class="class-cygnus">시그너스</summary>
-					<span>
-						{% include html/cygnusDetailList.html %}
-					</span>
-				</details>
-				<details>
-					<summary class="class-resistance">레지스탕스</summary>
-					<span>
-						{% include html/resistanceDetailList.html %}
-					</span>
-				</details>
-				<details>
-					<summary class="class-heros">히어로</summary>
-					<span>
-						{% include html/herosDetailList.html %}
-					</span>
-				</details>
-				<details>
-					<summary class="class-nova">노바</summary>
-					<span>
-						{% include html/novaDetailList.html %}
-					</span>
-				</details>
-				<details>
-					<summary class="class-ref">레프</summary>
-					<span>
-						{% include html/refDetailList.html %}
-					</span>
-				</details>
-				<details>
-					<summary class="class-anima">아니마</summary>
-					<span>
-						{% include html/animaDetailList.html %}
-					</span>
-				</details>
-				<details>
-					<summary class="class-etc">키네/제로</summary>
-					<span>
-						{% include html/etcDetailList.html %}
-					</span>
-				</details>
-			</div><!-- classes end -->
-		</div><!-- class-box end-->
+		<div id="main-left"></div>
+		<div id="main-center">
+			<div id="main-top"></div>
+			<!-- class-box -->
+			<div class="class-box">
+				<!-- classes -->
+				<div class="classes">
+					<div class="class-adventurer" onclick="classToggleContent('adventurer')">
+						<span>모험가</span>
+					</div>
+					<div class="class-cygnus" onclick="classToggleContent('cygnus')">
+						<span>시그너스</span>
+					</div>
+					<div class="class-resistance" onclick="classToggleContent('resistance')">
+						<span>레지스탕스</span>
+					</div>
+					<div class="class-heros" onclick="classToggleContent('heros')">
+						<span>영웅</span>
+					</div>
+					<div class="class-nova" onclick="classToggleContent('nova')">
+						<span>노바</span>
+					</div>
+					<div class="class-ref" onclick="classToggleContent('ref')">
+						<span>레프</span>
+					</div>
+					<div class="class-anima" onclick="classToggleContent('anima')">
+						<span>아니마</span>
+					</div>
+					<div class="class-etc" onclick="classToggleContent('etc')">
+						<span>키네/제로</span>
+					</div>
+				</div><!-- classes end -->
+				{% include html/adventurerDetailList.html %}
+				{% include html/cygnusDetailList.html %}
+				{% include html/resistanceDetailList.html %}
+				{% include html/herosDetailList.html %}
+				{% include html/novaDetailList.html %}
+				{% include html/refDetailList.html %}
+				{% include html/animaDetailList.html %}
+				{% include html/etcDetailList.html %}
+			</div><!-- class-box end-->
+			<!-- what-box -->
+			<div class="what-box">
+				<div id="what-link-skill" onclick="whatToggleContent('linkSkill')">
+					<span>링크 스킬</span>
+				</div>
+				<div id="what-hyper-passive-skill" onclick="whatToggleContent('hyperpassiveSkill')">
+					<span>하이퍼 패시브 스킬</span>
+				</div>
+				<div id="what-six-skill" onclick="whatToggleContent('sixSkill')">
+					<span>6차 스킬</span>
+				</div>
+			</div><!-- what-box end -->
+			<!-- result-box -->
+			<div class="result-box">
+				<div id="result-link-skill" style="display: none;">
+					<div id="hunt-box">
+						<div id="hunt-box-0"><span>일반</span></div>
+						<div id="hunt-box-1"><span>리부트</span></div>
+					</div>
+					<div id="boss-box">
+						<div id="boss-box-0"><span>일반</span></div>
+						<div id="boss-box-1"><span>리부트</span></div>
+					</div>
+				</div>
+				<div id="result-hyper-passive-skill" style="display: none;">
+					<div id="hyper-box">
+						<div id="hyper-box-0"></div>
+						<div id="hyper-box-1"></div>
+					</div>
+				</div>
+				<div id="result-six-skill" style="display: none;">
+					<div id="six-box">
+						<div id="six-box-0"></div>
+						<div id="six-box-1"></div>
+					</div>
+				</div>
+			</div><!-- result-box end -->
+		</div>
+		<div id="main-right"></div>
 	</div><!-- main end -->
 	
 	<!-- footer -->
@@ -74,6 +100,16 @@
 		<p>
 		<span>Copyright © 2024 atomic0x90</span>
 	</div><!-- footer end -->
+
+<script>
+{% include js/classToggleContent.js %}
+{% include js/handleClassImgClick.js %}
+{% include js/whatToggleContent.js %}
+{% include js/classChangeKorean.js %}
+{% include js/readResultFile.js %}
+{% include js/resultDisplayState.js %}
+{% include js/resultDataProcess.js %}
+</script>
 
 </body>
 

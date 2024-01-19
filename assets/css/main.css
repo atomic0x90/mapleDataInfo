@@ -1,3 +1,58 @@
+:root{
+	--orange: #ff9000;
+	--gray: #333;
+	--regray: #ccc;
+}
+
+.class-img-hero:hover,
+.class-img-paladin:hover,
+.class-img-dark-knight:hover,
+.class-img-arch-mage-fire-poison:hover,
+.class-img-arch-mage-ice-lightning:hover,
+.class-img-bishop:hover,
+.class-img-bow-master:hover,
+.class-img-marksman:hover,
+.class-img-pathfinder:hover,
+.class-img-night-lord:hover,
+.class-img-shadower:hover,
+.class-img-dual-blade:hover,
+.class-img-viper:hover,
+.class-img-captain:hover,
+.class-img-cannon-shooter:hover,
+.class-img-soul-master:hover,
+.class-img-flame-wizard:hover,
+.class-img-wind-breaker:hover,
+.class-img-night-walker:hover,
+.class-img-striker:hover,
+.class-img-mihile:hover,
+.class-img-blaster:hover,
+.class-img-battle-mage:hover,
+.class-img-wild-hunter:hover,
+.class-img-mechanic:hover,
+.class-img-xenon:hover,
+.class-img-demon-slayer:hover,
+.class-img-demon-avenger:hover,
+.class-img-mercedes:hover,
+.class-img-aran:hover,
+.class-img-phantom:hover,
+.class-img-luminous:hover,
+.class-img-evan:hover,
+.class-img-eunwol:hover,
+.class-img-kaiser:hover,
+.class-img-kaine:hover,
+.class-img-cadena:hover,
+.class-img-angelic-buster:hover,
+.class-img-adele:hover,
+.class-img-illium:hover,
+.class-img-khali:hover,
+.class-img-ark:hover,
+.class-img-lara:hover,
+.class-img-hoyoung:hover,
+.class-img-zero:hover,
+.class-img-kinesis:hover{
+	background-color: var(--orange);
+}
+
 .class-img-hero,
 .class-img-paladin,
 .class-img-dark-knight,
@@ -44,151 +99,557 @@
 .class-img-hoyoung,
 .class-img-zero,
 .class-img-kinesis{
-	width: 78px;
-	height: 64px;
-	color: #000;
+	min-width: 150px;
+	min-height: 100px;
+	max-width: 400px;
 	text-align: left;
 	padding: 0px;
+	transition: background-color 0.3s ease;
 }
 
 .class-img-hero{
-	background: url('/assets/img/히어로.jpg') top/cover;
+	background: url('/assets/img/히어로.png') no-repeat;
+	background-position: -150px -170px;
 }
 .class-img-paladin{
-	background: url('/assets/img/팔라딘.jpg') top/cover;
+	background: url('/assets/img/팔라딘.png') no-repeat;
+	background-position: -150px -155px;
 }
 .class-img-dark-knight{
-	background: url('/assets/img/다크나이트.jpg') top/cover;
+	background: url('/assets/img/다크나이트.png') no-repeat;
+	background-position: -150px -160px;
 }
 .class-img-arch-mage-fire-poison{
-	background: url('/assets/img/불독.jpg') top/cover;
+	background: url('/assets/img/불독.png') no-repeat;
+	background-position: -150px -150px;
 }
 .class-img-arch-mage-ice-lightning{
-	background: url('/assets/img/썬콜.jpg') top/cover;
+	background: url('/assets/img/썬콜.png') no-repeat;
+	background-position: -150px -185px;
 }
 .class-img-bishop{
-	background: url('/assets/img/비숍.jpg') top/cover;
+	background: url('/assets/img/비숍.png') no-repeat;
+	background-position: -150px -190px;
 }
 .class-img-bow-master{
-	background: url('/assets/img/보우마스터.jpg') top/cover;
+	background: url('/assets/img/보우마스터.png') no-repeat;
+	background-position: -150px -145px;
 }
 .class-img-marksman{
-	background: url('/assets/img/신궁.jpg') top/cover;
+	background: url('/assets/img/신궁.png') no-repeat;
+	background-position: -150px -250px;
 }
 .class-img-pathfinder{
-	background: url('/assets/img/패스파인더.jpg') top/cover;
+	background: url('/assets/img/패스파인더.png') no-repeat;
+	background-position: -150px -190px;
 }
 .class-img-night-lord{
-	background: url('/assets/img/나이트로드.jpg') top/cover;
+	background: url('/assets/img/나이트로드.png') no-repeat;
+	background-position: -150px -240px;
 }
 .class-img-shadower{
-	background: url('/assets/img/섀도어.jpg') top/cover;
+	background: url('/assets/img/섀도어.png') no-repeat;
+	background-position: -150px -150px;
 }
 .class-img-dual-blade{
-	background: url('/assets/img/듀얼블레이드.jpg') top/cover;
+	background: url('/assets/img/듀얼블레이더.png') no-repeat;
+	background-position: -150px -250px;
 }
 .class-img-viper{
-	background: url('/assets/img/바이퍼.jpg') top/cover;
+	background: url('/assets/img/바이퍼.png') no-repeat;
+	background-position: -150px -300px;
 }
 .class-img-captain{
-	background: url('/assets/img/캡틴.jpg') top/cover;
+	background: url('/assets/img/캡틴.png') no-repeat;
+	background-position: -150px -240px;
 }
 .class-img-cannon-shooter{
-	background: url('/assets/img/캐논슈터.jpg') top/cover;
+	background: url('/assets/img/캐논슈터.png') no-repeat;
+	background-position: -150px -210px;
 }
 .class-img-soul-master{
-	background: url('/assets/img/소울마스터.jpg') top/cover;
+	background: url('/assets/img/소울마스터.png') no-repeat;
+	background-position: -150px -165px;
 }
 .class-img-flame-wizard{
-	background: url('/assets/img/플레임위자드.jpg') top/cover;
+	background: url('/assets/img/플레임위자드.png') no-repeat;
+	background-position: -150px -160px;
 }
 .class-img-wind-breaker{
-	background: url('/assets/img/윈드브레이커.jpg') top/cover;
+	background: url('/assets/img/윈드브레이커.png') no-repeat;
+	background-position: -150px -180px;
 }
 .class-img-night-walker{
-	background: url('/assets/img/나이트워커.jpg') top/cover;
+	background: url('/assets/img/나이트워커.png') no-repeat;
+	background-position: -150px -170px;
 }
 .class-img-striker{
-	background: url('/assets/img/스트라이커.jpg') top/cover;
+	background: url('/assets/img/스트라이커.png') no-repeat;
+	background-position: -100px -220px;
 }
 .class-img-mihile{
-	background: url('/assets/img/미하일.jpg') top/cover;
+	background: url('/assets/img/미하일.png') no-repeat;
+	background-position: -150px -220px;
 }
 .class-img-blaster{
-	background: url('/assets/img/블래스터.jpg') top/cover;
+	background: url('/assets/img/블래스터.png') no-repeat;
+	background-position: -150px -180px;
 }
 .class-img-battle-mage{
-	background: url('/assets/img/배틀메이지.jpg') top/cover;
+	background: url('/assets/img/배틀메이지.png') no-repeat;
+	background-position: -150px -255px;
 }
 .class-img-wild-hunter{
-	background: url('/assets/img/와일드헌터.jpg') top/cover;
+	background: url('/assets/img/와일드헌터.png') no-repeat;
+	background-position: -150px -100px;
 }
 .class-img-mechanic{
-	background: url('/assets/img/메카닉.jpg') top/cover;
+	background: url('/assets/img/메카닉.png') no-repeat;
+	background-position: -150px -150px;
 }
 .class-img-xenon{
-	background: url('/assets/img/제논.jpg') top/cover;
+	background: url('/assets/img/제논.png') no-repeat;
+	background-position: -150px -230px;
 }
 .class-img-demon-slayer{
-	background: url('/assets/img/데몬슬레이어.jpg') top/cover;
+	background: url('/assets/img/데몬슬레이어.png') no-repeat;
+	background-position: -150px -170px;
 }
 .class-img-demon-avenger{
-	background: url('/assets/img/데몬어벤져.jpg') top/cover;
+	background: url('/assets/img/데몬어벤져.png') no-repeat;
+	background-position: -150px -245px;
 }
 .class-img-mercedes{
-	background: url('/assets/img/메르세데스.jpg') top/cover;
+	background: url('/assets/img/메르세데스.png') no-repeat;
+	background-position: -150px -190px;
 }
 .class-img-aran{
-	background: url('/assets/img/아란.jpg') top/cover;
+	background: url('/assets/img/아란.png') no-repeat;
+	background-position: -150px -180px;
 }
 .class-img-phantom{
-	background: url('/assets/img/팬텀.jpg') top/cover;
+	background: url('/assets/img/팬텀.png') no-repeat;
+	background-position: -150px -270px;
 }
 .class-img-luminous{
-	background: url('/assets/img/루미너스.jpg') top/cover;
+	background: url('/assets/img/루미너스.png') no-repeat;
+	background-position: -150px -170px;
 }
 .class-img-evan{
-	background: url('/assets/img/에반.jpg') top/cover;
+	background: url('/assets/img/에반.png') no-repeat;
+	background-position: -150px -180px;
 }
 .class-img-eunwol{
-	background: url('/assets/img/은월.jpg') top/cover;
+	background: url('/assets/img/은월.png') no-repeat;
+	background-position: -150px -180px;
 }
 .class-img-kaiser{
-	background: url('/assets/img/카이저.jpg') top/cover;
+	background: url('/assets/img/카이저.png') no-repeat;
+	background-position: -150px -200px;
 }
 .class-img-kaine{
-	background: url('/assets/img/카인.jpg') top/cover;
+	background: url('/assets/img/카인.png') no-repeat;
+	background-position: -150px -150px;
 }
 .class-img-cadena{
-	background: url('/assets/img/카데나.jpg') top/cover;
+	background: url('/assets/img/카데나.png') no-repeat;
+	background-position: -150px -180px;
 }
 .class-img-angelic-buster{
-	background: url('/assets/img/엔젤릭버스터.jpg') top/cover;
+	background: url('/assets/img/엔젤릭버스터.png') no-repeat;
+	background-position: -150px -170px;
 }
 .class-img-adele{
-	background: url('/assets/img/아델.jpg') top/cover;
+	background: url('/assets/img/아델.png') no-repeat;
+	background-position: -150px -150px;
 }
 .class-img-illium{
-	background: url('/assets/img/일리움.jpg') top/cover;
+	background: url('/assets/img/일리움.png') no-repeat;
+	background-position: -150px -150px;
 }
 .class-img-khali{
-	background: url('/assets/img/칼리.jpg') top/cover;
+	background: url('/assets/img/칼리.png') no-repeat;
+	background-position: -150px -120px;
 }
 .class-img-ark{
-	background: url('/assets/img/아크.jpg') top/cover;
+	background: url('/assets/img/아크.png') no-repeat;
+	background-position: -150px -180px;
 }
 .class-img-lara{
-	background: url('/assets/img/라라.jpg') top/cover;
+	background: url('/assets/img/라라.png') no-repeat;
+	background-position: -150px -150px;
 }
 .class-img-hoyoung{
-	background: url('/assets/img/호영.jpg') top/cover;
+	background: url('/assets/img/호영.png') no-repeat;
+	background-position: -150px -150px;
 }
 .class-img-zero{
-	background: url('/assets/img/제로.jpg') top/cover;
+	background: url('/assets/img/제로.png') no-repeat;
+	background-position: -150px -280px;
 }
 .class-img-kinesis{
-	background: url('/assets/img/키네시스.jpg') top/cover;
+	background: url('/assets/img/키네시스.png') no-repeat;
+	background-position: -150px -200px;
 }
 
+.classes,
+.what-box{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
 
+.classes > div{
+	flex: 0 0 33.33%;
+	text-align: center;
+	margin: 10px;
+	border: 1px solid var(--gray);
+}
+
+.classes > div:hover{
+	background-color: var(--gray);
+	color: #ccc;
+}
+
+.classes > div > span{
+	width: auto;
+	height: auto;
+	margin: 10px;
+}
+
+#what-link-skill > span,
+#what-hyper-passive-skill > span,
+#what-six-skill > span{
+	display: inline-block;
+	width: 200px;
+	height: auto;
+	text-align: center;
+	margin: 10px;
+	border: 1px solid var(--gray);
+}
+
+#what-link-skill > span:hover,
+#what-hyper-passive-skill > span:hover,
+#what-six-skill > span:hover{
+	background-color: var(--gray);
+	color: var(--regray);
+}
+
+.class-adventurer-detail-list,
+.class-cygnus-detail-list,
+.class-resistance-detail-list,
+.class-heros-detail-list,
+.class-nova-detail-list,
+.class-ref-detail-list,
+.class-anima-detail-list,
+.class-etc-detail-list{
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+ul{
+	list-style: none;
+}
+
+.class-adventurer-detail-list > li,
+.class-cygnus-detail-list > li,
+.class-resistance-detail-list > li,
+.class-heros-detail-list > li,
+.class-nova-detail-list > li,
+.class-ref-detail-list > li,
+.class-anima-detail-list > li,
+.class-etc-detail-list > li{
+	max-width: 400px;
+	flex: 0 0 33.33%;
+	box-sizing: border-box;
+	margin: 10px;
+
+	border: 2px solid;
+	border-color: var(--orange);
+	transition: filter 0.3s ease;
+}
+.class-adventurer-detail-list > li:hover,
+.class-cygnus-detail-list > li:hover,
+.class-resistance-detail-list > li:hover,
+.class-heros-detail-list > li:hover,
+.class-nova-detail-list > li:hover,
+.class-ref-detail-list > li:hover,
+.class-anima-detail-list > li:hover,
+.class-etc-detail-list > li:hover{
+	filter: brightness(0.7);
+}
+
+.class-adventurer-detail-list > li::before,
+.class-cygnus-detail-list > li:before,
+.class-resistance-detail-list > li:before,
+.class-heros-detail-list > li:before,
+.class-nova-detail-list > li:before,
+.class-ref-detail-list > li:before,
+.class-anima-detail-list > li:before,
+.class-etc-detail-list > li:before{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	opacity: 0; /* 초기에는 투명하게 설정 */
+	pointer-events: none; /* 이벤트 감지 비활성화 */
+	font-size: 48px;
+	font-weight: bold;
+	color: #fff;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
+}
+
+.class-adventurer-detail-list > li:hover::before,
+.class-cygnus-detail-list > li:hover::before,
+.class-resistance-detail-list > li:hover::before,
+.class-heros-detail-list > li:hover::before,
+.class-nova-detail-list > li:hover::before,
+.class-ref-detail-list > li:hover::before,
+.class-anima-detail-list > li:hover::before,
+.class-etc-detail-list > li:hover::before{
+	opacity: 1; /* hover 시에 투명도를 1로 변경*/
+}
+
+.class-adventurer-detail-list > .detail-list-hero::before{
+	content:"히어로";
+}
+.class-adventurer-detail-list > .detail-list-paladin::before{
+	content:"팔라딘";
+}
+.class-adventurer-detail-list > .detail-list-dark-knight::before{
+	content:"다크나이트";
+}
+.class-adventurer-detail-list > .detail-list-arch-mage-fire-poison::before{
+	content:"불독";
+}
+.class-adventurer-detail-list > .detail-list-arch-mage-ice-lightning::before{
+	content:"썬콜";
+}
+.class-adventurer-detail-list > .detail-list-bishop::before{
+	content:"비숍";
+}
+.class-adventurer-detail-list > .detail-list-bow-master::before{
+	content:"보우마스터";
+}
+.class-adventurer-detail-list > .detail-list-marksman::before{
+	content:"신궁";
+}
+.class-adventurer-detail-list > .detail-list-pathfinder::before{
+	content:"패스파인더";
+}
+.class-adventurer-detail-list > .detail-list-night-lord::before{
+	content:"나이트로드";
+}
+.class-adventurer-detail-list > .detail-list-shadower::before{
+	content:"섀도어";
+}
+.class-adventurer-detail-list > .detail-list-dual-blade::before{
+	content:"듀얼블레이더";
+}
+.class-adventurer-detail-list > .detail-list-viper::before{
+	content:"바이퍼";
+}
+.class-adventurer-detail-list > .detail-list-captain::before{
+	content:"캡틴";
+}
+.class-adventurer-detail-list > .detail-list-cannon-shooter::before{
+	content:"캐논슈터";
+}
+.class-cygnus-detail-list > .detail-list-soul-master::before{
+	content:"소울마스터";
+}
+.class-cygnus-detail-list > .detail-list-flame-wizard::before{
+	content:"플레임위자드";
+}
+.class-cygnus-detail-list > .detail-list-wind-breaker::before{
+	content:"윈드브레이커";
+}
+.class-cygnus-detail-list > .detail-list-night-walker::before{
+	content:"나이트워커";
+}
+.class-cygnus-detail-list > .detail-list-striker::before{
+	content:"스트라이커";
+}
+.class-cygnus-detail-list > .detail-list-mihile::before{
+	content:"미하일";
+}
+.class-resistance-detail-list > .detail-list-blaster::before{
+	content:"블래스터";
+}
+.class-resistance-detail-list > .detail-list-battle-mage::before{
+	content:"배틀메이지";
+}
+.class-resistance-detail-list > .detail-list-wild-hunter::before{
+	content:"와일트헌터";
+}
+.class-resistance-detail-list > .detail-list-mechanic::before{
+	content:"메카닉";
+}
+.class-resistance-detail-list > .detail-list-xenon::before{
+	content:"제논";
+}
+.class-resistance-detail-list > .detail-list-demon-slayer::before{
+	content:"데몬슬레이어";
+}
+.class-resistance-detail-list > .detail-list-demon-avenger::before{
+	content:"데몬어벤져";
+}
+.class-heros-detail-list > .detail-list-mercedes::before{
+	content:"메르세데스";
+}
+.class-heros-detail-list > .detail-list-aran::before{
+	content:"아란";
+}
+.class-heros-detail-list > .detail-list-phantom::before{
+	content:"팬텀";
+}
+.class-heros-detail-list > .detail-list-luminous::before{
+	content:"루미너스";
+}
+.class-heros-detail-list > .detail-list-evan::before{
+	content:"에반";
+}
+.class-heros-detail-list > .detail-list-eunwol::before{
+	content:"은월";
+}
+.class-nova-detail-list > .detail-list-kaiser::before{
+	content:"카이저";
+}
+.class-nova-detail-list > .detail-list-kaine::before{
+	content:"카인";
+}
+.class-nova-detail-list > .detail-list-cadena::before{
+	content:"카데나";
+}
+.class-nova-detail-list > .detail-list-angelic-buster::before{
+	content:"엔젤릭버스터";
+}
+.class-ref-detail-list > .detail-list-adele::before{
+	content:"아델";
+}
+.class-ref-detail-list > .detail-list-illium::before{
+	content:"일리움";
+}
+.class-ref-detail-list > .detail-list-khali::before{
+	content:"칼리";
+}
+.class-ref-detail-list > .detail-list-ark::before{
+	content:"아크";
+}
+.class-anima-detail-list > .detail-list-lara::before{
+	content:"라라";
+}
+.class-anima-detail-list > .detail-list-hoyoung::before{
+	content:"호영";
+}
+.class-etc-detail-list > .detail-list-zero::before{
+	content:"제로";
+}
+.class-etc-detail-list > .detail-list-kinesis::before{
+	content:"키네시스";
+}
+#result-link-skill,
+#result-hyper-passive-skill,
+#result-six-skill{
+	justify-content: center;
+}
+
+#hunt-box,
+#boss-box,
+#hyper-box,
+#six-box{
+	display: flex;
+}
+
+#hunt-box-0,
+#hunt-box-1,
+#boss-box-0,
+#boss-box-1,
+#hyper-box-0,
+#hyper-box-1,
+#six-box-0,
+#six-box-1{
+	flex: 1;
+}
+
+#hunt-box-0 > span,
+#hunt-box-1 > span,
+#boss-box-0 > span,
+#boss-box-1 > span,
+#hyper-box-0 > span,
+#hyper-box-1 > span,
+#six-box-0 > span,
+#six-box-1 > span{
+	display: block;
+	text-align: center;
+}
+
+#hunt-box-0 > ul > li > div,
+#hunt-box-1 > ul > li > div,
+#boss-box-0 > ul > li > div,
+#boss-box-1 > ul > li > div,
+#hyper-box-0 > ul > li > div,
+#hyper-box-1 > ul > li > div,
+#six-box-0 > ul > li > div,
+#six-box-1 > ul > li > div{
+	min-width: 300px;
+	display: flex;
+}
+
+#hunt-box-0 > ul > li > .progress-bar-container,
+#hunt-box-1 > ul > li > .progress-bar-container,
+#boss-box-0 > ul > li > .progress-bar-container,
+#boss-box-1 > ul > li > .progress-bar-container,
+#hyper-box-0 > ul > li > .progress-bar-container,
+#hyper-box-1 > ul > li > .progress-bar-container,
+#six-box-0 > ul > li > .progress-bar-container,
+#six-box-1 > ul > li > .progress-bar-container{
+	width: 100%;
+	align-items: center;
+}
+
+.progress-bar-container > span{
+	width: 100px;
+}
+
+#hunt-box-0 > ul > li > div > progress,
+#hunt-box-1 > ul > li > div > progress,
+#boss-box-0 > ul > li > div > progress,
+#boss-box-1 > ul > li > div > progress,
+#hyper-box-0 > ul > li > div > progress,
+#hyper-box-1 > ul > li > div > progress,
+#six-box-0 > ul > li > div > progress,
+#six-box-1 > ul > li > div > progress{
+	width: 100%;
+}
+
+#hunt-box-0 > ul > li > div > span,
+#hunt-box-1 > ul > li > div > span,
+#boss-box-0 > ul > li > div > span,
+#boss-box-1 > ul > li > div > span,
+#hyper-box-0 > ul > li > div > span,
+#hyper-box-1 > ul > li > div > span,
+#six-box-0 > ul > li > div > span,
+#six-box-1 > ul > li > div > span{
+	text-align: center;
+	align-items: center;
+}
+
+#hunt-box-0 > ul > li,
+#hunt-box-1 > ul > li,
+#boss-box-0 > ul > li,
+#boss-box-1 > ul > li,
+#hyper-box-0 > ul > li,
+#hyper-box-1 > ul > li,
+#six-box-0 > ul > li,
+#six-box-1 > ul > li{
+	display: flex;
+}
+
+#main{
+	max-width: 80%;
+	min-height: 1200px;
+	margin: 0 auto;
+}
 

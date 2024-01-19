@@ -1,0 +1,52 @@
+function classChangeKorean(className){
+	var name = '';
+
+	if(className == 'hero') name = '전사-히어로';
+	else if(className == 'paladin') name = '전사-팔라딘';
+	else if(className == 'dark-knight') name = '전사-다크나이트';
+	else if(className == 'arch-mage-fire-poison') name = '마법사-아크메이지(불,독)';
+	else if(className == 'arch-mage-ice-lightning') name = '마법사-아크메이지(썬,콜)';
+	else if(className == 'bishop') name = '마법사-비숍';
+	else if(className == 'bow-master') name = '궁수-보우마스터';
+	else if(className == 'marksman') name = '궁수-신궁';
+	else if(className == 'pathfinder') name = '궁수-패스파인더';
+	else if(className == 'night-lord') name = '도적-나이트로드';
+	else if(className == 'shadower') name = '도적-섀도어';
+	else if(className == 'dual-blade') name = '도적-듀얼블레이더';
+	else if(className == 'viper') name = '해적-바이퍼';
+	else if(className == 'captain') name = '해적-캡틴';
+	else if(className == 'cannon-shooter') name = '해적-캐논마스터';
+	else if(className == 'soul-master') name = '기사단-소울마스터';
+	else if(className == 'flame-wizard') name = '기사단-플레임위자드';
+	else if(className == 'wind-breaker') name = '기사단-윈드브레이커';
+	else if(className == 'night-walker') name = '기사단-나이트워커';
+	else if(className == 'striker') name = '기사단-스트라이커';
+	else if(className == 'mihile') name = '기사단-미하일';
+	else if(className == 'aran') name = '아란-전체 전직';
+	else if(className == 'evan') name = '에반-전체 전직';
+	else if(className == 'battle-mage') name = '레지스탕스-배틀메이지';
+	else if(className == 'wild-hunter') name = '레지스탕스-와일드헌터';
+	else if(className == 'mechanic') name = '레지스탕스-메카닉';
+	else if(className == 'demon-slayer') name = '레지스탕스-데몬슬레이어';
+	else if(className == 'demon-avenger') name = '레지스탕스-데몬어벤져';
+	else if(className == 'xenon') name = '레지스탕스-제논';
+	else if(className == 'blaster') name = '레지스탕스-블래스터';
+	else if(className == 'mercedes') name = '메르세데스-전체 전직';
+	else if(className == 'phantom') name = '팬텀-전체 전직';
+	else if(className == 'luminous') name = '루미너스-전체 전직';
+	else if(className == 'kaiser') name = '카이저-전체 전직';
+	else if(className == 'angelic-buster') name = '엔젤릭버스터-전체 전직';
+	else if(className == 'zero') name = '초월자-제로';
+	else if(className == 'eunwol') name = '은월-전체 전직';
+	else if(className == 'kinesis') name = '프렌즈 월드-키네시스';
+	else if(className == 'cadena') name = '카데나-전체 전직';
+	else if(className == 'illium') name = '일리움-전체 전직';
+	else if(className == 'ark') name = '아크-전체 전직';
+	else if(className == 'hoyoung') name = '호영-전체 전직';
+	else if(className == 'adele') name = '아델-전체 전직';
+	else if(className == 'kaine') name = '카인-전체 전직';
+	else if(className == 'lara') name = '라라-전체 전직';
+	else if(className == 'khali') name = '칼리-전체 전직';
+
+	return name;
+}
