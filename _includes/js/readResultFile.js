@@ -1,6 +1,6 @@
 async function readResultFile(what,server,fileName){
 	try{
-		const filePath = `../../script/data/${what}_${server}_${fileName}.json`;
+		const filePath = `./script/data/${what}_${server}_${fileName}.json`;
 		console.log(`filePath:${filePath}`);
 
 		const response = await fetch(filePath);
