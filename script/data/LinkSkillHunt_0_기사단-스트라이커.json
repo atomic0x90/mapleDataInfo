@@ -80,9 +80,16 @@
     {
         "skill_name": "이네이트 기프트",
         "skill_description": "[마스터 레벨 : 2]\r\n사막의 축복을 받아 공격 시 짧은 시간 동안 HP와 MP를 회복한다. 추가로 영구적으로 데미지가 증가한다. 이네이트 기프트는 재사용 대기시간 초기화, 재사용 대기시간 감소, 버프 지속시간 증가의 효과를 받지 않는다.",
-        "skill_level": 2,
+        "skill_level": 1,
         "skill_effect": "데미지 5% 증가\n공격 시 100% 확률로 5초 동안 매초 최대 HP/MP의 2% 회복\n재발동 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNDOE.png"
+    },
+    {
+        "skill_name": "인텐시브 인썰트",
+        "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
+        "skill_level": 1,
+        "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     },
     {
         "skill_name": "어드벤쳐러 큐리어스",

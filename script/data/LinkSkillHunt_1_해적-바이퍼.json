@@ -10,7 +10,7 @@
     {
         "skill_name": "데들리 인스팅트",
         "skill_description": "[마스터 레벨 : 2]\r\n뛰어난 통찰력을 통해 적의 치명적인 약점을 찾아내는 본성을 가지고 있다.",
-        "skill_level": 2,
+        "skill_level": 1,
         "skill_effect": "크리티컬 확률 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMC.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "인텐시브 인썰트",
         "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
-        "skill_level": 2,
+        "skill_level": 1,
         "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     },
@@ -85,10 +85,17 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNBJI.png"
     },
     {
-        "skill_name": "어드벤쳐러 큐리어스",
-        "skill_description": "[마스터 레벨 : 6]\r\n특유의 호기심을 발휘해 몬스터 컬렉션 등록 확률과 크리티컬 확률을 증가시킨다.\n몬스터 컬렉션 등록 확률은 기존 확률에 곱적용으로 적용된다.",
+        "skill_name": "콤보킬 어드밴티지",
+        "skill_description": "[마스터 레벨 : 2]\r\n폴암의 정령 마하의 신비한 힘을 통해 콤보 플레이에 대한 축복을 받는다.",
         "skill_level": 1,
-        "skill_effect": "몬스터 컬렉션 등록 확률 35%, 크리티컬 확률 10% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGKG.png"
+        "skill_effect": "영구적으로 콤보킬 구슬 경험치 획득량 650% 추가 획득",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCLA.png"
+    },
+    {
+        "skill_name": "이네이트 기프트",
+        "skill_description": "[마스터 레벨 : 2]\r\n사막의 축복을 받아 공격 시 짧은 시간 동안 HP와 MP를 회복한다. 추가로 영구적으로 데미지가 증가한다. 이네이트 기프트는 재사용 대기시간 초기화, 재사용 대기시간 감소, 버프 지속시간 증가의 효과를 받지 않는다.",
+        "skill_level": 1,
+        "skill_effect": "데미지 5% 증가\n공격 시 100% 확률로 5초 동안 매초 최대 HP/MP의 2% 회복\n재발동 대기시간 30초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNDOE.png"
     }
 ]

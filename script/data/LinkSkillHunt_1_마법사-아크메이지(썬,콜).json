@@ -22,13 +22,6 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMC.png"
     },
     {
-        "skill_name": "하이브리드 로직",
-        "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
-        "skill_level": 2,
-        "skill_effect": "모든 능력치 10% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
-    },
-    {
         "skill_name": "콤보킬 어드밴티지",
         "skill_description": "[마스터 레벨 : 2]\r\n폴암의 정령 마하의 신비한 힘을 통해 콤보 플레이에 대한 축복을 받는다.",
         "skill_level": 2,
@@ -62,6 +55,13 @@
         "skill_level": 2,
         "skill_effect": "데미지 5% 증가\n일반 몬스터 20명 처치 시 자연의 도움 발동, 자연의 도움 발동 시 30초 동안 일반 몬스터 공격 시 데미지 11% 증가\n재발동 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNBJI.png"
+    },
+    {
+        "skill_name": "하이브리드 로직",
+        "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
+        "skill_level": 1,
+        "skill_effect": "모든 능력치 10% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
     },
     {
         "skill_name": "와일드 레이지",

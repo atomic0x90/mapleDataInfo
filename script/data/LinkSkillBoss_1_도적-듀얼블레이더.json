@@ -1,0 +1,17 @@
+1
+[
+    {
+        "skill_name": "소울 컨트랙트",
+        "skill_description": "[마스터 레벨 : 2]\r\n에스카다와의 계약을 통해 순간적으로 데미지를 극대화한다.",
+        "skill_level": 1,
+        "skill_effect": "10초 동안 데미지 45% 증가\n재사용 대기시간 60초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHPAJF.png"
+    },
+    {
+        "skill_name": "자신감",
+        "skill_description": "[마스터 레벨 : 2]\r\n강한 적에게도 위축되지 않는 자신감으로 적의 방어율을 일정 부분 무시하고 체력이 가득 찬 몬스터를 공격할 때 더 큰 피해를 입힌다.",
+        "skill_level": 1,
+        "skill_effect": "방어율 무시 10% 추가, HP가 100%인 몬스터 공격 시 데미지 14% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOHMJ.png"
+    }
+]

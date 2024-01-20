@@ -1,18 +1,18 @@
 2
 [
     {
+        "skill_name": "파이렛 블레스",
+        "skill_description": "[마스터 레벨 : 6]\r\n해적 특유의 강인함을 익혀 각종 스탯이 증가하고 피격 데미지가 감소된다.\n월드 내 서로 다른 모험가 해적 직업군이 존재할 경우 한 캐릭터에 최대 3번 중복해서 링크 스킬 지급이 가능하다.",
+        "skill_level": 1,
+        "skill_effect": "힘 70, 민첩 70, 지력 70, 운 70 , 최대 HP 1225, 최대 MP 1225 증가, 피격 데미지 15% 감소",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGLE.png"
+    },
+    {
         "skill_name": "데몬스 퓨리",
         "skill_description": "[마스터 레벨 : 2]\r\n대상이 보스일 경우, 내면에 잠재된 분노를 이끌어 내 더욱 강력한 데미지를 입힌다.",
         "skill_level": 2,
         "skill_effect": "보스 몬스터 공격 시 데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMB.png"
-    },
-    {
-        "skill_name": "퍼미에이트",
-        "skill_description": "[마스터 레벨 : 2]\r\n무엇으로 가려도 스며드는 빛의 힘으로 적의 방어를 일정 부분 무시한다.",
-        "skill_level": 1,
-        "skill_effect": "적 공격 시 방어율 무시 15% 적용",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMF.png"
     },
     {
         "skill_name": "소울 컨트랙트",
@@ -22,18 +22,18 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHPAJF.png"
     },
     {
+        "skill_name": "하이브리드 로직",
+        "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
+        "skill_level": 2,
+        "skill_effect": "모든 능력치 10% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
+    },
+    {
         "skill_name": "와일드 레이지",
         "skill_description": "[마스터 레벨 : 2]\r\n분노로 인해 데미지가 증가한다.",
         "skill_level": 2,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJA.png"
-    },
-    {
-        "skill_name": "스피릿 오브 프리덤",
-        "skill_description": "[마스터 레벨 : 8]\r\n자유를 염원하는 레지스탕스가 가진 혼의 힘으로 부활 시 일정 시간 동안 피해를 받지 않는다.",
-        "skill_level": 2,
-        "skill_effect": "부활 시 8초 동안 피해를 받지 않음, 맵 이동 시 해제",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCOJ.png"
     },
     {
         "skill_name": "판단",
@@ -85,10 +85,10 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNBNF.png"
     },
     {
-        "skill_name": "하이브리드 로직",
-        "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
+        "skill_name": "스피릿 오브 프리덤",
+        "skill_description": "[마스터 레벨 : 8]\r\n자유를 염원하는 레지스탕스가 가진 혼의 힘으로 부활 시 일정 시간 동안 피해를 받지 않는다.",
         "skill_level": 1,
-        "skill_effect": "모든 능력치 10% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
+        "skill_effect": "부활 시 8초 동안 피해를 받지 않음, 맵 이동 시 해제",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCOJ.png"
     }
 ]

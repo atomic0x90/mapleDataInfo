@@ -8,6 +8,13 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIBPBMA.png"
     },
     {
+        "skill_name": "아수라 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n빠르게 회전하여 보이지 않는 진공의 칼날을 주위에 두른 채 적들을 섬멸한다. 아수라는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 어떠한 공격에도 밀리지 않는다.\n필요 스킬 : 아수라 1레벨 이상",
+        "skill_level": 27,
+        "skill_effect": "MP 309 소비, 최대 5초 동안 최대 10명의 적을 945%의 데미지로 5번 공격\n몬스터의 방어율 100% 무시\n지속 시간 동안 이동 및 점프가 가능하며 스킬 재사용 시 즉시 취소\n재사용 대기시간 60초\n[패시브 효과 : 팬텀 블로우 VI 데미지 64%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIBPBMB.png"
+    },
+    {
         "skill_name": "카르마 블레이드",
         "skill_description": "[마스터 레벨 : 30]\r\n업화의 신을 검에 강림시킨다. 검에 깃든 업보의 칼날을 소모하여 적을 벨 때마다 적의 업보가 스스로를 공격하게 한다.\n업보의 칼날을 모두 소모 혹은 지속시간 종료 시 업화의 신이 직접 현현하여 모든 생을 순식간에 베어낸다. 업보의 칼날은 최대 HP가 높은 적을 우선 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
         "skill_level": 60,

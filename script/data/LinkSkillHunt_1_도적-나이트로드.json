@@ -15,13 +15,6 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
     },
     {
-        "skill_name": "와일드 레이지",
-        "skill_description": "[마스터 레벨 : 2]\r\n분노로 인해 데미지가 증가한다.",
-        "skill_level": 2,
-        "skill_effect": "데미지 10% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJA.png"
-    },
-    {
         "skill_name": "시그너스 블레스",
         "skill_description": "[마스터 레벨 : 10]\r\n각성한 여제의 가호가 몸에 깃들어 적의 위협으로부터 벗어난다.",
         "skill_level": 1,
@@ -29,25 +22,11 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJF.png"
     },
     {
-        "skill_name": "판단",
-        "skill_description": "[마스터 레벨 : 2]\r\n타고난 판단력으로 적에게 가능한 최고의 치명상을 입힌다.",
-        "skill_level": 2,
-        "skill_effect": " 크리티컬 데미지 4% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOAEI.png"
-    },
-    {
         "skill_name": "룬 퍼시스턴스",
         "skill_description": "[마스터 레벨 : 2]\r\n룬의 마력을 증폭시켜 해방된 룬의 힘 지속시간을 증가 시킨다.",
         "skill_level": 2,
         "skill_effect": "해방된 룬의 힘 지속시간 50% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCKJ.png"
-    },
-    {
-        "skill_name": "인텐시브 인썰트",
-        "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
-        "skill_level": 2,
-        "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     },
     {
         "skill_name": "전투의 흐름",
@@ -64,13 +43,6 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOENE.png"
     },
     {
-        "skill_name": "자신감",
-        "skill_description": "[마스터 레벨 : 2]\r\n강한 적에게도 위축되지 않는 자신감으로 적의 방어율을 일정 부분 무시하고 체력이 가득 찬 몬스터를 공격할 때 더 큰 피해를 입힌다.",
-        "skill_level": 2,
-        "skill_effect": "방어율 무시 10% 추가, HP가 100%인 몬스터 공격 시 데미지 14% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOHMJ.png"
-    },
-    {
         "skill_name": "자연의 벗",
         "skill_description": "[마스터 레벨 : 2]\r\n주변의 자연과 친구가 되어 도움을 받는다. 신비한 자연의 힘을 견디지 못하는 약한 몬스터에게는 더 큰 효과가 있다.",
         "skill_level": 2,
@@ -83,6 +55,34 @@
         "skill_level": 2,
         "skill_effect": "데미지 5% 증가\n공격 시 100% 확률로 5초 동안 매초 최대 HP/MP의 2% 회복\n재발동 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNDOE.png"
+    },
+    {
+        "skill_name": "와일드 레이지",
+        "skill_description": "[마스터 레벨 : 2]\r\n분노로 인해 데미지가 증가한다.",
+        "skill_level": 1,
+        "skill_effect": "데미지 10% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJA.png"
+    },
+    {
+        "skill_name": "판단",
+        "skill_description": "[마스터 레벨 : 2]\r\n타고난 판단력으로 적에게 가능한 최고의 치명상을 입힌다.",
+        "skill_level": 1,
+        "skill_effect": " 크리티컬 데미지 4% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOAEI.png"
+    },
+    {
+        "skill_name": "인텐시브 인썰트",
+        "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
+        "skill_level": 1,
+        "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
+    },
+    {
+        "skill_name": "자신감",
+        "skill_description": "[마스터 레벨 : 2]\r\n강한 적에게도 위축되지 않는 자신감으로 적의 방어율을 일정 부분 무시하고 체력이 가득 찬 몬스터를 공격할 때 더 큰 피해를 입힌다.",
+        "skill_level": 1,
+        "skill_effect": "방어율 무시 10% 추가, HP가 100%인 몬스터 공격 시 데미지 14% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOHMJ.png"
     },
     {
         "skill_name": "임피리컬 널리지",

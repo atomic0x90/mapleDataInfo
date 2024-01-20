@@ -8,6 +8,13 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKDPBMA.png"
     },
     {
+        "skill_name": "블레이징 익스팅션 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n고열의 화염을 구체로 압축시켜 발사한다. 화염 구체는 전방으로 이동하며 사정거리 내의 적들에게 화염 고리를 발사하여 불태운다.\n필요 스킬 : 블레이징 익스팅션 30레벨 이상",
+        "skill_level": 33,
+        "skill_effect": "MP 43 소비\n10초 동안 구체 주위의 최대 8명의 적을 985%의 데미지로 4번 공격\n한명의 적에게는 최대 10번까지만 공격 발생\n재사용 대기시간 5초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKDPBMH.png"
+    },
+    {
         "skill_name": "이터니티",
         "skill_description": "[마스터 레벨 : 30]\r\n생사의 순환을 관장하는 불사조가 현신하여 온 생명체를 죽음으로 인도한다. 불사조는 일정 시간 동안 지상에서 순환의 불꽃을 피워낸다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
         "skill_level": 60,

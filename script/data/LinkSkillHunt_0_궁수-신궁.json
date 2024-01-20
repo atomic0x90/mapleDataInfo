@@ -1,6 +1,13 @@
 1
 [
     {
+        "skill_name": "파이렛 블레스",
+        "skill_description": "[마스터 레벨 : 6]\r\n해적 특유의 강인함을 익혀 각종 스탯이 증가하고 피격 데미지가 감소된다.\n월드 내 서로 다른 모험가 해적 직업군이 존재할 경우 한 캐릭터에 최대 3번 중복해서 링크 스킬 지급이 가능하다.",
+        "skill_level": 1,
+        "skill_effect": "힘 70, 민첩 70, 지력 70, 운 70 , 최대 HP 1225, 최대 MP 1225 증가, 피격 데미지 15% 감소",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGLE.png"
+    },
+    {
         "skill_name": "엘프의 축복",
         "skill_description": "[마스터 레벨 : 2]\r\n고대 엘프의 축복으로 에우렐로 돌아갈 수 있고,  영구적으로 경험치를 추가로 받을 수 있다.",
         "skill_level": 1,
@@ -48,13 +55,6 @@
         "skill_level": 1,
         "skill_effect": "해방된 룬의 힘 지속시간 50% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCKJ.png"
-    },
-    {
-        "skill_name": "인텐시브 인썰트",
-        "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
-        "skill_level": 1,
-        "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     },
     {
         "skill_name": "전투의 흐름",

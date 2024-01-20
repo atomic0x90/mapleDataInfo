@@ -99,13 +99,6 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJF.png"
     },
     {
-        "skill_name": "임피리컬 널리지",
-        "skill_description": "[마스터 레벨 : 6]\r\n실전적인 탐구를 통해 약점을 파악하여 해당 적에 대한 데미지와 방어율 무시를 점차 증가시킨다.",
-        "skill_level": 1,
-        "skill_effect": "공격한 적 중 최대 HP가 가장 높은 적에 대한 약점을 25% 확률로 파악, 파악한 약점은 10초 동안 지속되며 최대 3회까지 중첩\n중첩 당 데미지 3%, 방어율 무시 3% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGKC.png"
-    },
-    {
         "skill_name": "시프 커닝",
         "skill_description": "[마스터 레벨 : 6]\r\n도적 특유의 교활함을 발휘해 적을 약화시키면 데미지가 증가한다.\n재사용 대기시간 초기화, 버프 지속시간 증가의 효과를 받지 않는다.",
         "skill_level": 1,

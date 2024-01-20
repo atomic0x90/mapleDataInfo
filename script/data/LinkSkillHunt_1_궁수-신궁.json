@@ -15,18 +15,18 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHPBIA.png"
     },
     {
+        "skill_name": "하이브리드 로직",
+        "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
+        "skill_level": 2,
+        "skill_effect": "모든 능력치 10% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
+    },
+    {
         "skill_name": "와일드 레이지",
         "skill_description": "[마스터 레벨 : 2]\r\n분노로 인해 데미지가 증가한다.",
         "skill_level": 2,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJA.png"
-    },
-    {
-        "skill_name": "콤보킬 어드밴티지",
-        "skill_description": "[마스터 레벨 : 2]\r\n폴암의 정령 마하의 신비한 힘을 통해 콤보 플레이에 대한 축복을 받는다.",
-        "skill_level": 1,
-        "skill_effect": "영구적으로 콤보킬 구슬 경험치 획득량 650% 추가 획득",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCLA.png"
     },
     {
         "skill_name": "룬 퍼시스턴스",
@@ -62,13 +62,6 @@
         "skill_level": 2,
         "skill_effect": "데미지 5% 증가\n공격 시 100% 확률로 5초 동안 매초 최대 HP/MP의 2% 회복\n재발동 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNDOE.png"
-    },
-    {
-        "skill_name": "하이브리드 로직",
-        "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
-        "skill_level": 1,
-        "skill_effect": "모든 능력치 10% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
     },
     {
         "skill_name": "판단",

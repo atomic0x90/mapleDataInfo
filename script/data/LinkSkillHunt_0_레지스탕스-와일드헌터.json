@@ -43,13 +43,6 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCLA.png"
     },
     {
-        "skill_name": "룬 퍼시스턴스",
-        "skill_description": "[마스터 레벨 : 2]\r\n룬의 마력을 증폭시켜 해방된 룬의 힘 지속시간을 증가 시킨다.",
-        "skill_level": 2,
-        "skill_effect": "해방된 룬의 힘 지속시간 50% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCKJ.png"
-    },
-    {
         "skill_name": "인텐시브 인썰트",
         "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
         "skill_level": 2,
@@ -90,6 +83,13 @@
         "skill_level": 1,
         "skill_effect": "공격력과 마력 25, 상태 이상 내성 15, 모든 속성 내성 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJF.png"
+    },
+    {
+        "skill_name": "룬 퍼시스턴스",
+        "skill_description": "[마스터 레벨 : 2]\r\n룬의 마력을 증폭시켜 해방된 룬의 힘 지속시간을 증가 시킨다.",
+        "skill_level": 1,
+        "skill_effect": "해방된 룬의 힘 지속시간 50% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCKJ.png"
     },
     {
         "skill_name": "자신감",

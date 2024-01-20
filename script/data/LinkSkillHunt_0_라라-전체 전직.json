@@ -38,7 +38,7 @@
     {
         "skill_name": "와일드 레이지",
         "skill_description": "[마스터 레벨 : 2]\r\n분노로 인해 데미지가 증가한다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJA.png"
     },
@@ -83,6 +83,13 @@
         "skill_level": 2,
         "skill_effect": "데미지 5% 증가\n공격 시 100% 확률로 5초 동안 매초 최대 HP/MP의 2% 회복\n재발동 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNDOE.png"
+    },
+    {
+        "skill_name": "인텐시브 인썰트",
+        "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
+        "skill_level": 1,
+        "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     },
     {
         "skill_name": "자신감",
