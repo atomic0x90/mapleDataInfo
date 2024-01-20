@@ -7,11 +7,9 @@ function classToggleContent(className){
 		var content = document.getElementsByClassName('class-' + classList[i] + '-detail-list');
 
 		for(var j = 0;j < content.length;j++)
-			content[j].style.display = 'none';
+			content[j].classList.remove('visible');
 	}
 
 	var targetContent = document.getElementsByClassName('class-' + className + '-detail-list');
-
-	if(targetContent[0].style.display == 'flex') targetContent[0].style.display = 'none';
-	else targetContent[0].style.display = 'flex';
+	targetContent[0].classList.toggle('visible');
 }

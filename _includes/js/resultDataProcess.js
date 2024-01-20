@@ -49,10 +49,6 @@ function resultDataProcess(where, server, data) {
 	for (let i = 0; i < jsonData.length; i++) {
 		const listItem = document.createElement('li');
 
-		if(i % 2 === 1){
-		    listItem.style.backgroundColor = '#f2f2f2';
-		}
-
 		const itemArea = document.createElement('div');
 
 		const itemImage = document.createElement('img');

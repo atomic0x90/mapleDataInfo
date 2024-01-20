@@ -2,6 +2,8 @@
 	--orange: #ff9000;
 	--gray: #333;
 	--regray: #ccc;
+	--white: #fff;
+	--backorange: #ffe9cc;
 }
 
 .class-img-hero:hover,
@@ -109,11 +111,11 @@
 
 .class-img-hero{
 	background: url('../img/히어로.png') no-repeat;
-	background-position: -150px -170px;
+	background-position: -190px -170px;
 }
 .class-img-paladin{
 	background: url('../img/팔라딘.png') no-repeat;
-	background-position: -150px -155px;
+	background-position: -230px -155px;
 }
 .class-img-dark-knight{
 	background: url('../img/다크나이트.png') no-repeat;
@@ -121,27 +123,27 @@
 }
 .class-img-arch-mage-fire-poison{
 	background: url('../img/불독.png') no-repeat;
-	background-position: -150px -150px;
+	background-position: -180px -150px;
 }
 .class-img-arch-mage-ice-lightning{
 	background: url('../img/썬콜.png') no-repeat;
-	background-position: -150px -185px;
+	background-position: -210px -185px;
 }
 .class-img-bishop{
 	background: url('../img/비숍.png') no-repeat;
-	background-position: -150px -190px;
+	background-position: -220px -190px;
 }
 .class-img-bow-master{
 	background: url('../img/보우마스터.png') no-repeat;
-	background-position: -150px -145px;
+	background-position: -200px -145px;
 }
 .class-img-marksman{
 	background: url('../img/신궁.png') no-repeat;
-	background-position: -150px -250px;
+	background-position: -190px -250px;
 }
 .class-img-pathfinder{
 	background: url('../img/패스파인더.png') no-repeat;
-	background-position: -150px -190px;
+	background-position: -240px -190px;
 }
 .class-img-night-lord{
 	background: url('../img/나이트로드.png') no-repeat;
@@ -149,11 +151,11 @@
 }
 .class-img-shadower{
 	background: url('../img/섀도어.png') no-repeat;
-	background-position: -150px -150px;
+	background-position: -180px -150px;
 }
 .class-img-dual-blade{
 	background: url('../img/듀얼블레이더.png') no-repeat;
-	background-position: -150px -250px;
+	background-position: -170px -250px;
 }
 .class-img-viper{
 	background: url('../img/바이퍼.png') no-repeat;
@@ -161,51 +163,51 @@
 }
 .class-img-captain{
 	background: url('../img/캡틴.png') no-repeat;
-	background-position: -150px -240px;
+	background-position: -180px -240px;
 }
 .class-img-cannon-shooter{
 	background: url('../img/캐논슈터.png') no-repeat;
-	background-position: -150px -210px;
+	background-position: -220px -210px;
 }
 .class-img-soul-master{
 	background: url('../img/소울마스터.png') no-repeat;
-	background-position: -150px -165px;
+	background-position: -190px -165px;
 }
 .class-img-flame-wizard{
 	background: url('../img/플레임위자드.png') no-repeat;
-	background-position: -150px -160px;
+	background-position: -180px -160px;
 }
 .class-img-wind-breaker{
 	background: url('../img/윈드브레이커.png') no-repeat;
-	background-position: -150px -180px;
+	background-position: -215px -180px;
 }
 .class-img-night-walker{
 	background: url('../img/나이트워커.png') no-repeat;
-	background-position: -150px -170px;
+	background-position: -255px -170px;
 }
 .class-img-striker{
 	background: url('../img/스트라이커.png') no-repeat;
-	background-position: -100px -220px;
+	background-position: -120px -220px;
 }
 .class-img-mihile{
 	background: url('../img/미하일.png') no-repeat;
-	background-position: -150px -220px;
+	background-position: -160px -220px;
 }
 .class-img-blaster{
 	background: url('../img/블래스터.png') no-repeat;
-	background-position: -150px -180px;
+	background-position: -190px -180px;
 }
 .class-img-battle-mage{
 	background: url('../img/배틀메이지.png') no-repeat;
-	background-position: -150px -255px;
+	background-position: -190px -255px;
 }
 .class-img-wild-hunter{
 	background: url('../img/와일드헌터.png') no-repeat;
-	background-position: -150px -100px;
+	background-position: -210px -100px;
 }
 .class-img-mechanic{
 	background: url('../img/메카닉.png') no-repeat;
-	background-position: -150px -150px;
+	background-position: -190px -150px;
 }
 .class-img-xenon{
 	background: url('../img/제논.png') no-repeat;
@@ -213,83 +215,83 @@
 }
 .class-img-demon-slayer{
 	background: url('../img/데몬슬레이어.png') no-repeat;
-	background-position: -150px -170px;
+	background-position: -120px -170px;
 }
 .class-img-demon-avenger{
 	background: url('../img/데몬어벤져.png') no-repeat;
-	background-position: -150px -245px;
+	background-position: -130px -245px;
 }
 .class-img-mercedes{
 	background: url('../img/메르세데스.png') no-repeat;
-	background-position: -150px -190px;
+	background-position: -240px -190px;
 }
 .class-img-aran{
 	background: url('../img/아란.png') no-repeat;
-	background-position: -150px -180px;
+	background-position: -180px -180px;
 }
 .class-img-phantom{
 	background: url('../img/팬텀.png') no-repeat;
-	background-position: -150px -270px;
+	background-position: -130px -270px;
 }
 .class-img-luminous{
 	background: url('../img/루미너스.png') no-repeat;
-	background-position: -150px -170px;
+	background-position: -180px -170px;
 }
 .class-img-evan{
 	background: url('../img/에반.png') no-repeat;
-	background-position: -150px -180px;
+	background-position: -215px -180px;
 }
 .class-img-eunwol{
 	background: url('../img/은월.png') no-repeat;
-	background-position: -150px -180px;
+	background-position: -185px -180px;
 }
 .class-img-kaiser{
 	background: url('../img/카이저.png') no-repeat;
-	background-position: -150px -200px;
+	background-position: -180px -200px;
 }
 .class-img-kaine{
 	background: url('../img/카인.png') no-repeat;
-	background-position: -150px -150px;
+	background-position: -210px -150px;
 }
 .class-img-cadena{
 	background: url('../img/카데나.png') no-repeat;
-	background-position: -150px -180px;
+	background-position: -200px -180px;
 }
 .class-img-angelic-buster{
 	background: url('../img/엔젤릭버스터.png') no-repeat;
-	background-position: -150px -170px;
+	background-position: -170px -170px;
 }
 .class-img-adele{
 	background: url('../img/아델.png') no-repeat;
-	background-position: -150px -150px;
+	background-position: -200px -150px;
 }
 .class-img-illium{
 	background: url('../img/일리움.png') no-repeat;
-	background-position: -150px -150px;
+	background-position: -165px -150px;
 }
 .class-img-khali{
 	background: url('../img/칼리.png') no-repeat;
-	background-position: -150px -120px;
+	background-position: -230px -120px;
 }
 .class-img-ark{
 	background: url('../img/아크.png') no-repeat;
-	background-position: -150px -180px;
+	background-position: -210px -180px;
 }
 .class-img-lara{
 	background: url('../img/라라.png') no-repeat;
-	background-position: -150px -150px;
+	background-position: -210px -150px;
 }
 .class-img-hoyoung{
 	background: url('../img/호영.png') no-repeat;
-	background-position: -150px -150px;
+	background-position: -200px -150px;
 }
 .class-img-zero{
 	background: url('../img/제로.png') no-repeat;
-	background-position: -150px -280px;
+	background-position: -280px -280px;
 }
 .class-img-kinesis{
 	background: url('../img/키네시스.png') no-repeat;
-	background-position: -150px -200px;
+	background-position: -190px -200px;
 }
 
 .classes,
@@ -303,12 +305,20 @@
 	flex: 0 0 33.33%;
 	text-align: center;
 	margin: 10px;
-	border: 1px solid var(--gray);
+	border: 2px solid;
+	border-color: var(--orange);
+	transition: background-color 0.3s ease, filter 0.3s ease;
+	font-size: 24px;
+	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
 
 .classes > div:hover{
-	background-color: var(--gray);
-	color: #ccc;
+	filter: brightness(1);
+	background-color: var(--orange);
+	font-size: 24px;
+	font-weight: bold;
+	color: var(--white);
+	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
 
 .classes > div > span{
@@ -325,14 +335,22 @@
 	height: auto;
 	text-align: center;
 	margin: 10px;
-	border: 1px solid var(--gray);
+	border: 2px solid;
+	border-color: var(--orange);
+	transition: background-color 0.3s ease, filter 0.3s ease;
+	font-size: 24px;
+	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
 
 #what-link-skill > span:hover,
 #what-hyper-passive-skill > span:hover,
 #what-six-skill > span:hover{
-	background-color: var(--gray);
-	color: var(--regray);
+	filter: brightness(1);
+	background-color: var(--orange);
+	font-size: 24px;
+	font-weight: bold;
+	color: var(--white);
+	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
 
 .class-adventurer-detail-list,
@@ -343,12 +361,32 @@
 .class-ref-detail-list,
 .class-anima-detail-list,
 .class-etc-detail-list{
+	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	visibility: hidden;
+	opacity: 0;
+	max-height: 0;
+	overflow: hidden;
+	transition: visibility 0s, opacity 0.3s, max-height 0.3s ease;
+}
+.class-adventurer-detail-list.visible,
+.class-cygnus-detail-list.visible,
+.class-resistance-detail-list.visible,
+.class-heros-detail-list.visible,
+.class-nova-detail-list.visible,
+.class-ref-detail-list.visible,
+.class-anima-detail-list.visible,
+.class-etc-detail-list.visible{
+    visibility: visible;
+    opacity: 1;
+    max-height: 10000px; /* 충분히 큰 값으로 설정하여 max-height 효과를 적용할 크기 지정 */
 }
 
 ul{
 	list-style: none;
+	padding: 0px;
+	margin: 0px;
 }
 
 .class-adventurer-detail-list > li,
@@ -395,7 +433,7 @@ ul{
 	pointer-events: none; /* 이벤트 감지 비활성화 */
 	font-size: 48px;
 	font-weight: bold;
-	color: #fff;
+	color: var(--white);
 	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
@@ -481,7 +519,7 @@ ul{
 	content:"배틀메이지";
 }
 .class-resistance-detail-list > .detail-list-wild-hunter::before{
-	content:"와일트헌터";
+	content:"와일드헌터";
 }
 .class-resistance-detail-list > .detail-list-mechanic::before{
 	content:"메카닉";
@@ -549,6 +587,7 @@ ul{
 .class-etc-detail-list > .detail-list-kinesis::before{
 	content:"키네시스";
 }
+
 #result-link-skill,
 #result-hyper-passive-skill,
 #result-six-skill{
@@ -570,6 +609,7 @@ ul{
 #hyper-box-1,
 #six-box-0,
 #six-box-1{
+	padding: 5px;
 	flex: 1;
 }
 
@@ -583,6 +623,8 @@ ul{
 #six-box-1 > span{
 	display: block;
 	text-align: center;
+	font-size: 20px;
+	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
 
 #hunt-box-0 > ul > li > div,
@@ -593,7 +635,7 @@ ul{
 #hyper-box-1 > ul > li > div,
 #six-box-0 > ul > li > div,
 #six-box-1 > ul > li > div{
-	min-width: 300px;
+	min-width: 100px;
 	display: flex;
 }
 
@@ -605,12 +647,31 @@ ul{
 #hyper-box-1 > ul > li > .progress-bar-container,
 #six-box-0 > ul > li > .progress-bar-container,
 #six-box-1 > ul > li > .progress-bar-container{
-	width: 100%;
+	width: 40%;
 	align-items: center;
 }
 
+#hunt-box-0 > ul > li:nth-child(odd),
+#hunt-box-1 > ul > li:nth-child(odd),
+#boss-box-0 > ul > li:nth-child(odd),
+#boss-box-1 > ul > li:nth-child(odd),
+#hyper-box-0 > ul > li:nth-child(odd),
+#hyper-box-1 > ul > li:nth-child(odd),
+#six-box-0 > ul > li:nth-child(odd),
+#six-box-1 > ul > li:nth-child(odd),
+#hunt-box-0 > ul > li:nth-child(odd) > .progress-bar-container,
+#hunt-box-1 > ul > li:nth-child(odd) > .progress-bar-container,
+#boss-box-0 > ul > li:nth-child(odd) > .progress-bar-container,
+#boss-box-1 > ul > li:nth-child(odd) > .progress-bar-container,
+#hyper-box-0 > ul > li:nth-child(odd) > .progress-bar-container,
+#hyper-box-1 > ul > li:nth-child(odd) > .progress-bar-container,
+#six-box-0 > ul > li:nth-child(odd) > .progress-bar-container,
+#six-box-1 > ul > li:nth-child(odd) > .progress-bar-container{
+	background-color: var(--backorange);
+}
+
 .progress-bar-container > span{
-	width: 100px;
+	width: 80px;
 }
 
 #hunt-box-0 > ul > li > div > progress,
@@ -621,7 +682,23 @@ ul{
 #hyper-box-1 > ul > li > div > progress,
 #six-box-0 > ul > li > div > progress,
 #six-box-1 > ul > li > div > progress{
-	width: 100%;
+	width: 30%;
+}
+
+progress{
+	border-radius: 5px;
+}
+
+/* 채우는 색상 */
+progress::-webkit-progress-value{
+	background-color: var(--orange);
+	border-radius: 5px;
+}
+
+/* 바탕 */
+progress::-webkit-progress-bar{
+	background-color: var(--regray);
+	border-radius: 5px;
 }
 
 #hunt-box-0 > ul > li > div > span,
@@ -634,6 +711,8 @@ ul{
 #six-box-1 > ul > li > div > span{
 	text-align: center;
 	align-items: center;
+	font-size: 20px;
+	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
 
 #hunt-box-0 > ul > li,
@@ -645,11 +724,127 @@ ul{
 #six-box-0 > ul > li,
 #six-box-1 > ul > li{
 	display: flex;
+	justify-content: space-between;
+}
+
+body{
+	margin: 0;
 }
 
 #main{
 	max-width: 80%;
-	min-height: 1200px;
+	min-height: 2000px;
 	margin: 0 auto;
 }
 
+#footer{
+	display: flex;
+	min-height: 200px;
+	background-color: var(--backorange);
+	align-items: center;
+}
+
+#connect,
+#nexon,
+#copyright{
+	flex: 1;
+	text-align: center;
+}
+
+#connect > span,
+#nexon > span,
+#copyright > span{
+	font-size: 16px;
+}
+
+#connect > img{
+	width: 1em; /* 1em은 부모 폰트 크기와 같음 */
+	height: 1em;
+}
+
+@media (max-width: 767px){
+	#hunt-box,
+	#boss-box,
+	#hyper-box,
+	#six-box{
+		display: block;
+	}
+	.class-adventurer-detail-list,
+	.class-cygnus-detail-list,
+	.class-resistance-detail-list,
+	.class-heros-detail-list,
+	.class-nova-detail-list,
+	.class-ref-detail-list,
+	.class-anima-detail-list,
+	.class-etc-detail-list{
+		flex-wrap: wrap;
+		justify-content: /*space-between*/ center;
+	}
+
+	.class-adventurer-detail-list > li,
+	.class-cygnus-detail-list > li,
+	.class-resistance-detail-list > li,
+	.class-heros-detail-list > li,
+	.class-nova-detail-list > li,
+	.class-ref-detail-list > li,
+	.class-anima-detail-list > li,
+	.class-etc-detail-list > li{
+		flex: 1 0 calc(100% - 20px);
+		box-sizing: border-box;
+
+		border: 2px solid;
+		border-color: var(--orange);
+		transition: filter 0.3s ease;
+	}
+
+	.classes > div{
+		font-size: 18px;
+	}
+
+	.classes > div:hover{
+		font-size: 18px;
+	}
+
+	#what-link-skill > span,
+	#what-hyper-passive-skill > span,
+	#what-six-skill > span{
+		font-size: 18px;
+	}
+
+	#what-link-skill > span:hover,
+	#what-hyper-passive-skill > span:hover,
+	#what-six-skill > span:hover{
+		font-size: 18px;
+	}
+
+	.class-adventurer-detail-list > li::before,
+	.class-cygnus-detail-list > li:before,
+	.class-resistance-detail-list > li:before,
+	.class-heros-detail-list > li:before,
+	.class-nova-detail-list > li:before,
+	.class-ref-detail-list > li:before,
+	.class-anima-detail-list > li:before,
+	.class-etc-detail-list > li:before{
+		font-size: 40px;
+	}
+	#hunt-box-0 > ul > li > div > span,
+	#hunt-box-1 > ul > li > div > span,
+	#boss-box-0 > ul > li > div > span,
+	#boss-box-1 > ul > li > div > span,
+	#hyper-box-0 > ul > li > div > span,
+	#hyper-box-1 > ul > li > div > span,
+	#six-box-0 > ul > li > div > span,
+	#six-box-1 > ul > li > div > span{
+		font-size: 16px;
+	}
+	#hunt-box-0 > span,
+	#hunt-box-1 > span,
+	#boss-box-0 > span,
+	#boss-box-1 > span,
+	#hyper-box-0 > span,
+	#hyper-box-1 > span,
+	#six-box-0 > span,
+	#six-box-1 > span{
+		font-size: 16px;
+	}
+}
