@@ -50,6 +50,7 @@ function resultDataProcess(where, server, data) {
 		const listItem = document.createElement('li');
 
 		const itemArea = document.createElement('div');
+		itemArea.classList.add('img-container');
 
 		const itemImage = document.createElement('img');
 		itemImage.src = jsonData[i].skill_icon;

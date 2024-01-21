@@ -301,11 +301,16 @@
 	flex-wrap: wrap;
 }
 
+.what-box > div{
+	flex: 0 0 30%;
+	margin: 10px;
+}
+
 .classes > div{
 	flex: 0 0 33.33%;
 	text-align: center;
 	margin: 10px;
-	border: 2px solid;
+	border: 3px solid;
 	border-color: var(--orange);
 	transition: background-color 0.3s ease, filter 0.3s ease;
 	font-size: 24px;
@@ -322,23 +327,23 @@
 }
 
 .classes > div > span{
-	width: auto;
-	height: auto;
 	margin: 10px;
+	font-weight: bold;
 }
 
 #what-link-skill > span,
 #what-hyper-passive-skill > span,
 #what-six-skill > span{
 	display: inline-block;
-	width: 200px;
+	width: 100%;
 	height: auto;
 	text-align: center;
 	margin: 10px;
-	border: 2px solid;
+	border: 3px solid;
 	border-color: var(--orange);
 	transition: background-color 0.3s ease, filter 0.3s ease;
 	font-size: 24px;
+	font-weight: bold;
 	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
 
@@ -402,7 +407,7 @@ ul{
 	box-sizing: border-box;
 	margin: 10px;
 
-	border: 2px solid;
+	border: 3px solid;
 	border-color: var(--orange);
 	transition: filter 0.3s ease;
 }
@@ -624,6 +629,7 @@ ul{
 	display: block;
 	text-align: center;
 	font-size: 20px;
+	font-weight: bold;
 	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
 
@@ -648,6 +654,17 @@ ul{
 #six-box-0 > ul > li > .progress-bar-container,
 #six-box-1 > ul > li > .progress-bar-container{
 	width: 40%;
+	align-items: center;
+}
+
+#hunt-box-0 > ul > li > .img-container,
+#hunt-box-1 > ul > li > .img-container,
+#boss-box-0 > ul > li > .img-container,
+#boss-box-1 > ul > li > .img-container,
+#hyper-box-0 > ul > li > .img-container,
+#hyper-box-1 > ul > li > .img-container,
+#six-box-0 > ul > li > .img-container,
+#six-box-1 > ul > li > .img-container{
 	align-items: center;
 }
 
@@ -710,8 +727,8 @@ progress::-webkit-progress-bar{
 #six-box-0 > ul > li > div > span,
 #six-box-1 > ul > li > div > span{
 	text-align: center;
-	align-items: center;
-	font-size: 20px;
+	font-size: 16px;
+	font-weight: bold;
 	white-space: nowrap; /* 텍스트가 한 줄에 표시되도록 설정 */
 }
 
@@ -739,7 +756,7 @@ body{
 
 #footer{
 	display: flex;
-	min-height: 200px;
+	min-height: 100px;
 	background-color: var(--backorange);
 	align-items: center;
 }
@@ -792,29 +809,29 @@ body{
 		flex: 1 0 calc(100% - 20px);
 		box-sizing: border-box;
 
-		border: 2px solid;
+		border: 3px solid;
 		border-color: var(--orange);
 		transition: filter 0.3s ease;
 	}
 
 	.classes > div{
-		font-size: 18px;
+		font-size: 16px;
 	}
 
 	.classes > div:hover{
-		font-size: 18px;
+		font-size: 16px;
 	}
 
 	#what-link-skill > span,
 	#what-hyper-passive-skill > span,
 	#what-six-skill > span{
-		font-size: 18px;
+		font-size: 16px;
 	}
 
 	#what-link-skill > span:hover,
 	#what-hyper-passive-skill > span:hover,
 	#what-six-skill > span:hover{
-		font-size: 18px;
+		font-size: 16px;
 	}
 
 	.class-adventurer-detail-list > li::before,
@@ -835,7 +852,8 @@ body{
 	#hyper-box-1 > ul > li > div > span,
 	#six-box-0 > ul > li > div > span,
 	#six-box-1 > ul > li > div > span{
-		font-size: 16px;
+		font-size: 14px;
+		font-weight: bold;
 	}
 	#hunt-box-0 > span,
 	#hunt-box-1 > span,
@@ -845,6 +863,9 @@ body{
 	#hyper-box-1 > span,
 	#six-box-0 > span,
 	#six-box-1 > span{
-		font-size: 16px;
+		font-size: 14px;
+	}
+	#footer{
+		display: block;
 	}
 }
