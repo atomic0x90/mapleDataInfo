@@ -29,11 +29,11 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMB.png"
     },
     {
-        "skill_name": "데들리 인스팅트",
-        "skill_description": "[마스터 레벨 : 2]\r\n뛰어난 통찰력을 통해 적의 치명적인 약점을 찾아내는 본성을 가지고 있다.",
+        "skill_name": "퍼미에이트",
+        "skill_description": "[마스터 레벨 : 2]\r\n무엇으로 가려도 스며드는 빛의 힘으로 적의 방어를 일정 부분 무시한다.",
         "skill_level": 1,
-        "skill_effect": "크리티컬 확률 15% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMC.png"
+        "skill_effect": "적 공격 시 방어율 무시 15% 적용",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMF.png"
     },
     {
         "skill_name": "소울 컨트랙트",
@@ -50,25 +50,18 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJF.png"
     },
     {
-        "skill_name": "구사 일생",
-        "skill_description": "[마스터 레벨 : 2]\r\n[링크 스킬] 사망에 이르는 공격을 당했을 시, 일정 확률로 죽지 않는다.",
-        "skill_level": 1,
-        "skill_effect": "사망에 이르는 공격을 당할 시, 10% 확률로 생존",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOAKJ.png"
-    },
-    {
-        "skill_name": "스피릿 오브 프리덤",
-        "skill_description": "[마스터 레벨 : 8]\r\n자유를 염원하는 레지스탕스가 가진 혼의 힘으로 부활 시 일정 시간 동안 피해를 받지 않는다.",
-        "skill_level": 1,
-        "skill_effect": "부활 시 8초 동안 피해를 받지 않음, 맵 이동 시 해제",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCOJ.png"
-    },
-    {
         "skill_name": "판단",
         "skill_description": "[마스터 레벨 : 2]\r\n타고난 판단력으로 적에게 가능한 최고의 치명상을 입힌다.",
         "skill_level": 1,
         "skill_effect": " 크리티컬 데미지 4% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOAEI.png"
+    },
+    {
+        "skill_name": "인텐시브 인썰트",
+        "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
+        "skill_level": 1,
+        "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     },
     {
         "skill_name": "무아",
@@ -90,6 +83,13 @@
         "skill_level": 1,
         "skill_effect": "적에게 상태 이상을 적용시키면 10초 동안 데미지 18% 증가\n재발동 대기시간 20초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGLA.png"
+    },
+    {
+        "skill_name": "노블레스",
+        "skill_description": "[마스터 레벨 : 2]\r\n강력한 상대로부터 누군가를 지켜야 할 때 더 큰 힘을 발휘하는 숭고함을 가진다.",
+        "skill_level": 1,
+        "skill_effect": "보스 몬스터 공격 시 데미지 4% 증가\n같은 맵에 있는 자신을 포함한 파티원 1명 당 데미지 2% 증가, 최대 8%까지 증가\n파티를 하지 않았을 때는 자신만 파티한 것으로 취급",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMJJH.png"
     },
     {
         "skill_name": "프라이어 프리퍼레이션",

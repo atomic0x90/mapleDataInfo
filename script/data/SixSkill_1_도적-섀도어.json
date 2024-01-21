@@ -17,8 +17,8 @@
     {
         "skill_name": "메소 익스플로젼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n픽 파킷으로 떨어진 동전을 움직여 적을 공격한다.\n필요 스킬 : 메소 익스플로젼 20레벨 이상",
-        "skill_level": 20,
-        "skill_effect": "MP 31 소비, 동전 1개당 1명의 적을 205% 데미지로 2번 공격\n최대 10마리의 적을 공격하며 한 번에 최대 15개의 동전 사용 가능",
+        "skill_level": 21,
+        "skill_effect": "MP 32 소비, 동전 1개당 1명의 적을 210% 데미지로 2번 공격\n최대 10마리의 적을 공격하며 한 번에 최대 15개의 동전 사용 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJDPBMG.png"
     },
     {

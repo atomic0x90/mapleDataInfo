@@ -1,4 +1,4 @@
-1
+2
 [
     {
         "skill_name": "엘프의 축복",
@@ -10,7 +10,7 @@
     {
         "skill_name": "데들리 인스팅트",
         "skill_description": "[마스터 레벨 : 2]\r\n뛰어난 통찰력을 통해 적의 치명적인 약점을 찾아내는 본성을 가지고 있다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "크리티컬 확률 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMC.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "룬 퍼시스턴스",
         "skill_description": "[마스터 레벨 : 2]\r\n룬의 마력을 증폭시켜 해방된 룬의 힘 지속시간을 증가 시킨다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "해방된 룬의 힘 지속시간 50% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCKJ.png"
     },
@@ -80,8 +80,15 @@
     {
         "skill_name": "자연의 벗",
         "skill_description": "[마스터 레벨 : 2]\r\n주변의 자연과 친구가 되어 도움을 받는다. 신비한 자연의 힘을 견디지 못하는 약한 몬스터에게는 더 큰 효과가 있다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "데미지 5% 증가\n일반 몬스터 20명 처치 시 자연의 도움 발동, 자연의 도움 발동 시 30초 동안 일반 몬스터 공격 시 데미지 11% 증가\n재발동 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNBJI.png"
+    },
+    {
+        "skill_name": "이네이트 기프트",
+        "skill_description": "[마스터 레벨 : 2]\r\n사막의 축복을 받아 공격 시 짧은 시간 동안 HP와 MP를 회복한다. 추가로 영구적으로 데미지가 증가한다. 이네이트 기프트는 재사용 대기시간 초기화, 재사용 대기시간 감소, 버프 지속시간 증가의 효과를 받지 않는다.",
+        "skill_level": 1,
+        "skill_effect": "데미지 5% 증가\n공격 시 100% 확률로 5초 동안 매초 최대 HP/MP의 2% 회복\n재발동 대기시간 30초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNDOE.png"
     }
 ]

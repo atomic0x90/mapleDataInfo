@@ -8,6 +8,13 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHPBIA.png"
     },
     {
+        "skill_name": "하이브리드 로직",
+        "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
+        "skill_level": 2,
+        "skill_effect": "모든 능력치 10% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
+    },
+    {
         "skill_name": "와일드 레이지",
         "skill_description": "[마스터 레벨 : 2]\r\n분노로 인해 데미지가 증가한다.",
         "skill_level": 2,
@@ -34,6 +41,13 @@
         "skill_level": 2,
         "skill_effect": "해방된 룬의 힘 지속시간 50% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCKJ.png"
+    },
+    {
+        "skill_name": "인텐시브 인썰트",
+        "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
+        "skill_level": 2,
+        "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     },
     {
         "skill_name": "전투의 흐름",
@@ -71,24 +85,10 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNDOE.png"
     },
     {
-        "skill_name": "하이브리드 로직",
-        "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
-        "skill_level": 1,
-        "skill_effect": "모든 능력치 10% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
-    },
-    {
         "skill_name": "콤보킬 어드밴티지",
         "skill_description": "[마스터 레벨 : 2]\r\n폴암의 정령 마하의 신비한 힘을 통해 콤보 플레이에 대한 축복을 받는다.",
         "skill_level": 1,
         "skill_effect": "영구적으로 콤보킬 구슬 경험치 획득량 650% 추가 획득",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCLA.png"
-    },
-    {
-        "skill_name": "인텐시브 인썰트",
-        "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
-        "skill_level": 1,
-        "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     }
 ]

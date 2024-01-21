@@ -99,13 +99,6 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJF.png"
     },
     {
-        "skill_name": "어드벤쳐러 큐리어스",
-        "skill_description": "[마스터 레벨 : 6]\r\n특유의 호기심을 발휘해 몬스터 컬렉션 등록 확률과 크리티컬 확률을 증가시킨다.\n몬스터 컬렉션 등록 확률은 기존 확률에 곱적용으로 적용된다.",
-        "skill_level": 1,
-        "skill_effect": "몬스터 컬렉션 등록 확률 35%, 크리티컬 확률 10% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGKG.png"
-    },
-    {
         "skill_name": "자연의 벗",
         "skill_description": "[마스터 레벨 : 2]\r\n주변의 자연과 친구가 되어 도움을 받는다. 신비한 자연의 힘을 견디지 못하는 약한 몬스터에게는 더 큰 효과가 있다.",
         "skill_level": 1,

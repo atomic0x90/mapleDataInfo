@@ -10,8 +10,8 @@
     {
         "skill_name": "소혼 장막 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n자신의 주위에 수많은 정령을 소환시켜 적을 공격한다.\n 좌우로 움직일 수 있으나 장막의 힘으로 이동속도가 고정된다.\n필요 스킬 : 소혼 장막 20레벨 이상",
-        "skill_level": 35,
-        "skill_effect": "공격당 MP 9 소비, 최대 4초 키다운하여 일정 간격마다 최대 10명의 적을 231%의 데미지로 5번 공격\n하나의 적에게는 최대 30번까지만 공격 발생\n재사용 대기시간 10초 ",
+        "skill_level": 40,
+        "skill_effect": "공격당 MP 9 소비, 최대 4초 키다운하여 일정 간격마다 최대 10명의 적을 237%의 데미지로 5번 공격\n하나의 적에게는 최대 30번까지만 공격 발생\n재사용 대기시간 10초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKDPBMB.png"
     },
     {

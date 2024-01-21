@@ -17,22 +17,22 @@
     {
         "skill_name": "리액션:디스트럭션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:자벨린 또는 크래프트:롱기누스에 닿으면 공명하여 크리스탈 주변의 적들에게 파괴적인 기운을 두 차례 내뿜는다.\n필요 스킬 : 리액션:디스트럭션 Ⅱ 20레벨 이상",
-        "skill_level": 23,
-        "skill_effect": "MP 187 소비, 최대 10명의 적을 929%의 데미지로 6번 공격하는 기운이 2번 발동, 보스 몬스터 공격 시 데미지 20% 증가\n재발동 대기시간 4초",
+        "skill_level": 25,
+        "skill_effect": "MP 187 소비, 최대 10명의 적을 953%의 데미지로 6번 공격하는 기운이 2번 발동, 보스 몬스터 공격 시 데미지 20% 증가\n재발동 대기시간 4초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPBMH.png"
     },
     {
         "skill_name": "리액션:도미네이션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:오브에 닿으면 공명하여 크리스탈 주변의 적들을 공격하고 공격한 적에게 커스 마크를 새긴다.\n필요 스킬 : 리액션:도미네이션 Ⅱ 20레벨 이상",
-        "skill_level": 23,
-        "skill_effect": "MP 58 소비, 최대 12명의 적을 699%의 데미지로 5번 공격\n재발동 대기시간 4초 ",
+        "skill_level": 25,
+        "skill_effect": "MP 58 소비, 최대 12명의 적을 723%의 데미지로 5번 공격\n재발동 대기시간 4초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPBMI.png"
     },
     {
         "skill_name": "글로리 윙:모탈 윙비트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n모든 마력을 날개 끝에 집중한 뒤 빠르게 회전하며 주변을 휩쓴다. 응집된 마력은 적에게 저주의 표식을 남긴다.\n추가로 크래프트:자벨린 VI와 글로리 윙:자벨린 VI의 인챈트 자벨린을 영구적으로 강화한다.\n글로리 윙 중 1회 사용 가능\n필요 스킬 : 글로리 윙:모탈 윙비트 30레벨 이상",
-        "skill_level": 23,
-        "skill_effect": "MP 160 소비, 최대 15명의 적을 1840%의 데미지로 15번 공격하는 마력 폭풍이 5번 발생\n[패시브 효과 : 인챈트 자벨린의 데미지 98%p 증가]",
+        "skill_level": 25,
+        "skill_effect": "MP 160 소비, 최대 15명의 적을 1880%의 데미지로 15번 공격하는 마력 폭풍이 5번 발생\n[패시브 효과 : 인챈트 자벨린의 데미지 106%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPBMJ.png"
     },
     {

@@ -10,29 +10,29 @@
     {
         "skill_name": "캐논 바주카 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n한계까지 화약을 압축시킨 포탄을 탑재한 강력한 캐논을 발사하여 전방의 적들을 초토화 시킨다.\n필요 스킬 : 캐논 바주카 30레벨 이상",
-        "skill_level": 32,
-        "skill_effect": "MP 79소비, 736% 데미지로 최대 8명의 적을 4번 공격",
+        "skill_level": 36,
+        "skill_effect": "MP 79소비, 752% 데미지로 최대 8명의 적을 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIDPBMB.png"
     },
     {
         "skill_name": "미니 캐논볼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n몽키와 함께 일정 거리를 상승한 후 폭발하는 미니 캐논볼을 날린다. 미니 캐논볼은 일정 시간마다 1개씩 충전된다.\n자동 사용 모드에서는 캐논 바주카, 캐논 버스터가 적중할 때마다 충전 개수를 소모하여 적중 위치에서 폭발을 일으킨다.\n자동 사용 모드 온오프 : 마우스 우클릭\n필요 스킬 : 미니 캐논볼 30레벨 이상",
-        "skill_level": 32,
-        "skill_effect": "MP 43 소비, 최대 8명의 적을 1433%의 데미지로 5번 공격\n폭탄은 4초 마다 1개씩 준비되며 최대 5개까지 소지 가능\n캐논 바주카 도중 사용 시 시전 동작 없음\n재사용 대기시간 0.50초",
+        "skill_level": 36,
+        "skill_effect": "MP 43 소비, 최대 8명의 적을 1471%의 데미지로 5번 공격\n폭탄은 4초 마다 1개씩 준비되며 최대 5개까지 소지 가능\n캐논 바주카 도중 사용 시 시전 동작 없음\n재사용 대기시간 0.50초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIDPBMC.png"
     },
     {
         "skill_name": "마그네틱 앵커 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전방에 강한 자기장을 생성하는 마그네틱 앵커를 설치한다. 마그네틱 앵커는 자기장을 이용하여 주변의 적을 지속적으로 끌어당기며, 소멸 시 폭발하며 주변의 적들에게 치명적인 데미지를 준다.\n마그네틱 앵커의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 마그네틱 앵커 30레벨 이상",
-        "skill_level": 32,
-        "skill_effect": "MP 57 소비, 65초 동안 마그네틱 앵커 설치\n마그네틱 앵커는 적을 끌어당기며 최대 8명의 적을 699%의 데미지로 공격\n소멸 시 최대 8명의 적을 970%의 데미지로 공격",
+        "skill_level": 36,
+        "skill_effect": "MP 58 소비, 65초 동안 마그네틱 앵커 설치\n마그네틱 앵커는 적을 끌어당기며 최대 8명의 적을 713%의 데미지로 공격\n소멸 시 최대 8명의 적을 990%의 데미지로 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIDPBMF.png"
     },
     {
         "skill_name": "전함 노틸러스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전함 노틸러스호에 공격 명령을 내려 적 다수를 동시에 공격한다. 전함 노틸러스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 전함 노틸러스 30레벨 이상",
-        "skill_level": 32,
-        "skill_effect": "MP 367 소비, 최대 15명의 적을 679%의 데미지로 5번 공격\n재사용 대기시간 30초",
+        "skill_level": 36,
+        "skill_effect": "MP 369 소비, 최대 15명의 적을 693%의 데미지로 5번 공격\n재사용 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIDPBMG.png"
     },
     {

@@ -45,8 +45,8 @@
     {
         "skill_name": "콤보 인스팅트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n콤보 인스팅트를 강화한다.",
-        "skill_level": 49,
-        "skill_effect": "콤보 인스팅트의 최종 데미지 49% 증가",
+        "skill_level": 50,
+        "skill_effect": "콤보 인스팅트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBMB.png"
     },
     {

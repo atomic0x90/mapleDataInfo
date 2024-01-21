@@ -66,7 +66,7 @@
     {
         "skill_name": "프라이어 프리퍼레이션",
         "skill_description": "[마스터 레벨 : 2]\r\n적을 확실하게 처리하기 위한 사전 준비를 한다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "적 8명 처치, 혹은 보스 몬스터에게 5번 공격 적중 시 사전 준비 1번 완료, 사전 준비를 5번 마치면 20초 동안 데미지 17% 증가\n재발동 대기시간 40초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNBNF.png"
     },
@@ -83,13 +83,6 @@
         "skill_level": 2,
         "skill_effect": "데미지 5% 증가\n공격 시 100% 확률로 5초 동안 매초 최대 HP/MP의 2% 회복\n재발동 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNDOE.png"
-    },
-    {
-        "skill_name": "데들리 인스팅트",
-        "skill_description": "[마스터 레벨 : 2]\r\n뛰어난 통찰력을 통해 적의 치명적인 약점을 찾아내는 본성을 가지고 있다.",
-        "skill_level": 1,
-        "skill_effect": "크리티컬 확률 15% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBMC.png"
     },
     {
         "skill_name": "콤보킬 어드밴티지",
