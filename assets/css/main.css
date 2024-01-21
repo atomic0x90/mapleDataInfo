@@ -4,6 +4,7 @@
 	--regray: #ccc;
 	--white: #fff;
 	--backorange: #ffe9cc;
+	--blue: #11c1ff;
 }
 
 .class-img-hero:hover,
@@ -746,6 +747,34 @@ progress::-webkit-progress-bar{
 
 body{
 	margin: 0;
+	padding-top: 60px;
+}
+
+#main-top{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#main-top > img{
+	max-height: 150px;
+}
+
+#page-explanation > .page-title{
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+#page-explanation > ul > li{
+	font-size: 16px;
+}
+
+#page-explanation > ul > li::before{
+	content: "•";
+	margin-right: 8px;
+	color: var(--blue);
+	font-size: 1.5em;
 }
 
 #main{
@@ -867,5 +896,13 @@ body{
 	}
 	#footer{
 		display: block;
+	}
+
+	#page-explanation{
+		font-size: 24px;
+	}
+
+	#main-top > img{
+display: none;
 	}
 }
