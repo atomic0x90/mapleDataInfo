@@ -18,7 +18,7 @@ async function characterID(world_type = 0, characterClass = ""){
 		const fileData = await fs.readFile(filePath, 'utf-8');
 		const rankingOverallDataArray = JSON.parse(fileData);
 
-		for(var i = 0;i < 2/*rankingOverallDataArray.length*/;i++){
+		for(var i = 0;i < rankingOverallDataArray.length;i++){
 			const queryParams = new URLSearchParams({
 				character_name: rankingOverallDataArray[i].character_name
 			});
