@@ -108,7 +108,7 @@
     {
         "skill_name": "시그너스 블레스",
         "skill_description": "[마스터 레벨 : 10]\r\n각성한 여제의 가호가 몸에 깃들어 적의 위협으로부터 벗어난다.",
-        "skill_level": 67,
+        "skill_level": 66,
         "skill_effect": "공격력과 마력 25, 상태 이상 내성 15, 모든 속성 내성 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJF.png"
     },
