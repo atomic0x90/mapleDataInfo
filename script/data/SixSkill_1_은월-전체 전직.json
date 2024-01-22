@@ -1,72 +1,72 @@
-2
+200
 [
     {
         "skill_name": "귀참 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령을 강령시켜, 전방에 있는 다수의 적을 빠르게 할퀴어 공격한다.\n필요 스킬 : 귀참 30레벨 이상",
-        "skill_level": 60,
+        "skill_level": 4460,
         "skill_effect": "MP 130 소비, 최대 4명의 적을 475%의 데미지로 12번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKDPBMA.png"
     },
     {
         "skill_name": "소혼 장막 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n자신의 주위에 수많은 정령을 소환시켜 적을 공격한다.\n 좌우로 움직일 수 있으나 장막의 힘으로 이동속도가 고정된다.\n필요 스킬 : 소혼 장막 20레벨 이상",
-        "skill_level": 40,
-        "skill_effect": "공격당 MP 9 소비, 최대 4초 키다운하여 일정 간격마다 최대 10명의 적을 237%의 데미지로 5번 공격\n하나의 적에게는 최대 30번까지만 공격 발생\n재사용 대기시간 10초 ",
+        "skill_level": 2525,
+        "skill_effect": "공격당 MP 9 소비, 최대 4초 키다운하여 일정 간격마다 최대 10명의 적을 240%의 데미지로 5번 공격\n하나의 적에게는 최대 30번까지만 공격 발생\n재사용 대기시간 10초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKDPBMB.png"
     },
     {
         "skill_name": "호신강림",
         "skill_description": "[마스터 레벨 : 30]\r\n여우구슬의 힘을 빌어 여우신의 힘이 담긴 무공을 각성한다. 여우신의 가호를 받아 일정 시간 동안 최종 데미지가 증가하고 귀참, 여우령, 진 귀참이 호신연참, 환여우령, 여우신의 현신으로 강화된다. 여우신의 힘으로 호신강림 지속 중 1회에 한해 소혼 장막 사용 시 소혼 장막이 제자리에 고정된다.\n호신연참은 적의 어떠한 공격에도 밀려나지 않으며 호신강림, 환여우령, 여우신의 현신은 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 60,
+        "skill_level": 3297,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 960%의 데미지로 12번 공격하는 각성이 16회 발동\n40초 동안 최종 데미지 10% 증가 및 무공 강화, 소혼 장막 사용 시 1회에 한해 제자리 고정, 재사용 대기시간 13초 적용\n호신연참\n1타 : MP 70 소비, 최대 10명의 적을 745%의 데미지로 8번 공격\n2타 : MP 70 소비, 최대 10명의 적을 745%의 데미지로 8번 공격\n3타 : MP 80 소비, 최대 10명의 적을 795%의 데미지로 10번 공격\n환여우령 : 공격 시 40% 확률로 생성, 360%의 데미지로 공격, 최대 3회 공격\n여우신의 현신 : 최대 15명의 적을 440%의 데미지로 13번 공격하는 여우신의 힘이 3회 발동, 환여우령 6개 추가 생성, 재발동 대기시간 6초, 진 귀참과 재발동 대기시간 공유\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 11,
+        "skill_level": 1170,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 10% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 11,
+        "skill_level": 1170,
         "skill_effect": "최대 HP의 10% 소비\n60초 동안 순환의 고리 소환, 최대 1개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 400%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "정령 집속 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n정령 집속을 강화한다.",
-        "skill_level": 60,
+        "skill_level": 2128,
         "skill_effect": "정령 집속의 지속시간 90초로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFG.png"
     },
     {
         "skill_name": "귀문진 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n귀문진을 강화한다.",
-        "skill_level": 55,
+        "skill_level": 714,
         "skill_effect": "귀문진의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFH.png"
     },
     {
         "skill_name": "진 귀참 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n진 귀참을 강화한다.",
-        "skill_level": 40,
+        "skill_level": 995,
         "skill_effect": "진 귀참의 최종 데미지 40% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFI.png"
     },
     {
         "skill_name": "파쇄 연권 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n파쇄 연권을 강화한다.",
-        "skill_level": 45,
+        "skill_level": 570,
         "skill_effect": "파쇄 연권의 최종 데미지 40% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFJ.png"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 2,
+        "skill_level": 198,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     }

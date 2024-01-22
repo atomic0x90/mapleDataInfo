@@ -1,65 +1,65 @@
-2
+197
 [
     {
         "skill_name": "디바인 차지-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 데미지를 증가시킨다.",
-        "skill_level": 2,
+        "skill_level": 115,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJG.png"
     },
     {
         "skill_name": "디바인 차지-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 0,
+        "skill_level": 1,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJH.png"
     },
     {
         "skill_name": "디바인 차지-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 공격 횟수를 증가시킨다.",
-        "skill_level": 2,
+        "skill_level": 126,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJI.png"
     },
     {
         "skill_name": "블래스트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블래스트의 데미지를 증가시킨다.",
-        "skill_level": 2,
+        "skill_level": 189,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBIG.png"
     },
     {
         "skill_name": "블래스트-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n블래스트의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 0,
+        "skill_level": 1,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBIH.png"
     },
     {
         "skill_name": "블래스트-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블래스트의 공격 횟수를 증가시킨다.",
-        "skill_level": 2,
+        "skill_level": 186,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBII.png"
     },
     {
         "skill_name": "생츄어리-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 데미지를 증가시킨다.",
-        "skill_level": 0,
+        "skill_level": 75,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBIJ.png"
     },
     {
         "skill_name": "생츄어리-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 2,
+        "skill_level": 195,
         "skill_effect": "재사용 대기시간 30% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJB.png"
     },
     {
         "skill_name": "생츄어리-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 공격 횟수를 증가시킨다.",
-        "skill_level": 0,
+        "skill_level": 97,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJA.png"
     }
