@@ -53,7 +53,7 @@ async function responseData(characterOCID){
 			headers: headers
 		});
 
-		await timeSleep(1000);
+		await timeSleep(100);
 
 		return await answer.json();
 
@@ -102,7 +102,7 @@ async function run(){
 	for (var i = 0; i < jobs.length; i++) {
 		await sixSkill(0, jobs[i]);
 		await sixSkill(1, jobs[i]);
-		await timeSleep(1000);
+//		await timeSleep(1000);
 	}
 }
 
