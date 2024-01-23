@@ -3,14 +3,14 @@
     {
         "skill_name": "로얄 가드-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 소울 실드의 로얄 가드 성공 시 효과를 강화하여 로얄 가드 성공 시 최대 HP의 일정 비율로 피해를 입히는 공격의 피해 감소 비율이 증가한다.\n필요 스킬 : 어드밴스드 소울 실드 10레벨 이상",
-        "skill_level": 130,
+        "skill_level": 131,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBID.png"
     },
     {
         "skill_name": "로얄 가드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n로얄 가드의 방어율 무시를 증가시킨다.",
-        "skill_level": 53,
+        "skill_level": 54,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBIE.png"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "샤이닝 크로스-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n샤이닝 크로스, 샤이닝 크로스-어썰트의 방어율 무시를 증가시킨다.",
-        "skill_level": 176,
+        "skill_level": 177,
         "skill_effect": "몬스터 방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBJH.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "인스톨 실드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n인스톨 실드의 데미지를 증가시킨다.",
-        "skill_level": 174,
+        "skill_level": 173,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBIJ.png"
     },
     {
         "skill_name": "인스톨 실드-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n인스톨 실드의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 33,
+        "skill_level": 32,
         "skill_effect": "최대 공격 가능한 몬스터 수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBJA.png"
     },
     {
         "skill_name": "인스톨 실드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n인스톨 실드의 지속시간을 증가시킨다.",
-        "skill_level": 11,
+        "skill_level": 10,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBJB.png"
     }
