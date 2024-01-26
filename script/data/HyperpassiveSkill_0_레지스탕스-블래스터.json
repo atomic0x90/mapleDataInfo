@@ -24,14 +24,14 @@
     {
         "skill_name": "릴리즈 파일 벙커-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커의 데미지를 증가시킨다.",
-        "skill_level": 133,
+        "skill_level": 134,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIG.png"
     },
     {
         "skill_name": "릴리즈 파일 벙커-쇼크 웨이브 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커로 발생하는 충격파의 데미지를 증가시킨다.",
-        "skill_level": 161,
+        "skill_level": 160,
         "skill_effect": "데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIH.png"
     },

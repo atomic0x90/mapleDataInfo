@@ -1,86 +1,86 @@
-186
+189
 [
     {
         "skill_name": "매그넘 펀치 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n건틀렛 리볼버의 폭발력을 이용하여 전방에 더욱 강력해진 스트레이트 펀치를 내지른다. 스킬 사용 시 리볼빙 캐논이 자동으로 발동된다. 더블 팡 Ⅵ, 버닝 브레이커로 연계 가능하다.\n필요 스킬 : 매그넘 펀치 20레벨 이상",
-        "skill_level": 3913,
+        "skill_level": 3887,
         "skill_effect": "MP 21 소비, 최대 7명의 적을 985%의 데미지로 3번 공격\n매그넘 펀치 VI 사용 시 리볼빙 캐논이 자동 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKDPBMA.png"
     },
     {
         "skill_name": "더블 팡 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n건틀렛 리볼버의 추진력을 이용하여 전방에 더욱 강력해진 2단 콤비네이션을 가한다. 스킬을 배운 뒤 매그넘 펀치 Ⅵ 버튼을 연타해도 사용할 수 있다. 스킬 사용 시 리볼빙 캐논이 자동으로 발동된다. 더킹, 해머 스매시, 스웨이, 쇼크 웨이브 펀치, 버닝 브레이커로 연계 가능하다.\n필요 스킬 : 더블 팡 20레벨 이상",
-        "skill_level": 3913,
+        "skill_level": 3887,
         "skill_effect": "MP 27 소비, 최대 7명의 적을 835%의 데미지로 4번 공격\n더블 팡 VI 사용 시 리볼빙 캐논이 자동 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKDPBMB.png"
     },
     {
         "skill_name": "릴리즈 파일 벙커 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n축적한 실린더를 한 번에 터뜨려 파일 벙커를 꽂아 넣는다. 파일 벙커는 폭발을 수반한 충격파를 발생시키고 일정 횟수 사용 시 완충된 실린더에서 강력한 폭발을 발생시킬 수 있는 버스트 파일 벙커를 사용할 수 있다.\n파일 벙커를 이용한 직접 공격은 몬스터의 방어율을 추가 무시한다.\n스킬 사용 시 실린더 게이지에 따라 다중 충격파가 발생하여 가까운 적일수록 더 많은 피해를 입힌다. 실린더 게이지가 최소 3칸이 쌓여야만 사용 가능하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 릴리즈 파일 벙커 10레벨 이상, 리볼빙 캐논 업그레이드 III 20레벨 이상",
-        "skill_level": 905,
+        "skill_level": 914,
         "skill_effect": "사용 시 파일 벙커를 이용해 최대 10명의 적을 8번 직접 공격\n이후 최대 10명의 적을 6번 공격하는 충격파 발생\n실린더 게이지에 따라 직접 공격의 데미지가 달라지고 더 많은 충격파 발생\n릴리즈 파일 벙커 5회 사용 시 버스트 파일 벙커 사용 가능 상태로 돌입\n[실린더 게이지 3칸] 515%의 데미지로 직접 공격\n662%의 데미지의 충격파A 발생\n[실린더 게이지 4칸] 589%의 데미지로 직접 공격\n충격파A 발생 후 524% 데미지의 충격파B 추가 발생\n[실린더 게이지 5칸] 732%의 데미지로 직접 공격\n충격파 A, B 발생 후 534% 데미지의 충격파C 추가 발생\n[실린더 게이지 6칸] 1145%의 데미지로 직접 공격\n충격파 A, B, C 발생 후 720% 데미지의 충격파D 추가 발생\n사용 후 7초 동안 과열되어 실린더 게이지가 최대치가 되며 실린더 게이지 충전 및 릴리즈 파일 벙커 사용 불가, 이후 실린더 게이지 초기화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKDPBMC.png"
     },
     {
         "skill_name": "버스트 파일 벙커",
         "skill_description": "[마스터 레벨 : 30]\r\n누적된 폭발로 실린더에 쌓인 열기로 강력한 위력의 다중 폭발을 발생시켜 적에게 꽂아넣는다.\n릴리즈 파일 벙커 VI를 일정 횟수 사용한 상태에서 실린더 게이지가 6칸일 때 사용 가능하다.\n버스트 파일 벙커는 몬스터의 방어율을 추가로 무시하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 릴리즈 파일 벙커 10레벨 이상, 리볼빙 캐논 업그레이드 III 20레벨 이상",
-        "skill_level": 905,
+        "skill_level": 914,
         "skill_effect": "실린더 게이지 6칸 필요\n최대 10명의 적을 780%의 데미지로 10번 공격하는 초강력 폭발이 6번 발생\n버스트 파일 벙커는 충격파를 발생시키지 않음\n사용 후 7초 동안 과열되어 실린더 게이지가 최대치가 되며 실린더 게이지 충전 및 릴리즈 파일 벙커 사용 불가, 이후 실린더 게이지 초기화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKDPBMH.png"
     },
     {
         "skill_name": "파이널 디스트로이어",
         "skill_description": "[마스터 레벨 : 30]\r\n건틀렛 리볼버의 화력을 한계까지 끌어올려 공중으로 날아오른 후 모든 것을 파괴한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 2109,
+        "skill_level": 2082,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1500%의 데미지로 10번 공격하는 열기가 43회 발생\n이후 최대 15명의 적을 1550%의 데미지로 14번 공격하는 폭발 30회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 1025,
+        "skill_level": 1041,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 1025,
+        "skill_level": 1041,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "벙커 버스터 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n벙커 버스터를 강화한다.",
-        "skill_level": 760,
-        "skill_effect": "벙커 버스터의 최종 데미지 45% 증가",
+        "skill_level": 755,
+        "skill_effect": "벙커 버스터의 최종 데미지 46% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOI.png"
     },
     {
         "skill_name": "발칸 펀치 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n발칸 펀치를 강화한다.",
-        "skill_level": 595,
+        "skill_level": 585,
         "skill_effect": "발칸 펀치의 최종 데미지 40% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOJ.png"
     },
     {
         "skill_name": "버닝 브레이커 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n버닝 브레이커를 강화한다.",
-        "skill_level": 1242,
+        "skill_level": 1217,
         "skill_effect": "버닝 브레이커의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPA.png"
     },
     {
         "skill_name": "애프터이미지 쇼크 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n애프터이미지 쇼크를 강화한다.",
-        "skill_level": 1102,
+        "skill_level": 1083,
         "skill_effect": "애프터이미지 쇼크의 최종 데미지 40% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPB.png"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 183,
+        "skill_level": 184,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     },
@@ -94,14 +94,14 @@
     {
         "skill_name": "소울 시커 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n에스카다가 가진 힘의 정수를 응축시켜 적에게 날린다. 응축된 정수는 주변의 적을 자동으로 추적한다. 소울 시커는 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n필요 스킬 : 소울 시커 엑스퍼트 10레벨 이상",
-        "skill_level": 22,
-        "skill_effect": "MP 23 소비, 2개의 응축된 정수 생성\n정수는 최대 공격횟수 제한을 채우거나, 사라질 때까지 적을 408%의 데미지로 1번 공격\n적중 시 85% 확률로 정수가 재생성되고 최대 7번까지 공격",
+        "skill_level": 23,
+        "skill_effect": "MP 23 소비, 2개의 응축된 정수 생성\n정수는 최대 공격횟수 제한을 채우거나, 사라질 때까지 적을 411%의 데미지로 1번 공격\n적중 시 85% 확률로 정수가 재생성되고 최대 7번까지 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJHKDPBMB.png"
     },
     {
         "skill_name": "소울 시커 엑스퍼트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n석세서, 소울 시커, 스포트라이트를 제외한 자신의 공격 스킬 적중 시 일정 확률로 소울 시커가 자동으로 생성된다. 소울 시커는 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 소울 시커 엑스퍼트 10레벨 이상",
-        "skill_level": 22,
+        "skill_level": 23,
         "skill_effect": "석세서, 소울 시커, 스포트라이트를 제외한 엔젤릭버스터의 스킬로 공격 시 36% 확률로 소울 시커 생성\n프라이멀 로어 및 트리니티는 생성 확률 25% 추가 증가\n자동으로 생성된 소울 시커는 직접 생성한 소울 시커 스킬 데미지의 75%로 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJHKDPBMC.png"
     },
@@ -139,5 +139,117 @@
         "skill_level": 1,
         "skill_effect": "트리니티 퓨전의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAJB.png"
+    },
+    {
+        "skill_name": "이슈타르의 링 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n전설의 무기 이슈타르의 힘을 빌려 빠른 속도로 화살을 전방의 적에게 발사한다. 화살은 적을 관통하며 스킬 키를 누르고 있으면 지속적으로 발사된다.\n적중 시 적에게 이슈타르의 낙인을 새긴다. 이슈타르의 낙인은 직접 공격하는 스킬이 일정 횟수 이상 적중 시 하나씩 채워진다. 낙인이 채워질 때마다 정령이 적을 공격하고, 낙인 완성 시 더욱 강하게 공격한다.\n엘리멘탈 고스트의 잔상도 이슈타르의 낙인을 완성할 수 있으며, 이슈타르의 낙인은 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 이슈타르의 링 30레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "공격당 MP 12 소비, 최대 4명의 적을 525%의 데미지로 2번의 공격\n공격 적중 시 이그니스 로어의 지속시간 0.1초 증가\n공격 적중 시 적에게 90초 동안 이슈타르의 낙인을 새김\n이슈타르의 낙인 : 직접 공격하는 스킬 6번 적중 시 증가, 이슈타르의 링 VI, 이르칼라의 숨결은 12번 적중 시 증가\n낙인이 채워질 때마다 610%의 데미지로 3번 추가 공격\n낙인 완성 시 740%의 데미지로 8번 추가 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPBMA.png"
+    },
+    {
+        "skill_name": "래쓰 오브 엔릴 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n엔릴의 분노를 적에게 퍼붓는다. 보스 몬스터 공격 시 일정 시간 공격 당한 적과 충돌을 무시하는 디버프를 적용한다.\n일정 시간마다 고대 정령의 힘이 깃들어 래쓰 오브 엔릴 VI : 스피릿 인챈트로 강화된다.\n차지 드라이브, 스트라이크 듀얼샷, 유니콘 스파이크, 레전드리 스피어, 라이트닝 엣지와 연계 가능하다.\n추가로 이슈타르의 낙인을 영구히 강화한다.\n필요 스킬 : 래쓰 오브 엔릴 1레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 202 소비, 최대 10명의 적을 570%의 데미지로 10번 공격\n보스 몬스터 공격 시 보스와의 충돌을 무시하는 디버프가 60초 동안 발생\n재사용 대기시간 8초\n연계 스킬 사용 시 재사용 대기시간 1초 감소\n12초마다 래쓰 오브 엔릴 VI : 스피릿 인챈트로 강화\n[패시브 효과 : 이슈타르의 낙인 생성 데미지 44%p 증가, 이슈타르의 낙인 완성 데미지 94%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPBMD.png"
+    },
+    {
+        "skill_name": "레전드리 스피어 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n도약과 동시에 전설의 창을 떨어트려 적을 공격한다. 스킬 사용 중 적의 어떠한 공격에도 밀려나지 않으며 적중한 적에게 방어율을 일정 수준 무시하는 디버프를 적용한다.\n일정 시간마다 고대 정령의 힘이 깃들어 레전드리 스피어 VI : 스피릿 인챈트로 강화된다.\n리프 토네이도, 거스트 다이브, 롤링 문썰트, 래쓰 오브 엔릴과 연계 가능하다.\n필요 스킬 : 레전드리 스피어 20레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 60 소비, 최대 12명의 적을 719%의 데미지로 4번 크리티컬 공격\n60초 동안 적중한 적의 방어율 35% 감소 효과 적용\n재사용 대기시간 5초\n연계 스킬 사용 시 재사용 대기시간 1초 감소\n12초마다 레전드리 스피어 VI : 스피릿 인챈트로 강화",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPBMF.png"
+    },
+    {
+        "skill_name": "리프 토네이도 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n공중에서 빠르게 몸을 회전하면서 사방에 화살을 난사한다. 공중에서만 사용 가능하며 스킬은 반드시 일정 높이 이상에서만 사용할 수 있고 거스트 다이브에 연계하여 사용 시에는 더 높은 높이가 필요하다. \n일정 시간마다 고대 정령의 힘이 깃들어 리프 토네이도 VI : 스피릿 인챈트로 강화된다.\n거스트 다이브, 레전드리 스피어, 래쓰 오브 엔릴로 연계 가능하다.\n필요 스킬 : 리프 토네이도 20레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 45 소비, 최대 8명의 적을 528%의 데미지로 4번 공격\n6초마다 리프 토네이도 VI : 스피릿 인챈트로 강화",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPBMH.png"
+    },
+    {
+        "skill_name": "언페이딩 글로리",
+        "skill_description": "[마스터 레벨 : 30]\r\n백성을 위하는 왕의 숭고한 마음이 위대한 정신 및 고대의 정령왕의 인정을 받는다. 위대한 정신과 고대 정령왕의 힘이 싸울 운명을 가진 자의 무기에 깃들어 마법 화살과 함께 방출된다.\n방출된 정령의 힘은 일정 시간 동안 정령왕을 모방한 형상으로 빚어져 함께 전투한다. 정령왕의 형상이 존재할 때 스킬키 재입력 시 현재 위치를 기준으로 정령왕의 형상을 재소환할 수 있다.\n언페이딩 글로리 시전 중에는 실피디아가 지속시간으로 종료되지 않으며, 정령왕의 형상은 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 30,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n위대한 정신과 고대 정령왕의 가호로 최대 15명의 적을 840%의 데미지로 10번 공격하는 파동이 36회 발생, 무기에 깃든 가호가 방출되며 870%의 데미지로 15번 공격하는 충돌이 28회 발생\n이후 60초 동안 정령의 힘이 정령왕의 형상으로 빚어져 소환, 재소환 대기시간 3초\n정령왕의 형상은 최대 12명의 적을 2200%의 데미지로 15번 공격\n이슈타르의 낙인이 완성되면 이슈타르의 힘이 더해져 다음 공격이 강화 공격으로 발동\n강화 공격 : 1440%의 데미지로 15번 공격하는 파동이 4회 발생, 재발동 대기시간 2초\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPEMA.png"
+    },
+    {
+        "skill_name": "엘리멘탈 고스트 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n엘리멘탈 고스트를 강화한다.",
+        "skill_level": 19,
+        "skill_effect": "엘리멘탈 고스트의 최종 데미지 34% 증가, 잔상의 최종 데미지 반영률 70%로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBEI.png"
+    },
+    {
+        "skill_name": "실피디아 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n실피디아를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "실피디아의 최종 데미지 11% 증가, 지속 중 최종 데미지 1% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBEJ.png"
+    },
+    {
+        "skill_name": "이르칼라의 숨결 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n이르칼라의 숨결을 강화한다.",
+        "skill_level": 30,
+        "skill_effect": "이르칼라의 숨결의 최종 데미지 60% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFA.png"
+    },
+    {
+        "skill_name": "로얄 나이츠 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n로얄 나이츠를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "로얄 나이츠의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFB.png"
+    },
+    {
+        "skill_name": "천공의 노래 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n하늘에 울려 퍼지는 거센 바람의 노래를 연주하여 적들을 휘몰아친다.\n필요 스킬 : 천공의 노래 30레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "공격당 MP 10 소비, 최대 4명의 적을 발당 666%의 데미지로 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOBKDPBMA.png"
+    },
+    {
+        "skill_name": "트라이플링 윔 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령이 매우 큰 변덕을 부려 적들의 육체와 정신을 붕괴시킨다.\n정령의 기운은 윈드브레이커가 바라보는 방향의 일정 영역으로 발생한다. 단, 일부 스킬로 타격 시 바라보는 방향과 관계없이 발생한다.\n범위 내 최대 HP가 가장 높은 보스 몬스터를 무조건 포함하여 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 트라이플링 윔 III 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "적을 타격할 때 50% 확률로 정령의 기운이 최대 5개 발생하여 322%의 데미지로 주위의 적을 랜덤하게 공격\n 20% 확률로 431%의 데미지를 주는 강화된 정령의 기운 발생",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOBKDPBMB.png"
+    },
+    {
+        "skill_name": "미스트랄 스프링",
+        "skill_description": "[마스터 레벨 : 30]\r\n강력한 바람의 기운을 품고 있는 에메랄드에 호기심 많은 정령들이 이끌려 돌풍이 이는 바람의 샘이 생성된다.\n일정 시간마다 신난 바람의 정령이 돌풍을 타고 분출되어 주변의 적을 공격한다.\n바람의 샘이 존재할 때 스킬키 재입력 시 현재 위치를 기준으로 바람의 샘을 재소환할 수 있다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 5,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n에메랄드에 깃든 정령의 기운으로 최대 15명의 적을 970%의 데미지로 10번 공격하는 바람의 칼날이 13회 발생\n공격 종료 후 20초 동안 바람의 샘이 정령의 기운을 생성하여 적을 공격\n재설치 대기시간 3초\n정령의 기운 : 770%의 데미지로 5번 공격하는 정령의 기운 13개 생성\n신난 정령의 기운 : 840%의 데미지로 6번 공격하는 신난 정령의 기운 5개 생성\n거센 정령의 기운 : 750%의 데미지로 7번 공격하는 거센 정령의 기운 3개 생성\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOBKDPEMA.png"
+    },
+    {
+        "skill_name": "하울링 게일 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n하울링 게일을 강화한다.",
+        "skill_level": 9,
+        "skill_effect": "하울링 게일의 최종 데미지 19% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKI.png"
+    },
+    {
+        "skill_name": "아이들 윔 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n아이들 윔을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "아이들 윔의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKJ.png"
+    },
+    {
+        "skill_name": "윈드 월 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n윈드 월을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "윈드 월의 최종 데미지 11%, 엘리멘트 개수 304개, 지속시간 46초로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLA.png"
+    },
+    {
+        "skill_name": "볼텍스 스피어 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n볼텍스 스피어를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "볼텍스 스피어의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLB.png"
     }
 ]

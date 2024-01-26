@@ -3,70 +3,70 @@
     {
         "skill_name": "쿼드러플 스로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n4개의 표창을 연속으로 던진다. 표창은 최대 HP가 높은 몬스터를 우선 공격한다. 일정 횟수 적중 후 사용 시 번개의 힘을 담은 날카로운 수리검을 던진다.\n필요 스킬 : 쿼드러플 스로우 30레벨 이상",
-        "skill_level": 5368,
+        "skill_level": 5238,
         "skill_effect": "MP 35 소비, 표창 4개 소비, 750%의 데미지로 4번 공격, 공격 3번 적중 시 다음 공격 강화 쿼드러플 스로우 VI 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKDPBMA.png"
     },
     {
         "skill_name": "마크 오브 어쌔신 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n적을 공격 시 일정 확률로 암살자의 표식을 새긴다. 표식이 있는 적을 한차례 더 공격하면 적으로부터 표창이 나와 주위 적을 공격한다.\n표창은 최대 HP가 가장 높은 적을 우선하여 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 마크 오브 나이트로드 10레벨 이상",
-        "skill_level": 3220,
-        "skill_effect": "공격 시 65% 확률로 암살자의 표식을 남기고 해당 적 다시 공격 시 543% 데미지의 표창 3개 생성하여 발사",
+        "skill_level": 3197,
+        "skill_effect": "공격 시 65% 확률로 암살자의 표식을 남기고 해당 적 다시 공격 시 551% 데미지의 표창 3개 생성하여 발사",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKDPBMC.png"
     },
     {
         "skill_name": "생사여탈",
         "skill_description": "[마스터 레벨 : 30]\r\n영겁의 시공에 적을 가두어 모든 생명체의 생사여탈권을 쥔다. 영겁의 시공에서 생성되는 표창은 최대 HP가 가장 높은 보스 몬스터를 우선 추적하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n색상 연출 온오프 : 마우스 우클릭\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1804,
+        "skill_level": 1761,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 980%의 데미지로 7번 공격하는 참격이 33회 발생\n60초 동안 임의의 경로를 지나며 968%의 데미지로 최대 15명의 적을 7번 공격하는 거대 표창 5개 생성\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 1800,
+        "skill_level": 1758,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 10% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 1800,
+        "skill_level": 1758,
         "skill_effect": "최대 HP의 10% 소비\n60초 동안 순환의 고리 소환, 최대 1개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 400%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "스프레드 스로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스프레드 스로우를 강화한다.",
-        "skill_level": 4061,
+        "skill_level": 3940,
         "skill_effect": "스프레드 스로우의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPG.png"
     },
     {
         "skill_name": "풍마수리검 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n풍마수리검을 강화한다.",
-        "skill_level": 835,
+        "skill_level": 784,
         "skill_effect": "풍마수리검의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPH.png"
     },
     {
         "skill_name": "다크로드의 비전서 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크로드의 비전서를 강화한다.",
-        "skill_level": 978,
+        "skill_level": 928,
         "skill_effect": "다크로드의 비전서의 최종 데미지 19% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPI.png"
     },
     {
         "skill_name": "스로우 블래스팅 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스로우 블래스팅을 강화한다.",
-        "skill_level": 5014,
+        "skill_level": 4881,
         "skill_effect": "스로우 블래스팅의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPJ.png"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 190,
+        "skill_level": 189,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     },
@@ -127,6 +127,118 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBNF.png"
     },
     {
+        "skill_name": "피스트 인레이지 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[격투 스킬] 전방으로 소나기와 같은 펀치를 퍼붓는다.\n서펜트 어썰트 인레이지가 발동할 경우 일정 시간 동안 강력한 충격파를 발생시키는 슈퍼 피스트 인레이지로 변경된다.\n씨 서펜트 인레이지 또는 써펜트 어썰트 인레이지만을 발동시킨다.\n충격파는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 피스트 인레이지 30레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "MP 47 소비, 최대 4명의 적을 371%의 데미지로 10번 공격, 서펜트 어썰트 인레이지 발동 시 10초 동안 슈퍼 피스트 인레이지 사용 가능 \n슈퍼 피스트 인레이지 : MP 47 소비, 최대 4명의 적을 207%의 데미지로 3번 공격 이후 최대 4명의 적을 371%의 데미지로 10번 공격하는 충격파 발생 ",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKDPBMA.png"
+    },
+    {
+        "skill_name": "씨 서펜트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n수룡의 힘을 완전히 체득한다.\n수룡 스킬이 씨 서펜트 VI와 씨 서펜트 인레이지 VI로 강화된다.\n필요 스킬 : 씨 서펜트 강화 II 20레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "수룡 스킬 발동 시 MP 40 소비\n씨 서펜트 버스트 VI\n최대 8명의 적을 483%의 데미지로 8번 공격\n재사용 대기시간 6초\n씨 서펜트 인레이지 VI\nMP 40 소비, 최대 6명의 적을 493%의 데미지로 6번 공격\n서펜트 마크가 남은 적은 30초 동안 바이퍼의 공격에 받는 최종 데미지 20% 증가\n재사용 대기시간 4초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKDOBME.png"
+    },
+    {
+        "skill_name": "전함 노틸러스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n전함 노틸러스호에 공격 명령을 내려 다수의 적을 동시에 공격한다.\n전함 노틸러스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 스킬 습득 후 자신이 직접 공격하는 스킬로 공격 시 추가 공격을 한다.\n필요 스킬 : 전함 노틸러스 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 356 소비, 최대 15명의 적을 511%의 데미지로 7번 공격\n[파이널 어택류 스킬] 써머솔트 킥, 스크류 펀치, 피스트 인레이지, 퓨리어스 차지, 하울링 피스트, 리버레이트 넵투누스로 공격 시 100% 확률로 211%의 데미지로 2번 추가 공격\n넵투누스 인레이지에 의해서는 발동하지 않음\n재사용 대기시간 60초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKDPBMJ.png"
+    },
+    {
+        "skill_name": "리버레이트 넵투누스",
+        "skill_description": "[마스터 레벨 : 30]\r\n심연의 바다에 잠들어 있던 최초의 수룡 넵투누스를 깨운다.\n격투 스킬과 서펜트 스크류를 제외한 5차 스킬 사용 시 넵투누스가 전방의 적을 휩쓴다. 넵투누스의 공격은 씨 서펜트 활성화 상태에서만 발동하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 4,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최초의 수룡 넵투누스가 깨어나며 최대 15명의 적을 782%의 데미지로 13번 공격하는 파동이 4회 발생 후, 646%의 데미지로 15번 공격하는 바다의 분노가 22회 발생\n30초 동안 격투 스킬과 서펜트 스크류를 제외한 5차 스킬 사용 시 넵투누스 인레이지 발동\n넵투누스 인레이지 : 재발동 대기시간 4초\n1타 : 최대 10명의 적을 978%의 데미지로 12번 공격\n2타 : 최대 10명의 적을 1020%의 데미지로 13번 공격\n3타 : 최대 10명의 적을 1088%의 데미지로 15번 공격\n4타 : 최대 10명의 적을 1088%의 데미지로 15번 공격\n5타 : 최대 10명의 적을 1244%의 데미지로 15번 공격\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKDPEMA.png"
+    },
+    {
+        "skill_name": "라이트닝 폼 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n라이트닝 폼을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "라이트닝 폼의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBII.png"
+    },
+    {
+        "skill_name": "서펜트 스크류 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n서펜트 스크류를 강화한다.",
+        "skill_level": 10,
+        "skill_effect": "서펜트 스크류의 최종 데미지 25% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIJ.png"
+    },
+    {
+        "skill_name": "퓨리어스 차지 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n퓨리어스 차지를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "퓨리어스 차지의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJA.png"
+    },
+    {
+        "skill_name": "하울링 피스트 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n하울링 피스트를 강화한다.",
+        "skill_level": 2,
+        "skill_effect": "하울링 피스트의 최종 데미지 12% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJB.png"
+    },
+    {
+        "skill_name": "퀸터플 스로우 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[스로우]\n대상에게 5개의 표창을 연속으로 던진다. 마지막 공격은 어둠의 힘을 담아 더 강력한 어둠 속성의 피해를 입힌다. 마지막 공격은 일정 시간마다 칠흑 표창으로 강화되어 더 먼거리를 날아가며 경로상의 모든 적을 공격하고, 더 강력한 어둠 속성의 피해를 입힌다.\n표창은 최대 HP가 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 퀸터플 스로우 30레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "MP 47 소비, 표창 5개 소비\n288%의 데미지로 4번, 1152%의 데미지로 1번 공격\n6초마다 마지막 공격이 칠흑 표창으로 강화",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPBMA.png"
+    },
+    {
+        "skill_name": "쉐도우 배트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n그림자로 이루어진 종복 쉐도우 배트를 소환한다. 쉐도우 배트는 표창을 사용하는 스킬로 공격할 때 일정 확률로 함께 공격한다. 어둠의 표식이 새겨진 적에게는 공격 확률이 2배가 되고 표식 중첩만큼 소환된 쉐도우 배트가 한 번에 공격하며, 이 때 쉐도우 배트가 1마리 추가로 생성된다.\n쉐도우 배트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 래버너스 배트와 동시에 사용할 수 없다. 어둠 속성의 공격이다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 래버너스 배트 20레벨, 배트 커뮤니온 III 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "표창을 사용하는 스킬을 3번 적중시킬 때마다 60초 동안 유지되는 쉐도우 배트 1마리 소환, 최대 2마리까지 소환 가능\n표창을 사용하는 스킬로 공격 시 50% 확률로 날아가 대상에게 910%의 데미지로 공격 후 추가로 3명의 적에게 튕겨 같은 데미지를 입힌 후 소멸\n일반 몬스터 공격 시 데미지 85% 증가, 쉐도우 배트 및 배트 커뮤니온 III과 중복 적용되지 않음\n첫 데미지를 줄 때 최대 HP의 1% 회복",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPBME.png"
+    },
+    {
+        "skill_name": "래버너스 배트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n피에 더욱 굶주린 래버너스 배트를 소환한다. 래버너스 배트는 표창을 사용하는 스킬로 공격할 때 일정 확률로 함께 공격한다. 어둠의 표식이 새겨진 적에게는 표식 중첩만큼 소환된 래버너스 배트가 한 번에 공격하며, 이 때 래버너스 배트가 1마리 추가로 생성된다. 래버너스 배트는 최대 HP가 높은 보스 몬스터를 우선 추적하고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 쉐도우 배트와 동시에 사용할 수 없다. 어둠 속성의 공격이다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 래버너스 배트 20레벨, 배트 커뮤니온 III 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "표창을 사용하는 스킬을 3번 적중시킬 때마다 60초 동안 유지되는 래버너스 배트 1마리 소환, 최대 5마리까지 소환 가능\n표창을 사용하는 스킬로 공격 시 100% 확률로 날아가 대상에게 748%의 데미지로 2번 공격, 적중 시 최대 HP의 1% 회복",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPBNC.png"
+    },
+    {
+        "skill_name": "사일런스",
+        "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 배트를 무한한 칠흑의 힘으로 끌어내 적을 공포 속에 침묵하게 한다.\n일정 시간 동안 공격 적중 시 쉐도우 배트가 거대한 그림자 표창으로 형상화되어 적을 지속적으로 추적하여 공격한다. 그림자 표창은 공격마다 엘리멘트 : 다크니스, 쉐도우 배트, 래버너스 배트의 효과를 발동시킨다.\n그림자 표창은 최대 HP가 높은 보스 몬스터를 우선 추적하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 6,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 561%의 데미지로 12번 공격하는 참격이 34회 발생\n30초 동안 공격 적중 시 쉐도우 배트가 거대한 그림자 표창 3개로 형상화되어 적을 추적하여 공격\n그림자 표창 : 540%의 데미지로 12번 공격, 그림자 표창은 적에게 적중 후 최대 5번까지 튕기며 공격, 그림자 표창 재생성 대기시간 3초\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPEMA.png"
+    },
+    {
+        "skill_name": "쉐도우 스피어 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 스피어를 강화한다.",
+        "skill_level": 4,
+        "skill_effect": "쉐도우 스피어의 최종 데미지 14% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLC.png"
+    },
+    {
+        "skill_name": "쉐도우 서번트 익스텐드 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 서번트 익스텐드를 강화한다.",
+        "skill_level": 9,
+        "skill_effect": "쉐도우 서번트 익스텐드의 최종 데미지 반영률 64%, 지속시간 48초로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLD.png"
+    },
+    {
+        "skill_name": "쉐도우 바이트 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 바이트를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "쉐도우 바이트의 최종 데미지 11% 증가, 쉐도우 바이트로 쓰러트린 적 1명 당 최종 데미지 증가량 3%, 보스 몬스터 공격 시 최종 데미지 증가량 19%, 재사용 대기시간 14초로 감소",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLE.png"
+    },
+    {
+        "skill_name": "래피드 스로우 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n래피드 스로우를 강화한다.",
+        "skill_level": 3,
+        "skill_effect": "래피드 스로우의 최종 데미지 13% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLF.png"
+    },
+    {
         "skill_name": "레이징 블로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[검술] 전방의 적 다수를 순식간에 여러 번 베어낸다. 마지막 공격은 반드시 크리티컬로 적용된다. 콤보가 완충되면 스킬이 강화된다.\n필요 스킬 : 레이징 블로우 30레벨 이상",
         "skill_level": 1,
@@ -139,5 +251,75 @@
         "skill_level": 1,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 240%의 데미지로 14번 공격하는 참격이 33회 발생 후, 238%의 데미지로 15번 공격하는 마무리 일격이 48회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDKDPEMA.png"
+    },
+    {
+        "skill_name": "정기 뿌리기 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n땅에 흐르는 정기를 끌어올려 적을 공격한다. 추가로 산 꼬마, 산의 씨앗의 데미지가 증가한다. 정기 뿌리기 VI는 풍수지리의 데미지 증가 효과를 받지 않는다.\n필요 스킬 : 지음 10레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 30 소비, 최대 7명의 적을 492%의 데미지로 4번 공격\n[패시브 효과 : 산 꼬마, 산의 씨앗의 데미지 80%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKDPBMA.png"
+    },
+    {
+        "skill_name": "용맥 분출 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬\n주변의 용맥을 소모하여 용맥에 잠재되어 있는 힘을 분출시킨다. 용맥이 머금은 속성에 해당하는 토지령들이 분출된 자리에 머물며 논다.\n분출 스킬 지속 중 동일 속성의 분출 스킬이나 흡수 스킬이 발동되면 지속 중이던 분출 스킬은 종료된다.\n분출 스킬은 자유로운 용맥을 가장 우선하며 자유로운 용맥이 없다면 가까운 용맥을 우선 소모한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않고 시전 동작 중 스탠스 100%가 적용된다.\n분출 스킬은 소환수 지속시간 증가로 지속시간이 증가하지 않지만 그에 비례해서 위력이 강해진다.\n필요 스킬 : 풍월주인 10레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 56 소비, 용맥의 속성에 맞는 분출 스킬 발동\n소환수 지속시간 증가 2%당 분출 스킬의 데미지 1% 증가\n재사용 대기시간 0.30초\n[패시브 효과 : 흡수 스킬의 최종 데미지 6% 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKDPBMB.png"
+    },
+    {
+        "skill_name": "분출 : 너울이는 강 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬, 분출 스킬\n여러 강의 토지령이 힘을 합쳐 거대화한 후 일정 간격으로 너울을 일으켜 주변을 공격한다.\n필요 스킬 : 풍월주인 10레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "18초 동안 강의 토지령 유지\n강의 토지령이 일으킨 너울은 최대 8명의 적을 760%의 데미지로 5번 공격, 일정 간격으로 큰 너울이 발생하여 최대 10명의 적을 872%의 데미지로 8번 공격\n일반 너울과 큰 너울을 합하여 너울 총 9번 발생",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKDPBMC.png"
+    },
+    {
+        "skill_name": "분출 : 돌개바람 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬, 분출 스킬\n바람의 토지령이 일정 시간마다 크게 숨을 내뱉는다. 바람의 토지령의 숨결로 돌개바람이 생성되어 주변의 적을 지속 공격한다.\n필요 스킬 : 풍월주인 10레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "18초 동안 바람의 토지령 유지\n바람의 토지령이 만든 돌개바람은 최대 10명의 적을 454%의 데미지로 5번 지속 공격, 돌개바람은 최대 5번 생성",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKDPBMF.png"
+    },
+    {
+        "skill_name": "분출 : 해돋이 우물 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬, 분출 스킬\n여러 해의 토지령이 힘을 합쳐 무서운 거인이 된 후 흩어져 내리며 주변을 용암이 솟아오르는 지역으로 만든다. 용암 지역에서 일정 간격으로 화산탄이 생성되어 용암 지역 위의 적을 공격한다.\n화산탄은 범위 내의 최대 HP가 가장 높은 보스 몬스터를 우선하여 추적한다.\n필요 스킬 : 풍월주인 10레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "거인이 솟아오르며 최대 10명의 적을 758% 데미지로 6번 공격\n공격 후 18초 동안 용암 지역 형성\n용암 지역은 1초 마다 최대 10명의 적을 425%의 데미지로 1번 공격\n일정 간격마다 적을 465%의 데미지로 3번 공격하는 화산탄이 5개 생성\n화산탄은 최대 5번 생성되며 하나의 적이 여러 개의 화산탄에 맞을 경우 두번째 화산탄부터 최종 데미지 10% 감소\n화산탄에 맞은 적은 8초 동안 137%의 도트 데미지",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKDPBMH.png"
+    },
+    {
+        "skill_name": "새록새록 꽃누리",
+        "skill_description": "[마스터 레벨 : 30]\r\n거대한 양의 땅의 정기가 잠든 지맥에 산, 강, 바람, 해의 토지령이 모여 정기가 온누리를 뒤덮는 꽃으로 피어난다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 4,
+        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n토지령이 모여들어 최대 15명의 적을 1190%의 데미지로 7번 공격하는 꽃 8회 생성\n이후 꽃이 강하게 피어나 최대 15명의 적을 787%의 데미지로 14번 공격하는 지맥의 기운 64회 방출\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKDPEMA.png"
+    },
+    {
+        "skill_name": "큰 기지개 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n큰 기지개를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "큰 기지개의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALG.png"
+    },
+    {
+        "skill_name": "해 강 산 바람 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n해 강 산 바람을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "해 강 산 바람의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALH.png"
+    },
+    {
+        "skill_name": "용솟음치는 정기 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n용솟음치는 정기를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "용솟음치는 정기의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALI.png"
+    },
+    {
+        "skill_name": "산등성이 굽이굽이 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n산등성이 굽이굽이를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "산등성이 굽이굽이의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALJ.png"
     }
 ]
