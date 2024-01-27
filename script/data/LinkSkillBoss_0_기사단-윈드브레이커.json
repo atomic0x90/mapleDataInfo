@@ -1,4 +1,4 @@
-79
+78
 [
     {
         "skill_name": "데몬스 퓨리",
@@ -31,7 +31,7 @@
     {
         "skill_name": "하이브리드 로직",
         "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
-        "skill_level": 35,
+        "skill_level": 34,
         "skill_effect": "모든 능력치 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
     },
@@ -80,7 +80,7 @@
     {
         "skill_name": "프라이어 프리퍼레이션",
         "skill_description": "[마스터 레벨 : 2]\r\n적을 확실하게 처리하기 위한 사전 준비를 한다.",
-        "skill_level": 61,
+        "skill_level": 60,
         "skill_effect": "적 8명 처치, 혹은 보스 몬스터에게 5번 공격 적중 시 사전 준비 1번 완료, 사전 준비를 5번 마치면 20초 동안 데미지 17% 증가\n재발동 대기시간 40초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHNBNF.png"
     },

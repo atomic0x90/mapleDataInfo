@@ -1,4 +1,4 @@
-90
+91
 [
     {
         "skill_name": "데몬스 퓨리",
@@ -38,14 +38,14 @@
     {
         "skill_name": "인텐시브 인썰트",
         "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
-        "skill_level": 74,
+        "skill_level": 75,
         "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     },
     {
         "skill_name": "전투의 흐름",
         "skill_description": "[마스터 레벨 : 2]\r\n전투의 흐름이 끊기지 않게 유지한다.\n일정 시간 내에 특정 거리를 이동 할 때 마다 데미지가 증가한다.",
-        "skill_level": 37,
+        "skill_level": 38,
         "skill_effect": "일정 거리 이동 시 발동되며 최대 6회 중첩가능, 지속시간 5초\n각 중첩당 데미지 2% 증가  ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKI.png"
     },

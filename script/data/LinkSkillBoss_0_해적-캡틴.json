@@ -1,4 +1,4 @@
-102
+103
 [
     {
         "skill_name": "소울 컨트랙트",
@@ -160,5 +160,12 @@
         "skill_level": 4,
         "skill_effect": "사망에 이르는 공격을 당할 시, 10% 확률로 생존",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOAKJ.png"
+    },
+    {
+        "skill_name": "콤보킬 어드밴티지",
+        "skill_description": "[마스터 레벨 : 2]\r\n폴암의 정령 마하의 신비한 힘을 통해 콤보 플레이에 대한 축복을 받는다.",
+        "skill_level": 1,
+        "skill_effect": "영구적으로 콤보킬 구슬 경험치 획득량 650% 추가 획득",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCLA.png"
     }
 ]
