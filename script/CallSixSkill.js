@@ -12,7 +12,7 @@ async function sixSkill(world_type = 0, characterClass = ""){
 		// 파일 읽기
 		const characterOCIDDataArray = await readOCIDInFile(world_type,characterClass);
 
-		console.log("characterOCIDDataArray:", characterOCIDDataArray);
+		//console.log("characterOCIDDataArray:", characterOCIDDataArray);
 
 		var saveResponseData;
 		
@@ -100,8 +100,8 @@ async function processData(saveResponseData, data){
 
 async function run(){
 	for (var i = 0; i < jobs.length; i++) {
-		/*await*/ sixSkill(0, jobs[i]);
-		/*await*/ sixSkill(1, jobs[i]);
+		await sixSkill(0, jobs[i]);
+		await sixSkill(1, jobs[i]);
 //		await timeSleep(1000);
 	}
 }
