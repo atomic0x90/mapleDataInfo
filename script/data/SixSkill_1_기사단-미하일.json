@@ -1,58 +1,58 @@
-194
+193
 [
     {
         "skill_name": "샤이닝 크로스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[소울 라이트 스킬]\n빛의 기운을 받아 전방을 십자로 베어 공격한다. 소울 레이지 지속 중에는 샤이닝 크로스-어썰트 Ⅵ로 강화된다.\n필요 스킬 : 샤이닝 크로스 30레벨 이상",
-        "skill_level": 4068,
+        "skill_level": 4045,
         "skill_effect": "MP 82 소비, 최대 8명의 적을 792%의 데미지로 4번 공격\n공격 시 30%의 확률로 암흑 적용, 암흑은 10초 동안 지속되며 대상의 명중률 30% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKDPBMA.png"
     },
     {
         "skill_name": "로얄 가드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n소울 실드로 적의 공격을 완벽하게 방어하여 피해를 무효화하고 적에게 반격한다. 반격은 공격 무시 및 공격 반사 상태의 적에게도 피해를 입힐 수 있다. 무적 효과 및 공격력 증가 버프는 버프 지속시간 증가의 효과를 받지 않는다.\n자신의 스킬 사용 중에도 방어할 수 있다.\n필요 스킬 : 어드밴스드 로얄 가드 10레벨 이상",
-        "skill_level": 931,
+        "skill_level": 951,
         "skill_effect": "MP 35 소비, 사용 후 일정 시간 안에 적의 공격을 받으면 4초 동안 무적이 되어 피해를 무효화하고 반격, 반격 후 20초 동안 공격력 증가\n공격력 증가 버프가 있는 상태에서 방어에 성공하면 반격의 데미지와 공격 범위, 공격력 증가량이 점차 증가하나 방어 가능한 시간이 점차 감소\n[1회] : 최대 6명의 적을 918%의 데미지로 4번 공격 후 공격력 20 증가\n[2회] : 최대 7명의 적을 1020%의 데미지로 5번 공격 후 공격력 40 증가\n[3회] : 최대 8명의 적을 1178%의 데미지로 6번 공격 후 공격력 60 증가\n[4회] : 최대 10명의 적을 1234%의 데미지로 7번 공격 후 공격력 80 증가\n[5회] : 최대 15명의 적을 1367%의 데미지로 9번 공격 후 공격력 100 증가\n재사용 대기시간 6초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKDPBMC.png"
     },
     {
         "skill_name": "듀란달",
         "skill_description": "[마스터 레벨 : 30]\r\n[소울 라이트 스킬]\n어떠한 상황에서도 무뎌지지 않는 빛의 검으로 악을 멸한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 2508,
+        "skill_level": 2504,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n빛의 검을 강하게 꽂아 최대 15명의 적을 1500%의 데미지로 7번 공격하는 참격이 6회 발생\n이후 빛의 기운이 방출되어 1350%의 데미지로 6번 공격하는 대지의 파동이 30회 발생\n마지막으로 1375%의 데미지로 14번 공격하는 마무리 일격 24회 발생\n공격 시 100%의 확률로 암흑 적용, 암흑은 10초 동안 지속되며 대상의 명중률 30% 감소\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 1105,
+        "skill_level": 1092,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 37% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 1105,
+        "skill_level": 1092,
         "skill_effect": "최대 HP의 10% 소비\n70초 동안 순환의 고리 소환, 최대 2개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 490%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "로 아이아스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n로 아이아스를 강화한다.",
-        "skill_level": 1111,
+        "skill_level": 1109,
         "skill_effect": "로 아이아스의 지속시간 105초, 최종 데미지 증가량 36%, 방패의 지속시간 30초, 피격 데미지 감소율 86%, 각 단계당 방어 횟수 14/14/19회로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPC.png"
     },
     {
         "skill_name": "클라우 솔라스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n클라우 솔라스를 강화한다.",
-        "skill_level": 646,
+        "skill_level": 648,
         "skill_effect": "클라우 솔라스의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPD.png"
     },
     {
         "skill_name": "소드 오브 소울 라이트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소드 오브 소울 라이트를 강화한다.",
-        "skill_level": 2881,
+        "skill_level": 2872,
         "skill_effect": "소울 라이트 슬래시, 라이트 포스레이의 최종 데미지 27% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPE.png"
     },
@@ -66,7 +66,7 @@
     {
         "skill_name": "라이트 오브 커리지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n라이트 오브 커리지를 강화한다.",
-        "skill_level": 36,
+        "skill_level": 37,
         "skill_effect": "라이트 오브 커리지의 지속시간 26초, 데미지 증가량 26%, 파티 효과의 보호막 최대 체력의 313%로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPF.png"
     },
@@ -115,8 +115,8 @@
     {
         "skill_name": "빅 휴즈 기간틱 캐논볼 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n빅 휴즈 기간틱 캐논볼을 강화한다.",
-        "skill_level": 11,
-        "skill_effect": "빅 휴즈 기간틱 캐논볼의 최종 데미지 26% 증가",
+        "skill_level": 13,
+        "skill_effect": "빅 휴즈 기간틱 캐논볼의 최종 데미지 28% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJG.png"
     },
     {
@@ -139,6 +139,62 @@
         "skill_level": 1,
         "skill_effect": "풀 메이커의 최종 데미지 11% 증가, 포격 발동 횟수 21회로 증가, 보급품은 첫 번째, 20번째 포격에 함께 투하",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJJ.png"
+    },
+    {
+        "skill_name": "퀸터플 스로우 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[스로우]\n대상에게 5개의 표창을 연속으로 던진다. 마지막 공격은 어둠의 힘을 담아 더 강력한 어둠 속성의 피해를 입힌다. 마지막 공격은 일정 시간마다 칠흑 표창으로 강화되어 더 먼거리를 날아가며 경로상의 모든 적을 공격하고, 더 강력한 어둠 속성의 피해를 입힌다.\n표창은 최대 HP가 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 퀸터플 스로우 30레벨 이상",
+        "skill_level": 10,
+        "skill_effect": "MP 47 소비, 표창 5개 소비\n290%의 데미지로 4번, 1160%의 데미지로 1번 공격\n6초마다 마지막 공격이 칠흑 표창으로 강화",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPBMA.png"
+    },
+    {
+        "skill_name": "쉐도우 배트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n그림자로 이루어진 종복 쉐도우 배트를 소환한다. 쉐도우 배트는 표창을 사용하는 스킬로 공격할 때 일정 확률로 함께 공격한다. 어둠의 표식이 새겨진 적에게는 공격 확률이 2배가 되고 표식 중첩만큼 소환된 쉐도우 배트가 한 번에 공격하며, 이 때 쉐도우 배트가 1마리 추가로 생성된다.\n쉐도우 배트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 래버너스 배트와 동시에 사용할 수 없다. 어둠 속성의 공격이다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 래버너스 배트 20레벨, 배트 커뮤니온 III 30레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "표창을 사용하는 스킬을 3번 적중시킬 때마다 60초 동안 유지되는 쉐도우 배트 1마리 소환, 최대 2마리까지 소환 가능\n표창을 사용하는 스킬로 공격 시 50% 확률로 날아가 대상에게 990%의 데미지로 공격 후 추가로 3명의 적에게 튕겨 같은 데미지를 입힌 후 소멸\n일반 몬스터 공격 시 데미지 85% 증가, 쉐도우 배트 및 배트 커뮤니온 III과 중복 적용되지 않음\n첫 데미지를 줄 때 최대 HP의 1% 회복",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPBME.png"
+    },
+    {
+        "skill_name": "래버너스 배트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n피에 더욱 굶주린 래버너스 배트를 소환한다. 래버너스 배트는 표창을 사용하는 스킬로 공격할 때 일정 확률로 함께 공격한다. 어둠의 표식이 새겨진 적에게는 표식 중첩만큼 소환된 래버너스 배트가 한 번에 공격하며, 이 때 래버너스 배트가 1마리 추가로 생성된다. 래버너스 배트는 최대 HP가 높은 보스 몬스터를 우선 추적하고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 쉐도우 배트와 동시에 사용할 수 없다. 어둠 속성의 공격이다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 래버너스 배트 20레벨, 배트 커뮤니온 III 30레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "표창을 사용하는 스킬을 3번 적중시킬 때마다 60초 동안 유지되는 래버너스 배트 1마리 소환, 최대 5마리까지 소환 가능\n표창을 사용하는 스킬로 공격 시 100% 확률로 날아가 대상에게 812%의 데미지로 2번 공격, 적중 시 최대 HP의 1% 회복",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPBNC.png"
+    },
+    {
+        "skill_name": "사일런스",
+        "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 배트를 무한한 칠흑의 힘으로 끌어내 적을 공포 속에 침묵하게 한다.\n일정 시간 동안 공격 적중 시 쉐도우 배트가 거대한 그림자 표창으로 형상화되어 적을 지속적으로 추적하여 공격한다. 그림자 표창은 공격마다 엘리멘트 : 다크니스, 쉐도우 배트, 래버너스 배트의 효과를 발동시킨다.\n그림자 표창은 최대 HP가 높은 보스 몬스터를 우선 추적하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 5,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 545%의 데미지로 12번 공격하는 참격이 34회 발생\n30초 동안 공격 적중 시 쉐도우 배트가 거대한 그림자 표창 3개로 형상화되어 적을 추적하여 공격\n그림자 표창 : 525%의 데미지로 12번 공격, 그림자 표창은 적에게 적중 후 최대 5번까지 튕기며 공격, 그림자 표창 재생성 대기시간 3초\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPEMA.png"
+    },
+    {
+        "skill_name": "쉐도우 스피어 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 스피어를 강화한다.",
+        "skill_level": 5,
+        "skill_effect": "쉐도우 스피어의 최종 데미지 15% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLC.png"
+    },
+    {
+        "skill_name": "쉐도우 서번트 익스텐드 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 서번트 익스텐드를 강화한다.",
+        "skill_level": 7,
+        "skill_effect": "쉐도우 서번트 익스텐드의 최종 데미지 반영률 62%, 지속시간 48초로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLD.png"
+    },
+    {
+        "skill_name": "쉐도우 바이트 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 바이트를 강화한다.",
+        "skill_level": 25,
+        "skill_effect": "쉐도우 바이트의 최종 데미지 45% 증가, 쉐도우 바이트로 쓰러트린 적 1명 당 최종 데미지 증가량 6%, 보스 몬스터 공격 시 최종 데미지 증가량 20%, 재사용 대기시간 10초로 감소",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLE.png"
+    },
+    {
+        "skill_name": "래피드 스로우 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n래피드 스로우를 강화한다.",
+        "skill_level": 5,
+        "skill_effect": "래피드 스로우의 최종 데미지 15% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLF.png"
     },
     {
         "skill_name": "플레임 스윕 VI",
@@ -174,47 +230,5 @@
         "skill_level": 1,
         "skill_effect": "도트 퍼니셔의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBNC.png"
-    },
-    {
-        "skill_name": "퍼지롭 매스커레이드 VI : 저격",
-        "skill_description": "[마스터 레벨 : 30]\r\n루티가 적의 치명적인 단점을 탐색한 뒤, 하이테크 스나이퍼 라이플로 타겟에 막대한 피해를 입히는 폭발을 발생시킨다. 일정 시간마다 라이플에 에너지가 응집되어 폭발이 빠르게 연속해서 발동하여 조준한 적을 처형한다. 최대 HP가 가장 높은 적을 우선 공격하고 멀티 모드 링커를 통해 모드를 변경할 수 있다.\n필요 스킬 : 퍼지롭 매스커레이드 30레벨 이상",
-        "skill_level": 2,
-        "skill_effect": "MP 30 소비, 최대 5명의 적을 398%의 데미지로 7번 공격\n8초마다 퍼지롭 매스커레이드 VI : 처형으로 강화\n몬스터 방어율 31% 추가 무시",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKDPBMA.png"
-    },
-    {
-        "skill_name": "아티피셜 에볼루션",
-        "skill_description": "[마스터 레벨 : 30]\r\n제네로이드의 궁극의 진화를 이룩한다. 진화 상태에서는 강화형 에어프레임이 소환되어 제논이 공격하는 적을 함께 공격하며, 에비에이션 리버티가 강화되어 비행 속도가 빨라지며, 비행 상태에서 일부 공격 스킬을 사용할 수 있게 되며, 메가 스매셔 발동 시 메가 스매셔를 설치할 수 있게 변경된다. 강화된 에비에이션 리버티는 진화 상태 종료 시 즉시 해제된다. 스킬 시전 이후 에비에이션 리버티가 즉시 발동하며, 커스텀 커맨드를 사용하면 사용 직후 에비에이션 리버티가 발동하지 않는다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1,
-        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 362%의 데미지로 7번 공격하는 폭격 31회 발동 후 30초 동안 진화 상태\n진화 상태 : 제논이 공격한 적을 558%의 데미지로 5번 공격하는 강화형 에어프레임 6기 소환, 재발동 대기시간 1.8초\n강화 에비에이션 리버티 사용 시 비행 속도 증가, 일부 버프 및 공격 스킬 사용 가능\n강화 에비에이션 리버티 중 메가 스매셔 발동 시 설치 가능 및 공격 간격 감소, 공격 시간 5초로 감소 및 차지한 시간 6초당 공격 시간 1초 증가하여 최대 3초까지 증가, 설치 후 2초 동안 무적\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKDPEMA.png"
-    },
-    {
-        "skill_name": "메가 스매셔 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n메가 스매셔를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "메가 스매셔의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOE.png"
-    },
-    {
-        "skill_name": "오버로드 모드 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n오버로드 모드를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "오버로드 모드의 최종 데미지 11% 증가, 초과 충전 가능한 에너지 21로 증가, 에너지 충전 시간 5% 감소",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOF.png"
-    },
-    {
-        "skill_name": "홀로그램 그래피티 : 융합 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n홀로그램 그래피티 : 융합을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "홀로그램 그래피티 : 융합의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOG.png"
-    },
-    {
-        "skill_name": "포톤 레이 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n포톤 레이를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "포톤 레이의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOH.png"
     }
 ]

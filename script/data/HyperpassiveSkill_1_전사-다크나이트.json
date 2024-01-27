@@ -1,9 +1,9 @@
-195
+196
 [
     {
         "skill_name": "비홀더-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n비홀더 도미넌트, 비홀더 쇼크, 비홀더스 리벤지, 비홀더 임팩트의 데미지를 증가시킨다.",
-        "skill_level": 187,
+        "skill_level": 188,
         "skill_effect": "데미지 150% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIFOBID.png"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "비홀더-힐링 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n비홀더가 시전하는 힐의 회복량을 증가시킨다.",
-        "skill_level": 1,
+        "skill_level": 3,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIFOBIF.png"
     },
@@ -31,21 +31,21 @@
     {
         "skill_name": "리인카네이션-리듀스 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n리인카네이션 발동 중 재사용 대기시간이 감소하기 위해 처치 해야 하는 적 수가 감소되고 모든 타입에 적용된다.",
-        "skill_level": 5,
+        "skill_level": 7,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIFOBIH.png"
     },
     {
         "skill_name": "리인카네이션-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n리인카네이션의 패시브 효과로 오르는 크리티컬 확률을 증가시킨다.",
-        "skill_level": 170,
+        "skill_level": 171,
         "skill_effect": "크리티컬 확률 20% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIFOBII.png"
     },
     {
         "skill_name": "궁니르 디센트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n궁니르 디센트의 데미지를 증가시킨다.",
-        "skill_level": 192,
+        "skill_level": 191,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIFOBIJ.png"
     },

@@ -1,65 +1,65 @@
-187
+191
 [
     {
         "skill_name": "쇼다운 챌린지-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n쇼다운 챌린지의 데미지를 증가시킨다. 쇼다운 챌린지로 생성된 그림자 수리검에는 적용되지 않는다.",
-        "skill_level": 49,
-        "skill_effect": "데미지 20% 증가",
+        "skill_level": 50,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBID.png"
     },
     {
         "skill_name": "쇼다운 챌린지-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n쇼다운 챌린지의 최대 공격 가능한 몬스터 수를 증가시킨다. 쇼다운 챌린지로 생성된 그림자 수리검에는 적용되지 않는다.",
         "skill_level": 20,
-        "skill_effect": "최대 공격 가능한 몬스터 수 2 증가",
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBIE.png"
     },
     {
         "skill_name": "쇼다운 챌린지-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n쇼다운 챌린지로 도발당한 적에게서 얻는 경험치 획득량과 아이템 드롭률을 증가시킨다.",
-        "skill_level": 120,
-        "skill_effect": "경험치 획득량과 아이템 드롭률 5% 증가",
+        "skill_level": 127,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBIF.png"
     },
     {
         "skill_name": "퍼지 에어리어-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지 에어리어로 감소되는 적 공격력 및 방어율 수치를 증가시킨다.",
-        "skill_level": 49,
-        "skill_effect": null,
+        "skill_level": 46,
+        "skill_effect": "공격력 및 방어율 10% 추가 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBIG.png"
     },
     {
         "skill_name": "퍼지 에어리어-슬로우",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지 에어리어로 감소되는 적 이동속도 수치를 증가시킨다.",
-        "skill_level": 1,
+        "skill_level": 3,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBIH.png"
     },
     {
         "skill_name": "퍼지 에어리어-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지 에어리어에 보스도 걸리도록 한다.",
-        "skill_level": 161,
-        "skill_effect": null,
+        "skill_level": 163,
+        "skill_effect": "퍼지 에어리어 보스 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBII.png"
     },
     {
         "skill_name": "쿼드러플 스로우-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n쿼드러플 스로우의 데미지를 증가시킨다.",
-        "skill_level": 179,
+        "skill_level": 182,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBIJ.png"
     },
     {
         "skill_name": "쿼드러플 스로우-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n쿼드러플 스로우의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 173,
-        "skill_effect": null,
+        "skill_level": 175,
+        "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBJA.png"
     },
     {
         "skill_name": "쿼드러플 스로우-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n쿼드러플 스로우의 공격 횟수를 증가시킨다.",
-        "skill_level": 179,
+        "skill_level": 182,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBJB.png"
     }
