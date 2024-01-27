@@ -30,7 +30,7 @@ async function characterID(world_type = 0, characterClass = ""){
 				headers: headers
 			});
 
-			await timeSleep(100);
+			//await timeSleep(100);
 
 			const response = await answer.json();
 
