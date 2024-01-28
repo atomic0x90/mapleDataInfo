@@ -1,7 +1,7 @@
 name: Call the API
 on:
   schedule:
-    - cron: '30 10 * * *'
+    - cron: '50 10 * * *'
 jobs:
   call-api-and-save-data:
     runs-on: ubuntu-latest
@@ -15,6 +15,10 @@ jobs:
 
       - name: Install node-fetch-commonjs
         run: npm install node-fetch-commonjs
+
+      - name: Ensure data-verification branch exists
+        run: |
+          git branch | grep "data-verification" || git checkout -b data-verification
 
       - name: Run CallRankingOverall JavaScript code
         run: node script/CallRankingOverall.js
@@ -46,10 +50,6 @@ jobs:
 
       - name: List files in current working directory
         run: ls
-
-      - name: Ensure data-verification branch exists
-        run: |
-          git branch | grep "data-verification" || git checkout -b data-verification
 
       - name: Push data to data-verification branch
         run: |
