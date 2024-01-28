@@ -1,11 +1,12 @@
 name: Call the API
 on:
   schedule:
-    - cron: '30 8 * * *'
+    - cron: '30 12 * * *'
 jobs:
   call-api-and-save-data:
     runs-on: ubuntu-latest
     name: Call the API of ranking overall, ID, skill(link, hyperpassive, 6)
+    if: "github.ref == 'refs/heads/data-verification'"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -15,6 +16,11 @@ jobs:
 
       - name: Install node-fetch-commonjs
         run: npm install node-fetch-commonjs
+
+      - name: Ensure data-verification branch exists
+        run: |
+          git branch | grep "data-verification" || git checkout -b data-verification
+          git pull origin data-verification
 
       - name: Run CallRankingOverall JavaScript code
         run: node script/CallRankingOverall.js
