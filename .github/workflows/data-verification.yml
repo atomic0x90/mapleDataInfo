@@ -1,5 +1,5 @@
 name: Call the API (Data Verification)
-on: [push]
+on: [push] #permission test
 #  schedule:
 #    - cron: '5 18 * * *'
 jobs:
