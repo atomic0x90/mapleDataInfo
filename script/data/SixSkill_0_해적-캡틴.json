@@ -1,73 +1,171 @@
-199
+197
 [
     {
         "skill_name": "래피드 파이어 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n아주 빠른 속도로 탄을 발사한다. 스킬 키를 누르고 있으면 지속적으로 탄이 나가며 좌우로 이동할 수 있다. 일정 횟수 적중 시 클립이 충전되고 클립이 전부 충전되면 난사 모드로 변한다.\n지속 중 이동속도는 고정된다.\n함장의 기개로 캡틴 디그니티의 데미지가 증가한다.\n필요 스킬 : 래피드 파이어 30레벨 이상",
-        "skill_level": 3348,
+        "skill_level": 3349,
         "skill_effect": "공격당 MP 12 소비, 발당 429%의 데미지, 공격 5회 적중 시 클립 1개 충전, 클립이 10개만큼 충전되면 난사 모드로 변경, 지속 중 이동속도 120으로 고정\n[패시브 효과 : 캡틴 디그니티의 데미지 61%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHJDPBMA.png"
     },
     {
         "skill_name": "배틀쉽 봄버 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n노틸러스 호의 배틀쉽을 소환한다. 배틀쉽의 포탄 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n일정 영역 내에 사인 오브 봄바드를 설치하면 해당 위치에 폭격을 일으킨다.\n필요 스킬 : 배틀쉽 봄버 15레벨 이상",
-        "skill_level": 1151,
+        "skill_level": 1398,
         "skill_effect": "MP 150 소비, 60초 동안 소환되어 일정 간격으로 포탄 발사\n발사된 포탄은 적에게 닿으면 폭발하여 최대 6명의 적을 580%의 데미지로  3번 공격\n최대 2대까지 소환 가능\n사인 오브 봄바드 설치 시 최대 6명의 적을 580%의 데미지로 3번 공격하는 폭격 발생\n재사용 대기시간 0.50초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHJDPBMC.png"
     },
     {
         "skill_name": "드레드노트",
         "skill_description": "[마스터 레벨 : 30]\r\n두려움을 모르는 함장의 지휘로 거대한 함선이 미지의 바다를 헤치고 나타난다. 함선은 주변의 적에게 무차별 포격을 가한다. 폭격은 최대 HP가 가장 높은 보스 몬스터에게 우선적으로 가해진다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3791,
+        "skill_level": 3769,
         "skill_effect": "MP 2000 소비, 시전 동작 중 무적\n용맹하게 전진하여 최대 15명의 적을 997%의 데미지로 12번 공격하는 풍랑이 52회 발생\n공격 종료 후 15초 동안 함선이 공중에 설치되어 일정 시간마다 최대 7명의 적을 1175%의 데미지로 8번 공격하는 폭격 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHJDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 925,
+        "skill_level": 989,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 925,
+        "skill_level": 989,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "불릿 파티 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n불릿 파티를 강화한다.",
-        "skill_level": 2026,
+        "skill_level": 2017,
         "skill_effect": "불릿 파티의 최종 데미지 12% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJC.png"
     },
     {
         "skill_name": "노틸러스 어썰트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n노틸러스 어썰트를 강화한다.",
-        "skill_level": 1831,
+        "skill_level": 1819,
         "skill_effect": "노틸러스 어썰트의 최종 데미지 16% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJE.png"
     },
     {
         "skill_name": "데스 트리거 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데스 트리거를 강화한다.",
-        "skill_level": 1682,
+        "skill_level": 1663,
         "skill_effect": "데스 트리거의 최종 데미지 14% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJF.png"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 194,
+        "skill_level": 193,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     },
     {
         "skill_name": "데드아이 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데드아이를 강화한다.",
-        "skill_level": 470,
+        "skill_level": 472,
         "skill_effect": "데드아이의 최종 데미지 19% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJD.png"
+    },
+    {
+        "skill_name": "스나이핑 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n몬스터의 급소를 정확히 노려 치명적인 공격을 가한다.\n또 스나이핑을 위한 인핸스 애로우가 강화된다. 스나이핑 적중 시 두 번째 사용하는 스나이핑에 인핸스 애로우가 준비되며 네 번째 사용하는 스나이핑에는 보다 특별한 얼티밋 애로우가 2개 준비된다.\n스나이핑 적중 시 적중한 적의 약점을 파악하여 표식을 남기고, 인핸스 애로우로 표식이 남은 적을 공격 시 적의 약점을 꿰뚫어 추가 공격이 발생한다.\n스나이핑 및 인핸스 애로우로 강화되는 스나이핑은 최대 HP가 가장 높은 적을 우선하여 공격한다.\n필요 스킬 : 스나이핑 30레벨 이상, 어드밴스드 인핸스 애로우 20레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "스나이핑 : MP 70 소비, 545%의 데미지로 9번 공격\n적중한 적에게 표식을 남김\n인핸스 스나이핑 : MP 140 소비, 605%의 데미지로 10번 공격\n표식이 새겨진 적 적중 시 380%의 데미지로 5번 공격하는 추가타 발생\n얼티밋 스나이핑 : MP 140 소비\n315%의 데미지로 10번 공격하는 화살을 2발 발사\n표식이 새겨진 적 적중 시 380%의 데미지로 5번 공격하는 추가타 발생\n스나이핑, 인핸스 스나이핑, 얼티밋 스나이핑은 몬스터 방어율 40% 무시, 추가 크리티컬 확률 100%",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJDPBMA.png"
+    },
+    {
+        "skill_name": "피어싱 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n적을 꿰뚫을 때마다 데미지가 증폭되는 관통 화살을 발사한다.\n인핸스 애로우가 더욱 강화되어 피어싱 적중 시 두 번째 사용하는 피어싱에 인핸스 애로우가 준비되며 네 번째 피어싱 사용 시 얼티밋 애로우를 발동할 수 있다. \n 피어싱이 적에게 적중 시 피어싱 공격 경로 근처에 화살 조각이 튀어 피어싱이 꿰뚫지 못한 적을 추가 공격할 수 있다.\n추가로 스나이핑 VI를 영구히 강화한다.\n필요 스킬 : 피어싱 II 30레벨 이상, 어드밴스드 인핸스 애로우 20레벨 이상",
+        "skill_level": 27,
+        "skill_effect": "피어싱 : MP 64 소비, 최대 8명의 적을 관통하며 537%의 데미지로 5번 공격\n 화살이 적을 관통할 때마다 최종 데미지가 15%씩 증가, 증가하는 데미지 간에는 곱 적용\n 처음 관통한 적 근처에 화살 조각이 튀어 최대 3명의 적을 574%의 데미지로 4번 공격\n인핸스 피어싱 : MP 109 소비, 최대 10명의 적을 649%의 데미지로 6번 공격, 소멸 지점에서 화살이 폭발하여 최대 10명의 적을 413%의 데미지로 10번 추가 공격 \n얼티밋 피어싱 : MP 109 소비, 최대 10명의 적을 659%의 데미지로 6번 공격, 소멸 지점에서 화살이 폭발하여 최대 10명의 적을 428%의 데미지로 10번 추가 공격\n[패시브 효과 : 스나이핑 VI 데미지 54%p, 인핸스 스나이핑 VI 데미지 108%p, 인핸스 스나이핑 VI 추가타 데미지 54%p, 얼티밋 스나이핑 VI 데미지 54%p, 얼티밋 스나이핑 VI 추가타 데미지 54%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJDPBMF.png"
+    },
+    {
+        "skill_name": "파이널 에임",
+        "skill_description": "[마스터 레벨 : 30]\r\n저격술의 극의에 달하여 매우 먼 거리에서 적을 정확히 조준해 꿰뚫는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 30,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1560%의 데미지로 7번 공격하는 파동 35회 발생\n이후 최대 15명의 적을 1710%의 데미지로 13번 공격하는 화살 35회 명중\n파이널 에임 적중 시 스플릿 애로우의 화살 최대 13번까지만 발생\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJDPEMA.png"
+    },
+    {
+        "skill_name": "트루 스나이핑 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n트루 스나이핑을 강화한다.",
+        "skill_level": 2,
+        "skill_effect": "트루 스나이핑의 최종 데미지 12% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBOI.png"
+    },
+    {
+        "skill_name": "스플릿 애로우 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n스플릿 애로우를 강화한다.",
+        "skill_level": 30,
+        "skill_effect": "스플릿 애로우의 최종 데미지 60% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBOJ.png"
+    },
+    {
+        "skill_name": "차지드 애로우 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n차지드 애로우를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "차지드 애로우의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPA.png"
+    },
+    {
+        "skill_name": "리피팅 크로스보우 카트리지 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n리피팅 크로스보우 카트리지를 강화한다.",
+        "skill_level": 23,
+        "skill_effect": "리피팅 크로스보우 카트리지의 최종 데미지 43% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPB.png"
+    },
+    {
+        "skill_name": "천공의 노래 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n하늘에 울려 퍼지는 거센 바람의 노래를 연주하여 적들을 휘몰아친다.\n필요 스킬 : 천공의 노래 30레벨 이상",
+        "skill_level": 16,
+        "skill_effect": "공격당 MP 11 소비, 최대 4명의 적을 발당 764%의 데미지로 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOBKDPBMA.png"
+    },
+    {
+        "skill_name": "트라이플링 윔 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령이 매우 큰 변덕을 부려 적들의 육체와 정신을 붕괴시킨다.\n정령의 기운은 윈드브레이커가 바라보는 방향의 일정 영역으로 발생한다. 단, 일부 스킬로 타격 시 바라보는 방향과 관계없이 발생한다.\n범위 내 최대 HP가 가장 높은 보스 몬스터를 무조건 포함하여 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 트라이플링 윔 III 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "적을 타격할 때 50% 확률로 정령의 기운이 최대 5개 발생하여 322%의 데미지로 주위의 적을 랜덤하게 공격\n 20% 확률로 431%의 데미지를 주는 강화된 정령의 기운 발생",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOBKDPBMB.png"
+    },
+    {
+        "skill_name": "미스트랄 스프링",
+        "skill_description": "[마스터 레벨 : 30]\r\n강력한 바람의 기운을 품고 있는 에메랄드에 호기심 많은 정령들이 이끌려 돌풍이 이는 바람의 샘이 생성된다.\n일정 시간마다 신난 바람의 정령이 돌풍을 타고 분출되어 주변의 적을 공격한다.\n바람의 샘이 존재할 때 스킬키 재입력 시 현재 위치를 기준으로 바람의 샘을 재소환할 수 있다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 13,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n에메랄드에 깃든 정령의 기운으로 최대 15명의 적을 1194%의 데미지로 10번 공격하는 바람의 칼날이 13회 발생\n공격 종료 후 20초 동안 바람의 샘이 정령의 기운을 생성하여 적을 공격\n재설치 대기시간 3초\n정령의 기운 : 946%의 데미지로 5번 공격하는 정령의 기운 13개 생성\n신난 정령의 기운 : 1032%의 데미지로 6번 공격하는 신난 정령의 기운 5개 생성\n거센 정령의 기운 : 918%의 데미지로 7번 공격하는 거센 정령의 기운 3개 생성\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOBKDPEMA.png"
+    },
+    {
+        "skill_name": "하울링 게일 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n하울링 게일을 강화한다.",
+        "skill_level": 12,
+        "skill_effect": "하울링 게일의 최종 데미지 27% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKI.png"
+    },
+    {
+        "skill_name": "아이들 윔 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n아이들 윔을 강화한다.",
+        "skill_level": 10,
+        "skill_effect": "아이들 윔의 최종 데미지 25% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKJ.png"
+    },
+    {
+        "skill_name": "윈드 월 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n윈드 월을 강화한다.",
+        "skill_level": 10,
+        "skill_effect": "윈드 월의 최종 데미지 25%, 엘리멘트 개수 334개, 지속시간 50초로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLA.png"
+    },
+    {
+        "skill_name": "볼텍스 스피어 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n볼텍스 스피어를 강화한다.",
+        "skill_level": 10,
+        "skill_effect": "볼텍스 스피어의 최종 데미지 25% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLB.png"
     }
 ]
