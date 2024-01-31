@@ -1,12 +1,11 @@
-name: Call the API
+name: Call the API (Data Verification)
 on: [push]
 #  schedule:
-#    - cron: '30 12 * * *'
+#    - cron: '30 7 * * *'
 jobs:
   call-api-and-save-data:
     runs-on: ubuntu-latest
     name: Call the API of ranking overall, ID, skill(link, hyperpassive, 6)
-    if: "github.ref == 'refs/heads/data-verification'"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,7 +18,7 @@ jobs:
 
       - name: Ensure data-verification branch exists
         run: |
-          git branch | grep "data-verification" || git checkout -b data-verification
+          git branch | grep -q "^* data-verification$" || git checkout -b data-verification
           git pull origin data-verification
 
       - name: Run CallRankingOverall JavaScript code
