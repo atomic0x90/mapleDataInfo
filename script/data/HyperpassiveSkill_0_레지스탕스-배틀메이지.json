@@ -17,7 +17,7 @@
     {
         "skill_name": "다크 제네시스-에디셔널 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 단일 적을 공격하는 번개의 데미지를 증가시킨다.",
-        "skill_level": 62,
+        "skill_level": 63,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJJ.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "블루 오라-디스펠 매직",
         "skill_description": "[마스터 레벨 : 1]\r\n블루 오라에 일정 시간마다 파티원들의 상태 이상을 해제시키는 기능을 추가한다. 일부 상태 이상은 해제되지 않는다.",
-        "skill_level": 168,
+        "skill_level": 169,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKC.png"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "쉘터-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n쉘터의 지속시간을 증가시킨다.",
-        "skill_level": 61,
+        "skill_level": 60,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKE.png"
     },
     {
         "skill_name": "쉘터-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n쉘터의 최대 HP의 일정 비율로 피해를 입히는 공격의 피해 감소 비율을 증가시킨다.",
-        "skill_level": 18,
+        "skill_level": 17,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKF.png"
     }

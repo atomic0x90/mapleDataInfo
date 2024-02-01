@@ -3,70 +3,70 @@
     {
         "skill_name": "퍼지롭 매스커레이드 VI : 저격",
         "skill_description": "[마스터 레벨 : 30]\r\n루티가 적의 치명적인 단점을 탐색한 뒤, 하이테크 스나이퍼 라이플로 타겟에 막대한 피해를 입히는 폭발을 발생시킨다. 일정 시간마다 라이플에 에너지가 응집되어 폭발이 빠르게 연속해서 발동하여 조준한 적을 처형한다. 최대 HP가 가장 높은 적을 우선 공격하고 멀티 모드 링커를 통해 모드를 변경할 수 있다.\n필요 스킬 : 퍼지롭 매스커레이드 30레벨 이상",
-        "skill_level": 4419,
+        "skill_level": 4428,
         "skill_effect": "MP 31 소비, 최대 5명의 적을 430%의 데미지로 7번 공격\n8초마다 퍼지롭 매스커레이드 VI : 처형으로 강화\n몬스터 방어율 34% 추가 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKDPBMA.png"
     },
     {
         "skill_name": "홀로그램 그래피티 : 관통 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n홀로그램 필드를 전개한 뒤 에너지볼을 생성하여 에너지볼이 몬스터에 닿을 때마다 해당 몬스터에게 피해를 입힌다. 에너지볼은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 멀티 모드 링커를 통해 모드를 변경할 수 있다.\n필요 스킬 : 홀로그램 그래피티 30레벨 이상",
-        "skill_level": 2713,
+        "skill_level": 2777,
         "skill_effect": "MP 33 소비, 60초 동안 홀로그램 필드 생성\n볼이 적을 닿을 때마다 340%의 데미지로 공격\n재사용 대기시간 29초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKDPBME.png"
     },
     {
         "skill_name": "트라이앵글 포메이션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n공격 시 일정 확률로 적에게 에어프레임을 출격시킨다. 에어프레임은 출격 시 적을 공격하고 지속적으로 적을 맴돌며 주의를 끌어 적의 명중치를 감소시킨다.\n에어프레임이 3개 중첩된 적을 한 번 더 공격하면 3개의 에어프레임이 일제히 강력한 플라즈마 전류를 뿜어내 공격한다.\n에어프레임은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 트라이앵글 포메이션 5레벨 이상",
-        "skill_level": 2713,
+        "skill_level": 2777,
         "skill_effect": "공격 시 30% 확률로 적에게 에어프레임을 출격시키며 310%의 데미지로 3번 공격\n에어프레임은 최대 3개까지 중첩되며 3개가 중첩된 적을 공격하면 160%의 데미지로 4번 공격하는 플라즈마 전류가 4번 발생\n에어프레임이 추가된 적의 명중치 8% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKDPBMH.png"
     },
     {
         "skill_name": "아티피셜 에볼루션",
         "skill_description": "[마스터 레벨 : 30]\r\n제네로이드의 궁극의 진화를 이룩한다. 진화 상태에서는 강화형 에어프레임이 소환되어 제논이 공격하는 적을 함께 공격하며, 에비에이션 리버티가 강화되어 비행 속도가 빨라지며, 비행 상태에서 일부 공격 스킬을 사용할 수 있게 되며, 메가 스매셔 발동 시 메가 스매셔를 설치할 수 있게 변경된다. 강화된 에비에이션 리버티는 진화 상태 종료 시 즉시 해제된다. 스킬 시전 이후 에비에이션 리버티가 즉시 발동하며, 커스텀 커맨드를 사용하면 사용 직후 에비에이션 리버티가 발동하지 않는다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 2433,
+        "skill_level": 2446,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 470%의 데미지로 7번 공격하는 폭격 31회 발동 후 30초 동안 진화 상태\n진화 상태 : 제논이 공격한 적을 720%의 데미지로 5번 공격하는 강화형 에어프레임 6기 소환, 재발동 대기시간 1.8초\n강화 에비에이션 리버티 사용 시 비행 속도 증가, 일부 버프 및 공격 스킬 사용 가능\n강화 에비에이션 리버티 중 메가 스매셔 발동 시 설치 가능 및 공격 간격 감소, 공격 시간 5초로 감소 및 차지한 시간 6초당 공격 시간 1초 증가하여 최대 3초까지 증가, 설치 후 2초 동안 무적\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 1550,
+        "skill_level": 1542,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 67% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 1550,
+        "skill_level": 1542,
         "skill_effect": "최대 HP의 10% 소비\n80초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 590%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "메가 스매셔 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n메가 스매셔를 강화한다.",
-        "skill_level": 4331,
+        "skill_level": 4343,
         "skill_effect": "메가 스매셔의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOE.png"
     },
     {
         "skill_name": "오버로드 모드 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n오버로드 모드를 강화한다.",
-        "skill_level": 3120,
+        "skill_level": 3137,
         "skill_effect": "오버로드 모드의 최종 데미지 14% 증가, 초과 충전 가능한 에너지 22로 증가, 에너지 충전 시간 10% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOF.png"
     },
     {
         "skill_name": "홀로그램 그래피티 : 융합 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n홀로그램 그래피티 : 융합을 강화한다.",
-        "skill_level": 3684,
+        "skill_level": 3707,
         "skill_effect": "홀로그램 그래피티 : 융합의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOG.png"
     },
     {
         "skill_name": "포톤 레이 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n포톤 레이를 강화한다.",
-        "skill_level": 2619,
+        "skill_level": 2641,
         "skill_effect": "포톤 레이의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOH.png"
     },

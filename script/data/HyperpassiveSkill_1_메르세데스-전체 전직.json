@@ -1,23 +1,23 @@
-191
+194
 [
     {
         "skill_name": "이슈타르의 링-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n이슈타르의 링의 데미지를 증가시킨다.",
-        "skill_level": 191,
+        "skill_level": 194,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBID.png"
     },
     {
         "skill_name": "이슈타르의 링-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n이슈타르의 링의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 156,
+        "skill_level": 158,
         "skill_effect": "몬스터 방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBIE.png"
     },
     {
         "skill_name": "이슈타르의 링-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n이슈타르의 링의 보스 몬스터 공격 시 데미지를 증가시킨다.\n필요 스킬 : 이슈타르의 링 1레벨 이상",
-        "skill_level": 190,
+        "skill_level": 193,
         "skill_effect": "이슈타르의 링 보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBIF.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "레전드리 스피어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n레전드리 스피어의 데미지를 증가시킨다.",
-        "skill_level": 46,
+        "skill_level": 47,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBIJ.png"
     },
     {
         "skill_name": "레전드리 스피어-리듀스 아머",
         "skill_description": "[마스터 레벨 : 1]\r\n레전드리 스피어로 감소하는 방어율을 증가시킨다. 레전드리 스피어로 감소되는 방어율과는 합적용된다.",
-        "skill_level": 189,
+        "skill_level": 192,
         "skill_effect": "방어율 감소량 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBJA.png"
     },
     {
         "skill_name": "레전드리 스피어-링크드 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n레전드리 스피어로 증가하는 리프 토네이도의 데미지 증가량을 증가시킨다. 리프 토네이도 VI는 레전드리 스피어의 패시브 효과는 적용되지 않고, 레전드리 스피어-링크드 리인포스 효과만 적용된다.\n필요 스킬 : 레전드리 스피어 1레벨 이상",
-        "skill_level": 166,
+        "skill_level": 169,
         "skill_effect": "데미지 30% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBJB.png"
     }
