@@ -3,7 +3,7 @@
     {
         "skill_name": "이슈타르의 링-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n이슈타르의 링의 데미지를 증가시킨다.",
-        "skill_level": 196,
+        "skill_level": 195,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBID.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "워터실드-이뮤너티 인핸스2",
         "skill_description": "[마스터 레벨 : 1]\r\n워터실드로 증가하는 속성내성을 추가로 증가시킨다.",
-        "skill_level": 0,
+        "skill_level": 1,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBII.png"
     },

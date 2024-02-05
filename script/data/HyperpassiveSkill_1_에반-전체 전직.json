@@ -1,16 +1,16 @@
-197
+198
 [
     {
         "skill_name": "드래곤 스위프트-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 스위프트의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 197,
+        "skill_level": 198,
         "skill_effect": "재사용 대기시간 25% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNAKAOBEE.png"
     },
     {
         "skill_name": "드래곤 스위프트-윈드 인스톨",
         "skill_description": "[마스터 레벨 : 1]\r\n스위프트 오브 윈드의 바람 칼날의 발사 개수를 증가시킨다.",
-        "skill_level": 32,
+        "skill_level": 34,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNAKAOBEF.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "드래곤 브레스-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 브레스의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 195,
+        "skill_level": 196,
         "skill_effect": "재사용 대기시간 25% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNAKAOBFA.png"
     },
     {
         "skill_name": "드래곤 브레스-어스 인스톨",
         "skill_description": "[마스터 레벨 : 1]\r\n브레스 오브 어스의 브레스 줄기 개수를 증가시킨다.",
-        "skill_level": 22,
+        "skill_level": 24,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNAKAOBFB.png"
     },
     {
         "skill_name": "드래곤 브레스-윈드 보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n브레스 오브 윈드의 특수 효과 체력 조건과 데미지 증가량을 증가시킨다.",
-        "skill_level": 17,
+        "skill_level": 16,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNAKAOBFC.png"
     }
