@@ -1,4 +1,4 @@
-198
+197
 [
     {
         "skill_name": "트루 사이트-퍼시스트",
@@ -17,35 +17,35 @@
     {
         "skill_name": "트루 사이트-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n트루 사이트의 방어율 감소량을 증가시킨다.",
-        "skill_level": 195,
+        "skill_level": 194,
         "skill_effect": "방어율 10% 추가 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIF.png"
     },
     {
         "skill_name": "코스믹 샤워/버스트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n코스믹 샤워와 코스믹 버스트의 데미지를 증가시킨다.",
-        "skill_level": 186,
+        "skill_level": 185,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIG.png"
     },
     {
         "skill_name": "코스믹 버스트-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n코스믹 버스트의 방어율 무시를 증가시킨다.",
-        "skill_level": 4,
+        "skill_level": 3,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIH.png"
     },
     {
         "skill_name": "코스믹 샤워-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n코스믹 샤워의 지속 시간을 증가시킨다.",
-        "skill_level": 5,
+        "skill_level": 4,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBII.png"
     },
     {
         "skill_name": "디바이드 앤 슬래시-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n솔라 슬래시와 루나 디바이드의 데미지를 증가시킨다.",
-        "skill_level": 198,
+        "skill_level": 197,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIJ.png"
     },
