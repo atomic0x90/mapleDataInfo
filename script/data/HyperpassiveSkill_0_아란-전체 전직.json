@@ -1,4 +1,4 @@
-198
+199
 [
     {
         "skill_name": "스윙-리인포스",
@@ -31,35 +31,35 @@
     {
         "skill_name": "헌터즈 타겟팅-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n부스트 엔드-헌터즈 타겟팅의 데미지를 증가시킨다.",
-        "skill_level": 197,
+        "skill_level": 198,
         "skill_effect": "데미지 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKD.png"
     },
     {
         "skill_name": "아드레날린 부스트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n아드레날린 부스트의 지속 시간을 증가시킨다.",
-        "skill_level": 197,
+        "skill_level": 198,
         "skill_effect": "지속 시간 5초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKE.png"
     },
     {
         "skill_name": "비욘더-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 펜릴 크래시의 데미지를 증가시킨다. 아드레날린 부스트 상태에서 발동하는 에너지 파동과 빙산의 데미지는 증가하지 않는다.",
-        "skill_level": 198,
+        "skill_level": 199,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKF.png"
     },
     {
         "skill_name": "비욘더-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 펜릴 크래시의 공격 횟수를 증가시킨다. 아드레날린 부스트 상태에서 발동하는 에너지 파동과 빙산의 공격 횟수는 증가하지 않는다.",
-        "skill_level": 197,
+        "skill_level": 198,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKG.png"
     },
     {
         "skill_name": "비욘더-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 펜릴 크래시의 몬스터 방어율 무시 수치를 증가시킨다. 아드레날린 부스트 상태에서 발동하는 에너지 파동과 빙산의 방어율 무시 수치는 증가하지 않는다.",
-        "skill_level": 196,
+        "skill_level": 197,
         "skill_effect": "몬스터 방어율 무시 20% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKH.png"
     }
