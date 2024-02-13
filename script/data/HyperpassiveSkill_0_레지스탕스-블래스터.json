@@ -3,7 +3,7 @@
     {
         "skill_name": "펀치-쇼크 웨이브 보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n차지한 해머 스매시, 쇼크 웨이브 펀치로 발동되는 충격파의 공격 횟수를 증가시킨다.",
-        "skill_level": 193,
+        "skill_level": 192,
         "skill_effect": "공격 횟수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIF.png"
     },
@@ -24,14 +24,14 @@
     {
         "skill_name": "릴리즈 파일 벙커-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커의 데미지를 증가시킨다.",
-        "skill_level": 141,
+        "skill_level": 142,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIG.png"
     },
     {
         "skill_name": "릴리즈 파일 벙커-쇼크 웨이브 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커로 발생하는 충격파의 데미지를 증가시킨다.",
-        "skill_level": 161,
+        "skill_level": 163,
         "skill_effect": "데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIH.png"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "인듀어런스 실드-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n인듀어런스 실드가 소멸할 때 소멸 수치의 일부만큼 HP가 회복된다.",
-        "skill_level": 4,
+        "skill_level": 3,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIJ.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "슈퍼 인듀어런스-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n슈퍼 인듀어런스의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 17,
+        "skill_level": 16,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBJA.png"
     }
