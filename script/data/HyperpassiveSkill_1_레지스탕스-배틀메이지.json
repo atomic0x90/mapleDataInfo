@@ -1,9 +1,9 @@
-196
+195
 [
     {
         "skill_name": "다크 제네시스-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 164,
+        "skill_level": 163,
         "skill_effect": "재사용 대기시간 40% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJH.png"
     },
@@ -17,28 +17,28 @@
     {
         "skill_name": "다크 제네시스-에디셔널 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 단일 적을 공격하는 번개의 데미지를 증가시킨다.",
-        "skill_level": 52,
+        "skill_level": 51,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJJ.png"
     },
     {
         "skill_name": "다크 오라-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 오라에 보스 몬스터 공격 시 데미지를 증가시키는 기능을 추가한다.",
-        "skill_level": 196,
+        "skill_level": 195,
         "skill_effect": "보스 몬스터 공격 시 데미지 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKA.png"
     },
     {
         "skill_name": "디버프 오라-엘리멘탈 리셋",
         "skill_description": "[마스터 레벨 : 1]\r\n디버프 오라에 적의 속성 내성을 감소시키는 기능과 적이 받는 최종 데미지가 증가하는 기능을 추가한다.\n소울마스터의 <트루 사이트-인핸스>, 플레임위자드의 <스피릿 오브 플레임> 파티원 적용으로 인한 속성 내성 감소와 중복 적용되지 않는다.",
-        "skill_level": 196,
+        "skill_level": 195,
         "skill_effect": "공격 속성 내성 10% 감소, 적이 받는 최종 데미지 8% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKB.png"
     },
     {
         "skill_name": "블루 오라-디스펠 매직",
         "skill_description": "[마스터 레벨 : 1]\r\n블루 오라에 일정 시간마다 파티원들의 상태 이상을 해제시키는 기능을 추가한다. 일부 상태 이상은 해제되지 않는다.",
-        "skill_level": 172,
+        "skill_level": 171,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKC.png"
     },

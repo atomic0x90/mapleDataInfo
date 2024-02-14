@@ -17,14 +17,14 @@
     {
         "skill_name": "메소 익스플로젼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n픽 파킷으로 떨어진 동전을 움직여 적을 공격한다.\n필요 스킬 : 메소 익스플로젼 20레벨 이상",
-        "skill_level": 2881,
-        "skill_effect": "MP 33 소비, 동전 1개당 1명의 적을 260% 데미지로 2번 공격\n최대 10마리의 적을 공격하며 한 번에 최대 15개의 동전 사용 가능",
+        "skill_level": 2895,
+        "skill_effect": "MP 33 소비, 동전 1개당 1명의 적을 265% 데미지로 2번 공격\n최대 10마리의 적을 공격하며 한 번에 최대 15개의 동전 사용 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJDPBMG.png"
     },
     {
         "skill_name": "일도양단",
         "skill_description": "[마스터 레벨 : 30]\r\n은밀하고 신속하게 적을 처단한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 5314,
+        "skill_level": 5315,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 864%의 데미지로 6번 공격하는 참격이 23회 발동 후, 704%의 데미지로 6번 공격하는 참격 32회 발동, 이후 766%의 데미지로 7번 공격하는 마무리 일격이 55회 발동\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJDPEMA.png"
     },
@@ -52,21 +52,21 @@
     {
         "skill_name": "절개 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n절개를 강화한다.",
-        "skill_level": 2159,
+        "skill_level": 2165,
         "skill_effect": "절개의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIB.png"
     },
     {
         "skill_name": "소닉 블로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소닉 블로우를 강화한다.",
-        "skill_level": 2696,
+        "skill_level": 2703,
         "skill_effect": "소닉 블로우의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIC.png"
     },
     {
         "skill_name": "멸귀참영진 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n멸귀참영진을 강화한다.",
-        "skill_level": 1806,
+        "skill_level": 1815,
         "skill_effect": "멸귀참영진의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBID.png"
     },
