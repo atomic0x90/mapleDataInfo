@@ -31,7 +31,7 @@
     {
         "skill_name": "서포트 웨이버:H-EX-파티 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 웨이버:H-EX로 강화되는 파티원들의 최종 데미지를 추가로 증가시킨다. 서포트 웨이버 강화의 효과와 합하여 적용된다.\n필요 스킬 : 서포트 웨이버 강화 10 레벨",
-        "skill_level": 195,
+        "skill_level": 196,
         "skill_effect": "파티원 최종 데미지 4% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBIH.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "매시브 파이어 : SPLASH-F-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n매시브 파이어 : SPLASH-F의 최대 공격 가능한 몬스터 수를 증가시킨다. 매시브 파이어 : IRON-B, 매시브 파이어 : IRON-B VI의 2차 폭발에는 적용되지 않는다.",
-        "skill_level": 32,
+        "skill_level": 31,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBJA.png"
     },
