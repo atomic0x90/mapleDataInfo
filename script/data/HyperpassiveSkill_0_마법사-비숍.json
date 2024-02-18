@@ -10,14 +10,14 @@
     {
         "skill_name": "홀리 매직쉘-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n홀리 매직쉘의 지속 시간을 증가시킨다.",
-        "skill_level": 146,
+        "skill_level": 147,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAIFOBIE.png"
     },
     {
         "skill_name": "홀리 매직쉘-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n최대 HP의 일정 비율로 피해를 입히는 공격에 피격 시 홀리 매직쉘로 감소하는 피해량을 증가시킨다.",
-        "skill_level": 13,
+        "skill_level": 12,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAIFOBIF.png"
     },

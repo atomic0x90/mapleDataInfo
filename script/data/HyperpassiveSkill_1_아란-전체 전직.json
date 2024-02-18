@@ -17,7 +17,7 @@
     {
         "skill_name": "스윙-애프터이미지 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n스매쉬 스윙, 에어로 스윙 사용 이후 다른 공격 스킬 사용 시 발생하는 잔상의 데미지를 증가시킨다.",
-        "skill_level": 4,
+        "skill_level": 5,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKB.png"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "비욘더-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 펜릴 크래시의 데미지를 증가시킨다. 아드레날린 부스트 상태에서 발동하는 에너지 파동과 빙산의 데미지는 증가하지 않는다.",
-        "skill_level": 197,
+        "skill_level": 196,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKF.png"
     },
