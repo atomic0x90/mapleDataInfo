@@ -3,14 +3,14 @@
     {
         "skill_name": "다크 제네시스-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 153,
+        "skill_level": 154,
         "skill_effect": "재사용 대기시간 40% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJH.png"
     },
     {
         "skill_name": "다크 제네시스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 데미지를 증가시킨다.",
-        "skill_level": 29,
+        "skill_level": 30,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJI.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "블루 오라-디스펠 매직",
         "skill_description": "[마스터 레벨 : 1]\r\n블루 오라에 일정 시간마다 파티원들의 상태 이상을 해제시키는 기능을 추가한다. 일부 상태 이상은 해제되지 않는다.",
-        "skill_level": 172,
+        "skill_level": 171,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKC.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "쉘터-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n쉘터의 지속시간을 증가시킨다.",
-        "skill_level": 65,
+        "skill_level": 64,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKE.png"
     },
