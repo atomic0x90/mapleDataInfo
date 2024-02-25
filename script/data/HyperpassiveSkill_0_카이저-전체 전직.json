@@ -52,14 +52,14 @@
     {
         "skill_name": "윙비트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 지속시간을 증가시킨다.",
-        "skill_level": 63,
+        "skill_level": 62,
         "skill_effect": "지속시간 5초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBJA.png"
     },
     {
         "skill_name": "윙비트-엑스트라 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 공격 횟수를 증가시킨다.",
-        "skill_level": 144,
+        "skill_level": 145,
         "skill_effect": "공격 횟수 8 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBJB.png"
     }
