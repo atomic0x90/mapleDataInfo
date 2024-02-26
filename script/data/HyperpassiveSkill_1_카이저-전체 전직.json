@@ -31,14 +31,14 @@
     {
         "skill_name": "인퍼널 브레스-타일 퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스로 깔리는 화염의 지속시간을 증가시킨다.",
-        "skill_level": 16,
+        "skill_level": 15,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBIH.png"
     },
     {
         "skill_name": "인퍼널 브레스-타일 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스로 깔리는 화염의 데미지를 증가시킨다.",
-        "skill_level": 24,
+        "skill_level": 25,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBII.png"
     },
