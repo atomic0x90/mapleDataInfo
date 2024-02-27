@@ -38,28 +38,28 @@
     {
         "skill_name": "얼티밋 드라이브-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n얼티밋 드라이브의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 140,
+        "skill_level": 143,
         "skill_effect": "몬스터 방어율 무시 20% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNGKFOBII.png"
     },
     {
         "skill_name": "탤런트 오브 팬텀시프-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n스틸 스킬로 훔친 다른 모험가의 스킬 중 공격 스킬의 데미지를 증가시킨다.",
-        "skill_level": 60,
+        "skill_level": 57,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNGKFOBIJ.png"
     },
     {
         "skill_name": "탤런트 오브 팬텀시프-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n스틸 스킬로 훔친 다른 모험가의 스킬 중 버프 스킬의 지속시간을 증가시킨다.",
-        "skill_level": 79,
+        "skill_level": 80,
         "skill_effect": "버프 지속시간 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNGKFOBJA.png"
     },
     {
         "skill_name": "탤런트 오브 팬텀시프-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n스킬 매니지먼트의 훔친 4차 스킬 슬롯 개수를 증가시킨다.",
-        "skill_level": 112,
+        "skill_level": 111,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNGKFOBJB.png"
     }
