@@ -45,35 +45,35 @@
     {
         "skill_name": "파초풍 : 천 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[천 속성 도술] 거대한 부채를 소환하여 지상으로 강한 바람을 날린다.\n사용 중 전방 방향키와 함께 스킬 키를 한 번 더 누르면 자신이 직접 앞으로 도약하는 파초풍 : 실로 연계되며 파초풍 : 실로 연계하지 않을 경우 분신이 공격하는 파초풍 :허로 연계된다.\n필요 스킬 : 파초풍 : 천 20레벨 이상",
-        "skill_level": 1386,
+        "skill_level": 1393,
         "skill_effect": "MP 50 소비, 최대 6명의 적을 356% 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPF.png"
     },
     {
         "skill_name": "파초풍 : 천 허/실 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n파초풍 : 천과 스킬 레벨을 공유하는 연계 스킬이다. 파초풍 : 천 사용 후 앞으로 도약하여 적을 지르밟는다. \n파초풍 : 실의 경우 공격 성공 시 적을 밟고 다시 시간마다 공중으로 도약한다.\n\n파초풍 : 허는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 파초풍 : 천 20레벨 이상",
-        "skill_level": 1386,
+        "skill_level": 1393,
         "skill_effect": "파초풍 : 천 사용 후 파초풍 : 허 또는 파초풍 : 실로 연계 가능, 적에게 닿으면 최대 6명의 적을 356% 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPG.png"
     },
     {
         "skill_name": "토파류 : 지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[지 속성 도술] 땅을 차서 지면을 타고 달리는 기운을 날려 보낸다. 지상에서만 사용할 수 있다.\n사용 중 전방 방향키와 함께 스킬 키를 한 번 더 누르면 자신이 직접 기운을 타고 돌진하는 토파류 : 실로 연계되며 토파류 : 실로 연계하지 않을 경우 분신이 공격하는 토파류 :허로 연계된다.\n필요 스킬 : 토파류 : 지 20레벨 이상",
-        "skill_level": 1386,
+        "skill_level": 1393,
         "skill_effect": "MP 44 소비, 최대 6명의 적을 590%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPB.png"
     },
     {
         "skill_name": "토파류 : 지 허/실 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n토파류 : 지와 스킬 레벨을 공유하는 연계 스킬이다. 지면의 기운을 타고 빠르게 돌진한다.\n토파류 : 허는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 토파류 : 지 20레벨 이상",
-        "skill_level": 1386,
+        "skill_level": 1393,
         "skill_effect": "토파류 : 지 사용 후 토파류 : 허 또는 토파류 : 실로 연계 가능, 최대 6명의 적을 590% 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPC.png"
     },
     {
         "skill_name": "여의선 : 인 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[인 속성 도술] 거대하게 변화시킨 부채를 휘두른다.\n필요 스킬 : 여의선 : 인 20레벨 이상",
-        "skill_level": 1386,
+        "skill_level": 1393,
         "skill_effect": "MP 18 소비, 최대 5명의 적을 730%의 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPA.png"
     },
@@ -101,14 +101,14 @@
     {
         "skill_name": "선기 : 극대 분신난무 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n선기 : 극대 분신난무를 강화한다.",
-        "skill_level": 4398,
+        "skill_level": 4399,
         "skill_effect": "선기 : 극대 분신난무 지속 중 분신이 환영 분신부에서 800%p 증가한 데미지로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAEA.png"
     },
     {
         "skill_name": "권술 : 산령소환 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n권술 : 산령소환을 강화한다.",
-        "skill_level": 593,
+        "skill_level": 594,
         "skill_effect": "권술 : 산령소환의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAEB.png"
     },
@@ -122,7 +122,7 @@
     {
         "skill_name": "선기 : 천지인 환영 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n선기 : 천지인 환영을 강화한다.",
-        "skill_level": 890,
+        "skill_level": 894,
         "skill_effect": "선기 : 천지인 환영의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAED.png"
     },
