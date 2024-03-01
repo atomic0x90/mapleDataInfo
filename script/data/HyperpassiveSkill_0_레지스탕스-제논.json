@@ -3,7 +3,7 @@
     {
         "skill_name": "블레이드 댄싱-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱의 공격력을 증가시킨다.",
-        "skill_level": 48,
+        "skill_level": 47,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIE.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "홀로그램 그래피티-스피드",
         "skill_description": "[마스터 레벨 : 1]\r\n홀로그램 필드 안에서 움직이는 응축 에너지볼의 이동속도를 증가시킨다.",
-        "skill_level": 188,
+        "skill_level": 189,
         "skill_effect": "홀로그램 필드 안에서 움직이는 응축 에너지볼의 이동속도 증가.",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIJ.png"
     },
