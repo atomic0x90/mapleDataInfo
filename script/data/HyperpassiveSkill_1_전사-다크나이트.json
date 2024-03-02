@@ -31,7 +31,7 @@
     {
         "skill_name": "리인카네이션-리듀스 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n리인카네이션 발동 중 재사용 대기시간이 감소하기 위해 처치 해야 하는 적 수가 감소되고 모든 타입에 적용된다.",
-        "skill_level": 3,
+        "skill_level": 4,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIFOBIH.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "궁니르 디센트-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n궁니르 디센트를 사용하여 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 37,
+        "skill_level": 36,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIFOBJB.png"
     }
