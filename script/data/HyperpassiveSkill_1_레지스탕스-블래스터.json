@@ -3,7 +3,7 @@
     {
         "skill_name": "펀치-쇼크 웨이브 보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n차지한 해머 스매시, 쇼크 웨이브 펀치로 발동되는 충격파의 공격 횟수를 증가시킨다.",
-        "skill_level": 181,
+        "skill_level": 180,
         "skill_effect": "공격 횟수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIF.png"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "릴리즈 파일 벙커-쇼크 웨이브 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커로 발생하는 충격파의 데미지를 증가시킨다.",
-        "skill_level": 150,
+        "skill_level": 151,
         "skill_effect": "데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIH.png"
     },
