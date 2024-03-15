@@ -3,77 +3,77 @@
     {
         "skill_name": "이슈타르의 링 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전설의 무기 이슈타르의 힘을 빌려 빠른 속도로 화살을 전방의 적에게 발사한다. 화살은 적을 관통하며 스킬 키를 누르고 있으면 지속적으로 발사된다.\n적중 시 적에게 이슈타르의 낙인을 새긴다. 이슈타르의 낙인은 직접 공격하는 스킬이 일정 횟수 이상 적중 시 하나씩 채워진다. 낙인이 채워질 때마다 정령이 적을 공격하고, 낙인 완성 시 더욱 강하게 공격한다.\n엘리멘탈 고스트의 잔상도 이슈타르의 낙인을 완성할 수 있으며, 이슈타르의 낙인은 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 이슈타르의 링 30레벨 이상",
-        "skill_level": 5505,
+        "skill_level": 5510,
         "skill_effect": "공격당 MP 12 소비, 최대 4명의 적을 525%의 데미지로 2번의 공격\n공격 적중 시 이그니스 로어의 지속시간 0.1초 증가\n공격 적중 시 적에게 90초 동안 이슈타르의 낙인을 새김\n이슈타르의 낙인 : 직접 공격하는 스킬 6번 적중 시 증가, 이슈타르의 링 VI, 이르칼라의 숨결은 12번 적중 시 증가\n낙인이 채워질 때마다 610%의 데미지로 3번 추가 공격\n낙인 완성 시 740%의 데미지로 8번 추가 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPBMA.png"
     },
     {
         "skill_name": "래쓰 오브 엔릴 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n엔릴의 분노를 적에게 퍼붓는다. 보스 몬스터 공격 시 일정 시간 공격 당한 적과 충돌을 무시하는 디버프를 적용한다.\n일정 시간마다 고대 정령의 힘이 깃들어 래쓰 오브 엔릴 VI : 스피릿 인챈트로 강화된다.\n차지 드라이브, 스트라이크 듀얼샷, 유니콘 스파이크, 레전드리 스피어, 라이트닝 엣지와 연계 가능하다.\n추가로 이슈타르의 낙인을 영구히 강화한다.\n필요 스킬 : 래쓰 오브 엔릴 1레벨 이상",
-        "skill_level": 4619,
+        "skill_level": 4620,
         "skill_effect": "MP 230 소비, 최대 10명의 적을 850%의 데미지로 10번 공격\n보스 몬스터 공격 시 보스와의 충돌을 무시하는 디버프가 60초 동안 발생\n재사용 대기시간 8초\n연계 스킬 사용 시 재사용 대기시간 1초 감소\n12초마다 래쓰 오브 엔릴 VI : 스피릿 인챈트로 강화\n[패시브 효과 : 이슈타르의 낙인 생성 데미지 240%p 증가, 이슈타르의 낙인 완성 데미지 290%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPBMD.png"
     },
     {
         "skill_name": "레전드리 스피어 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n도약과 동시에 전설의 창을 떨어트려 적을 공격한다. 스킬 사용 중 적의 어떠한 공격에도 밀려나지 않으며 적중한 적에게 방어율을 일정 수준 무시하는 디버프를 적용한다.\n일정 시간마다 고대 정령의 힘이 깃들어 레전드리 스피어 VI : 스피릿 인챈트로 강화된다.\n리프 토네이도, 거스트 다이브, 롤링 문썰트, 래쓰 오브 엔릴과 연계 가능하다.\n필요 스킬 : 레전드리 스피어 20레벨 이상",
-        "skill_level": 4619,
+        "skill_level": 4620,
         "skill_effect": "MP 70 소비, 최대 12명의 적을 1055%의 데미지로 4번 크리티컬 공격\n60초 동안 적중한 적의 방어율 35% 감소 효과 적용\n재사용 대기시간 5초\n연계 스킬 사용 시 재사용 대기시간 1초 감소\n12초마다 레전드리 스피어 VI : 스피릿 인챈트로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPBMF.png"
     },
     {
         "skill_name": "리프 토네이도 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n공중에서 빠르게 몸을 회전하면서 사방에 화살을 난사한다. 공중에서만 사용 가능하며 스킬은 반드시 일정 높이 이상에서만 사용할 수 있고 거스트 다이브에 연계하여 사용 시에는 더 높은 높이가 필요하다. \n일정 시간마다 고대 정령의 힘이 깃들어 리프 토네이도 VI : 스피릿 인챈트로 강화된다.\n거스트 다이브, 레전드리 스피어, 래쓰 오브 엔릴로 연계 가능하다.\n필요 스킬 : 리프 토네이도 20레벨 이상",
-        "skill_level": 4619,
+        "skill_level": 4620,
         "skill_effect": "MP 51 소비, 최대 8명의 적을 780%의 데미지로 4번 공격\n6초마다 리프 토네이도 VI : 스피릿 인챈트로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPBMH.png"
     },
     {
         "skill_name": "언페이딩 글로리",
         "skill_description": "[마스터 레벨 : 30]\r\n백성을 위하는 왕의 숭고한 마음이 위대한 정신 및 고대의 정령왕의 인정을 받는다. 위대한 정신과 고대 정령왕의 힘이 싸울 운명을 가진 자의 무기에 깃들어 마법 화살과 함께 방출된다.\n방출된 정령의 힘은 일정 시간 동안 정령왕을 모방한 형상으로 빚어져 함께 전투한다. 정령왕의 형상이 존재할 때 스킬키 재입력 시 현재 위치를 기준으로 정령왕의 형상을 재소환할 수 있다.\n언페이딩 글로리 시전 중에는 실피디아가 지속시간으로 종료되지 않으며, 정령왕의 형상은 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4307,
+        "skill_level": 4341,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n위대한 정신과 고대 정령왕의 가호로 최대 15명의 적을 840%의 데미지로 10번 공격하는 파동이 36회 발생, 무기에 깃든 가호가 방출되며 870%의 데미지로 15번 공격하는 충돌이 28회 발생\n이후 60초 동안 정령의 힘이 정령왕의 형상으로 빚어져 소환, 재소환 대기시간 3초\n정령왕의 형상은 최대 12명의 적을 2200%의 데미지로 15번 공격\n이슈타르의 낙인이 완성되면 이슈타르의 힘이 더해져 다음 공격이 강화 공격으로 발동\n강화 공격 : 1440%의 데미지로 15번 공격하는 파동이 4회 발생, 재발동 대기시간 2초\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2129,
+        "skill_level": 2127,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 77% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2129,
+        "skill_level": 2127,
         "skill_effect": "최대 HP의 10% 소비\n80초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 640%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "엘리멘탈 고스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n엘리멘탈 고스트를 강화한다.",
-        "skill_level": 3630,
+        "skill_level": 3637,
         "skill_effect": "엘리멘탈 고스트의 최종 데미지 49% 증가, 잔상의 최종 데미지 반영률 75%로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBEI.png"
     },
     {
         "skill_name": "실피디아 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n실피디아를 강화한다.",
-        "skill_level": 1456,
+        "skill_level": 1462,
         "skill_effect": "실피디아의 최종 데미지 45% 증가, 지속 중 최종 데미지 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBEJ.png"
     },
     {
         "skill_name": "이르칼라의 숨결 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n이르칼라의 숨결을 강화한다.",
-        "skill_level": 5206,
+        "skill_level": 5217,
         "skill_effect": "이르칼라의 숨결의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFA.png"
     },
     {
         "skill_name": "로얄 나이츠 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n로얄 나이츠를 강화한다.",
-        "skill_level": 1609,
+        "skill_level": 1622,
         "skill_effect": "로얄 나이츠의 최종 데미지 44% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFB.png"
     },
