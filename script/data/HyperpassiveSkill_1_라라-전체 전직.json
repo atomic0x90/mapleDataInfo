@@ -24,7 +24,7 @@
     {
         "skill_name": "정기 뿌리기 - 보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n정기 뿌리기의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 81,
+        "skill_level": 82,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKFOBPE.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "산 에움 - 엑스트라 실드",
         "skill_description": "[마스터 레벨 : 1]\r\n산 에움 지속 중 일정 시간마다 최대 HP의 일정 비율에 비례하는 실드를 생성한다.",
-        "skill_level": 179,
+        "skill_level": 178,
         "skill_effect": "산 에움 지속 중 1초마다 최대 HP의 15%에 해당하는 실드 생성, 실드는 산 에움 종료 후 1초 후 소멸",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKFOBPI.png"
     },

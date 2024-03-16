@@ -17,14 +17,14 @@
     {
         "skill_name": "질풍-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n질풍의 공격 횟수를 증가시킨다.",
-        "skill_level": 139,
+        "skill_level": 138,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBIF.png"
     },
     {
         "skill_name": "벽력-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 데미지를 증가시킨다.",
-        "skill_level": 163,
+        "skill_level": 164,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBIG.png"
     },
