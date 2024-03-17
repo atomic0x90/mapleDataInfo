@@ -3,28 +3,28 @@
     {
         "skill_name": "궁니르 디센트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n신화 속의 창을 적에게 던져 치명적인 피해를 입힌다. 최대 HP에 비례하여 더 큰 데미지를 입힐 수 있다.\n필요 스킬 : 궁니르 디센트 30레벨 이상",
-        "skill_level": 4802,
+        "skill_level": 4803,
         "skill_effect": "MP 70 소비, 최대 4명의 적을 390%의 데미지로 12번 공격\n공격 시 최대 HP의 120% 만큼의 데미지가 공격마다 증가되고 적의 방어 40% 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIDPBMA.png"
     },
     {
         "skill_name": "다크 임페일 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n눈에 보이지 않을 정도로 빠르게 창을 찔러 전방의 적 다수를 공격한다. 일정 시간마다 어둠의 힘을 창에 담아 적을 크게 휩쓰는 다크 바이던트를 사용할 수 있다.\n필요 스킬 : 다크 임페일 30레벨 이상",
-        "skill_level": 1328,
+        "skill_level": 1331,
         "skill_effect": "MP 55 소비, 최대 8명의 적을 568% 데미지로 6번 공격\n6초마다 다크 바이던트로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIDPBMB.png"
     },
     {
         "skill_name": "다크 신서시스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n내부에 잠들어 있는 어둠의 힘을 개방하여 주위를 휩쓴다. 다크 스피어 사용 중 사용 시 시전 동작 없이 사용할 수 있다. 추가로 궁니르 디센트 VI를 영구히 강화한다.\n필요 스킬 : 다크 신서시스 1레벨 이상",
-        "skill_level": 1328,
+        "skill_level": 1331,
         "skill_effect": "MP 220 소비, 최대 12명의 적을 580%의 데미지로 12번 공격\n몬스터의 방어율 60% 무시, 보스 몬스터 공격 시 데미지 30% 증가\n재사용 대기시간 10초\n[패시브 효과 : 궁니르 디센트 VI 데미지 145%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIDPBMD.png"
     },
     {
         "skill_name": "데드 스페이스",
         "skill_description": "[마스터 레벨 : 30]\r\n어둠의 기운을 응집시킨 창을 던져 주변의 모든 생명을 거두어 간다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3084,
+        "skill_level": 3088,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1200%의 데미지로 6번 공격하는 참격이 6회 발생, 이후 최대 15명의 적을 1035%의 데미지로 14번 공격하는 어둠의 기운 58회 방출\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDIDPEMA.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "다크 스피어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크 스피어를 강화한다.",
-        "skill_level": 3490,
+        "skill_level": 3492,
         "skill_effect": "다크 스피어의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBMI.png"
     },
     {
         "skill_name": "비홀더 임팩트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n비홀더 임팩트를 강화한다.",
-        "skill_level": 1311,
+        "skill_level": 1313,
         "skill_effect": "비홀더 임팩트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBMJ.png"
     },
     {
         "skill_name": "피어스 사이클론 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n피어스 사이클론을 강화한다.",
-        "skill_level": 2545,
+        "skill_level": 2551,
         "skill_effect": "피어스 사이클론의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBNA.png"
     },
