@@ -3,23 +3,9 @@
     {
         "skill_name": "피스트 인레이지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[격투 스킬] 전방으로 소나기와 같은 펀치를 퍼붓는다.\n서펜트 어썰트 인레이지가 발동할 경우 일정 시간 동안 강력한 충격파를 발생시키는 슈퍼 피스트 인레이지로 변경된다.\n씨 서펜트 인레이지 또는 써펜트 어썰트 인레이지만을 발동시킨다.\n충격파는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 피스트 인레이지 30레벨 이상",
-        "skill_level": 5052,
+        "skill_level": 5055,
         "skill_effect": "MP 52 소비, 최대 4명의 적을 455%의 데미지로 10번 공격, 서펜트 어썰트 인레이지 발동 시 10초 동안 슈퍼 피스트 인레이지 사용 가능 \n슈퍼 피스트 인레이지 : MP 52 소비, 최대 4명의 적을 270%의 데미지로 3번 공격 이후 최대 4명의 적을 455%의 데미지로 10번 공격하는 충격파 발생 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKDPBMA.png"
-    },
-    {
-        "skill_name": "씨 서펜트 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n수룡의 힘을 완전히 체득한다.\n수룡 스킬이 씨 서펜트 VI와 씨 서펜트 인레이지 VI로 강화된다.\n필요 스킬 : 씨 서펜트 강화 II 20레벨 이상",
-        "skill_level": 1309,
-        "skill_effect": "수룡 스킬 발동 시 MP 41 소비\n씨 서펜트 버스트 VI\n최대 8명의 적을 587%의 데미지로 8번 공격\n재사용 대기시간 6초\n씨 서펜트 인레이지 VI\nMP 41 소비, 최대 6명의 적을 597%의 데미지로 6번 공격\n서펜트 마크가 남은 적은 30초 동안 바이퍼의 공격에 받는 최종 데미지 20% 증가\n재사용 대기시간 4초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKDOBME.png"
-    },
-    {
-        "skill_name": "전함 노틸러스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n전함 노틸러스호에 공격 명령을 내려 다수의 적을 동시에 공격한다.\n전함 노틸러스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 스킬 습득 후 자신이 직접 공격하는 스킬로 공격 시 추가 공격을 한다.\n필요 스킬 : 전함 노틸러스 30레벨 이상",
-        "skill_level": 1309,
-        "skill_effect": "MP 364 소비, 최대 15명의 적을 615%의 데미지로 7번 공격\n[파이널 어택류 스킬] 써머솔트 킥, 스크류 펀치, 피스트 인레이지, 퓨리어스 차지, 하울링 피스트, 리버레이트 넵투누스로 공격 시 100% 확률로 291%의 데미지로 2번 추가 공격\n넵투누스 인레이지에 의해서는 발동하지 않음\n재사용 대기시간 60초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKDPBMJ.png"
     },
     {
         "skill_name": "리버레이트 넵투누스",
@@ -45,7 +31,7 @@
     {
         "skill_name": "라이트닝 폼 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n라이트닝 폼을 강화한다.",
-        "skill_level": 2224,
+        "skill_level": 2226,
         "skill_effect": "라이트닝 폼의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBII.png"
     },
@@ -66,7 +52,7 @@
     {
         "skill_name": "하울링 피스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n하울링 피스트를 강화한다.",
-        "skill_level": 2903,
+        "skill_level": 2906,
         "skill_effect": "하울링 피스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJB.png"
     },
@@ -76,5 +62,19 @@
         "skill_level": 199,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
+    },
+    {
+        "skill_name": "씨 서펜트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n수룡의 힘을 완전히 체득한다.\n수룡 스킬이 씨 서펜트 VI와 씨 서펜트 인레이지 VI로 강화된다.\n필요 스킬 : 씨 서펜트 강화 II 20레벨 이상",
+        "skill_level": 1316,
+        "skill_effect": "수룡 스킬 발동 시 MP 42 소비\n씨 서펜트 버스트 VI\n최대 8명의 적을 691%의 데미지로 8번 공격\n재사용 대기시간 6초\n씨 서펜트 인레이지 VI\nMP 42 소비, 최대 6명의 적을 701%의 데미지로 6번 공격\n서펜트 마크가 남은 적은 30초 동안 바이퍼의 공격에 받는 최종 데미지 20% 증가\n재사용 대기시간 4초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKDOBME.png"
+    },
+    {
+        "skill_name": "전함 노틸러스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n전함 노틸러스호에 공격 명령을 내려 다수의 적을 동시에 공격한다.\n전함 노틸러스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 스킬 습득 후 자신이 직접 공격하는 스킬로 공격 시 추가 공격을 한다.\n필요 스킬 : 전함 노틸러스 30레벨 이상",
+        "skill_level": 1316,
+        "skill_effect": "MP 372 소비, 최대 15명의 적을 719%의 데미지로 7번 공격\n[파이널 어택류 스킬] 써머솔트 킥, 스크류 펀치, 피스트 인레이지, 퓨리어스 차지, 하울링 피스트, 리버레이트 넵투누스로 공격 시 100% 확률로 371%의 데미지로 2번 추가 공격\n넵투누스 인레이지에 의해서는 발동하지 않음\n재사용 대기시간 60초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKDPBMJ.png"
     }
 ]
