@@ -24,8 +24,8 @@
     {
         "skill_name": "레조넌스-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n레조넌스와 공명해 에테르 결정이 소멸할 때 에테르를 획득할 수 있고 임페일 사용 시 에테르를 소비하지 않게 된다.",
-        "skill_level": 153,
-        "skill_effect": "레조넌스로 에테르 결정 소멸 시 에테르 20 획득, 임페일 사용 시 에테르 소비 삭제",
+        "skill_level": 151,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPE.png"
     },
     {
@@ -52,8 +52,8 @@
     {
         "skill_name": "노빌리티-실드 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n노빌리티 지속 중 실드가 존재한다면 데미지가 증가한다.",
-        "skill_level": 29,
-        "skill_effect": null,
+        "skill_level": 31,
+        "skill_effect": "데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPI.png"
     },
     {

@@ -17,14 +17,14 @@
     {
         "skill_name": "쇼다운 챌린지-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n쇼다운 챌린지로 도발당한 적에게서 얻는 경험치 획득량과 아이템 드롭률을 증가시킨다.",
-        "skill_level": 152,
+        "skill_level": 151,
         "skill_effect": "경험치 획득량과 아이템 드롭률 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBIF.png"
     },
     {
         "skill_name": "퍼지 에어리어-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지 에어리어로 감소되는 적 공격력 및 방어율 수치를 증가시킨다.",
-        "skill_level": 44,
+        "skill_level": 45,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGKFOBIG.png"
     },
