@@ -17,7 +17,7 @@
     {
         "skill_name": "메소 익스플로젼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n픽 파킷으로 떨어진 동전을 움직여 적을 공격한다.\n필요 스킬 : 메소 익스플로젼 20레벨 이상",
-        "skill_level": 3539,
+        "skill_level": 3550,
         "skill_effect": "MP 34 소비, 동전 1개당 1명의 적을 295% 데미지로 2번 공격\n최대 10마리의 적을 공격하며 한 번에 최대 15개의 동전 사용 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJDPBMG.png"
     },
@@ -45,28 +45,28 @@
     {
         "skill_name": "쉐도우 어썰트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 어썰트를 강화한다.",
-        "skill_level": 390,
+        "skill_level": 392,
         "skill_effect": "쉐도우 어썰트의 최종 데미지 11% 증가, 연속 사용 가능 횟수 5회로 증가, 재사용 대기시간 59초로 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIA.png"
     },
     {
         "skill_name": "절개 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n절개를 강화한다.",
-        "skill_level": 2268,
+        "skill_level": 2274,
         "skill_effect": "절개의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIB.png"
     },
     {
         "skill_name": "소닉 블로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소닉 블로우를 강화한다.",
-        "skill_level": 2889,
+        "skill_level": 2895,
         "skill_effect": "소닉 블로우의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIC.png"
     },
     {
         "skill_name": "멸귀참영진 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n멸귀참영진을 강화한다.",
-        "skill_level": 1888,
+        "skill_level": 1889,
         "skill_effect": "멸귀참영진의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBID.png"
     },

@@ -24,14 +24,14 @@
     {
         "skill_name": "오더 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리에이션으로 창조한 에테르 소드에 명령을 내려 적을 추적하게 한다. 크리에이션으로 창조한 에테르 소드가 있어야 사용할 수 있다.\n에테르 소드는 아델 근처에서만 움직이며 멀어지면 근처로 이동하여 새로운 적을 추적한다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않고 아델이 전투 상태일 때만 적을 추적한다.\n추적 중인 에테르 소드가 소멸할 때 남은 지속시간에 비례해 에테르를 획득할 수 있다.\n필요 스킬 : 오더 20레벨 이상",
-        "skill_level": 3891,
+        "skill_level": 3899,
         "skill_effect": "MP 52, 에테르 100 소비\n각 에테르 소드는 60초 동안 존재하며 800%의 데미지로 2번 공격\n최대 6자루까지 명령 가능, 최대 개수를 초과해서 명령 시 지속시간이 가장 적게 남은 에테르 소드가 소멸\n공격 적중 시 15% 확률로 에테르 결정 생성\n재사용 대기시간 0.50초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKDPBME.png"
     },
     {
         "skill_name": "트레드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[트리거 스킬] 전신에 마력을 휘감아 급강하한다.\n필요 스킬 : 트레드 20레벨 이상",
-        "skill_level": 3891,
+        "skill_level": 3899,
         "skill_effect": "MP 62 소비 \n공중에서 사용 시 수직으로 하강하며 최대 6명의 적을 815%의 데미지로 6번 공격\n재사용 대기시간 1.50초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKDPBMF.png"
     },
@@ -59,28 +59,28 @@
     {
         "skill_name": "루인 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n루인을 강화한다.",
-        "skill_level": 561,
+        "skill_level": 562,
         "skill_effect": "루인의 최종 데미지 43% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKA.png"
     },
     {
         "skill_name": "인피니트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n인피니트를 강화한다.",
-        "skill_level": 3199,
+        "skill_level": 3200,
         "skill_effect": "인피니트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKB.png"
     },
     {
         "skill_name": "리스토어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n리스토어를 강화한다.",
-        "skill_level": 2457,
+        "skill_level": 2460,
         "skill_effect": "리스토어의 최종 데미지 48% 증가, 지속 중 최종 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKC.png"
     },
     {
         "skill_name": "스톰 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스톰을 강화한다.",
-        "skill_level": 825,
+        "skill_level": 827,
         "skill_effect": "스톰의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKD.png"
     },
