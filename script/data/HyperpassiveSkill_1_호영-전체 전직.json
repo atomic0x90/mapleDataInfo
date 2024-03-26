@@ -3,14 +3,14 @@
     {
         "skill_name": "천지인-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n여의선 : 인, 토파류 류 스킬, 파초풍 류 스킬, 지진쇄 류 스킬, 멸화염 류 스킬, 금고봉 : 인의 데미지를 증가시킨다.",
-        "skill_level": 198,
+        "skill_level": 197,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKFOBPB.png"
     },
     {
         "skill_name": "천지인-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n여의선 : 인, 토파류 류 스킬, 파초풍 류 스킬, 지진쇄 류 스킬, 멸화염 류 스킬, 금고봉 : 인의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 21,
+        "skill_level": 22,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKFOBPC.png"
     },

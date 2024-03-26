@@ -38,14 +38,14 @@
     {
         "skill_name": "워터실드-이뮤너티 인핸스2",
         "skill_description": "[마스터 레벨 : 1]\r\n워터실드로 증가하는 속성내성을 추가로 증가시킨다.",
-        "skill_level": 2,
+        "skill_level": 1,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBII.png"
     },
     {
         "skill_name": "레전드리 스피어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n레전드리 스피어의 데미지를 증가시킨다.",
-        "skill_level": 83,
+        "skill_level": 82,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBIJ.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "레전드리 스피어-링크드 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n레전드리 스피어로 증가하는 리프 토네이도의 데미지 증가량을 증가시킨다. 리프 토네이도 VI는 레전드리 스피어의 패시브 효과는 적용되지 않고, 레전드리 스피어-링크드 리인포스 효과만 적용된다.\n필요 스킬 : 레전드리 스피어 1레벨 이상",
-        "skill_level": 171,
+        "skill_level": 173,
         "skill_effect": "데미지 30% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNBKFOBJB.png"
     }

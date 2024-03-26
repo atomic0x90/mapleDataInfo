@@ -1,4 +1,4 @@
-199
+200
 [
     {
         "skill_name": "귀참-리인포스",
@@ -31,28 +31,28 @@
     {
         "skill_name": "폭류권-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n폭류권의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 2,
+        "skill_level": 3,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAJA.png"
     },
     {
         "skill_name": "폭류권-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n폭류권의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 1,
+        "skill_level": 0,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAJB.png"
     },
     {
         "skill_name": "불여우령-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n불여우령의 공격력을 증가시킨다.",
-        "skill_level": 24,
+        "skill_level": 25,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAJC.png"
     },
     {
         "skill_name": "불여우령-리핏 어택 보너스",
         "skill_description": "[마스터 레벨 : 1]\r\n불여우령의 공격 반복 횟수를 증가 시킨다.",
-        "skill_level": 170,
+        "skill_level": 174,
         "skill_effect": "공격 반복 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAJD.png"
     },
