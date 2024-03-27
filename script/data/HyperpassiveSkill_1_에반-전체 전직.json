@@ -38,7 +38,7 @@
     {
         "skill_name": "드래곤 다이브-어스 인헨스",
         "skill_description": "[마스터 레벨 : 1]\r\n다이브 오브 어스의 데미지를 증가시킨다.",
-        "skill_level": 175,
+        "skill_level": 176,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNAKAOBEJ.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "드래곤 브레스-어스 인스톨",
         "skill_description": "[마스터 레벨 : 1]\r\n브레스 오브 어스의 브레스 줄기 개수를 증가시킨다.",
-        "skill_level": 19,
+        "skill_level": 18,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNAKAOBFB.png"
     },

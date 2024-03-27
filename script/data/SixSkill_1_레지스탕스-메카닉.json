@@ -10,7 +10,7 @@
     {
         "skill_name": "호밍 미사일 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n다수 공격용 호밍 미사일을 발사한다. 호밍 미사일은 조준된 적을 끝까지 따라가서 타격하도록 프로그래밍 되어있다.\n호밍 미사일은 공격 반사 상태의 적을 공격해도 피해를 입지 않고 탱크 모드에서 사용 시 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n키다운하여 호밍 미사일을 지속적으로 발사할 수 있으며\n호밍 미사일 키다운 중 이동하거나 다른 스킬을 사용할 수\n있다.\n호밍 미사일 연기 이펙트 온오프 : 마우스 우클릭\n필요 스킬 : 어드밴스드 호밍 미사일 15레벨 이상",
-        "skill_level": 2788,
+        "skill_level": 2794,
         "skill_effect": "MP 70 소비, 최대 12명의 적을 545%의 데미지로 동시 조준 및 타격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKDPBMD.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "마이크로 미사일 컨테이너 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n마이크로 미사일 컨테이너를 강화한다.",
-        "skill_level": 2905,
+        "skill_level": 2906,
         "skill_effect": "마이크로 미사일 컨테이너의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOB.png"
     },
     {
         "skill_name": "메탈아머 전탄발사 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n메탈아머 전탄발사를 강화한다.",
-        "skill_level": 1202,
-        "skill_effect": "메탈아머 전탄발사의 최종 데미지 42% 증가",
+        "skill_level": 1213,
+        "skill_effect": "메탈아머 전탄발사의 최종 데미지 43% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOC.png"
     },
     {
         "skill_name": "메카 캐리어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n메카 캐리어를 강화한다.",
-        "skill_level": 1756,
+        "skill_level": 1757,
         "skill_effect": "메카 캐리어의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOD.png"
     },

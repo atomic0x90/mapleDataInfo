@@ -31,7 +31,7 @@
     {
         "skill_name": "리프랙트 이블-이뮤너티 인핸스1",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 상태 이상 내성 확률을 증가 시킨다.\r\n필요 스킬 : 리프랙트 이블 1레벨 이상",
-        "skill_level": 3,
+        "skill_level": 2,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBIH.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "실드 체이싱-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 실드 체이싱의 사거리를 증가 시킨다.",
-        "skill_level": 114,
+        "skill_level": 115,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBJB.png"
     }
