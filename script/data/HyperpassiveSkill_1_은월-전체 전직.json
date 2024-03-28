@@ -45,14 +45,14 @@
     {
         "skill_name": "불여우령-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n불여우령의 공격력을 증가시킨다.",
-        "skill_level": 24,
+        "skill_level": 23,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAJC.png"
     },
     {
         "skill_name": "불여우령-리핏 어택 보너스",
         "skill_description": "[마스터 레벨 : 1]\r\n불여우령의 공격 반복 횟수를 증가 시킨다.",
-        "skill_level": 175,
+        "skill_level": 176,
         "skill_effect": "공격 반복 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAJD.png"
     },

@@ -10,14 +10,14 @@
     {
         "skill_name": "레이지 업라이징 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n고대 전사의 분노를 구현하여 전방의 적을 초토화시킨다.\n필요 스킬 : 레이지 업라이징 1레벨 이상",
-        "skill_level": 3010,
+        "skill_level": 3014,
         "skill_effect": "MP 229 소비\n최대 10명의 적을 250%의 데미지로 8번 공격하는 참격 4회 발동\n재사용 대기시간 10초\n[패시브 효과 : 레이징 블로우 VI 데미지 144%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDKDPBMC.png"
     },
     {
         "skill_name": "스피릿 칼리버",
         "skill_description": "[마스터 레벨 : 30]\r\n[검술] 검과 영혼이 하나가 되어 모든 것을 벤다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4375,
+        "skill_level": 4377,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 472%의 데미지로 14번 공격하는 참격이 33회 발생 후, 470%의 데미지로 15번 공격하는 마무리 일격이 48회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDKDPEMA.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "소드 오브 버닝 소울 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소드 오브 버닝 소울을 강화한다.",
-        "skill_level": 2004,
+        "skill_level": 2009,
         "skill_effect": "소드 오브 버닝 소울의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBMA.png"
     },

@@ -1,23 +1,23 @@
-199
+200
 [
     {
         "skill_name": "브레스 슈터-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 브레스 슈터 스킬의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 10,
+        "skill_level": 11,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPB.png"
     },
     {
         "skill_name": "브레스 슈터-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 브레스 슈터 스킬의 데미지를 증가시킨다.",
-        "skill_level": 189,
+        "skill_level": 191,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPC.png"
     },
     {
         "skill_name": "브레스 슈터-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 브레스 슈터 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 197,
+        "skill_level": 198,
         "skill_effect": "보스 몬스터 공격 시 데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPD.png"
     },
@@ -38,21 +38,21 @@
     {
         "skill_name": "처형-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n죽음의 축복 최종 데미지 증가 효과에 특별한 능력을 추가한다.",
-        "skill_level": 182,
+        "skill_level": 183,
         "skill_effect": "죽음의 축복 최종 데미지 증가 효과 중 처형 스킬 사용 시 어떠한 공격에도 밀리지 않게 된다.",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPG.png"
     },
     {
         "skill_name": "리메인 인센스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n리메인 인센스의 데미지를 증가시킨다.",
-        "skill_level": 194,
+        "skill_level": 195,
         "skill_effect": "데미지 50% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPH.png"
     },
     {
         "skill_name": "드래곤 팡-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 팡의 활동 범위를 증가시킨다.",
-        "skill_level": 19,
+        "skill_level": 18,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPI.png"
     },

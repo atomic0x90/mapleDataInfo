@@ -10,14 +10,14 @@
     {
         "skill_name": "웨폰 버라이어티 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n무기 간의 흐름을 완전히 깨우쳐 웨폰 버라이어티의 효과를 완성시킨다. 추가타 발동 시 일정 시간 동안 다크 사이트 상태가 되며 빠르게 소멸하는 보호막 효과가 발동된다.\n필요 스킬 : 웨폰 버라이어티 Ⅲ 10레벨 이상",
-        "skill_level": 3288,
+        "skill_level": 3298,
         "skill_effect": "무기 교체 시 30초 동안 버프 1 스택당 모든 공격 스킬의 최종 데미지 11% 증가, 체인아츠를 제외한 사용 가능 소환 무기 스킬 최대 개수만큼 중첩 가능\n버프 중첩 및 갱신 시 660%의 데미지로 최대 7명의 적을 4번 공격하는 추가타 발생\n추가타 발생 시 2초 동안 다크 사이트 및 최대 HP의 7%의 피해를 막아주는 보호막 생성\n보호막은 최대 HP의 25%만큼 누적 가능하며 초당 현재 보호막의 30% + 50씩 소멸\n추가타 재발동 대기시간 : 0.2초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJGKDPBME.png"
     },
     {
         "skill_name": "체인아츠:매서커",
         "skill_description": "[마스터 레벨 : 30]\r\n다룰 수 있는 모든 무기를 총동원하여 적을 무자비하게 학살한다. 시전 시 웨폰 버라이어티의 스택이 최대로 중첩되며 체인아츠:매서커의 모든 공격은 웨폰 버라이어티를 발동시킨다. 체인아츠:매서커는 체인아츠:스트로크로 인한 최종 데미지 증가 효과를 받지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3948,
+        "skill_level": 3953,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 공격\n1차 연계 공격 : 700%의 데미지로 8번 공격하는 참격이 54회 발생\n2차 연계 공격 : 730%의 데미지로 9번 공격하는 참격이 17회 발생\n3차 연계 공격 : 780%의 데미지로 14번 공격하는 폭발이 60회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJGKDPEMA.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "A.D 오드넌스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\nA.D 오드넌스를 강화한다.",
-        "skill_level": 2291,
+        "skill_level": 2296,
         "skill_effect": "A.D 오드넌스의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAIF.png"
     },
     {
         "skill_name": "체인아츠:메일스트롬 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n체인아츠:메일스트롬을 강화한다.",
-        "skill_level": 1448,
+        "skill_level": 1450,
         "skill_effect": "체인아츠:메일스트롬의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAIG.png"
     },
     {
         "skill_name": "웨폰 버라이어티 피날레 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n웨폰 버라이어티 피날레를 강화한다.",
-        "skill_level": 1094,
+        "skill_level": 1095,
         "skill_effect": "웨폰 버라이어티 피날레의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAIH.png"
     },
