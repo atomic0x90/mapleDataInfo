@@ -1,30 +1,30 @@
-200
+199
 [
     {
         "skill_name": "트루 사이트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n트루 사이트의 지속 시간을 증가시킨다.",
-        "skill_level": 190,
+        "skill_level": 188,
         "skill_effect": "지속 시간 20초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBID.png"
     },
     {
         "skill_name": "트루 사이트-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n트루 사이트가 속성 내성을 감소시킨다. 플레임위자드의 <스피릿 오브 플레임> 파티원 적용, 배틀메이지의 <디버프 오라-엘리멘탈 리셋>으로 인한 속성 내성 감소와 중복 적용되지 않는다.",
-        "skill_level": 196,
+        "skill_level": 195,
         "skill_effect": "속성 내성 10% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIE.png"
     },
     {
         "skill_name": "트루 사이트-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n트루 사이트의 방어율 감소량을 증가시킨다.",
-        "skill_level": 192,
+        "skill_level": 191,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIF.png"
     },
     {
         "skill_name": "코스믹 샤워/버스트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n코스믹 샤워와 코스믹 버스트의 데미지를 증가시킨다.",
-        "skill_level": 189,
+        "skill_level": 188,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIG.png"
     },
@@ -38,14 +38,14 @@
     {
         "skill_name": "코스믹 샤워-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n코스믹 샤워의 지속 시간을 증가시킨다.",
-        "skill_level": 6,
+        "skill_level": 7,
         "skill_effect": "지속 시간 10초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBII.png"
     },
     {
         "skill_name": "디바이드 앤 슬래시-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n솔라 슬래시와 루나 디바이드의 데미지를 증가시킨다.",
-        "skill_level": 199,
+        "skill_level": 198,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIJ.png"
     },
