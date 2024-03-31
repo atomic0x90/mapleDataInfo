@@ -3,21 +3,21 @@
     {
         "skill_name": "템페스트 오브 카드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n칼날과도 같은 강력한 카드 폭풍을 일으켜 주변의 적을 공격한다. 반드시 크리티컬이 발생하고 사용 도중 움직일 수 있으나 거센 폭풍으로 이동속도가 고정된다.\n필요 스킬 : 템페스트 오브 카드 30레벨 이상",
-        "skill_level": 4433,
+        "skill_level": 4435,
         "skill_effect": "공격당 MP 25 소비, 최대 3초 키다운하여 일정 간격마다 최대 8명의 적을 840%의 데미지로 4번 공격\n재사용 대기시간 18초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNGKDPBMA.png"
     },
     {
         "skill_name": "얼티밋 드라이브 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n보이지 않을 정도로 빠르게 연속해서 찌른다. 이동하며 계속해서 공격할 수 있다.\n필요 스킬 : 얼티밋 드라이브 30레벨 이상",
-        "skill_level": 2164,
+        "skill_level": 2168,
         "skill_effect": "공격당 MP 17 소비, 최대 6명의 적을 450%의 데미지로 3번 공격\n키다운 중에 이동키로 이동이 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNGKDPBMB.png"
     },
     {
         "skill_name": "페이트 셔플",
         "skill_description": "[마스터 레벨 : 30]\r\n카드를 뽑아 스스로의 운명을 점친다.\n스킬 사용 후 방향키를 입력하여 얼티밋 드라이브 또는\n얼티밋 드라이브 : 포츈을 선택할 수 있다.",
-        "skill_level": 2164,
+        "skill_level": 2168,
         "skill_effect": "MP 120 소비, 얼티밋 드라이브의 운명을 결정\n재사용 대기시간 3초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNGKDPBMD.png"
     },
@@ -45,14 +45,14 @@
     {
         "skill_name": "조커 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n조커를 강화한다.",
-        "skill_level": 2482,
+        "skill_level": 2486,
         "skill_effect": "조커의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFC.png"
     },
     {
         "skill_name": "블랙잭 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블랙잭을 강화한다.",
-        "skill_level": 2286,
+        "skill_level": 2287,
         "skill_effect": "블랙잭의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFD.png"
     },
