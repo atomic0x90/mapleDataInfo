@@ -3,14 +3,14 @@
     {
         "skill_name": "샤프 아이즈-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈의 지속 시간을 증가시킨다.",
-        "skill_level": 0,
+        "skill_level": 1,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBID.png"
     },
     {
         "skill_name": "샤프 아이즈-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈의 효과에 방어율 무시 효과를 추가한다.",
-        "skill_level": 36,
+        "skill_level": 35,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBIE.png"
     },
@@ -24,42 +24,42 @@
     {
         "skill_name": "피어싱-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n피어싱, 피어싱 II, 화살 조각, 인핸스 피어싱, 인핸스 피어싱 II의 데미지를 증가시킨다.",
-        "skill_level": 129,
+        "skill_level": 130,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBIG.png"
     },
     {
         "skill_name": "피어싱-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n피어싱, 피어싱 II, 인핸스 피어싱, 인핸스 피어싱 II의 최대 공격 가능한 몬스터 수를 증가시킨다. 피어싱 적중 시 발생하는 화살 조각에는 적용되지 않는다.",
-        "skill_level": 34,
+        "skill_level": 35,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBIH.png"
     },
     {
         "skill_name": "피어싱-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n피어싱, 피어싱 II, 화살 조각, 인핸스 피어싱, 인핸스 피어싱 II의 공격 횟수를 증가시킨다.",
-        "skill_level": 155,
+        "skill_level": 156,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBII.png"
     },
     {
         "skill_name": "스나이핑-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n스나이핑, 인핸스 스나이핑, 인핸스 스나이핑 추가타의 공격 횟수를 증가시킨다.",
-        "skill_level": 197,
+        "skill_level": 196,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBJB.png"
     },
     {
         "skill_name": "스나이핑-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n스나이핑, 인핸스 스나이핑, 인핸스 스나이핑 추가타의 데미지를 증가시킨다.",
-        "skill_level": 197,
+        "skill_level": 196,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBIJ.png"
     },
     {
         "skill_name": "스나이핑-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n스나이핑, 인핸스 스나이핑, 인핸스 스나이핑 추가타의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 192,
+        "skill_level": 191,
         "skill_effect": "보스 몬스터 공격 시 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBJA.png"
     }
