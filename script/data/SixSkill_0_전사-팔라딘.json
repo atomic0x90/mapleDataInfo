@@ -17,63 +17,63 @@
     {
         "skill_name": "디바인 차지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[홀리 포스]\n순간적으로 신성한 망치를 소환하여 적들에게 내리찍어 데미지를 입히고 침묵시킨다. 일정 시간마다 빛의 가호를 받아 신성한 망치가 디바인 스티그마 VI로 강화된다.\n필요 스킬 : 디바인 스티그마 30레벨 이상",
-        "skill_level": 3533,
+        "skill_level": 3554,
         "skill_effect": "MP 40 소비, 최대 11명의 적을 724%의 데미지로 4번 공격, 100% 확률로 10초 동안 침묵\n디바인 스티그마 VI : MP 60 소비, 최대 13명의 적을 749%의 데미지로 7번 공격, 재발동 대기시간 6초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJDPBMD.png"
     },
     {
         "skill_name": "폴링 저스티스",
         "skill_description": "[마스터 레벨 : 30]\r\n신성한 힘으로 정의의 심판을 내린다.\n폴링 저스티스의 재발동 대기시간은 재사용 대기시간 감소 효과를 적용받지 않는다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 3533,
+        "skill_level": 3554,
         "skill_effect": "공용 스킬을 제외한 팔라딘이 직접 사용하는 스킬 적중 시 2.5초 동안 최대 8명의 적을 1300%의 데미지로 6번 공격하는 심판의 망치 소환\n한명의 적에게는 최대 15번까지만 공격 발생\n재발동 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJDPBMF.png"
     },
     {
         "skill_name": "세이크리드 바스티온",
         "skill_description": "[마스터 레벨 : 30]\r\n신성한 기사가 광휘를 펼쳐 적을 심판하고 성역을 구축한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4080,
+        "skill_level": 4090,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 787%의 데미지로 9번 공격하는 충격파가 28회 발동 후, 895%의 데미지로 14번 공격하는 충격파가 17회 발동\n30초 동안 성역 생성, 성역 내에서 팔라딘이 공격 시 최대 5명의 적에게 1200%의 데미지로 13번 공격하는 심판의 빛 발동, 심판의 빛은 적에게 신성 낙인을 새김, 재발동 대기시간 0.5초\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2529,
+        "skill_level": 2537,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2529,
+        "skill_level": 2537,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "홀리 유니티 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n홀리 유니티를 강화한다.",
-        "skill_level": 3880,
+        "skill_level": 3894,
         "skill_effect": "홀리 유니티로 증가하는 최종 데미지 90%, 결속 대상에게 시전되는 공격 스킬의 최종 데미지 59%로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBME.png"
     },
     {
         "skill_name": "블래스드 해머 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블래스드 해머를 강화한다.",
-        "skill_level": 2543,
+        "skill_level": 2547,
         "skill_effect": "블래스드 해머의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBMF.png"
     },
     {
         "skill_name": "그랜드 크로스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n그랜드 크로스를 강화한다.",
-        "skill_level": 5081,
+        "skill_level": 5082,
         "skill_effect": "그랜드 크로스의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBMG.png"
     },
     {
         "skill_name": "마이티 묠니르 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n마이티 묠니르를 강화한다.",
-        "skill_level": 1660,
+        "skill_level": 1663,
         "skill_effect": "마이티 묠니르의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBMH.png"
     },
