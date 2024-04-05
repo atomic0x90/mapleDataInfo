@@ -31,14 +31,14 @@
     {
         "skill_name": "서먼 재규어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n재규어 스킬의 데미지를 증가시킨다.",
-        "skill_level": 183,
+        "skill_level": 182,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBIH.png"
     },
     {
         "skill_name": "서먼 재규어-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n재규어 스킬 중 클로우 컷, 크로스 로드, 소닉 붐의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 18,
+        "skill_level": 19,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBII.png"
     },

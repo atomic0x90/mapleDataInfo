@@ -38,7 +38,7 @@
     {
         "skill_name": "불릿 파티 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n불릿 파티를 강화한다.",
-        "skill_level": 1417,
+        "skill_level": 1418,
         "skill_effect": "불릿 파티의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJC.png"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "노틸러스 어썰트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n노틸러스 어썰트를 강화한다.",
-        "skill_level": 1374,
+        "skill_level": 1375,
         "skill_effect": "노틸러스 어썰트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJE.png"
     },
     {
         "skill_name": "데스 트리거 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데스 트리거를 강화한다.",
-        "skill_level": 1009,
+        "skill_level": 1012,
         "skill_effect": "데스 트리거의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJF.png"
     },
