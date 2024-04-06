@@ -3,28 +3,28 @@
     {
         "skill_name": "퀸터플 스로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[스로우]\n대상에게 5개의 표창을 연속으로 던진다. 마지막 공격은 어둠의 힘을 담아 더 강력한 어둠 속성의 피해를 입힌다. 마지막 공격은 일정 시간마다 칠흑 표창으로 강화되어 더 먼거리를 날아가며 경로상의 모든 적을 공격하고, 더 강력한 어둠 속성의 피해를 입힌다.\n표창은 최대 HP가 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 퀸터플 스로우 30레벨 이상",
-        "skill_level": 4707,
+        "skill_level": 4739,
         "skill_effect": "MP 52 소비, 표창 5개 소비\n330%의 데미지로 4번, 1320%의 데미지로 1번 공격\n6초마다 마지막 공격이 칠흑 표창으로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPBMA.png"
     },
     {
         "skill_name": "쉐도우 배트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n그림자로 이루어진 종복 쉐도우 배트를 소환한다. 쉐도우 배트는 표창을 사용하는 스킬로 공격할 때 일정 확률로 함께 공격한다. 어둠의 표식이 새겨진 적에게는 공격 확률이 2배가 되고 표식 중첩만큼 소환된 쉐도우 배트가 한 번에 공격하며, 이 때 쉐도우 배트가 1마리 추가로 생성된다.\n쉐도우 배트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 래버너스 배트와 동시에 사용할 수 없다. 어둠 속성의 공격이다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 래버너스 배트 20레벨, 배트 커뮤니온 III 30레벨 이상",
-        "skill_level": 1832,
+        "skill_level": 1854,
         "skill_effect": "표창을 사용하는 스킬을 3번 적중시킬 때마다 60초 동안 유지되는 쉐도우 배트 1마리 소환, 최대 2마리까지 소환 가능\n표창을 사용하는 스킬로 공격 시 50% 확률로 날아가 대상에게 1200%의 데미지로 공격 후 추가로 3명의 적에게 튕겨 같은 데미지를 입힌 후 소멸\n일반 몬스터 공격 시 데미지 85% 증가, 쉐도우 배트 및 배트 커뮤니온 III과 중복 적용되지 않음\n첫 데미지를 줄 때 최대 HP의 1% 회복",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPBME.png"
     },
     {
         "skill_name": "래버너스 배트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n피에 더욱 굶주린 래버너스 배트를 소환한다. 래버너스 배트는 표창을 사용하는 스킬로 공격할 때 일정 확률로 함께 공격한다. 어둠의 표식이 새겨진 적에게는 표식 중첩만큼 소환된 래버너스 배트가 한 번에 공격하며, 이 때 래버너스 배트가 1마리 추가로 생성된다. 래버너스 배트는 최대 HP가 높은 보스 몬스터를 우선 추적하고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 쉐도우 배트와 동시에 사용할 수 없다. 어둠 속성의 공격이다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 래버너스 배트 20레벨, 배트 커뮤니온 III 30레벨 이상",
-        "skill_level": 1832,
+        "skill_level": 1854,
         "skill_effect": "표창을 사용하는 스킬을 3번 적중시킬 때마다 60초 동안 유지되는 래버너스 배트 1마리 소환, 최대 5마리까지 소환 가능\n표창을 사용하는 스킬로 공격 시 100% 확률로 날아가 대상에게 980%의 데미지로 2번 공격, 적중 시 최대 HP의 1% 회복",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPBNC.png"
     },
     {
         "skill_name": "사일런스",
         "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 배트를 무한한 칠흑의 힘으로 끌어내 적을 공포 속에 침묵하게 한다.\n일정 시간 동안 공격 적중 시 쉐도우 배트가 거대한 그림자 표창으로 형상화되어 적을 지속적으로 추적하여 공격한다. 그림자 표창은 공격마다 엘리멘트 : 다크니스, 쉐도우 배트, 래버너스 배트의 효과를 발동시킨다.\n그림자 표창은 최대 HP가 높은 보스 몬스터를 우선 추적하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3554,
+        "skill_level": 3572,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 945%의 데미지로 12번 공격하는 참격이 34회 발생\n30초 동안 공격 적중 시 쉐도우 배트가 거대한 그림자 표창 3개로 형상화되어 적을 추적하여 공격\n그림자 표창 : 900%의 데미지로 12번 공격, 그림자 표창은 적에게 적중 후 최대 5번까지 튕기며 공격, 그림자 표창 재생성 대기시간 3초\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKDPEMA.png"
     },
@@ -45,28 +45,28 @@
     {
         "skill_name": "쉐도우 스피어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 스피어를 강화한다.",
-        "skill_level": 2460,
+        "skill_level": 2478,
         "skill_effect": "쉐도우 스피어의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLC.png"
     },
     {
         "skill_name": "쉐도우 서번트 익스텐드 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 서번트 익스텐드를 강화한다.",
-        "skill_level": 3544,
+        "skill_level": 3573,
         "skill_effect": "쉐도우 서번트 익스텐드의 최종 데미지 반영률 85%, 지속시간 55초로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLD.png"
     },
     {
         "skill_name": "쉐도우 바이트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 바이트를 강화한다.",
-        "skill_level": 2475,
+        "skill_level": 2502,
         "skill_effect": "쉐도우 바이트의 최종 데미지 60% 증가, 쉐도우 바이트로 쓰러트린 적 1명 당 최종 데미지 증가량 6%, 보스 몬스터 공격 시 최종 데미지 증가량 20%, 재사용 대기시간 10초로 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLE.png"
     },
     {
         "skill_name": "래피드 스로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n래피드 스로우를 강화한다.",
-        "skill_level": 2512,
+        "skill_level": 2528,
         "skill_effect": "래피드 스로우의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLF.png"
     },
