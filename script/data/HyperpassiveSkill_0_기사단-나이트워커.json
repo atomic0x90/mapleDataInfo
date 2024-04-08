@@ -52,14 +52,14 @@
     {
         "skill_name": "사이펀 바이탈리티-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n사이펀 바이탈리티로 생성된 보호막이 존재할 때 공격력을 증가시킨다.",
-        "skill_level": 191,
+        "skill_level": 192,
         "skill_effect": "공격력 60 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBJA.png"
     },
     {
         "skill_name": "사이펀 바이탈리티-임뷰 바디",
         "skill_description": "[마스터 레벨 : 1]\r\n사이펀 바이탈리티로 생성된 보호막이 존재할 때 상태 이상 내성을 증가시킨다.",
-        "skill_level": 13,
+        "skill_level": 12,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBJB.png"
     }
