@@ -17,7 +17,7 @@
     {
         "skill_name": "어드밴스드 콤보-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n콤보 개수 당 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 197,
+        "skill_level": 196,
         "skill_effect": "콤보 개수 당 보스 몬스터 공격 시 데미지 2% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDKFOBIF.png"
     },
@@ -31,14 +31,14 @@
     {
         "skill_name": "어드밴스드 파이널 어택-보너스 데미지",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 파이널 어택으로 오르는 공격력을 증가시킨다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDKFOBIH.png"
     },
     {
         "skill_name": "어드밴스드 파이널 어택-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 파이널 어택의 발동 확률을 증가시킨다.",
-        "skill_level": 191,
+        "skill_level": 190,
         "skill_effect": "발동 확률 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDKFOBII.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "레이징 블로우-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n레이징 블로우의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 5,
+        "skill_level": 6,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDKFOBJA.png"
     },
