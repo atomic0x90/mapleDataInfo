@@ -24,7 +24,7 @@
     {
         "skill_name": "롱기누스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n크래프트:롱기누스의 데미지를 증가시킨다.",
-        "skill_level": 20,
+        "skill_level": 21,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKFOBPE.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "데우스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n크리스탈 스킬:데우스의 공격 횟수를 증가시킨다.",
-        "skill_level": 151,
+        "skill_level": 150,
         "skill_effect": "크리스탈 스킬:데우스와 위성의 공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKFOBPI.png"
     },

@@ -17,7 +17,7 @@
     {
         "skill_name": "와일드 레이지",
         "skill_description": "[마스터 레벨 : 2]\r\n분노로 인해 데미지가 증가한다.",
-        "skill_level": 40,
+        "skill_level": 39,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBJA.png"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "콤보킬 어드밴티지",
         "skill_description": "[마스터 레벨 : 2]\r\n폴암의 정령 마하의 신비한 힘을 통해 콤보 플레이에 대한 축복을 받는다.",
-        "skill_level": 27,
+        "skill_level": 29,
         "skill_effect": "영구적으로 콤보킬 구슬 경험치 획득량 650% 추가 획득",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOCLA.png"
     },
@@ -66,7 +66,7 @@
     {
         "skill_name": "어드벤쳐러 큐리어스",
         "skill_description": "[마스터 레벨 : 6]\r\n특유의 호기심을 발휘해 몬스터 컬렉션 등록 확률과 크리티컬 확률을 증가시킨다.\n몬스터 컬렉션 등록 확률은 기존 확률에 곱적용으로 적용된다.",
-        "skill_level": 23,
+        "skill_level": 21,
         "skill_effect": "몬스터 컬렉션 등록 확률 35%, 크리티컬 확률 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGKG.png"
     },
@@ -87,7 +87,7 @@
     {
         "skill_name": "파이렛 블레스",
         "skill_description": "[마스터 레벨 : 6]\r\n해적 특유의 강인함을 익혀 각종 스탯이 증가하고 피격 데미지가 감소된다.\n월드 내 서로 다른 모험가 해적 직업군이 존재할 경우 한 캐릭터에 최대 3번 중복해서 링크 스킬 지급이 가능하다.",
-        "skill_level": 14,
+        "skill_level": 13,
         "skill_effect": "힘 70, 민첩 70, 지력 70, 운 70 , 최대 HP 1225, 최대 MP 1225 증가, 피격 데미지 15% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHMGLE.png"
     },
@@ -101,7 +101,7 @@
     {
         "skill_name": "하이브리드 로직",
         "skill_description": "[마스터 레벨 : 2]\r\n하이브리드 로직 디자인을 적용하여 모든 능력치가 영구히 증가한다.",
-        "skill_level": 31,
+        "skill_level": 29,
         "skill_effect": "모든 능력치 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHOBIH.png"
     },
@@ -115,7 +115,7 @@
     {
         "skill_name": "인텐시브 인썰트",
         "skill_description": "[마스터 레벨 : 2]\r\n자신보다 약한 적에겐 더 효과적인 공격을 가한다.",
-        "skill_level": 16,
+        "skill_level": 17,
         "skill_effect": "캐릭터보다 레벨이 낮은 몬스터 공격 시 데미지 6% 증가, 상태 이상에 걸린 몬스터 공격 시 데미지 6% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFHCLHODKB.png"
     },
