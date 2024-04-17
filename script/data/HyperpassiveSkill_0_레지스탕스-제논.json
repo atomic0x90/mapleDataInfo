@@ -3,14 +3,14 @@
     {
         "skill_name": "블레이드 댄싱-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱의 공격력을 증가시킨다.",
-        "skill_level": 44,
+        "skill_level": 45,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIE.png"
     },
     {
         "skill_name": "블레이드 댄싱-패스트 무브먼트",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱 스킬 사용 시 이동속도를 증가시킨다.",
-        "skill_level": 8,
+        "skill_level": 9,
         "skill_effect": "스킬 사용 시 이동속도 10 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBID.png"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "퍼지롭 매스커레이드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드의 방어무시 비율을 증가시킨다.",
-        "skill_level": 163,
+        "skill_level": 162,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIH.png"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "홀로그램 그래피티-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n에너지볼이 주는 피해를 증가시킨다.",
-        "skill_level": 189,
+        "skill_level": 188,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBJA.png"
     },
