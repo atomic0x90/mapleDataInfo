@@ -10,56 +10,56 @@
     {
         "skill_name": "익시드 : 엑스큐션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n진정한 마족의 힘을 사용하여 전방의 적을 강력하게 벤다.\n익시드 : 점점 공격 속도가 빨라지고 HP 소비가 늘어나며, 최종 단계에 이르면 2번 더 공격한다.\n익시드 : 엑스큐션 VI의 익시드 오버로드는 릴리즈 오버로드를 사용하기 전까지 초기화되지 않는다.\n필요 스킬 : 익시드 : 엑스큐션 30레벨 이상",
-        "skill_level": 5142,
+        "skill_level": 5151,
         "skill_effect": "최대 HP의 4% 소비, 최대 4명의 적을 980%의 데미지로 4번 공격\n공격 시 적의 방어율 35% 추가 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJDPBMC.png"
     },
     {
         "skill_name": "레퀴엠",
         "skill_description": "[마스터 레벨 : 30]\r\n복수의 집념으로 진혼의 마검을 불러낸다. 스킬을 한 번 더 사용하여 마검을 포효시켜 강력한 공격을 할 수 있다. 마검의 포효는 실드 체이싱을 포함한 데몬 어벤져의 공격 스킬 사용 중에도 사용할 수 있다. 데몬 프렌지 적용 중 레퀴엠 및 마검의 포효 시전 시 무적 시간 동안 앱졸브 라이프 및 어드밴스드 앱졸브 라이프로 인한 HP 회복이 적용되지 않는다.\n레퀴엠은 익시드 스킬이 아니지만 일부 공격에 인핸스드 익시드를 발동시킨다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4520,
+        "skill_level": 4524,
         "skill_effect": "최대 HP의 15% 소비, 시전 동작 중 무적\n최대 15명의 적을 1200%의 데미지로 10번 공격하는 참격 50회 발동 후 진혼의 마검 소환\n진혼의 마검 : 15초 동안 지속, 일정 시간마다 최대 15명의 적을 2270%의 데미지로 12번 공격\n소환 4초 이후 스킬을 다시 사용하여 최대 15명의 적을 1255%의 데미지로 14번 공격하는 마검의 포효가 46회 발동, 마검의 포효 시전 동작 중 무적 및 마검의 포효는 상태 이상을 무시하고 발동 가능\n마검 소환 및 포효 시 인핸스드 익시드 발동\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2446,
+        "skill_level": 2452,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2446,
+        "skill_level": 2452,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "데몬 프렌지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데몬 프렌지를 강화한다.",
-        "skill_level": 4992,
+        "skill_level": 5000,
         "skill_effect": "데몬 프렌지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAMI.png"
     },
     {
         "skill_name": "블러드 피스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블러드 피스트를 강화한다.",
-        "skill_level": 997,
+        "skill_level": 1008,
         "skill_effect": "블러드 피스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAMJ.png"
     },
     {
         "skill_name": "디멘션 소드 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n디멘션 소드를 강화한다.",
-        "skill_level": 3444,
+        "skill_level": 3454,
         "skill_effect": "디멘션 소드의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANA.png"
     },
     {
         "skill_name": "레버넌트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n레버넌트를 강화한다.",
-        "skill_level": 2219,
+        "skill_level": 2229,
         "skill_effect": "레버넌트의 최종 데미지 60% 증가, 지속시간 18초로 증가, 최대 저장 가능한 분노 및 분노의 가시 재발동 대기시간 감소를 위한 분노 60%로 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANB.png"
     },
