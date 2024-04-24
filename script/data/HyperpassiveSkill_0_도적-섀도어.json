@@ -3,7 +3,7 @@
     {
         "skill_name": "메소 익스플로젼-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n메소 익스플로젼의 데미지를 증가시킨다.",
-        "skill_level": 195,
+        "skill_level": 196,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJFOBID.png"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "메소 익스플로젼-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n메소 익스플로젼의 사용하는 동전 최대 개수와 픽 파킷과 블러디 파킷으로 떨어지는 동전의 최대 개수와 드롭 확률을 증가시킨다.",
-        "skill_level": 196,
+        "skill_level": 197,
         "skill_effect": "한 번에 사용할 수 있는 동전 최대 개수와 픽 파킷과 블러디 파킷으로 떨어지는 동전의 최대 개수 5개, 픽 파킷 및 블러디 파킷으로 동전이 떨어질 확률 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJFOBIF.png"
     },
