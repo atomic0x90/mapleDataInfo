@@ -10,7 +10,7 @@
     {
         "skill_name": "더블 럭키 다이스-엑스트라 넘버",
         "skill_description": "[마스터 레벨 : 1]\r\n더블 럭키 다이스에 행운의 숫자 7이 추가된다.\n필요 스킬 : 더블 럭키 다이스 5레벨 이상",
-        "skill_level": 9,
+        "skill_level": 8,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHJFOBIE.png"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "래피드 파이어-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 사거리를 증가시킨다.",
-        "skill_level": 148,
+        "skill_level": 149,
         "skill_effect": "사거리 100 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHJFOBJA.png"
     },
