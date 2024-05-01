@@ -1,4 +1,4 @@
-199
+198
 [
     {
         "skill_name": "로얄 가드-인핸스",
@@ -10,7 +10,7 @@
     {
         "skill_name": "로얄 가드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n로얄 가드의 방어율 무시를 증가시킨다.",
-        "skill_level": 62,
+        "skill_level": 61,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBIE.png"
     },
@@ -24,28 +24,28 @@
     {
         "skill_name": "샤이닝 크로스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n샤이닝 크로스, 샤이닝 크로스-어썰트의 데미지를 증가시킨다.",
-        "skill_level": 199,
+        "skill_level": 198,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBJG.png"
     },
     {
         "skill_name": "샤이닝 크로스-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n샤이닝 크로스, 샤이닝 크로스-어썰트의 방어율 무시를 증가시킨다.",
-        "skill_level": 182,
+        "skill_level": 181,
         "skill_effect": "몬스터 방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBJH.png"
     },
     {
         "skill_name": "샤이닝 크로스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n샤이닝 크로스, 샤이닝 크로스-어썰트의 공격 횟수를 증가시킨다.",
-        "skill_level": 198,
+        "skill_level": 197,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBJI.png"
     },
     {
         "skill_name": "인스톨 실드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n인스톨 실드의 데미지를 증가시킨다.",
-        "skill_level": 172,
+        "skill_level": 171,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBIJ.png"
     },
