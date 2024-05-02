@@ -1,9 +1,9 @@
-194
+193
 [
     {
         "skill_name": "스나이핑 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n몬스터의 급소를 정확히 노려 치명적인 공격을 가한다.\n또 스나이핑을 위한 인핸스 애로우가 강화된다. 스나이핑 적중 시 두 번째 사용하는 스나이핑에 인핸스 애로우가 준비되며 네 번째 사용하는 스나이핑에는 보다 특별한 얼티밋 애로우가 2개 준비된다.\n스나이핑 적중 시 적중한 적의 약점을 파악하여 표식을 남기고, 인핸스 애로우로 표식이 남은 적을 공격 시 적의 약점을 꿰뚫어 추가 공격이 발생한다.\n스나이핑 및 인핸스 애로우로 강화되는 스나이핑은 최대 HP가 가장 높은 적을 우선하여 공격한다.\n필요 스킬 : 스나이핑 30레벨 이상, 어드밴스드 인핸스 애로우 20레벨 이상",
-        "skill_level": 2387,
+        "skill_level": 2378,
         "skill_effect": "스나이핑 : MP 70 소비, 545%의 데미지로 9번 공격\n적중한 적에게 표식을 남김\n인핸스 스나이핑 : MP 140 소비, 605%의 데미지로 10번 공격\n표식이 새겨진 적 적중 시 380%의 데미지로 5번 공격하는 추가타 발생\n얼티밋 스나이핑 : MP 140 소비\n315%의 데미지로 10번 공격하는 화살을 2발 발사\n표식이 새겨진 적 적중 시 380%의 데미지로 5번 공격하는 추가타 발생\n스나이핑, 인핸스 스나이핑, 얼티밋 스나이핑은 몬스터 방어율 40% 무시, 추가 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJDPBMA.png"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "파이널 에임",
         "skill_description": "[마스터 레벨 : 30]\r\n저격술의 극의에 달하여 매우 먼 거리에서 적을 정확히 조준해 꿰뚫는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3025,
+        "skill_level": 2998,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1560%의 데미지로 7번 공격하는 파동 35회 발생\n이후 최대 15명의 적을 1710%의 데미지로 13번 공격하는 화살 35회 명중\n파이널 에임 적중 시 스플릿 애로우의 화살 최대 13번까지만 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJDPEMA.png"
     },
@@ -38,14 +38,14 @@
     {
         "skill_name": "트루 스나이핑 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n트루 스나이핑을 강화한다.",
-        "skill_level": 296,
+        "skill_level": 295,
         "skill_effect": "트루 스나이핑의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBOI.png"
     },
     {
         "skill_name": "스플릿 애로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스플릿 애로우를 강화한다.",
-        "skill_level": 2339,
+        "skill_level": 2329,
         "skill_effect": "스플릿 애로우의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBOJ.png"
     },
@@ -59,14 +59,14 @@
     {
         "skill_name": "리피팅 크로스보우 카트리지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n리피팅 크로스보우 카트리지를 강화한다.",
-        "skill_level": 832,
-        "skill_effect": "리피팅 크로스보우 카트리지의 최종 데미지 28% 증가",
+        "skill_level": 829,
+        "skill_effect": "리피팅 크로스보우 카트리지의 최종 데미지 29% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPB.png"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 185,
+        "skill_level": 184,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     }
