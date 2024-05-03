@@ -52,14 +52,14 @@
     {
         "skill_name": "쉘터-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n쉘터의 지속시간을 증가시킨다.",
-        "skill_level": 65,
+        "skill_level": 64,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKE.png"
     },
     {
         "skill_name": "쉘터-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n쉘터의 최대 HP의 일정 비율로 피해를 입히는 공격의 피해 감소 비율을 증가시킨다.",
-        "skill_level": 19,
+        "skill_level": 20,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKF.png"
     }
