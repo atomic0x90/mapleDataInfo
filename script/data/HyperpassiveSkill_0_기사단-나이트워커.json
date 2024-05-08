@@ -17,7 +17,7 @@
     {
         "skill_name": "퀸터플 스로우-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n퀸터플 스로우의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 4,
+        "skill_level": 5,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBIF.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "사이펀 바이탈리티-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n사이펀 바이탈리티로 생성된 보호막이 존재할 때 공격력을 증가시킨다.",
-        "skill_level": 193,
+        "skill_level": 192,
         "skill_effect": "공격력 60 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBJA.png"
     },
