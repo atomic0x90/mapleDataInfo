@@ -24,42 +24,42 @@
     {
         "skill_name": "크루얼 스탭-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n크루얼 스탭의 데미지를 증가시킨다.",
-        "skill_level": 19,
+        "skill_level": 18,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJFOBIG.png"
     },
     {
         "skill_name": "크루얼 스탭-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n크루얼 스탭의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 13,
+        "skill_level": 12,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJFOBIH.png"
     },
     {
         "skill_name": "크루얼 스탭-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n크루얼 스탭의 공격 횟수를 증가시킨다.",
-        "skill_level": 74,
+        "skill_level": 73,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJFOBII.png"
     },
     {
         "skill_name": "암살-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n암살의 데미지를 증가시킨다.",
-        "skill_level": 188,
+        "skill_level": 189,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJFOBIJ.png"
     },
     {
         "skill_name": "암살-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n암살의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 188,
+        "skill_level": 189,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJFOBJA.png"
     },
     {
         "skill_name": "암살-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n암살의 방어율 무시를 증가시킨다.",
-        "skill_level": 123,
+        "skill_level": 124,
         "skill_effect": "몬스터 방어율 10% 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGJFOBJB.png"
     }
