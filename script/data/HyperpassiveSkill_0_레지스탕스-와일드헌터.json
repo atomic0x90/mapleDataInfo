@@ -1,4 +1,4 @@
-199
+200
 [
     {
         "skill_name": "비스트 폼-리인포스",
@@ -24,42 +24,42 @@
     {
         "skill_name": "서먼 재규어-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n어나더 바이트의 데미지를 증가시킨다.",
-        "skill_level": 177,
+        "skill_level": 180,
         "skill_effect": "어나더 바이트 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBIG.png"
     },
     {
         "skill_name": "서먼 재규어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n재규어 스킬의 데미지를 증가시킨다.",
-        "skill_level": 183,
+        "skill_level": 185,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBIH.png"
     },
     {
         "skill_name": "서먼 재규어-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n재규어 스킬 중 클로우 컷, 크로스 로드, 소닉 붐의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 18,
+        "skill_level": 16,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBII.png"
     },
     {
         "skill_name": "와일드 발칸-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n와일드 발칸/와일드 발칸 Type-P의 데미지를 증가시킨다.",
-        "skill_level": 199,
+        "skill_level": 200,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBIJ.png"
     },
     {
         "skill_name": "와일드 발칸-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n와일드 발칸/와일드 발칸 Type-P에 방어율 무시 효과를 추가한다.",
-        "skill_level": 18,
+        "skill_level": 17,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBJA.png"
     },
     {
         "skill_name": "와일드 발칸-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n와일드 발칸/와일드 발칸 Type-P의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 197,
+        "skill_level": 199,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBJB.png"
     }

@@ -31,14 +31,14 @@
     {
         "skill_name": "어드밴스드 파이널 어택-보너스 데미지",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 파이널 어택으로 오르는 공격력을 증가시킨다.",
-        "skill_level": 4,
+        "skill_level": 3,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDKFOBIH.png"
     },
     {
         "skill_name": "어드밴스드 파이널 어택-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 파이널 어택의 발동 확률을 증가시킨다.",
-        "skill_level": 193,
+        "skill_level": 194,
         "skill_effect": "발동 확률 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDKFOBII.png"
     },
