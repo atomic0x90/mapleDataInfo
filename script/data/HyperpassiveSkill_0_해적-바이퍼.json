@@ -1,4 +1,4 @@
-199
+200
 [
     {
         "skill_name": "더블 럭키 다이스-원모어찬스",
@@ -17,42 +17,42 @@
     {
         "skill_name": "더블 럭키 다이스-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n럭키 다이스에서 4, 5, 6이 나올 확률을 증가시킨다.",
-        "skill_level": 164,
+        "skill_level": 165,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBIF.png"
     },
     {
         "skill_name": "피스트 인레이지-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n피스트 인레이지의 데미지를 증가시킨다.",
-        "skill_level": 196,
+        "skill_level": 197,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBIG.png"
     },
     {
         "skill_name": "피스트 인레이지-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n피스트 인레이지의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 197,
+        "skill_level": 198,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBIH.png"
     },
     {
         "skill_name": "피스트 인레이지-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n피스트 인레이지의 공격 횟수를 증가시킨다.",
-        "skill_level": 195,
+        "skill_level": 196,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBII.png"
     },
     {
         "skill_name": "훅 봄버-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n훅 봄버의 데미지를 증가시킨다.",
-        "skill_level": 38,
+        "skill_level": 37,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBIJ.png"
     },
     {
         "skill_name": "훅 봄버-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n훅 봄버의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 4,
+        "skill_level": 6,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBJA.png"
     },
