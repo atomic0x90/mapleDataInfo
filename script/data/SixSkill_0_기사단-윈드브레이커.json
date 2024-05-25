@@ -3,8 +3,8 @@
     {
         "skill_name": "천공의 노래 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n하늘에 울려 퍼지는 거센 바람의 노래를 연주하여 적들을 휘몰아친다.\n필요 스킬 : 천공의 노래 30레벨 이상",
-        "skill_level": 5681,
-        "skill_effect": "공격당 MP 11 소비, 최대 4명의 적을 발당 848%의 데미지로 공격",
+        "skill_level": 5688,
+        "skill_effect": "공격당 MP 11 소비, 최대 4명의 적을 발당 862%의 데미지로 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOBKDPBMA.png"
     },
     {
@@ -17,49 +17,49 @@
     {
         "skill_name": "미스트랄 스프링",
         "skill_description": "[마스터 레벨 : 30]\r\n강력한 바람의 기운을 품고 있는 에메랄드에 호기심 많은 정령들이 이끌려 돌풍이 이는 바람의 샘이 생성된다.\n일정 시간마다 신난 바람의 정령이 돌풍을 타고 분출되어 주변의 적을 공격한다.\n바람의 샘이 존재할 때 스킬키 재입력 시 현재 위치를 기준으로 바람의 샘을 재소환할 수 있다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4945,
+        "skill_level": 4955,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n에메랄드에 깃든 정령의 기운으로 최대 15명의 적을 1026%의 데미지로 10번 공격하는 바람의 칼날이 13회 발생\n공격 종료 후 20초 동안 바람의 샘이 정령의 기운을 생성하여 적을 공격\n재설치 대기시간 3초\n정령의 기운 : 814%의 데미지로 5번 공격하는 정령의 기운 13개 생성\n신난 정령의 기운 : 888%의 데미지로 6번 공격하는 신난 정령의 기운 5개 생성\n거센 정령의 기운 : 792%의 데미지로 7번 공격하는 거센 정령의 기운 3개 생성\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOBKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2897,
+        "skill_level": 2910,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2897,
+        "skill_level": 2910,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "하울링 게일 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n하울링 게일을 강화한다.",
-        "skill_level": 5396,
+        "skill_level": 5397,
         "skill_effect": "하울링 게일의 최종 데미지 14% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKI.png"
     },
     {
         "skill_name": "아이들 윔 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n아이들 윔을 강화한다.",
-        "skill_level": 3407,
+        "skill_level": 3410,
         "skill_effect": "아이들 윔의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKJ.png"
     },
     {
         "skill_name": "윈드 월 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n윈드 월을 강화한다.",
-        "skill_level": 3890,
+        "skill_level": 3904,
         "skill_effect": "윈드 월의 최종 데미지 11%, 엘리멘트 개수 304개, 지속시간 46초로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLA.png"
     },
     {
         "skill_name": "볼텍스 스피어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n볼텍스 스피어를 강화한다.",
-        "skill_level": 4003,
+        "skill_level": 4006,
         "skill_effect": "볼텍스 스피어의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLB.png"
     },
