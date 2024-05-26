@@ -10,7 +10,7 @@
     {
         "skill_name": "배틀 아츠-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n스펠 불릿, 다가오는 죽음, 돌아오는 증오를 제외한 1~4차 아크 공격 스킬 및 6차 마스터리 코어 스킬의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 24,
+        "skill_level": 25,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPC.png"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "스펙터 잠식-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n레프 상태에서 정신력이 회복되는 속도를 증가시킨다.",
-        "skill_level": 191,
+        "skill_level": 190,
         "skill_effect": "정신력 회복 속도 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPE.png"
     },
