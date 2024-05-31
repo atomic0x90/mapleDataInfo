@@ -24,7 +24,7 @@
     {
         "skill_name": "리프랙트 이블-리듀스 데미지",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 받는 데미지 비율을 추가로 감소 시킨다.\r\n필요 스킬 : 리프랙트 이블 1레벨 이상",
-        "skill_level": 6,
+        "skill_level": 5,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBIG.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "실드 체이싱-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 실드 체이싱의 사거리를 증가 시킨다.",
-        "skill_level": 117,
+        "skill_level": 118,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBJB.png"
     }
