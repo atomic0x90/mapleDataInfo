@@ -3,14 +3,14 @@
     {
         "skill_name": "팬텀 블로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n비화원 격노의 비기로 전방의 적들에게 치명적인 연속공격을 가한다. 몬스터의 방어율을 일정 수준 무시할 수 있다.\n필요 스킬 : 팬텀 블로우 30레벨 이상",
-        "skill_level": 5464,
+        "skill_level": 5466,
         "skill_effect": "MP 52 소비, 최대 4명의 적을 530%의 데미지로 6번 공격\n몬스터의 방어율 40% 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIBPBMA.png"
     },
     {
         "skill_name": "아수라 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n빠르게 회전하여 보이지 않는 진공의 칼날을 주위에 두른 채 적들을 섬멸한다. 아수라는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 어떠한 공격에도 밀리지 않는다.\n필요 스킬 : 아수라 1레벨 이상",
-        "skill_level": 5209,
+        "skill_level": 5213,
         "skill_effect": "MP 330 소비, 최대 5초 동안 최대 10명의 적을 1386%의 데미지로 5번 공격\n몬스터의 방어율 100% 무시\n지속 시간 동안 이동 및 점프가 가능하며 스킬 재사용 시 즉시 취소\n재사용 대기시간 60초\n[패시브 효과 : 팬텀 블로우 VI 데미지 106%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIBPBMB.png"
     },
@@ -24,42 +24,42 @@
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 3964,
+        "skill_level": 3969,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 3964,
+        "skill_level": 3969,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "블레이드 스톰 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블레이드 스톰을 강화한다.",
-        "skill_level": 5521,
+        "skill_level": 5525,
         "skill_effect": "블레이드 스톰의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIE.png"
     },
     {
         "skill_name": "카르마 퓨리 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n카르마 퓨리를 강화한다.",
-        "skill_level": 4802,
+        "skill_level": 4805,
         "skill_effect": "카르마 퓨리의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIF.png"
     },
     {
         "skill_name": "블레이드 토네이도 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블레이드 토네이도를 강화한다.",
-        "skill_level": 5200,
+        "skill_level": 5202,
         "skill_effect": "블레이드 토네이도의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIG.png"
     },
     {
         "skill_name": "헌티드 엣지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n헌티드 엣지를 강화한다.",
-        "skill_level": 3282,
+        "skill_level": 3285,
         "skill_effect": "헌티드 엣지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIH.png"
     },
