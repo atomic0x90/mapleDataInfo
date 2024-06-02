@@ -3,70 +3,70 @@
     {
         "skill_name": "데스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n사신과의 계약이 완성된다. 사신은 자신을 따라다니며, 일정 수 이상의 영혼을 수집하면 본 모습을 드러내 넓은 범위를 공격한다.\n사신은 자신의 공격과 사신의 낫으로 적을 처치할 때마다 적의 영혼을 수집하고, 많은 양의 영혼이 모이면 이를 먹이로 한층 더 강한 힘을 발휘할 수 있다.\n사신의 공격은 공격 반사 상태의 적에게도 피해를 입힌다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 데스 컨트랙트3 1레벨 이상",
-        "skill_level": 5189,
+        "skill_level": 5207,
         "skill_effect": "적 6명 처치 시 다음 공격 적중 시 사신이 나타나 최대 10명의 적을 930%의 데미지로 12번 공격, 보스 몬스터는 2번 공격 시 적 1명 해치운 것으로 취급\n데스로 적 4마리 처치 시 혹은 보스 몬스터 공격 시 영혼 1개 수확\n사신의 낫으로 적 12마리 처치 시 혹은 보스 몬스터 3회 공격 시 영혼 1개 수확\n영혼을 4개 보유한 상태에서 데스 발동 시 사신의 힘이 강화되어 최대 12명의 적을 1475%의 데미지로 14번 공격\n사신의 공격은 발동 후 4초 동안 다시 발동하지 않음",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKDPBMA.png"
     },
     {
         "skill_name": "피니쉬 블로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n다수의 적들을 빠르게 6번 연속 공격한다.\n오라와 사신의 힘이 증폭되어 사신의 낫의 데미지와 공격 범위가 한 층 강화된다.\n필요 스킬 : 피니쉬 블로우 30레벨 이상",
-        "skill_level": 2689,
+        "skill_level": 2701,
         "skill_effect": "MP 63 소비, 최대 6명의 적을 516%의 데미지로 6번 공격, 92% 확률로 5초 동안 기절, 추가 크리티컬 확률 26%, 추가 방어율 무시 22%\n[패시브 효과 : 사신의 낫 데미지 50%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKDPBMB.png"
     },
     {
         "skill_name": "배틀킹 바 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n자유자재로 늘어나는 신비한 봉을 소환하여 전방을 크게 휩쓸고 마력 폭발을 일으킨다.\n필요 스킬 : 배틀킹 바 1레벨 이상",
-        "skill_level": 2689,
+        "skill_level": 2701,
         "skill_effect": "MP 84 소비, 8명의 적을 1000%의 데미지로 2번 공격 후 250%의 데미지로 5번 공격하는 마력 폭발 4회 발동\n재사용 대기시간 13초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKDPBMC.png"
     },
     {
         "skill_name": "크림슨 팩텀",
         "skill_description": "[마스터 레벨 : 30]\r\n사신이 온전한 힘을 각성하여 핏빛 계약이 완성된다. 계약이 완성되면 사신의 진정한 모습이 드러나 모든 생을 앗아간다. 크림슨 팩텀의 모든 공격은 다크 라이트닝의 검은 징표를 발동시키며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4984,
+        "skill_level": 4985,
         "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n사신이 온전한 힘을 해방시키며 최대 15명의 적을 1772%의 데미지로 11번 공격하는 참격이 48회 발생\n계약 완성 후 진정한 모습을 드러낸 사신이 모든 생을 앗아가며 2863%의 데미지로 14번 공격하는 참격이 22회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2611,
+        "skill_level": 2617,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2611,
+        "skill_level": 2617,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "유니온 오라 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n사신의 낫을 강화한다.",
-        "skill_level": 3198,
+        "skill_level": 3206,
         "skill_effect": "사신의 낫의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANC.png"
     },
     {
         "skill_name": "블랙 매직 알터 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블랙 매직 알터를 강화한다.",
-        "skill_level": 3193,
+        "skill_level": 3181,
         "skill_effect": "블랙 매직 알터의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAND.png"
     },
     {
         "skill_name": "그림 리퍼 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n그림 리퍼를 강화한다.",
-        "skill_level": 2166,
-        "skill_effect": "그림 리퍼의 최종 데미지 46% 증가",
+        "skill_level": 2176,
+        "skill_effect": "그림 리퍼의 최종 데미지 47% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANE.png"
     },
     {
         "skill_name": "어비셜 라이트닝 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n어비셜 라이트닝을 강화한다.",
-        "skill_level": 2634,
+        "skill_level": 2636,
         "skill_effect": "어비셜 라이트닝의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANF.png"
     },
