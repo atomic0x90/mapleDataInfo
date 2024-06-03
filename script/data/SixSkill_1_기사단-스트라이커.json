@@ -24,7 +24,7 @@
     {
         "skill_name": "뇌명벽해파",
         "skill_description": "[마스터 레벨 : 30]\r\n망망대해를 가르는 강력한 번개의 힘을 주먹에 실어 내지른다. 번개와 바다의 힘이 하나로 응축된 후 하늘을 울리며 용솟음친다.\n사용 시 즉시 엘리멘트 : 라이트닝의 뇌전 버프와 연쇄가 최대 중첩으로 적용된다. 뇌명벽해파의 모든 공격은 연계 공격으로 취급된다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1731,
+        "skill_level": 1733,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1390%의 데미지로 5번 공격하는 충격파가 32회 발동 후\n 1370%의 데미지로 7번 공격하는 충격파가 62회 발동\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKDPEMA.png"
     },
@@ -66,7 +66,7 @@
     {
         "skill_name": "창뇌연격 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n창뇌연격을 강화한다.",
-        "skill_level": 827,
+        "skill_level": 829,
         "skill_effect": "창뇌연격의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBLJ.png"
     },
