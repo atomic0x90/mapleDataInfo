@@ -24,7 +24,7 @@
     {
         "skill_name": "하모닉 패러독스",
         "skill_description": "[마스터 레벨 : 30]\r\n[이퀄리브리엄]\n빛과 어둠의 진리에 도달한 조화의 사념체를 소환한다. 조화의 사념체는 일정 시간 동안 응축된 빛과 어둠의 마력을 휘몰아치게 해 적을 세례한 후, 두 속성의 힘을 모두 해방시켜 진리의 권능을 실현한다. 하모닉 패러독스로 이퀄리브리엄 진입 혹은 이퀄리브리엄 효과 중 사용 시 적용 중인 이퀄리브리엄의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 2535,
+        "skill_level": 2536,
         "skill_effect": "MP 3000 소비, 적용 중인 이퀄리브리엄의 지속시간 10초 증가, 시전 동작 중 무적\n최대 3.5초 동안 키다운하여 최대 15명의 적을 3000%의 데미지로 7번 공격하는 조화의 사념체 소환\n키다운 종료 시 조화의 사념체의 힘이 해방되며 15명의 적을 1538%의 데미지로 7번 공격하는 폭발이 39회 발생하는 진리의 권능 실현\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKDPEMA.png"
     },
@@ -52,8 +52,8 @@
     {
         "skill_name": "퍼니싱 리소네이터 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n퍼니싱 리소네이터를 강화한다.",
-        "skill_level": 975,
-        "skill_effect": "퍼니싱 리소네이터의 최종 데미지 29% 증가",
+        "skill_level": 980,
+        "skill_effect": "퍼니싱 리소네이터의 최종 데미지 31% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAMB.png"
     },
     {
@@ -66,7 +66,7 @@
     {
         "skill_name": "리버레이션 오브 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n리버레이션 오브를 강화한다.",
-        "skill_level": 829,
+        "skill_level": 835,
         "skill_effect": "리버레이션 오브의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAMD.png"
     },

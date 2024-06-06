@@ -10,14 +10,14 @@
     {
         "skill_name": "블레이드 퓨리-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 퓨리의 방어율 무시를 증가시킨다.",
-        "skill_level": 14,
+        "skill_level": 13,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIDOBJG.png"
     },
     {
         "skill_name": "블레이드 퓨리-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 퓨리의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 140,
+        "skill_level": 141,
         "skill_effect": "최대 공격 가능한 몬스터 수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIDOBJH.png"
     },

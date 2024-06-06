@@ -17,28 +17,28 @@
     {
         "skill_name": "리액션:디스트럭션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:자벨린 또는 크래프트:롱기누스에 닿으면 공명하여 크리스탈 주변의 적들에게 파괴적인 기운을 두 차례 내뿜는다.\n필요 스킬 : 리액션:디스트럭션 Ⅱ 20레벨 이상",
-        "skill_level": 2383,
+        "skill_level": 2387,
         "skill_effect": "MP 205 소비, 최대 10명의 적을 1145%의 데미지로 6번 공격하는 기운이 2번 발동, 보스 몬스터 공격 시 데미지 20% 증가\n재발동 대기시간 4초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPBMH.png"
     },
     {
         "skill_name": "리액션:도미네이션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:오브에 닿으면 공명하여 크리스탈 주변의 적들을 공격하고 공격한 적에게 커스 마크를 새긴다.\n필요 스킬 : 리액션:도미네이션 Ⅱ 20레벨 이상",
-        "skill_level": 2383,
+        "skill_level": 2387,
         "skill_effect": "MP 70 소비, 최대 12명의 적을 915%의 데미지로 5번 공격\n재발동 대기시간 4초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPBMI.png"
     },
     {
         "skill_name": "글로리 윙:모탈 윙비트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n모든 마력을 날개 끝에 집중한 뒤 빠르게 회전하며 주변을 휩쓴다. 응집된 마력은 적에게 저주의 표식을 남긴다.\n추가로 크래프트:자벨린 VI와 글로리 윙:자벨린 VI의 인챈트 자벨린을 영구적으로 강화한다.\n글로리 윙 중 1회 사용 가능\n필요 스킬 : 글로리 윙:모탈 윙비트 30레벨 이상",
-        "skill_level": 2383,
+        "skill_level": 2387,
         "skill_effect": "MP 200 소비, 최대 15명의 적을 2200%의 데미지로 15번 공격하는 마력 폭풍이 5번 발생\n[패시브 효과 : 인챈트 자벨린의 데미지 170%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPBMJ.png"
     },
     {
         "skill_name": "언리미티드 크리스탈",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈에 담긴 무한한 마력을 해방하여 폭발시킨 후, 무한의 크리스탈을 소환한다.\n무한의 크리스탈은 크리스탈이 리액션을 일으킬 때마다 공명하여 강력한 리액션을 일으킨다. 리액션이 일정 횟수 이상 발동하면, 무한의 크리스탈 속에 응축되어 있던 순수한 마력이 분출되어 크리스탈 결정을 생성한다.\n글로리 윙 지속 중 언리미티드 크리스탈 사용 시 크리스탈의 무한한 마력이 글로리 윙에 깃들어 글로리 윙의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n크리스탈 결정은 최대 HP가 높은 보스 몬스터를 우선 추적하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 2510,
+        "skill_level": 2511,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n글로리 윙 지속 중 사용 시 글로리 윙 지속시간 10초 증가\n최대 15명의 적을 1200%의 데미지로 8번 공격하는 마력 폭발이 12회, 1330%의 데미지로 10번 공격하는 마력 폭발이 13회, 1500%의 데미지로 15번 공격하는 마력 폭발이 16회 발생\n20초 동안 무한의 크리스탈 소환\n크리스탈에 리액션 발생 시 무한의 크리스탈에서 최대 15명의 적을 1920%의 데미지로 15번 공격하는 공명 발생, 공명 재발동 시간 1초\n공명이 3번 발생하면 다음 공명 대신 1200%의 데미지로 2번 공격하는 크리스탈 결정이 25개 생성, 크리스탈 결정 재생성 대기시간 2초\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPEMA.png"
     },
@@ -66,21 +66,21 @@
     {
         "skill_name": "그람홀더 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n그람홀더를 강화한다.",
-        "skill_level": 426,
+        "skill_level": 427,
         "skill_effect": "그람홀더의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKF.png"
     },
     {
         "skill_name": "소울 오브 크리스탈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소울 오브 크리스탈을 강화한다.",
-        "skill_level": 237,
+        "skill_level": 241,
         "skill_effect": "소울 오브 크리스탈의 리액션 스킬 최종 데미지 반영률 90%, 글로리 윙 사용 시 소멸한 영혼의 크리스탈 1개당 데미지 증가량 50%로 증가\n[패시브 효과 : 올스탯 90 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKG.png"
     },
     {
         "skill_name": "크리스탈 게이트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈 게이트를 강화한다.",
-        "skill_level": 1129,
+        "skill_level": 1130,
         "skill_effect": "크리스탈 게이트의 최종 데미지 45% 증가, 지속시간 185초, 버프의 마력 증가량 90로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKH.png"
     },
