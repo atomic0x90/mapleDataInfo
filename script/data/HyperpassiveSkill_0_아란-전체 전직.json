@@ -31,14 +31,14 @@
     {
         "skill_name": "헌터즈 타겟팅-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n부스트 엔드-헌터즈 타겟팅의 데미지를 증가시킨다.",
-        "skill_level": 198,
+        "skill_level": 197,
         "skill_effect": "데미지 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKD.png"
     },
     {
         "skill_name": "아드레날린 부스트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n아드레날린 부스트의 지속 시간을 증가시킨다.",
-        "skill_level": 198,
+        "skill_level": 199,
         "skill_effect": "지속 시간 5초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKE.png"
     },
