@@ -3,7 +3,7 @@
     {
         "skill_name": "기가 슬래셔 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n빠르게 검을 휘둘러 검기를 방출하여 적을 공격한다. 보스를 포함한 모든 적은 기가 슬래셔에 적중 시 슬로우 상태가 된다.\n커맨드 스킬 : 공격 도중 + 기가 슬래셔\n필요 스킬 : 기가 슬래셔 30레벨 이상",
-        "skill_level": 3734,
+        "skill_level": 3735,
         "skill_effect": "MP 70 소비, 최대 3명의 적을 580%의 데미지로 9번 공격\n파이널 피규레이션 : MP 80 소비, 최대 4명의 적을 580%의 데미지로 11번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKDPBMA.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "가디언 오브 노바 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n가디언 오브 노바를 강화한다.",
-        "skill_level": 625,
+        "skill_level": 628,
         "skill_effect": "가디언 오브 노바의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPG.png"
     },
     {
         "skill_name": "윌 오브 소드 : 스트라이크 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n윌 오브 소드 : 스트라이크를 강화한다.",
-        "skill_level": 573,
+        "skill_level": 574,
         "skill_effect": "윌 오브 소드 : 스트라이크의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPH.png"
     },
     {
         "skill_name": "드라코 슬래셔 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n드라코 슬래셔를 강화한다.",
-        "skill_level": 2910,
+        "skill_level": 2912,
         "skill_effect": "드라코 슬래셔의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPI.png"
     },

@@ -3,7 +3,7 @@
     {
         "skill_name": "디바인 차지-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 데미지를 증가시킨다.",
-        "skill_level": 91,
+        "skill_level": 92,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJG.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "생츄어리-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 공격 횟수를 증가시킨다.",
-        "skill_level": 114,
+        "skill_level": 113,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJA.png"
     }

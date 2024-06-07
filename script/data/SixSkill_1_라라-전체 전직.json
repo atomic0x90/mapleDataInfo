@@ -3,7 +3,7 @@
     {
         "skill_name": "정기 뿌리기 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n땅에 흐르는 정기를 끌어올려 적을 공격한다. 추가로 산 꼬마, 산의 씨앗의 데미지가 증가한다. 정기 뿌리기 VI는 풍수지리의 데미지 증가 효과를 받지 않는다.\n필요 스킬 : 지음 10레벨 이상",
-        "skill_level": 2820,
+        "skill_level": 2822,
         "skill_effect": "MP 35 소비, 최대 7명의 적을 840%의 데미지로 4번 공격\n[패시브 효과 : 산 꼬마, 산의 씨앗의 데미지 660%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKDPBMA.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "새록새록 꽃누리",
         "skill_description": "[마스터 레벨 : 30]\r\n거대한 양의 땅의 정기가 잠든 지맥에 산, 강, 바람, 해의 토지령이 모여 정기가 온누리를 뒤덮는 꽃으로 피어난다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4931,
+        "skill_level": 4932,
         "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n토지령이 모여들어 최대 15명의 적을 2100%의 데미지로 7번 공격하는 꽃 8회 생성\n이후 꽃이 강하게 피어나 최대 15명의 적을 1385%의 데미지로 14번 공격하는 지맥의 기운 64회 방출\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKDPEMA.png"
     },
@@ -59,14 +59,14 @@
     {
         "skill_name": "큰 기지개 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n큰 기지개를 강화한다.",
-        "skill_level": 1347,
-        "skill_effect": "큰 기지개의 최종 데미지 49% 증가",
+        "skill_level": 1354,
+        "skill_effect": "큰 기지개의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALG.png"
     },
     {
         "skill_name": "해 강 산 바람 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n해 강 산 바람을 강화한다.",
-        "skill_level": 2284,
+        "skill_level": 2285,
         "skill_effect": "해 강 산 바람의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALH.png"
     },
