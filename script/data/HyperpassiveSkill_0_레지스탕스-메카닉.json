@@ -17,7 +17,7 @@
     {
         "skill_name": "마그네틱 필드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 방어율 무시를 증가시킨다.",
-        "skill_level": 79,
+        "skill_level": 78,
         "skill_effect": "몬스터 방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBIF.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "매시브 파이어 : SPLASH-F-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n매시브 파이어 : SPLASH-F의 최대 공격 가능한 몬스터 수를 증가시킨다. 매시브 파이어 : IRON-B, 매시브 파이어 : IRON-B VI의 2차 폭발에는 적용되지 않는다.",
-        "skill_level": 16,
+        "skill_level": 17,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBJA.png"
     },

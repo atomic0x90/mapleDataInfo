@@ -17,7 +17,7 @@
     {
         "skill_name": "브레스 슈터-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 브레스 슈터 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 193,
+        "skill_level": 194,
         "skill_effect": "보스 몬스터 공격 시 데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPD.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "드래곤 팡-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 팡의 활동 범위를 증가시킨다.",
-        "skill_level": 21,
+        "skill_level": 20,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPI.png"
     },

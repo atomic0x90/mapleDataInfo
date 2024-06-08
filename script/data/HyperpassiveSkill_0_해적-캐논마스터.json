@@ -38,14 +38,14 @@
     {
         "skill_name": "캐논 바주카-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 공격 횟수를 증가시킨다.",
-        "skill_level": 184,
+        "skill_level": 185,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIFOBII.png"
     },
     {
         "skill_name": "캐논 버스터-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 버스터의 데미지를 증가시킨다.",
-        "skill_level": 200,
+        "skill_level": 199,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIFOBIJ.png"
     },
