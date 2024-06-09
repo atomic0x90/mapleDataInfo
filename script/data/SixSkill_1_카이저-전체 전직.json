@@ -52,21 +52,21 @@
     {
         "skill_name": "윌 오브 소드 : 스트라이크 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n윌 오브 소드 : 스트라이크를 강화한다.",
-        "skill_level": 575,
+        "skill_level": 576,
         "skill_effect": "윌 오브 소드 : 스트라이크의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPH.png"
     },
     {
         "skill_name": "드라코 슬래셔 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n드라코 슬래셔를 강화한다.",
-        "skill_level": 2913,
+        "skill_level": 2914,
         "skill_effect": "드라코 슬래셔의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPI.png"
     },
     {
         "skill_name": "드래곤 블레이즈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n드래곤 블레이즈를 강화한다.",
-        "skill_level": 1085,
+        "skill_level": 1088,
         "skill_effect": "드래곤 블레이즈의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPJ.png"
     },
