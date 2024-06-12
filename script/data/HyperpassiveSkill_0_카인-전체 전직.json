@@ -10,7 +10,7 @@
     {
         "skill_name": "브레스 슈터-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 브레스 슈터 스킬의 데미지를 증가시킨다.",
-        "skill_level": 193,
+        "skill_level": 194,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPC.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "드래곤 스케일-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 스케일 사용 중 HP를 회복시킨다.",
-        "skill_level": 3,
+        "skill_level": 2,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPJ.png"
     }
