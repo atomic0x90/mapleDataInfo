@@ -1,9 +1,9 @@
-200
+199
 [
     {
         "skill_name": "블레이드 퓨리-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 퓨리의 데미지를 증가시킨다.",
-        "skill_level": 191,
+        "skill_level": 189,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIDOBJF.png"
     },
@@ -17,28 +17,28 @@
     {
         "skill_name": "블레이드 퓨리-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 퓨리의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 141,
+        "skill_level": 139,
         "skill_effect": "최대 공격 가능한 몬스터 수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIDOBJH.png"
     },
     {
         "skill_name": "팬텀 블로우-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n팬텀 블로우의 데미지를 증가시킨다.",
-        "skill_level": 200,
+        "skill_level": 199,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIDOBIG.png"
     },
     {
         "skill_name": "팬텀 블로우-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n팬텀 블로우의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 200,
+        "skill_level": 199,
         "skill_effect": "방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIDOBIH.png"
     },
     {
         "skill_name": "팬텀 블로우-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n팬텀 블로우의 공격 횟수를 증가시킨다.",
-        "skill_level": 200,
+        "skill_level": 199,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIDOBII.png"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "블레이드 어센션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 어센션의 데미지를 증가시킨다.",
-        "skill_level": 18,
+        "skill_level": 19,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIDOBIE.png"
     },
     {
         "skill_name": "블레이드 어센션-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 어센션의 공격 횟수를 증가시킨다.",
-        "skill_level": 34,
+        "skill_level": 35,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPGIDOBIF.png"
     }

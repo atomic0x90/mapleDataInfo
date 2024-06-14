@@ -3,14 +3,14 @@
     {
         "skill_name": "홀리 매직쉘-엑스트라 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n홀리 매직쉘의 가드 횟수를 증가시킨다.",
-        "skill_level": 5,
+        "skill_level": 6,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAIFOBID.png"
     },
     {
         "skill_name": "홀리 매직쉘-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n홀리 매직쉘의 지속 시간을 증가시킨다.",
-        "skill_level": 122,
+        "skill_level": 121,
         "skill_effect": "지속 시간 5초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAIFOBIE.png"
     },
