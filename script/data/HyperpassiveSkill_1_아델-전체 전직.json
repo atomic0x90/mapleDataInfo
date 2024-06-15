@@ -59,7 +59,7 @@
     {
         "skill_name": "다이크-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n다이크의 최대 키다운 시간을 증가시킨다.",
-        "skill_level": 125,
+        "skill_level": 124,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPJ.png"
     }
