@@ -10,7 +10,7 @@
     {
         "skill_name": "홀리 매직쉘-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n홀리 매직쉘의 지속 시간을 증가시킨다.",
-        "skill_level": 145,
+        "skill_level": 146,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAIFOBIE.png"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "홀리 심볼-임뷰 바디",
         "skill_description": "[마스터 레벨 : 1]\r\n홀리 심볼 사용 시 상태 이상 내성과 모든 속성 내성을 증가시킨다. 단, 홀리 심볼을 시전한 캐릭터 근처를 벗어나면 적용되지 않는다. 추가로 내성과 모든 속성 내성이 영구히 증가한다.",
-        "skill_level": 40,
+        "skill_level": 39,
         "skill_effect": "상태 이상 내성 및 모든 속성 내성 10% 증가\n[패시브 효과 : 상태 이상 내성 10, 모든 속성 내성 10% 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAIFOBIH.png"
     },

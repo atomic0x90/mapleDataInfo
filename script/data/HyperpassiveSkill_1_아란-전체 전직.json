@@ -1,64 +1,64 @@
 200
 [
     {
-        "skill_name": "스윙-리인포스",
-        "skill_description": "[마스터 레벨 : 1]\r\n스매쉬 스윙, 에어로 스윙의 데미지를 증가시킨다.",
+        "skill_name": "프로즌 그라운드-리인포스",
+        "skill_description": "[마스터 레벨 : 1]\r\n프로즌 그라운드의 데미지를 증가시킨다.",
         "skill_level": 0,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBJJ.png"
     },
     {
-        "skill_name": "스윙-보스 킬러",
-        "skill_description": "[마스터 레벨 : 1]\r\n스매쉬 스윙, 에어로 스윙의 보스 몬스터 공격 시 데미지를 증가시킨다.",
+        "skill_name": "프로즌 그라운드-엑스트라 타겟",
+        "skill_description": "[마스터 레벨 : 1]\r\n프로즌 그라운드의 최대 공격 가능한 몬스터 수를 증가시킨다.",
         "skill_level": 2,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKA.png"
     },
     {
-        "skill_name": "스윙-애프터이미지 리인포스",
-        "skill_description": "[마스터 레벨 : 1]\r\n스매쉬 스윙, 에어로 스윙 사용 이후 다른 공격 스킬 사용 시 발생하는 잔상의 데미지를 증가시킨다.",
+        "skill_name": "프로즌 그라운드-퍼시스트",
+        "skill_description": "[마스터 레벨 : 1]\r\n프로즌 그라운드의 지속 시간을 증가시킨다.",
         "skill_level": 4,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKB.png"
     },
     {
-        "skill_name": "스톰 오브 피어-엑스트라 타겟",
-        "skill_description": "[마스터 레벨 : 1]\r\n부스트 엔드-스톰 오브 피어의 최대 공격 가능한 몬스터 수를 증가시킨다.",
+        "skill_name": "부스트 엔드-리인포스",
+        "skill_description": "[마스터 레벨 : 1]\r\n부스트 엔드와 하이퍼 부스트 엔드 스킬의 데미지를 증가시킨다.",
         "skill_level": 0,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKC.png"
     },
     {
-        "skill_name": "헌터즈 타겟팅-리인포스",
-        "skill_description": "[마스터 레벨 : 1]\r\n부스트 엔드-헌터즈 타겟팅의 데미지를 증가시킨다.",
+        "skill_name": "부스트 엔드-이그노어 가드",
+        "skill_description": "[마스터 레벨 : 1]\r\n부스트 엔드와 하이퍼 부스트 엔드 스킬의 몬스터 방어율 무시 수치를 증가시킨다.",
         "skill_level": 196,
-        "skill_effect": "데미지 30% 증가",
+        "skill_effect": "몬스터 방어율 무시 20% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKD.png"
     },
     {
         "skill_name": "아드레날린 부스트-퍼시스트",
-        "skill_description": "[마스터 레벨 : 1]\r\n아드레날린 부스트의 지속 시간을 증가시킨다.",
+        "skill_description": "[마스터 레벨 : 1]\r\n아드레날린 부스트의 지속 시간을 증가시킨다.\n 5차 스킬 \"아드레날린 서지\"를 익히기 위해 1레벨 이상 필요",
         "skill_level": 198,
         "skill_effect": "지속 시간 5초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKE.png"
     },
     {
         "skill_name": "비욘더-리인포스",
-        "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 펜릴 크래시의 데미지를 증가시킨다. 아드레날린 부스트 상태에서 발동하는 에너지 파동과 빙산의 데미지는 증가하지 않는다.",
+        "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 파이널 비욘더-백호의 데미지를 증가시킨다.",
         "skill_level": 198,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKF.png"
     },
     {
         "skill_name": "비욘더-보너스 어택",
-        "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 펜릴 크래시의 공격 횟수를 증가시킨다. 아드레날린 부스트 상태에서 발동하는 에너지 파동과 빙산의 공격 횟수는 증가하지 않는다.",
+        "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 파이널 비욘더-백호의 공격 횟수를 증가시킨다.",
         "skill_level": 198,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKG.png"
     },
     {
         "skill_name": "비욘더-이그노어 가드",
-        "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 펜릴 크래시의 몬스터 방어율 무시 수치를 증가시킨다. 아드레날린 부스트 상태에서 발동하는 에너지 파동과 빙산의 방어율 무시 수치는 증가하지 않는다.",
+        "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 파이널 비욘더-백호의 몬스터 방어율 무시 수치를 증가시킨다.",
         "skill_level": 194,
         "skill_effect": "몬스터 방어율 무시 20% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKH.png"
