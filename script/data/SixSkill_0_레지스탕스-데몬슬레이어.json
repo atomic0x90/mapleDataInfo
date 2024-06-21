@@ -3,77 +3,77 @@
     {
         "skill_name": "데몬 임팩트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n마족의 힘을 분출하여 전방의 적 다수에게 치명적인 데미지를 준다. 일정 시간마다 마족의 힘이 한계까지 개방되어 새어나온 포스가 데몬 체인으로 형상화되어 적을 초토화시킨다.\n필요 스킬 : 데몬 임팩트 30레벨 이상",
-        "skill_level": 2479,
+        "skill_level": 2481,
         "skill_effect": "포스 8 소비, 최대 5명의 적을 599%의 데미지로 6번 공격\n추가 크리티컬 확률 100%, 몬스터 방어율 36% 추가 무시\n보스 몬스터 공격 시 데미지 43% 증가, 적중한 적은 3초 동안 슬로우\n15초마다 데몬 임팩트 VI : 데몬 체인으로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDKDPBMA.png"
     },
     {
         "skill_name": "데몬 슬래시 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n공격키를 연타하여 적을 연속 공격한다. 공격 시 대상으로부터 일정량의 포스를 흡수할 수 있다.\n일정 시간마다 내재되어 있던 악마의 힘이 자동으로 표출되어 적을 휩쓰는 데모닉 스피어가 발동된다. 데몬 어웨이크닝 지속 중에는 각성의 여파로 데모닉 스피어가 강화된다.\n데몬 슬래시 VI 및 데모닉 스피어는 데몬 슬래시 1차, 2차, 최종 강화의 효과를 적용 받는다.\n추가로 데몬 어웨이크닝 지속 중 강화되는 데몬 슬래시를 영구히 강화한다.\n필요 스킬 : 데몬 슬래시 10레벨 이상",
-        "skill_level": 4448,
+        "skill_level": 4430,
         "skill_effect": "1타, 2타 : 최대 6명의 적을 340%의 데미지로 2번 공격\n3타 : 최대 6명의 적을 325%의 데미지로 3번 공격\n4타 : 최대 6명의 적을 325%의 데미지로 4번 공격\n데모닉 스피어 : 최대 10명의 적을 500%의 데미지로 6번 공격, 재발동 대기시간 6초\n데몬 어웨이크닝 중 발동되는 데모닉 스피어는 800%의 데미지로 공격, 재발동 대기시간 3초\n데모닉 스피어의 일반 몬스터 공격시 데미지 180%p 증가\n[패시브 효과 : 데몬 어웨이크닝의 강화 데몬 슬래시 데미지 80%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDKDPBMC.png"
     },
     {
         "skill_name": "데몬 익스플로젼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n어두운 기운을 끌어올린 후 폭발시킨다. 추가로 데몬 임팩트 VI를 영구히 강화한다.\n필요 스킬 : 데몬 익스플로젼 30레벨 이상",
-        "skill_level": 4448,
+        "skill_level": 4430,
         "skill_effect": "HP 300, 포스 15 소비, 최대 10명의 적을 585%의 데미지로 5번 공격\n추가 크리티컬 확률 60%, 일반 몬스터 공격 시 데미지 205%p증가\n[패시브 효과 : 데몬 임팩트 데미지 70%p, 데몬 체인 데미지 90%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDKDPBMI.png"
     },
     {
         "skill_name": "나이트메어",
         "skill_description": "[마스터 레벨 : 30]\r\n폭주하는 데몬의 포스로 마족의 영지를 구현한다. 일정 시간 동안 데몬의 모든 공격에 명계의 화염이 솟아오르는 추가 공격이 발생하며 데몬 포스를 최대 제한 이상으로 획득할 수 있다.\n스킬을 다시 사용하여 모든 포스를 거대한 무기로 응집시켜 강력한 일격을 가할 수 있다. 강력한 일격은 데몬 슬래시 및 데몬 임팩트 사용 중에도 사용할 수 있다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4585,
+        "skill_level": 4536,
         "skill_effect": "포스 50 소비, 시전 동작 중 무적\n포스를 방출시켜 최대 15명의 적을 3000%의 데미지로 4번 공격하는 파동 6회 발생 후 마족의 영지 구현\n마족의 영지 : 20초 동안 지속, 최대 포스 제한을 500까지 초과 가능하며 직접 공격하는 스킬 사용 시 최대 3명의 적을 2229%의 데미지로 7번 공격하는 명계의 화염 발동, 재발동 대기시간 0.3초\n명계의 화염 발동 시 포스 10 추가 회복\n스킬 재사용 시 즉시 종료되며 최대 15명의 적을 1760%의 데미지로 7번 공격하는 명계의 심판 46회 발동\n최대 포스 제한을 초과하여 획득한 포스 10당 명계의 심판 최종 데미지 1% 증가, 명계의 심판 시전 동작 중 무적, 명계의 심판은 상태 이상을 무시하고 발동 가능\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2448,
+        "skill_level": 2432,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2448,
+        "skill_level": 2432,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "데몬 어웨이크닝 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데몬 어웨이크닝을 강화한다.",
-        "skill_level": 5026,
+        "skill_level": 4976,
         "skill_effect": "데몬 어웨이크닝의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAME.png"
     },
     {
         "skill_name": "요르문간드 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n요르문간드를 강화한다.",
-        "skill_level": 3008,
+        "skill_level": 2971,
         "skill_effect": "요르문간드의 최종 데미지 41% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAMF.png"
     },
     {
         "skill_name": "오르트로스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n오르트로스를 강화한다.",
-        "skill_level": 3049,
+        "skill_level": 3008,
         "skill_effect": "오르트로스의 최종 데미지 40% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAMG.png"
     },
     {
         "skill_name": "데몬 베인 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데몬 베인을 강화한다.",
-        "skill_level": 3324,
+        "skill_level": 3296,
         "skill_effect": "데몬 베인의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAMH.png"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 197,
+        "skill_level": 196,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     }

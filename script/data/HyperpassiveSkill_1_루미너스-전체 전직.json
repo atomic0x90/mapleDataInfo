@@ -3,7 +3,7 @@
     {
         "skill_name": "라이트 리플렉션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n라이트 리플렉션의 데미지를 증가시킨다.",
-        "skill_level": 125,
+        "skill_level": 124,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBID.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "앱솔루트 킬-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n앱솔루트 킬의 사거리를 증가시킨다.",
-        "skill_level": 94,
+        "skill_level": 95,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBJB.png"
     }

@@ -3,21 +3,21 @@
     {
         "skill_name": "라이트 리플렉션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n라이트 리플렉션의 데미지를 증가시킨다.",
-        "skill_level": 108,
+        "skill_level": 109,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBID.png"
     },
     {
         "skill_name": "라이트 리플렉션-스프레드",
         "skill_description": "[마스터 레벨 : 1]\r\n라이트 리플렉션이 전이할 때 더 이상 데미지가 줄어들지 않는다.",
-        "skill_level": 192,
+        "skill_level": 193,
         "skill_effect": "전이 데미지 감소율 0%로 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBIE.png"
     },
     {
         "skill_name": "라이트 리플렉션-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n라이트 리플렉션의 사거리를 증가시킨다.",
-        "skill_level": 127,
+        "skill_level": 125,
         "skill_effect": "사거리 50 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBIF.png"
     },
