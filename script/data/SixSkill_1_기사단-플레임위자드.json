@@ -10,7 +10,7 @@
     {
         "skill_name": "블레이징 익스팅션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n고열의 화염을 구체로 압축시켜 발사한다. 화염 구체는 전방으로 이동하며 사정거리 내의 적들에게 화염 고리를 발사하여 불태운다.\n필요 스킬 : 블레이징 익스팅션 30레벨 이상",
-        "skill_level": 1066,
+        "skill_level": 1077,
         "skill_effect": "MP 44 소비\n10초 동안 구체 주위의 최대 8명의 적을 1090%의 데미지로 4번 공격\n한명의 적에게는 최대 10번까지만 공격 발생\n재사용 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKDPBMH.png"
     },
@@ -38,28 +38,28 @@
     {
         "skill_name": "블레이징 오비탈 플레임 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블레이징 오비탈 플레임을 강화한다.",
-        "skill_level": 1043,
+        "skill_level": 1045,
         "skill_effect": "블레이징 오비탈 플레임의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKE.png"
     },
     {
         "skill_name": "플레임 디스차지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n플레임 디스차지를 강화한다.",
-        "skill_level": 513,
+        "skill_level": 514,
         "skill_effect": "플레임 디스차지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKF.png"
     },
     {
         "skill_name": "인피니티 플레임 서클 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n인피니티 플레임 서클을 강화한다.",
-        "skill_level": 3649,
+        "skill_level": 3650,
         "skill_effect": "인피니티 플레임 서클의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKG.png"
     },
     {
         "skill_name": "샐리맨더 미스칩 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n샐리맨더 미스칩을 강화한다.",
-        "skill_level": 684,
+        "skill_level": 686,
         "skill_effect": "샐리맨더 미스칩의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKH.png"
     },
