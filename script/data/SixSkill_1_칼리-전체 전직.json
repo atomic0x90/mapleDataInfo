@@ -3,14 +3,14 @@
     {
         "skill_name": "아츠 : 플러리 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[아츠]\n순식간에 사라져 전방의 적을 수회 강력하게 벤다.\n필요 스킬 : 아츠 : 플러리 30레벨 이상",
-        "skill_level": 1143,
+        "skill_level": 1136,
         "skill_effect": "MP 52 소비, 최대 8명의 적을 585%의 데미지로 7번 공격\n공격 적중 시 보이드 러쉬/보이드 블리츠의 재사용 대기시간 1초 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKDPBMA.png"
     },
     {
         "skill_name": "아츠 : 크레센텀 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[아츠]\n순간적으로 빠르게 회전하여 주변의 적을 휩쓴다. 보이드 러쉬 이동 중 혹은 이동 후에 연계하여 사용하거나 보이드 블리츠 시전 이후 사용할 수 있다. 직전에 사용한 보이드 러쉬의 방향에 따라 공격 범위가 달라진다.\n필요 스킬 : 아츠 : 크레센텀 20레벨 이상",
-        "skill_level": 1143,
+        "skill_level": 1136,
         "skill_effect": "MP 40 소비, 최대 8명의 적을 975% 데미지로 4번 공격\n사용 시 보이드 러쉬/보이드 블리츠의 재사용 대기시간 5초 감소\n재사용 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKDPBMB.png"
     },
@@ -38,28 +38,28 @@
     {
         "skill_name": "헥스 : 샌드스톰",
         "skill_description": "[마스터 레벨 : 30]\r\n[헥스]\n차크람으로 강한 모래 폭풍을 일으켜 전장을 휩쓴다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3728,
+        "skill_level": 3737,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 3초 동안 키다운하여 최대 15명의 적을 770%의 데미지로 15번 공격하는 차크람의 폭풍 생성\n키다운 종료 시 최대 15명의 적을 830%의 데미지로 10번 공격하는 참격이 13회 발생, 이후 모래 폭풍이 강하게 발생하여 최대 15명의 적을 820%의 데미지로 14번 공격하는 폭발 34회 발생\n사용 시 30초 동안 최종 데미지 25% 증가\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 1003,
+        "skill_level": 1010,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 1003,
+        "skill_level": 1010,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "헥스 : 판데모니움 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n헥스 : 판데모니움을 강화한다.",
-        "skill_level": 1512,
+        "skill_level": 1504,
         "skill_effect": "헥스 : 판데모니움의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKI.png"
     },
@@ -80,7 +80,7 @@
     {
         "skill_name": "레조네이트 : 얼티메이텀 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n레조네이트 : 얼티메이텀을 강화한다.",
-        "skill_level": 2116,
+        "skill_level": 2117,
         "skill_effect": "레조네이트 : 얼티메이텀의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALB.png"
     },

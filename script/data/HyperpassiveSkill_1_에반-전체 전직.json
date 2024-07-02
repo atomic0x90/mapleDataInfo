@@ -17,14 +17,14 @@
     {
         "skill_name": "드래곤 스위프트-썬더 보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n스위프트 오브 썬더의 지점별 충돌 시마다 발생하는 공격 횟수를 증가시킨다.",
-        "skill_level": 163,
+        "skill_level": 162,
         "skill_effect": "지점별 공격 횟수 1회 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNAKAOBEG.png"
     },
     {
         "skill_name": "드래곤 다이브-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 다이브의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 195,
+        "skill_level": 196,
         "skill_effect": "재사용 대기시간 25% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNAKAOBEH.png"
     },
