@@ -38,28 +38,28 @@
     {
         "skill_name": "스프레드 스로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스프레드 스로우를 강화한다.",
-        "skill_level": 5577,
+        "skill_level": 5550,
         "skill_effect": "스프레드 스로우의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPG.png"
     },
     {
         "skill_name": "풍마수리검 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n풍마수리검을 강화한다.",
-        "skill_level": 3934,
+        "skill_level": 3910,
         "skill_effect": "풍마수리검의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPH.png"
     },
     {
         "skill_name": "다크로드의 비전서 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크로드의 비전서를 강화한다.",
-        "skill_level": 4053,
+        "skill_level": 4026,
         "skill_effect": "다크로드의 비전서의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPI.png"
     },
     {
         "skill_name": "스로우 블래스팅 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스로우 블래스팅을 강화한다.",
-        "skill_level": 5707,
+        "skill_level": 5693,
         "skill_effect": "스로우 블래스팅의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPJ.png"
     },
