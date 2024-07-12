@@ -45,14 +45,14 @@
     {
         "skill_name": "애로우 레인 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n애로우 레인을 강화한다.",
-        "skill_level": 1977,
+        "skill_level": 1980,
         "skill_effect": "애로우 레인의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBOE.png"
     },
     {
         "skill_name": "잔영의 시 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n잔영의 시를 강화한다.",
-        "skill_level": 2299,
+        "skill_level": 2300,
         "skill_effect": "잔영의 시 강화의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBOF.png"
     },
