@@ -3,7 +3,7 @@
     {
         "skill_name": "귀참 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령을 강령시켜 전방에 있는 다수의 적을 빠르게 할퀴어 공격한다.\n필요 스킬 : 귀참 30레벨 이상",
-        "skill_level": 4727,
+        "skill_level": 4730,
         "skill_effect": "MP 86 소비, 최대 4명의 적을 475%의 데미지로 12번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKDPBMA.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "귀문진 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n귀문진을 강화한다.",
-        "skill_level": 1345,
+        "skill_level": 1349,
         "skill_effect": "귀문진의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFH.png"
     },
     {
         "skill_name": "진 귀참 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n진 귀참을 강화한다.",
-        "skill_level": 1632,
+        "skill_level": 1635,
         "skill_effect": "진 귀참의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFI.png"
     },
     {
         "skill_name": "파쇄 연권 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n파쇄 연권을 강화한다.",
-        "skill_level": 1352,
+        "skill_level": 1356,
         "skill_effect": "파쇄 연권의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFJ.png"
     },

@@ -31,14 +31,14 @@
     {
         "skill_name": "피니투라 페투치아-리듀스 아머",
         "skill_description": "[마스터 레벨 : 1]\r\n피니투라 페투치아 습득 시 방어율 무시가 영구적으로 증가한다.\n필요 스킬 : 피니투라 페투치아 1레벨 이상",
-        "skill_level": 184,
+        "skill_level": 185,
         "skill_effect": "방어율 무시 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJHKFOBIH.png"
     },
     {
         "skill_name": "피니투라 페투치아-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n피니투라 페투치아의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 9,
+        "skill_level": 8,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJHKFOBII.png"
     },
