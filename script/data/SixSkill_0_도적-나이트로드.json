@@ -45,21 +45,21 @@
     {
         "skill_name": "풍마수리검 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n풍마수리검을 강화한다.",
-        "skill_level": 3957,
+        "skill_level": 3988,
         "skill_effect": "풍마수리검의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPH.png"
     },
     {
         "skill_name": "다크로드의 비전서 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크로드의 비전서를 강화한다.",
-        "skill_level": 4064,
+        "skill_level": 4090,
         "skill_effect": "다크로드의 비전서의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPI.png"
     },
     {
         "skill_name": "스로우 블래스팅 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스로우 블래스팅을 강화한다.",
-        "skill_level": 5696,
+        "skill_level": 5700,
         "skill_effect": "스로우 블래스팅의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPJ.png"
     },

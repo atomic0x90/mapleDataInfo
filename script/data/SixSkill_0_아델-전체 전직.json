@@ -59,7 +59,7 @@
     {
         "skill_name": "루인 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n루인을 강화한다.",
-        "skill_level": 3323,
+        "skill_level": 3325,
         "skill_effect": "루인의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKA.png"
     },
@@ -80,7 +80,7 @@
     {
         "skill_name": "스톰 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스톰을 강화한다.",
-        "skill_level": 3552,
+        "skill_level": 3557,
         "skill_effect": "스톰의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKD.png"
     },
