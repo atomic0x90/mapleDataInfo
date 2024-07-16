@@ -52,14 +52,14 @@
     {
         "skill_name": "탤런트 오브 팬텀시프-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n스틸 스킬로 훔친 다른 모험가의 스킬 중 버프 스킬의 지속시간을 증가시킨다.",
-        "skill_level": 90,
+        "skill_level": 92,
         "skill_effect": "버프 지속시간 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNGKFOBJA.png"
     },
     {
         "skill_name": "탤런트 오브 팬텀시프-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n스킬 매니지먼트의 훔친 4차 스킬 슬롯 개수를 증가시킨다.",
-        "skill_level": 87,
+        "skill_level": 85,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNGKFOBJB.png"
     }

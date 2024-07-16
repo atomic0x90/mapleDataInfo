@@ -17,14 +17,14 @@
     {
         "skill_name": "비스트 폼-래피드 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n비스트 폼으로 오르는 공격 속도를 증가시킨다.\n필요 스킬 : 비스트 폼 20레벨 이상",
-        "skill_level": 5,
+        "skill_level": 4,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBIF.png"
     },
     {
         "skill_name": "서먼 재규어-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n어나더 바이트의 데미지를 증가시킨다.",
-        "skill_level": 182,
+        "skill_level": 183,
         "skill_effect": "어나더 바이트 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKFOBIG.png"
     },
