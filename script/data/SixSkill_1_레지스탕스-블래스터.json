@@ -66,14 +66,14 @@
     {
         "skill_name": "버닝 브레이커 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n버닝 브레이커를 강화한다.",
-        "skill_level": 1551,
+        "skill_level": 1552,
         "skill_effect": "버닝 브레이커의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPA.png"
     },
     {
         "skill_name": "애프터이미지 쇼크 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n애프터이미지 쇼크를 강화한다.",
-        "skill_level": 1384,
+        "skill_level": 1385,
         "skill_effect": "애프터이미지 쇼크의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPB.png"
     },

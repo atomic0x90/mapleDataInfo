@@ -73,7 +73,7 @@
     {
         "skill_name": "소울 오브 크리스탈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소울 오브 크리스탈을 강화한다.",
-        "skill_level": 293,
+        "skill_level": 294,
         "skill_effect": "소울 오브 크리스탈의 리액션 스킬 최종 데미지 반영률 90%, 글로리 윙 사용 시 소멸한 영혼의 크리스탈 1개당 데미지 증가량 50%로 증가\n[패시브 효과 : 올스탯 90 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKG.png"
     },
