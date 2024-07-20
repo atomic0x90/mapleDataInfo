@@ -80,7 +80,7 @@
     {
         "skill_name": "크로노 트리거",
         "skill_description": "[마스터 레벨 : 30]\r\n불완전한 운명의 굴레를 깨고 진실된 마음으로 서로를 마주하여 진정한 초월자의 힘을 이끌어낸다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 5267,
+        "skill_level": 5268,
         "skill_effect": "타임 포스 40 소비, 시전 동작 중 무적\n허상의 거울이 깨져 15명의 적을 1400%의 데미지로 6번 공격하는 참격이 17회 발생\n초월자의 힘을 각성하여 최대 15명의 적을 1400%의 데미지로 8번 공격하는 시간 왜곡 22회 발생\n이후 최대 15명의 적을 1430%의 데미지로 14번 공격하는 마무리 일격 32회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEPDKDPEMA.png"
     },
@@ -101,7 +101,7 @@
     {
         "skill_name": "리미트 브레이크 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n리미트 브레이크를 강화한다.",
-        "skill_level": 4854,
+        "skill_level": 4855,
         "skill_effect": "리미트 브레이크의 최종 데미지 60% 증가, 지속시간 30초, 최종 데미지 증가량 46%로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAJC.png"
     },
@@ -115,14 +115,14 @@
     {
         "skill_name": "쉐도우 플래시 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 플래시를 강화한다.",
-        "skill_level": 4071,
+        "skill_level": 4073,
         "skill_effect": "쉐도우 플래시의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAJE.png"
     },
     {
         "skill_name": "에고 웨폰 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n에고 웨폰을 강화한다.",
-        "skill_level": 4334,
+        "skill_level": 4337,
         "skill_effect": "에고 웨폰의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAJF.png"
     },

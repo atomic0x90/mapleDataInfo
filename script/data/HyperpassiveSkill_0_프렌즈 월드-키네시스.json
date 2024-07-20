@@ -24,7 +24,7 @@
     {
         "skill_name": "싸이킥 그라운드-리듀스 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그라운드의 방어율 감소를 증가시킨다. 싸이킥 그라운드/싸이킥 그라운드2의 효과와 합하여 적용된다.",
-        "skill_level": 140,
+        "skill_level": 141,
         "skill_effect": "방어율 감소 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKFOBPG.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "싸이킥 그라운드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그라운드의 유지시간을 증가시킨다.",
-        "skill_level": 81,
+        "skill_level": 80,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKFOBPI.png"
     },
