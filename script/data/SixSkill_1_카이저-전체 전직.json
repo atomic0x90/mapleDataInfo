@@ -24,7 +24,7 @@
     {
         "skill_name": "마이트 오브 노바",
         "skill_description": "[마스터 레벨 : 30]\r\n수호자의 사명을 대대로 지켜온 선대들의 의지를 계승하여 노바족의 안위를 위협하는 모든 적을 처단한다. 파이널 피규레이션 효과 중 사용 시 적용 중인 파이널 피규레이션의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 2146,
+        "skill_level": 2147,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적, 적용 중인 파이널 피규레이션의 지속 시간 10초 증가\n선대들의 의지가 이어져 최대 15명의 적을 2357%의 데미지로 8번 공격하는 참격이 14회 발생\n이후 최대 15명의 적을 1909%의 데미지로 13번 공격하는 마무리 일격 47회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKDPEMA.png"
     },
@@ -45,28 +45,28 @@
     {
         "skill_name": "가디언 오브 노바 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n가디언 오브 노바를 강화한다.",
-        "skill_level": 671,
+        "skill_level": 675,
         "skill_effect": "가디언 오브 노바의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPG.png"
     },
     {
         "skill_name": "윌 오브 소드 : 스트라이크 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n윌 오브 소드 : 스트라이크를 강화한다.",
-        "skill_level": 683,
+        "skill_level": 686,
         "skill_effect": "윌 오브 소드 : 스트라이크의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPH.png"
     },
     {
         "skill_name": "드라코 슬래셔 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n드라코 슬래셔를 강화한다.",
-        "skill_level": 3023,
+        "skill_level": 3033,
         "skill_effect": "드라코 슬래셔의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPI.png"
     },
     {
         "skill_name": "드래곤 블레이즈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n드래곤 블레이즈를 강화한다.",
-        "skill_level": 1187,
+        "skill_level": 1191,
         "skill_effect": "드래곤 블레이즈의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPJ.png"
     },

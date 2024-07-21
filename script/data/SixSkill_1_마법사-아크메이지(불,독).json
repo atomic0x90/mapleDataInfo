@@ -3,7 +3,7 @@
     {
         "skill_name": "플레임 스윕 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전방을 강력한 화염으로 휩쓴다. 플레임 스윕이 적중할 때마다 열기가 남아 일정량 이상 쌓이면 더 거대한 화염으로 발화한다.\n거대 화염은 적중한 적에 불씨를 남기고, 불씨가 있는 적에게 미스트 이럽션 적중 시 불씨가 독에 반응하여 폭발한다.\n플레임 스윕의 모든 화염에 적중한 적은 화상을 입어 지속적으로 도트 데미지를 입는다. 일부 몬스터는 저항하여 화상을 입지 않는다. 불 속성 공격이다.\n필요 스킬 : 플레임 스윕 30레벨 이상",
-        "skill_level": 5029,
+        "skill_level": 5030,
         "skill_effect": "MP 52 소비, 최대 8명의 적을 355%의 데미지로 7번 공격\n플레임 스윕 2회 적중 시 다음 플레임 스윕은 거대 화염 발생\n거대 화염에 적중한 적은 30초 동안 불씨가 남아 미스트 이럽션 적중 시 375%의 데미지로 8번 공격하는 폭발 발생\n플레임 스윕의 모든 화염에 적중한 적은 5초 동안 화상을 입으며 1초당 435%의 도트 데미지",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAKDPBMA.png"
     },
@@ -45,14 +45,14 @@
     {
         "skill_name": "도트 퍼니셔 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n도트 퍼니셔를 강화한다.",
-        "skill_level": 4019,
+        "skill_level": 4020,
         "skill_effect": "도트 퍼니셔의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBNC.png"
     },
     {
         "skill_name": "포이즌 노바 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n포이즌 노바를 강화한다.",
-        "skill_level": 2545,
+        "skill_level": 2547,
         "skill_effect": "포이즌 노바의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBND.png"
     },
