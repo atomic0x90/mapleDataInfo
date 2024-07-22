@@ -45,7 +45,7 @@
     {
         "skill_name": "라이트닝 폼 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n라이트닝 폼을 강화한다.",
-        "skill_level": 3755,
+        "skill_level": 3756,
         "skill_effect": "라이트닝 폼의 최종 데미지 18% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBII.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "퓨리어스 차지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n퓨리어스 차지를 강화한다.",
-        "skill_level": 1238,
+        "skill_level": 1243,
         "skill_effect": "퓨리어스 차지의 최종 데미지 12% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJA.png"
     },
