@@ -45,7 +45,7 @@
     {
         "skill_name": "카르마 퓨리 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n카르마 퓨리를 강화한다.",
-        "skill_level": 5032,
+        "skill_level": 5036,
         "skill_effect": "카르마 퓨리의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIF.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "헌티드 엣지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n헌티드 엣지를 강화한다.",
-        "skill_level": 3634,
+        "skill_level": 3637,
         "skill_effect": "헌티드 엣지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIH.png"
     },

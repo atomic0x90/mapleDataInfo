@@ -31,14 +31,14 @@
     {
         "skill_name": "황홀한 구속-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n황홀한 구속의 데미지를 증가시킨다.",
-        "skill_level": 3,
+        "skill_level": 2,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPH.png"
     },
     {
         "skill_name": "기어 다니는 공포-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n기어 다니는 공포의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 184,
+        "skill_level": 185,
         "skill_effect": "재사용 대기시간 20% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPI.png"
     },
