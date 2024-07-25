@@ -38,7 +38,7 @@
     {
         "skill_name": "불릿 파티 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n불릿 파티를 강화한다.",
-        "skill_level": 1556,
+        "skill_level": 1557,
         "skill_effect": "불릿 파티의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJC.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "데스 트리거 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데스 트리거를 강화한다.",
-        "skill_level": 1175,
+        "skill_level": 1176,
         "skill_effect": "데스 트리거의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBJF.png"
     },

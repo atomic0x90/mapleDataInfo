@@ -3,14 +3,14 @@
     {
         "skill_name": "아츠 : 플러리 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[아츠]\n순식간에 사라져 전방의 적을 수회 강력하게 벤다.\n필요 스킬 : 아츠 : 플러리 30레벨 이상",
-        "skill_level": 1145,
+        "skill_level": 1147,
         "skill_effect": "MP 52 소비, 최대 8명의 적을 585%의 데미지로 7번 공격\n공격 적중 시 보이드 러쉬/보이드 블리츠의 재사용 대기시간 1초 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKDPBMA.png"
     },
     {
         "skill_name": "아츠 : 크레센텀 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[아츠]\n순간적으로 빠르게 회전하여 주변의 적을 휩쓴다. 보이드 러쉬 이동 중 혹은 이동 후에 연계하여 사용하거나 보이드 블리츠 시전 이후 사용할 수 있다. 직전에 사용한 보이드 러쉬의 방향에 따라 공격 범위가 달라진다.\n필요 스킬 : 아츠 : 크레센텀 20레벨 이상",
-        "skill_level": 1145,
+        "skill_level": 1147,
         "skill_effect": "MP 40 소비, 최대 8명의 적을 975% 데미지로 4번 공격\n사용 시 보이드 러쉬/보이드 블리츠의 재사용 대기시간 5초 감소\n재사용 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKDPBMB.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "헥스 : 판데모니움 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n헥스 : 판데모니움을 강화한다.",
-        "skill_level": 1520,
+        "skill_level": 1521,
         "skill_effect": "헥스 : 판데모니움의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKI.png"
     },
