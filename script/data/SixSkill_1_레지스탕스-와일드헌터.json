@@ -94,7 +94,7 @@
     {
         "skill_name": "와일드 발칸 Type X 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n와일드 발칸 Type X을 강화한다.",
-        "skill_level": 713,
+        "skill_level": 714,
         "skill_effect": "와일드 발칸 Type X의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANJ.png"
     },
