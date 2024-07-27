@@ -45,7 +45,7 @@
     {
         "skill_name": "마이크로 미사일 컨테이너 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n마이크로 미사일 컨테이너를 강화한다.",
-        "skill_level": 3179,
+        "skill_level": 3182,
         "skill_effect": "마이크로 미사일 컨테이너의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOB.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "메카 캐리어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n메카 캐리어를 강화한다.",
-        "skill_level": 1968,
+        "skill_level": 1969,
         "skill_effect": "메카 캐리어의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOD.png"
     },
