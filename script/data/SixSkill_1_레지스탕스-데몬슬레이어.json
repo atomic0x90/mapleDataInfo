@@ -3,7 +3,7 @@
     {
         "skill_name": "데몬 임팩트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n마족의 힘을 분출하여 전방의 적 다수에게 치명적인 데미지를 준다. 일정 시간마다 마족의 힘이 한계까지 개방되어 새어나온 포스가 데몬 체인으로 형상화되어 적을 초토화시킨다.\n필요 스킬 : 데몬 임팩트 30레벨 이상",
-        "skill_level": 864,
+        "skill_level": 868,
         "skill_effect": "포스 8 소비, 최대 5명의 적을 690%의 데미지로 6번 공격\n추가 크리티컬 확률 100%, 몬스터 방어율 40% 추가 무시\n보스 몬스터 공격 시 데미지 45% 증가, 적중한 적은 3초 동안 슬로우\n15초마다 데몬 임팩트 VI : 데몬 체인으로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDKDPBMA.png"
     },
@@ -45,14 +45,14 @@
     {
         "skill_name": "데몬 어웨이크닝 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데몬 어웨이크닝을 강화한다.",
-        "skill_level": 3098,
+        "skill_level": 3100,
         "skill_effect": "데몬 어웨이크닝의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAME.png"
     },
     {
         "skill_name": "요르문간드 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n요르문간드를 강화한다.",
-        "skill_level": 1158,
+        "skill_level": 1159,
         "skill_effect": "요르문간드의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAMF.png"
     },
