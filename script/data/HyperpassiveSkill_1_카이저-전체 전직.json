@@ -1,23 +1,23 @@
-199
+200
 [
     {
         "skill_name": "기가 슬래셔-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n기가 슬래셔와 드라코 슬래셔의 데미지를 증가시킨다.",
-        "skill_level": 194,
+        "skill_level": 195,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBID.png"
     },
     {
         "skill_name": "기가 슬래셔-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n기가 슬래셔와 드라코 슬래셔의 슬로우 지속 시간을 증가시킨다.",
-        "skill_level": 132,
+        "skill_level": 133,
         "skill_effect": "지속시간 5초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBIE.png"
     },
     {
         "skill_name": "기가 슬래셔-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n기가 슬래셔와 드라코 슬래셔의 공격 횟수를 증가시킨다.",
-        "skill_level": 193,
+        "skill_level": 194,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBIF.png"
     },
@@ -45,14 +45,14 @@
     {
         "skill_name": "윙비트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 데미지를 증가시킨다.",
-        "skill_level": 146,
+        "skill_level": 147,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBIJ.png"
     },
     {
         "skill_name": "윙비트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 지속시간을 증가시킨다.",
-        "skill_level": 64,
+        "skill_level": 65,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBJA.png"
     },
