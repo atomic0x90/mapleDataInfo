@@ -3,7 +3,7 @@
     {
         "skill_name": "라이트 리플렉션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n라이트 리플렉션의 데미지를 증가시킨다.",
-        "skill_level": 108,
+        "skill_level": 106,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBID.png"
     },
@@ -17,21 +17,21 @@
     {
         "skill_name": "라이트 리플렉션-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n라이트 리플렉션의 사거리를 증가시킨다.",
-        "skill_level": 122,
+        "skill_level": 123,
         "skill_effect": "사거리 50 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBIF.png"
     },
     {
         "skill_name": "아포칼립스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n아포칼립스의 데미지를 증가시킨다.",
-        "skill_level": 71,
+        "skill_level": 70,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBIG.png"
     },
     {
         "skill_name": "아포칼립스-리차지",
         "skill_description": "[마스터 레벨 : 1]\r\n아포칼립스로 인해 차는 게이지의 량이 증가한다.",
-        "skill_level": 189,
+        "skill_level": 190,
         "skill_effect": "차는 게이지 량 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBIH.png"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "앱솔루트 킬-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n앱솔루트 킬의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 5,
+        "skill_level": 4,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBJA.png"
     },
     {
         "skill_name": "앱솔루트 킬-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n앱솔루트 킬의 사거리를 증가시킨다.",
-        "skill_level": 114,
+        "skill_level": 116,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNFKFOBJB.png"
     }
