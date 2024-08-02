@@ -52,21 +52,21 @@
     {
         "skill_name": "포이즌 노바 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n포이즌 노바를 강화한다.",
-        "skill_level": 5313,
+        "skill_level": 5314,
         "skill_effect": "포이즌 노바의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBND.png"
     },
     {
         "skill_name": "퓨리 오브 이프리트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n퓨리 오브 이프리트를 강화한다.",
-        "skill_level": 4853,
+        "skill_level": 4859,
         "skill_effect": "퓨리 오브 이프리트의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBNE.png"
     },
     {
         "skill_name": "포이즌 체인 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n포이즌 체인을 강화한다.",
-        "skill_level": 4340,
+        "skill_level": 4346,
         "skill_effect": "포이즌 체인의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBNF.png"
     },

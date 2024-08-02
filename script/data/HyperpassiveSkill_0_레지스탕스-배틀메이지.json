@@ -10,14 +10,14 @@
     {
         "skill_name": "다크 제네시스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 데미지를 증가시킨다.",
-        "skill_level": 24,
+        "skill_level": 23,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJI.png"
     },
     {
         "skill_name": "다크 제네시스-에디셔널 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 단일 적을 공격하는 번개의 데미지를 증가시킨다.",
-        "skill_level": 76,
+        "skill_level": 77,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJJ.png"
     },
