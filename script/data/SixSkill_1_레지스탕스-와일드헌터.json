@@ -52,7 +52,7 @@
     {
         "skill_name": "네이쳐스 빌리프",
         "skill_description": "[마스터 레벨 : 30]\r\n재규어와의 완전한 공명으로 영혼의 재규어를 불러내어 그 힘을 빌린다. 일정 시간마다 재규어 스킬을 포함한 와일드헌터의 공격 스킬 사용 시 영혼의 재규어가 전방을 급습하며, 적중한 대상에게 어나더 바이트 디버프를 발생시킨다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1545,
+        "skill_level": 1548,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1950%의 데미지로 7번 공격하는 파동 12회 발동 이후 최대 15명의 적을 2100%의 데미지로 14번 공격하는 포효 23회 발동\n영혼의 공명 : 30초 동안 지속, 재규어 스킬을 포함한 와일드헌터의 공격 스킬 사용 시 최대 12명의 적을 1950%의 데미지로 10번 공격하는 참격이 6회 발동, 재발동 대기시간 2초\n모든 공격은 100% 확률로 어나더 바이트 디버프 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMBKDPEMA.png"
     },
@@ -80,7 +80,7 @@
     {
         "skill_name": "재규어 맥시멈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n재규어 맥시멈을 강화한다.",
-        "skill_level": 209,
+        "skill_level": 210,
         "skill_effect": "재규어 맥시멈의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANH.png"
     },
