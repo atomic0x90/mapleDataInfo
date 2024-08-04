@@ -3,7 +3,7 @@
     {
         "skill_name": "샤이닝 크로스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[소울 라이트 스킬]\n빛의 기운을 받아 전방을 십자로 베어 공격한다. 소울 레이지 지속 중에는 샤이닝 크로스-어썰트 Ⅵ로 강화된다.\n필요 스킬 : 샤이닝 크로스 30레벨 이상",
-        "skill_level": 4735,
+        "skill_level": 4738,
         "skill_effect": "MP 85 소비, 최대 8명의 적을 855%의 데미지로 4번 공격\n공격 시 30%의 확률로 암흑 적용, 암흑은 10초 동안 지속되며 대상의 명중률 30% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKDPBMA.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "로 아이아스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n로 아이아스를 강화한다.",
-        "skill_level": 1659,
+        "skill_level": 1661,
         "skill_effect": "로 아이아스의 지속시간 115초, 최종 데미지 증가량 40%, 방패의 지속시간 40초, 피격 데미지 감소율 90%, 각 단계당 방어 횟수 20/20/25회로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPC.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "소드 오브 소울 라이트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소드 오브 소울 라이트를 강화한다.",
-        "skill_level": 3469,
+        "skill_level": 3472,
         "skill_effect": "소울 라이트 슬래시, 라이트 포스레이의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPE.png"
     },

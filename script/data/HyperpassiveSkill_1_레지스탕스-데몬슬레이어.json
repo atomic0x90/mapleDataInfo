@@ -17,14 +17,14 @@
     {
         "skill_name": "데몬 슬래시-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 슬래시의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 6,
+        "skill_level": 5,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDKFOBIF.png"
     },
     {
         "skill_name": "메타모포시스-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n메타모포시스 발동 시 도트 데미지와 데몬 슬레이어의 모든 공격이 공격 무시 및 공격 반사 상태의 적에게도 피해를 입힌다.",
-        "skill_level": 112,
+        "skill_level": 113,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDKFOBIG.png"
     },

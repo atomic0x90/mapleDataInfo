@@ -10,7 +10,7 @@
     {
         "skill_name": "피어싱 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n적을 꿰뚫을 때마다 데미지가 증폭되는 관통 화살을 발사한다.\n인핸스 애로우가 더욱 강화되어 피어싱 적중 시 두 번째 사용하는 피어싱에 인핸스 애로우가 준비되며 네 번째 피어싱 사용 시 얼티밋 애로우를 발동할 수 있다. \n 피어싱이 적에게 적중 시 피어싱 공격 경로 근처에 화살 조각이 튀어 피어싱이 꿰뚫지 못한 적을 추가 공격할 수 있다.\n추가로 스나이핑 VI를 영구히 강화한다.\n필요 스킬 : 피어싱 II 30레벨 이상, 어드밴스드 인핸스 애로우 20레벨 이상",
-        "skill_level": 1541,
+        "skill_level": 1542,
         "skill_effect": "피어싱 : MP 65 소비, 최대 8명의 적을 관통하며 555%의 데미지로 5번 공격\n 화살이 적을 관통할 때마다 최종 데미지가 15%씩 증가, 증가하는 데미지 간에는 곱 적용\n 처음 관통한 적 근처에 화살 조각이 튀어 최대 3명의 적을 595%의 데미지로 4번 공격\n인핸스 피어싱 : MP 110 소비, 최대 10명의 적을 670%의 데미지로 6번 공격, 소멸 지점에서 화살이 폭발하여 최대 10명의 적을 425%의 데미지로 10번 추가 공격 \n얼티밋 피어싱 : MP 110 소비, 최대 10명의 적을 680%의 데미지로 6번 공격, 소멸 지점에서 화살이 폭발하여 최대 10명의 적을 440%의 데미지로 10번 추가 공격\n[패시브 효과 : 스나이핑 VI 데미지 60%p, 인핸스 스나이핑 VI 데미지 120%p, 인핸스 스나이핑 VI 추가타 데미지 60%p, 얼티밋 스나이핑 VI 데미지 60%p, 얼티밋 스나이핑 VI 추가타 데미지 60%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJDPBMF.png"
     },
@@ -38,28 +38,28 @@
     {
         "skill_name": "트루 스나이핑 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n트루 스나이핑을 강화한다.",
-        "skill_level": 418,
+        "skill_level": 420,
         "skill_effect": "트루 스나이핑의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBOI.png"
     },
     {
         "skill_name": "스플릿 애로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스플릿 애로우를 강화한다.",
-        "skill_level": 2590,
+        "skill_level": 2596,
         "skill_effect": "스플릿 애로우의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBOJ.png"
     },
     {
         "skill_name": "차지드 애로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n차지드 애로우를 강화한다.",
-        "skill_level": 62,
-        "skill_effect": "차지드 애로우의 최종 데미지 28% 증가",
+        "skill_level": 64,
+        "skill_effect": "차지드 애로우의 최종 데미지 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPA.png"
     },
     {
         "skill_name": "리피팅 크로스보우 카트리지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n리피팅 크로스보우 카트리지를 강화한다.",
-        "skill_level": 1051,
+        "skill_level": 1052,
         "skill_effect": "리피팅 크로스보우 카트리지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBPB.png"
     },
