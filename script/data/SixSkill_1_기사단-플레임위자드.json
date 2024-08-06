@@ -3,14 +3,14 @@
     {
         "skill_name": "오비탈 플레임 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n화염 마법에 통달하여 오비탈 플레임의 데미지가 강화된다.\n동시에 4개까지 사용 가능하며 일정 횟수 사용 시 강화된 오비탈 플레임을 사용할 수 있다.\n강력한 마력으로 일정 시간마다 오비탈 플레임이 지나간 곳에 거대한 불꽃이 형성된다. 불 속성의 공격이다.\n필요 스킬 : 오비탈 플레임 IV 30레벨 이상",
-        "skill_level": 1128,
+        "skill_level": 1130,
         "skill_effect": "MP 45 소비, 최대 8명의 적을 440%의 데미지로 2번 공격, 일반 몬스터 공격 시 데미지 50% 증가\n3회 사용 시 다음 공격 강화 오비탈 플레임 VI 발동, 15초마다 최대 6명의 적을 620%의 데미지로 9번 공격하는 불길 4회 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKDPBMA.png"
     },
     {
         "skill_name": "블레이징 익스팅션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n고열의 화염을 구체로 압축시켜 발사한다. 화염 구체는 전방으로 이동하며 사정거리 내의 적들에게 화염 고리를 발사하여 불태운다.\n필요 스킬 : 블레이징 익스팅션 30레벨 이상",
-        "skill_level": 1213,
+        "skill_level": 1218,
         "skill_effect": "MP 44 소비\n10초 동안 구체 주위의 최대 8명의 적을 1090%의 데미지로 4번 공격\n한명의 적에게는 최대 10번까지만 공격 발생\n재사용 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKDPBMH.png"
     },
@@ -38,14 +38,14 @@
     {
         "skill_name": "블레이징 오비탈 플레임 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블레이징 오비탈 플레임을 강화한다.",
-        "skill_level": 1107,
+        "skill_level": 1109,
         "skill_effect": "블레이징 오비탈 플레임의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKE.png"
     },
     {
         "skill_name": "플레임 디스차지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n플레임 디스차지를 강화한다.",
-        "skill_level": 545,
+        "skill_level": 546,
         "skill_effect": "플레임 디스차지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKF.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "샐리맨더 미스칩 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n샐리맨더 미스칩을 강화한다.",
-        "skill_level": 788,
+        "skill_level": 791,
         "skill_effect": "샐리맨더 미스칩의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKH.png"
     },
