@@ -10,21 +10,21 @@
     {
         "skill_name": "싸이킥 그랩 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n강력한 염동력의 힘으로 전방의 몬스터나 사물을 들어 올린다. 보스 몬스터 및 고정형 몬스터나 자신보다 레벨이 11레벨 이상 높은 적은 들어 올릴 수 없다.\n공격에 적중한 적은 일정 시간 방어율이 감소한다. 방어율 감소 효과는 얼티메이트-메테리얼 및 얼티메이트-싸이킥 샷에 의한 효과와 중첩되지 않는다.\n싸이킥 그랩이 유지된 상태에서 추가 조작을 통해 다음 행동이 가능하다.\n필요 스킬 : 싸이킥 그랩2 30레벨 이상\n\n[싸이킥 스매싱 VI] : 몬스터를 들고 있는 상태에서 [싸이킥 그랩 VI] 스킬을 재사용 시 들고 있는 적을 전방에 내리꽂아 주변 적을 타격한다.\n\n[얼티메이트-싸이킥 샷 VI] : 몬스터를 들고 있는 상태에서 ↑+[싸이킥 그랩 VI] 을 입력 시 몬스터를 바라보고 있는 방향으로 강하게 집어 던진다.",
-        "skill_level": 762,
+        "skill_level": 767,
         "skill_effect": "최대 5명의 적을 들어 올려 염동력의 힘으로 지배\n[싸이킥 스매싱] : 들고 있는 적을 포함하여 최대 8명의 적을 872%의 데미지로 5번 공격, 스킬 사용 시 싸이킥 포인트 1칸 충전\n30초 동안 적중한 적의 방어율 15% 감소 효과 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKDOBMB.png"
     },
     {
         "skill_name": "얼티메이트-싸이킥 샷 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n염동력으로 지배하던 몬스터와 사물을 탄환으로 삼아 사선 전방에 강력하게 발사한다.\n탄환을 맞은 적들은 일정 시간 방어율이 감소한다. 방어율 감소 효과는 얼티메이트-메테리얼 및 싸이킥 그랩에 의한 효과와 중첩되지 않는다.\n필요 스킬 : 싸이킥 그랩2 30레벨 이상",
-        "skill_level": 762,
+        "skill_level": 767,
         "skill_effect": "싸이킥 포인트 5칸 소비\n최대 15명의 적을 684%의 데미지로 4번 공격\n한명의 적에게는 최대 5번까지만 공격 발생\n스킬 사용 시 싸이킥 포인트 1칸 충전\n30초 동안 적중한 적의 방어율 15% 감소 효과 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKDOBME.png"
     },
     {
         "skill_name": "어나더 렐름",
         "skill_description": "[마스터 레벨 : 30]\r\n공간을 뒤트는 균열을 통해 이계의 물질을 떨어뜨려 초토화시킨다. 사용 시 얼티메이트-무빙 매터가 정지한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3245,
+        "skill_level": 3246,
         "skill_effect": "싸이킥 포인트 5칸 소비, 시전 동작 중 무적\n최대 15명의 적을 1575%의 데미지로 12번 공격하는 균열이 32회 발생 후, 1586%의 데미지로 13번 공격하는 폭발이 44회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKDPEMA.png"
     },
@@ -45,14 +45,14 @@
     {
         "skill_name": "싸이킥 토네이도 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n싸이킥 토네이도를 강화한다.",
-        "skill_level": 513,
+        "skill_level": 514,
         "skill_effect": "싸이킥 토네이도의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAJG.png"
     },
     {
         "skill_name": "얼티메이트-무빙 매터 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n얼티메이트-무빙 매터를 강화한다.",
-        "skill_level": 2298,
+        "skill_level": 2299,
         "skill_effect": "얼티메이트-무빙 매터의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAJH.png"
     },
@@ -66,7 +66,7 @@
     {
         "skill_name": "로 오브 그라비티 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n로 오브 그라비티를 강화한다.",
-        "skill_level": 1504,
+        "skill_level": 1505,
         "skill_effect": "로 오브 그라비티의 최종 데미지 40% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAJJ.png"
     },
