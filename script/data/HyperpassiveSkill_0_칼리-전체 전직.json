@@ -24,7 +24,7 @@
     {
         "skill_name": "레조네이트-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n레조네이트로 발현된 차크리가 적을 찾는 범위를 증가시킨다. 레조네이트-애드 레인지는 레조네이트 : 얼티메이텀에는 적용되지 않는다.",
-        "skill_level": 5,
+        "skill_level": 6,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKFOBPE.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "아츠-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n아츠 계열 스킬의 공격 횟수를 증가시킨다.",
-        "skill_level": 188,
+        "skill_level": 187,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKFOBPJ.png"
     }
