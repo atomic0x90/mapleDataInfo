@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mapledata.info/sitemap.xml
+Sitemap: https://atomic0x90.github.io/mapleDataInfo/sitemap.xml
