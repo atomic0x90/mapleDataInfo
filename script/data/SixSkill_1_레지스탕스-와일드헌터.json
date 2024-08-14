@@ -73,14 +73,14 @@
     {
         "skill_name": "재규어 스톰 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n재규어 스톰을 강화한다.",
-        "skill_level": 2345,
+        "skill_level": 2347,
         "skill_effect": "재규어 스톰으로 소환된 재규어의 최종 데미지 반영률 120%, 아래 방향키와 함께 사용 시 최종 데미지 반영률 360%로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANG.png"
     },
     {
         "skill_name": "재규어 맥시멈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n재규어 맥시멈을 강화한다.",
-        "skill_level": 219,
+        "skill_level": 220,
         "skill_effect": "재규어 맥시멈의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANH.png"
     },
@@ -94,7 +94,7 @@
     {
         "skill_name": "와일드 발칸 Type X 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n와일드 발칸 Type X을 강화한다.",
-        "skill_level": 741,
+        "skill_level": 742,
         "skill_effect": "와일드 발칸 Type X의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANJ.png"
     },
