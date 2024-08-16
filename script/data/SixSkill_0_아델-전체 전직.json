@@ -59,28 +59,28 @@
     {
         "skill_name": "루인 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n루인을 강화한다.",
-        "skill_level": 3396,
+        "skill_level": 3373,
         "skill_effect": "루인의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKA.png"
     },
     {
         "skill_name": "인피니트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n인피니트를 강화한다.",
-        "skill_level": 5282,
+        "skill_level": 5274,
         "skill_effect": "인피니트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKB.png"
     },
     {
         "skill_name": "리스토어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n리스토어를 강화한다.",
-        "skill_level": 4936,
+        "skill_level": 4931,
         "skill_effect": "리스토어의 최종 데미지 48% 증가, 지속 중 최종 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKC.png"
     },
     {
         "skill_name": "스톰 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스톰을 강화한다.",
-        "skill_level": 3609,
+        "skill_level": 3585,
         "skill_effect": "스톰의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKD.png"
     },
