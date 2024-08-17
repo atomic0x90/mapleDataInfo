@@ -31,7 +31,7 @@
     {
         "skill_name": "테리토리-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n테리토리의 지속시간을 증가시킨다.",
-        "skill_level": 182,
+        "skill_level": 183,
         "skill_effect": "지속시간 4초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPF.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "노빌리티-실드 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n노빌리티 지속 중 실드가 존재한다면 데미지가 증가한다.",
-        "skill_level": 36,
+        "skill_level": 35,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPI.png"
     },
