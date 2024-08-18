@@ -38,7 +38,7 @@
     {
         "skill_name": "헥스 : 샌드스톰",
         "skill_description": "[마스터 레벨 : 30]\r\n[헥스]\n차크람으로 강한 모래 폭풍을 일으켜 전장을 휩쓴다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3762,
+        "skill_level": 3763,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 3초 동안 키다운하여 최대 15명의 적을 770%의 데미지로 15번 공격하는 차크람의 폭풍 생성\n키다운 종료 시 최대 15명의 적을 830%의 데미지로 10번 공격하는 참격이 13회 발생, 이후 모래 폭풍이 강하게 발생하여 최대 15명의 적을 820%의 데미지로 14번 공격하는 폭발 34회 발생\n사용 시 30초 동안 최종 데미지 25% 증가\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKDPEMA.png"
     },
@@ -80,7 +80,7 @@
     {
         "skill_name": "레조네이트 : 얼티메이텀 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n레조네이트 : 얼티메이텀을 강화한다.",
-        "skill_level": 2133,
+        "skill_level": 2134,
         "skill_effect": "레조네이트 : 얼티메이텀의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALB.png"
     },
