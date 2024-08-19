@@ -3,7 +3,7 @@
     {
         "skill_name": "홀리 매직쉘-엑스트라 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n홀리 매직쉘의 가드 횟수를 증가시킨다.",
-        "skill_level": 4,
+        "skill_level": 3,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAIFOBID.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "어드밴스드 블레스-엑스트라 포인트",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 블레스로 오르는 최대 HP 및 최대 MP를 추가로 증가시킨다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAIFOBJB.png"
     }
