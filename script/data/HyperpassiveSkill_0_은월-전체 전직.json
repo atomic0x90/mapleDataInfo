@@ -45,7 +45,7 @@
     {
         "skill_name": "여우령-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 공격력을 증가시킨다.",
-        "skill_level": 27,
+        "skill_level": 26,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAJC.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "여우령-서먼 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 소환 확률을 증가시킨다.",
-        "skill_level": 185,
+        "skill_level": 186,
         "skill_effect": "소환 확률 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAJE.png"
     }

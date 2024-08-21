@@ -3,8 +3,8 @@
     {
         "skill_name": "트리거-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n트리거 스킬의 데미지를 증가시킨다.",
-        "skill_level": 191,
-        "skill_effect": "데미지 20% 증가",
+        "skill_level": 190,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPB.png"
     },
     {
@@ -17,7 +17,7 @@
     {
         "skill_name": "트리거-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n트리거 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 123,
+        "skill_level": 124,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPD.png"
     },
@@ -25,7 +25,7 @@
         "skill_name": "레조넌스-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n레조넌스와 공명해 에테르 결정이 소멸할 때 에테르를 획득할 수 있고 임페일 사용 시 에테르를 소비하지 않게 된다.",
         "skill_level": 142,
-        "skill_effect": null,
+        "skill_effect": "레조넌스로 에테르 결정 소멸 시 에테르 20 획득, 임페일 사용 시 에테르 소비 삭제",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPE.png"
     },
     {
@@ -52,15 +52,15 @@
     {
         "skill_name": "노빌리티-실드 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n노빌리티 지속 중 실드가 존재한다면 데미지가 증가한다.",
-        "skill_level": 37,
-        "skill_effect": "데미지 15% 증가",
+        "skill_level": 36,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPI.png"
     },
     {
         "skill_name": "다이크-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n다이크의 최대 키다운 시간을 증가시킨다.",
-        "skill_level": 108,
-        "skill_effect": null,
+        "skill_level": 109,
+        "skill_effect": "최대 키다운 시간 2초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPJ.png"
     }
 ]
