@@ -45,28 +45,28 @@
     {
         "skill_name": "쉐도우 어썰트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 어썰트를 강화한다.",
-        "skill_level": 1636,
+        "skill_level": 1652,
         "skill_effect": "쉐도우 어썰트의 최종 데미지 60% 증가, 연속 사용 가능 횟수 6회로 증가, 재사용 대기시간 50초로 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIA.png"
     },
     {
         "skill_name": "절개 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n절개를 강화한다.",
-        "skill_level": 4478,
+        "skill_level": 4483,
         "skill_effect": "절개의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIB.png"
     },
     {
         "skill_name": "소닉 블로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소닉 블로우를 강화한다.",
-        "skill_level": 4784,
+        "skill_level": 4791,
         "skill_effect": "소닉 블로우의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBIC.png"
     },
     {
         "skill_name": "멸귀참영진 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n멸귀참영진을 강화한다.",
-        "skill_level": 3962,
+        "skill_level": 3979,
         "skill_effect": "멸귀참영진의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBID.png"
     },
