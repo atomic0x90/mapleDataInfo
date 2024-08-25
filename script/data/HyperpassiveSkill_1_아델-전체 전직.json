@@ -1,9 +1,9 @@
-198
+199
 [
     {
         "skill_name": "트리거-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n트리거 스킬의 데미지를 증가시킨다.",
-        "skill_level": 189,
+        "skill_level": 190,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPB.png"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "트리거-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n트리거 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 126,
+        "skill_level": 127,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPD.png"
     },
@@ -31,14 +31,14 @@
     {
         "skill_name": "테리토리-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n테리토리의 지속시간을 증가시킨다.",
-        "skill_level": 181,
+        "skill_level": 182,
         "skill_effect": "지속시간 4초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPF.png"
     },
     {
         "skill_name": "블로섬-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n블로섬의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 197,
+        "skill_level": 198,
         "skill_effect": "재사용 대기시간 25% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPG.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "다이크-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n다이크의 최대 키다운 시간을 증가시킨다.",
-        "skill_level": 109,
+        "skill_level": 110,
         "skill_effect": "최대 키다운 시간 2초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPJ.png"
     }
