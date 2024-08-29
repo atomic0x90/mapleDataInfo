@@ -10,14 +10,14 @@
     {
         "skill_name": "샤프 아이즈-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈의 효과에 방어율 무시 효과를 추가한다.",
-        "skill_level": 48,
+        "skill_level": 47,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBIE.png"
     },
     {
         "skill_name": "샤프 아이즈-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈 효과 중 크리티컬 확률을 증가시킨다.",
-        "skill_level": 65,
+        "skill_level": 64,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBIF.png"
     },
@@ -31,14 +31,14 @@
     {
         "skill_name": "피어싱-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n피어싱, 피어싱 II, 인핸스 피어싱, 인핸스 피어싱 II의 최대 공격 가능한 몬스터 수를 증가시킨다. 피어싱 적중 시 발생하는 화살 조각에는 적용되지 않는다.",
-        "skill_level": 34,
+        "skill_level": 35,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBIH.png"
     },
     {
         "skill_name": "피어싱-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n피어싱, 피어싱 II, 화살 조각, 인핸스 피어싱, 인핸스 피어싱 II의 공격 횟수를 증가시킨다.",
-        "skill_level": 144,
+        "skill_level": 145,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBJFOBII.png"
     },
