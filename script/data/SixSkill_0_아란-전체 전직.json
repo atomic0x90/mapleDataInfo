@@ -38,28 +38,28 @@
     {
         "skill_name": "부스트 엔드-아드레날린 서지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n부스트 엔드-아드레날린 서지/하이퍼 부스트 엔드-아드레날린 서지를 강화한다.",
-        "skill_level": 4428,
+        "skill_level": 4430,
         "skill_effect": "부스트 엔드-아드레날린 서지/하이퍼 부스트 엔드-아드레날린 서지의 최종 데미지 48% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBEA.png"
     },
     {
         "skill_name": "브랜디쉬 마하 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n브랜디쉬 마하를 강화한다.",
-        "skill_level": 2782,
+        "skill_level": 2792,
         "skill_effect": "브랜디쉬 마하의 최종 데미지 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBEB.png"
     },
     {
         "skill_name": "파이널 비욘더-백호 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n파이널 비욘더-백호를 강화한다.",
-        "skill_level": 5039,
+        "skill_level": 5013,
         "skill_effect": "파이널 비욘더-백호의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBEC.png"
     },
     {
         "skill_name": "블리자드 템페스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블리자드 템페스트를 강화한다.",
-        "skill_level": 4683,
+        "skill_level": 4686,
         "skill_effect": "블리자드 템페스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBED.png"
     },
