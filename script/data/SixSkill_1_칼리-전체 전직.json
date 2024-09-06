@@ -3,14 +3,14 @@
     {
         "skill_name": "아츠 : 플러리 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[아츠]\n순식간에 사라져 전방의 적을 수회 강력하게 벤다.\n필요 스킬 : 아츠 : 플러리 30레벨 이상",
-        "skill_level": 1214,
+        "skill_level": 1217,
         "skill_effect": "MP 52 소비, 최대 8명의 적을 585%의 데미지로 7번 공격\n공격 적중 시 보이드 러쉬/보이드 블리츠의 재사용 대기시간 1초 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKDPBMA.png"
     },
     {
         "skill_name": "아츠 : 크레센텀 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[아츠]\n순간적으로 빠르게 회전하여 주변의 적을 휩쓴다. 보이드 러쉬 이동 중 혹은 이동 후에 연계하여 사용하거나 보이드 블리츠 시전 이후 사용할 수 있다. 직전에 사용한 보이드 러쉬의 방향에 따라 공격 범위가 달라진다.\n필요 스킬 : 아츠 : 크레센텀 20레벨 이상",
-        "skill_level": 1214,
+        "skill_level": 1217,
         "skill_effect": "MP 40 소비, 최대 8명의 적을 975% 데미지로 4번 공격\n사용 시 보이드 러쉬/보이드 블리츠의 재사용 대기시간 5초 감소\n재사용 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKDPBMB.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "헥스 : 샌드스톰",
         "skill_description": "[마스터 레벨 : 30]\r\n[헥스]\n차크람으로 강한 모래 폭풍을 일으켜 전장을 휩쓴다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3785,
+        "skill_level": 3786,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 3초 동안 키다운하여 최대 15명의 적을 770%의 데미지로 15번 공격하는 차크람의 폭풍 생성\n키다운 종료 시 최대 15명의 적을 830%의 데미지로 10번 공격하는 참격이 13회 발생, 이후 모래 폭풍이 강하게 발생하여 최대 15명의 적을 820%의 데미지로 14번 공격하는 폭발 34회 발생\n사용 시 30초 동안 최종 데미지 25% 증가\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKGKDPEMA.png"
     },
@@ -59,14 +59,14 @@
     {
         "skill_name": "헥스 : 판데모니움 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n헥스 : 판데모니움을 강화한다.",
-        "skill_level": 1530,
+        "skill_level": 1529,
         "skill_effect": "헥스 : 판데모니움의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKI.png"
     },
     {
         "skill_name": "보이드 버스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n보이드 버스트를 강화한다.",
-        "skill_level": 1719,
+        "skill_level": 1717,
         "skill_effect": "보이드 버스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKJ.png"
     },

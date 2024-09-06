@@ -1,79 +1,79 @@
-198
+199
 [
     {
         "skill_name": "솔라 슬래시 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[솔라]\n태양의 힘을 실어 전방의 적을 공격한다.\n필요 스킬 : 셀레스티얼 비전 III 30레벨 이상",
-        "skill_level": 5543,
+        "skill_level": 5567,
         "skill_effect": "MP 34 소비, 최대 8명의 적을 820%의 데미지로 6번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKDPDMA.png"
     },
     {
         "skill_name": "솔루나 파워",
         "skill_description": "[마스터 레벨 : 30]\r\n합일된 천체로부터 내재된 힘을 폭발시켜 눈부신 햇살과 \n차가운 달빛의 검기를 연속으로 발동시킨다.\n 솔루나 파워가 재사용 대기시간이 아닐 때 솔라 슬래시,\n 루나 디바이드, 크로스 더 스틱스 적중 시 발동된다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 4960,
+        "skill_level": 4974,
         "skill_effect": "MP 56 소비, 최대 8명의 적을 5400%의 데미지로 5번 공격하는 햇살의\n 검기와 달빛의 검기가 연속으로 발동 \n재사용 대기시간 20초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKDPBMD.png"
     },
     {
         "skill_name": "코스믹 샤워 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[코스믹]\n오브에 잠재된 힘으로 일정 시간 동안 주변을 계속해서 공격하는 유성우 지대를 생성한다. 사용 시 모든 코스믹 오브를 소모하며 소모한 코스믹 오브의 개수에 따라 지속 시간이 증가한다. 솔라 슬래시, 루나 디바이드, 크로스 더 스틱스 사용 중에는 코스믹 샤워를 시전 동작 없이 사용할 수 있다.\n코스믹 샤워는 소환수 지속시간 증가로 지속시간이 증가하지 않고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. \n폴링 문으로 인한 공격 횟수 증가 효과가 적용되지 않는다.\n필요 스킬 : 코스믹 샤워 20레벨 이상",
-        "skill_level": 4960,
+        "skill_level": 4974,
         "skill_effect": "MP 41 소비, 모든 코스믹 오브를 소비하여 유성우 지대 생성\n유성우 지대 : 45초 동안 최대 6명의 적을 575%의 데미지로 3번 공격\n소비한 코스믹 오브 1개당 유성우의 지속 시간 3초 증가\n일반 몬스터 공격 시 데미지 50% 증가\n재사용 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKDPBMC.png"
     },
     {
         "skill_name": "아스트랄 블리츠",
         "skill_description": "[마스터 레벨 : 30]\r\n자신의 영혼을 벼려 만든 검으로 무형의 공간을 베어내 태초의 폭발을 재현한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 5103,
+        "skill_level": 5125,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1400%의 데미지로 5번 공격하는 참격이 48회 발생\n이후 최대 15명의 적을 1382%의 데미지로 7번 공격하는 태초의 폭발이 24회 발생\n사용 시 20초 동안 최종 데미지 6% 증가\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 3760,
+        "skill_level": 3776,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 3760,
+        "skill_level": 3776,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "코스모스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n코스모스를 강화한다.",
-        "skill_level": 4141,
+        "skill_level": 4147,
         "skill_effect": "코스모스의 최종 데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKA.png"
     },
     {
         "skill_name": "엘리시온 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n엘리시온을 강화한다.",
-        "skill_level": 5299,
+        "skill_level": 5311,
         "skill_effect": "엘리시온의 최종 데미지 45% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKB.png"
     },
     {
         "skill_name": "소울 이클립스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소울 이클립스를 강화한다.",
-        "skill_level": 3269,
+        "skill_level": 3271,
         "skill_effect": "소울 이클립스의 최종 데미지 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKC.png"
     },
     {
         "skill_name": "플레어 슬래시 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n플레어 슬래시를 강화한다.",
-        "skill_level": 2483,
+        "skill_level": 2487,
         "skill_effect": "플레어 슬래시의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBKD.png"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 198,
+        "skill_level": 199,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     }

@@ -17,21 +17,21 @@
     {
         "skill_name": "리액션:디스트럭션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:자벨린 또는 크래프트:롱기누스에 닿으면 공명하여 크리스탈 주변의 적들에게 파괴적인 기운을 두 차례 내뿜는다.\n필요 스킬 : 리액션:디스트럭션 Ⅱ 20레벨 이상",
-        "skill_level": 2646,
+        "skill_level": 2647,
         "skill_effect": "MP 205 소비, 최대 10명의 적을 1145%의 데미지로 6번 공격하는 기운이 2번 발동, 보스 몬스터 공격 시 데미지 20% 증가\n재발동 대기시간 4초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPBMH.png"
     },
     {
         "skill_name": "리액션:도미네이션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:오브에 닿으면 공명하여 크리스탈 주변의 적들을 공격하고 공격한 적에게 커스 마크를 새긴다.\n필요 스킬 : 리액션:도미네이션 Ⅱ 20레벨 이상",
-        "skill_level": 2646,
+        "skill_level": 2647,
         "skill_effect": "MP 70 소비, 최대 12명의 적을 915%의 데미지로 5번 공격\n재발동 대기시간 4초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPBMI.png"
     },
     {
         "skill_name": "글로리 윙:모탈 윙비트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n모든 마력을 날개 끝에 집중한 뒤 빠르게 회전하며 주변을 휩쓴다. 응집된 마력은 적에게 저주의 표식을 남긴다.\n추가로 크래프트:자벨린 VI와 글로리 윙:자벨린 VI의 인챈트 자벨린을 영구적으로 강화한다.\n글로리 윙 중 1회 사용 가능\n필요 스킬 : 글로리 윙:모탈 윙비트 30레벨 이상",
-        "skill_level": 2646,
+        "skill_level": 2647,
         "skill_effect": "MP 200 소비, 최대 15명의 적을 2200%의 데미지로 15번 공격하는 마력 폭풍이 5번 발생\n[패시브 효과 : 인챈트 자벨린의 데미지 170%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKDPBMJ.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 1106,
-        "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 79% 증가] ",
+        "skill_level": 1107,
+        "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 81% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 1106,
-        "skill_effect": "최대 HP의 10% 소비\n80초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 650%의 데미지로 6번 공격\n재사용 대기시간 60초",
+        "skill_level": 1107,
+        "skill_effect": "최대 HP의 10% 소비\n80초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 660%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "크리스탈 이그니션 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈 이그니션, 리액션:스펙트럼을 강화한다.",
-        "skill_level": 2088,
+        "skill_level": 2089,
         "skill_effect": "크리스탈 이그니션, 리액션:스펙트럼의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKE.png"
     },
@@ -80,7 +80,7 @@
     {
         "skill_name": "크리스탈 게이트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈 게이트를 강화한다.",
-        "skill_level": 1232,
+        "skill_level": 1235,
         "skill_effect": "크리스탈 게이트의 최종 데미지 60% 증가, 지속시간 190초, 버프의 마력 증가량 95로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAKH.png"
     },
