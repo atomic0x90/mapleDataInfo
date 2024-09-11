@@ -52,14 +52,14 @@
     {
         "skill_name": "에인션트 포스-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n에인션트 포스/인챈트 포스 스킬의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 104,
+        "skill_level": 105,
         "skill_effect": "방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBIFOBPC.png"
     },
     {
         "skill_name": "에인션트 포스-인챈트 인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n인챈트 포스 스킬을 카디널 포스로 강화하여 사용 시 데미지를 증가시킨다.",
-        "skill_level": 105,
+        "skill_level": 104,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBIFOBPD.png"
     }
