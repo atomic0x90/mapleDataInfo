@@ -3,7 +3,7 @@
     {
         "skill_name": "매시브 파이어 : SPLASH-F VI",
         "skill_description": "[마스터 레벨 : 30]\r\n<메탈아머 : 휴먼>에 내장된 대구경 다연장포로 다수의 적들을 분산 타격한다. 탱크 모드에선 해당 스킬키로 탱크에 내장된 무기를 사용 가능하다.\n필요 스킬 : 매시브 파이어 : SPLASH-F 30레벨 이상",
-        "skill_level": 3329,
+        "skill_level": 3339,
         "skill_effect": "MP 90 소비, 최대 8명의 적을 745%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKDPBMA.png"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "그라운드 제로",
         "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스의 기술이 집약된 대규모 미사일 시스템을 가동하여 폭격 지점을 완전히 초토화한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4604,
+        "skill_level": 4605,
         "skill_effect": "MP 1800 소비, 시전 동작 중 무적\n최대 15명의 적을 2040%의 데미지로 8번 공격하는 지진 10회 발동 이후 최대 15명의 적을 1980%의 데미지로 15번 공격하는 폭발 32회 발동\n대규모 폭격 : 30초 동안 지속, 일정 시간마다 최대 15명의 적을 2888%의 데미지로 15번 공격하는 폭격 발동\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKDPEMA.png"
     },
@@ -38,28 +38,28 @@
     {
         "skill_name": "멀티플 옵션 : M-FL 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n멀티플 옵션 : M-FL을 강화한다.",
-        "skill_level": 2284,
+        "skill_level": 2286,
         "skill_effect": "멀티플 옵션 : M-FL의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOA.png"
     },
     {
         "skill_name": "마이크로 미사일 컨테이너 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n마이크로 미사일 컨테이너를 강화한다.",
-        "skill_level": 4980,
+        "skill_level": 4984,
         "skill_effect": "마이크로 미사일 컨테이너의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOB.png"
     },
     {
         "skill_name": "메탈아머 전탄발사 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n메탈아머 전탄발사를 강화한다.",
-        "skill_level": 2771,
+        "skill_level": 2773,
         "skill_effect": "메탈아머 전탄발사의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOC.png"
     },
     {
         "skill_name": "메카 캐리어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n메카 캐리어를 강화한다.",
-        "skill_level": 3596,
+        "skill_level": 3603,
         "skill_effect": "메카 캐리어의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAOD.png"
     },

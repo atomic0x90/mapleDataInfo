@@ -1,37 +1,37 @@
-199
+200
 [
     {
         "skill_name": "다크 제네시스-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 147,
+        "skill_level": 148,
         "skill_effect": "재사용 대기시간 40% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJH.png"
     },
     {
         "skill_name": "다크 제네시스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 데미지를 증가시킨다.",
-        "skill_level": 23,
+        "skill_level": 24,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJI.png"
     },
     {
         "skill_name": "다크 제네시스-에디셔널 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 단일 적을 공격하는 번개의 데미지를 증가시킨다.",
-        "skill_level": 78,
+        "skill_level": 77,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBJJ.png"
     },
     {
         "skill_name": "다크 오라-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 오라에 보스 몬스터 공격 시 데미지를 증가시키는 기능을 추가한다.",
-        "skill_level": 197,
+        "skill_level": 198,
         "skill_effect": "보스 몬스터 공격 시 데미지 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKA.png"
     },
     {
-        "skill_name": "디버프 오라-엘리멘탈 리셋",
+        "skill_name": "디버프 오라-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n디버프 오라에 적이 받는 최종 데미지가 증가하는 기능을 추가한다.",
-        "skill_level": 198,
+        "skill_level": 199,
         "skill_effect": "적이 받는 최종 데미지 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKB.png"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "쉘터-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n쉘터의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 81,
+        "skill_level": 83,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKD.png"
     },

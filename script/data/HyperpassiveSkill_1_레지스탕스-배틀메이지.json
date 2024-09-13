@@ -29,7 +29,7 @@
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMAKFOBKA.png"
     },
     {
-        "skill_name": "디버프 오라-엘리멘탈 리셋",
+        "skill_name": "디버프 오라-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n디버프 오라에 적이 받는 최종 데미지가 증가하는 기능을 추가한다.",
         "skill_level": 196,
         "skill_effect": "적이 받는 최종 데미지 5% 증가",
