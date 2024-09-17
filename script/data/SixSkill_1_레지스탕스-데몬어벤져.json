@@ -10,7 +10,7 @@
     {
         "skill_name": "익시드 : 엑스큐션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n진정한 마족의 힘을 사용하여 전방의 적을 강력하게 벤다.\n익시드 : 점점 공격 속도가 빨라지고 HP 소비가 늘어나며, 최종 단계에 이르면 2번 더 공격한다.\n익시드 : 엑스큐션 VI의 익시드 오버로드는 릴리즈 오버로드를 사용하기 전까지 초기화되지 않는다.\n필요 스킬 : 익시드 : 엑스큐션 30레벨 이상",
-        "skill_level": 2897,
+        "skill_level": 2901,
         "skill_effect": "최대 HP의 4% 소비, 최대 4명의 적을 980%의 데미지로 4번 공격\n공격 시 적의 방어율 35% 추가 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJDPBMC.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "데몬 프렌지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데몬 프렌지를 강화한다.",
-        "skill_level": 2421,
+        "skill_level": 2423,
         "skill_effect": "데몬 프렌지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAMI.png"
     },

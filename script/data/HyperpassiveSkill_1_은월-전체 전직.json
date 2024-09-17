@@ -17,7 +17,7 @@
     {
         "skill_name": "귀참-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 공격 횟수를 증가시킨다.",
-        "skill_level": 193,
+        "skill_level": 194,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAII.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "여우령-리핏 어택 보너스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 공격 반복 횟수를 증가시킨다.",
-        "skill_level": 173,
+        "skill_level": 174,
         "skill_effect": "공격 반복 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKFOAJD.png"
     },
