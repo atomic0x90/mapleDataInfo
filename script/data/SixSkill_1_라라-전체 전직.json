@@ -3,7 +3,7 @@
     {
         "skill_name": "정기 뿌리기 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n땅에 흐르는 정기를 끌어올려 적을 공격한다. 추가로 산 꼬마, 산의 씨앗의 데미지가 증가한다. 정기 뿌리기 VI는 풍수지리의 데미지 증가 효과를 받지 않는다.\n필요 스킬 : 지음 10레벨 이상",
-        "skill_level": 3316,
+        "skill_level": 3317,
         "skill_effect": "MP 35 소비, 최대 7명의 적을 840%의 데미지로 4번 공격\n[패시브 효과 : 산 꼬마, 산의 씨앗의 데미지 660%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKDPBMA.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "큰 기지개 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n큰 기지개를 강화한다.",
-        "skill_level": 1685,
+        "skill_level": 1687,
         "skill_effect": "큰 기지개의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALG.png"
     },
@@ -73,14 +73,14 @@
     {
         "skill_name": "용솟음치는 정기 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n용솟음치는 정기를 강화한다.",
-        "skill_level": 1067,
+        "skill_level": 1070,
         "skill_effect": "용솟음치는 정기의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALI.png"
     },
     {
         "skill_name": "산등성이 굽이굽이 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n산등성이 굽이굽이를 강화한다.",
-        "skill_level": 1424,
+        "skill_level": 1426,
         "skill_effect": "산등성이 굽이굽이의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKALJ.png"
     },
