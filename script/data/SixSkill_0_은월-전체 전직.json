@@ -17,7 +17,7 @@
     {
         "skill_name": "호신강림",
         "skill_description": "[마스터 레벨 : 30]\r\n여우신이 은월과 직접 공명하여 은월의 내면에 잠들어 있던 모든 정령의 힘을 각성시킨다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 5463,
+        "skill_level": 5464,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n여우신과 공명하며 최대 15명의 적을 600%의 데미지로 11번 공격하는 빛이\n28회 발생\n이후 정령의 힘이 각성하며 780%의 데미지로 13번 공격하는 파동이 28회 발생\n마지막으로 840%의 데미지로 14번 공격하는 마무리 일격이 30회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKDPEMA.png"
     },
@@ -38,28 +38,28 @@
     {
         "skill_name": "환혼요호진 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n환혼요호진을 강화한다.",
-        "skill_level": 4948,
+        "skill_level": 4951,
         "skill_effect": "환혼요호진의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFG.png"
     },
     {
         "skill_name": "귀문진 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n귀문진을 강화한다.",
-        "skill_level": 4735,
+        "skill_level": 4739,
         "skill_effect": "귀문진의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFH.png"
     },
     {
         "skill_name": "진 귀참 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n진 귀참을 강화한다.",
-        "skill_level": 5111,
+        "skill_level": 5112,
         "skill_effect": "진 귀참의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFI.png"
     },
     {
         "skill_name": "파쇄 연권 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n파쇄 연권을 강화한다.",
-        "skill_level": 4615,
+        "skill_level": 4617,
         "skill_effect": "파쇄 연권의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFJ.png"
     },

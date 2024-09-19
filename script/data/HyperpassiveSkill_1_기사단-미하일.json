@@ -10,7 +10,7 @@
     {
         "skill_name": "로얄 가드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n로얄 가드의 방어율 무시를 증가시킨다.",
-        "skill_level": 57,
+        "skill_level": 58,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBIE.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "인스톨 실드-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n인스톨 실드의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 27,
+        "skill_level": 26,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBJA.png"
     },
