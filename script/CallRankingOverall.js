@@ -17,27 +17,39 @@ async function rankingOverall(world_type = 0, characterClass = ""){
 	var date = currentDate.toISOString().split('T')[0];
 
 	const headers = { "x-nxopen-api-key": process.env.API_KEY };
+	
+	var combinedRanking = { ranking: [] };
 
-	var queryParams = new URLSearchParams({
-		world_type: world_type,
-		class: characterClass,
-		date: date
-	});
+	var response;
 
-	var requestUrl = `${rankUrlString}?${queryParams}`;
+	// 1 ~ 1000위 
+	for(var i = 1;i <=5;i++)
+	{
+		var queryParams = new URLSearchParams({
+			world_type: world_type,
+			class: characterClass,
+			date: date,
+			page: i
+		});
 
-	console.log(requestUrl);
+		var requestUrl = `${rankUrlString}?${queryParams}`;
 
-	var answer = await fetch(requestUrl, {
-		method: 'GET',
-		headers: headers
-	});
+		console.log(requestUrl);
 
-	//await timeSleep(1000);
+		var answer = await fetch(requestUrl, {
+			method: 'GET',
+			headers: headers
+		});
 
-	const response = await answer.json();
+		//await timeSleep(1000);
 
-	await saveDataToFile("RankingOverall", response.ranking, world_type, characterClass);
+		const response = await answer.json();
+		// 페이지별로 받은 ranking 데이터를 combinedRanking 배열에 추가
+		if(response.ranking && response.ranking.length > 0){
+			combinedRanking.ranking.push(...response.ranking); // 기존 배열에 병합
+		}
+	}
+	await saveDataToFile("RankingOverall", combinedRanking, world_type, characterClass);
 }
 
 async function run(){
