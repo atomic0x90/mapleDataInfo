@@ -1,30 +1,30 @@
-199
+200
 [
     {
         "skill_name": "오비탈 플레임-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 플레임의 이동거리를 증가시킨다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬",
-        "skill_level": 195,
+        "skill_level": 196,
         "skill_effect": "이동거리 100 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKFPBID.png"
     },
     {
         "skill_name": "오비탈 플레임-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 플레임이 방어율 무시 효과를 가지게 된다.",
-        "skill_level": 183,
+        "skill_level": 185,
         "skill_effect": "방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKFOBIE.png"
     },
     {
         "skill_name": "오비탈 플레임-스플릿 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 플레임IV의 데미지가 감소되는 대신, 공격 횟수를 증가시킨다.",
-        "skill_level": 194,
+        "skill_level": 195,
         "skill_effect": "데미지 90%p 감소, 공격 횟수 1회 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKFOBIF.png"
     },
     {
         "skill_name": "블레이징 익스팅션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이징 익스팅션의 데미지를 증가시킨다.",
-        "skill_level": 188,
+        "skill_level": 189,
         "skill_effect": "블레이징 익스팅션의 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKFOBIH.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "블레이징 익스팅션-애드 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이징 익스팅션의 공격 횟수를 증가시킨다.",
-        "skill_level": 187,
+        "skill_level": 188,
         "skill_effect": "공격 횟수 1회 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKFOBIG.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "오비탈 익스플로젼-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 익스플로젼의 데미지를 증가시킨다.",
-        "skill_level": 12,
+        "skill_level": 11,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKFOBIJ.png"
     }

@@ -3,7 +3,7 @@
     {
         "skill_name": "서포트 몽키 트윈스-스플릿 데미지",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 몽키 트윈스의 최종 데미지를 낮추고 공격 횟수를 증가시킨다.",
-        "skill_level": 144,
+        "skill_level": 145,
         "skill_effect": "공격 횟수 1 증가, 최종 데미지 60%로 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIFOBID.png"
     },
@@ -24,14 +24,14 @@
     {
         "skill_name": "캐논 바주카-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 데미지를 증가시킨다.",
-        "skill_level": 61,
+        "skill_level": 62,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIFOBIG.png"
     },
     {
         "skill_name": "캐논 바주카-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 8,
+        "skill_level": 9,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIFOBIH.png"
     },
@@ -45,14 +45,14 @@
     {
         "skill_name": "캐논 버스터-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 버스터의 데미지를 증가시킨다.",
-        "skill_level": 195,
+        "skill_level": 196,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIFOBIJ.png"
     },
     {
         "skill_name": "캐논 버스터-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 버스터의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHIFOBJA.png"
     },
