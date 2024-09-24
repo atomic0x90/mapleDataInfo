@@ -17,6 +17,7 @@ async function characterID(world_type = 0, characterClass = ""){
 		const filePath = path.join(__dirname, 'data', `RankingOverall_${world_type}_${characterClass}.json`);
 		const fileData = await fs.readFile(filePath, 'utf-8');
 		const rankingOverallDataArray = JSON.parse(fileData);
+		console.log("rankingOverallDataArray:"+rankingOverallDataArray);
 
 		for(var i = 0;i < rankingOverallDataArray.length;i++){
 			const queryParams = new URLSearchParams({

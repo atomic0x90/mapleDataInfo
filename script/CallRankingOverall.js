@@ -49,6 +49,9 @@ async function rankingOverall(world_type = 0, characterClass = ""){
 			combinedRanking.ranking.push(...response.ranking); // 기존 배열에 병합
 		}
 	}
+	console.log("combinedRanking");
+	console.log(combinedRanking);
+	console.log(combinedRanking.ranking);
 	await saveDataToFile("RankingOverall", combinedRanking, world_type, characterClass);
 }
 
