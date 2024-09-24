@@ -1,4 +1,4 @@
-name: Call the API (expand-ranking-range)
+name: Call the API (expand-rangking-range)
 on:
   push:
 jobs:
@@ -15,11 +15,11 @@ jobs:
       - name: Install node-fetch-commonjs
         run: npm install node-fetch-commonjs
 
-      - name: Ensure feature-expand-ranking-range branch exists
+      - name: Ensure feature-expand-rangking-range branch exists
         run: |
-          git branch | grep -q "^* feature-expand-ranking-range" || git checkout -b feature-expand-ranking-range
-          git fetch origin feature-expand-ranking-range
-          git reset --hard origin/feature-expand-ranking-range
+          git branch | grep -q "^* feature-expand-rangking-range" || git checkout -b feature-expand-rangking-range
+          git fetch origin feature-expand-rangking-range
+          git reset --hard origin/feature-expand-rangking-range
 
       - name: Run CallRankingOverall JavaScript code
         run: node script/CallRankingOverall.js
@@ -62,4 +62,4 @@ jobs:
           git add ./script/data/LinkSkill*
           git add ./script/data/SixSkill*
           git commit -m "Add auto-generated file - ${current_date}"
-          git push origin feature-expand-ranking-range
+          git push origin feature-expand-rangking-range
