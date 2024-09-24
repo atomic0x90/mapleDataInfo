@@ -49,7 +49,7 @@ async function rankingOverall(world_type = 0, characterClass = ""){
 			combinedRanking.ranking.push(...response.ranking); // 기존 배열에 병합
 		}
 	}
-	await saveDataToFile("RankingOverall", combinedRanking, world_type, characterClass);
+	await saveDataToFile("RankingOverall", combinedRanking.ranking, world_type, characterClass);
 }
 
 async function run(){
