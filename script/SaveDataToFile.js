@@ -10,7 +10,7 @@ async function saveDataToFile(saveName, data, world_type, characterClass){
 
 		// 파일 이름을 생성
 		const fileName = `${saveName}_${world_type}_${characterClass}.json`;
-		console.log("fileName:"+fileName);
+		console.log("saveDataToFile fileName:"+fileName);
 		// 데이터를 JSON 형식의 문자열로 변환
 		const jsonData = JSON.stringify(data, null, 4);
 		// 파일에 데이터를 쓰기 (파일이 존재하면 덮어쓰기)
