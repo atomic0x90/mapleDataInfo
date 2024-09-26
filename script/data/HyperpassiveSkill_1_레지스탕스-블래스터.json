@@ -3,35 +3,35 @@
     {
         "skill_name": "펀치-쇼크 웨이브 보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n차지한 해머 스매시, 쇼크 웨이브 펀치로 발동되는 충격파의 공격 횟수를 증가시킨다.",
-        "skill_level": 799,
+        "skill_level": 800,
         "skill_effect": "공격 횟수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIF.png"
     },
     {
         "skill_name": "펀치-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n매그넘 펀치, 더블 팡, 해머 스매시, 쇼크 웨이브 펀치, 플래시 무브, 허리케인 믹서의 데미지를 증가시킨다. 충격파의 데미지는 증가하지 않는다.",
-        "skill_level": 876,
+        "skill_level": 877,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBID.png"
     },
     {
         "skill_name": "펀치-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n매그넘 펀치, 더블 팡, 해머 스매시, 쇼크 웨이브 펀치, 플래시 무브, 허리케인 믹서의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 816,
+        "skill_level": 817,
         "skill_effect": "몬스터 방어율 무시 20% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIE.png"
     },
     {
         "skill_name": "릴리즈 파일 벙커-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커의 데미지를 증가시킨다.",
-        "skill_level": 580,
+        "skill_level": 581,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIG.png"
     },
     {
         "skill_name": "릴리즈 파일 벙커-쇼크 웨이브 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커로 발생하는 충격파의 데미지를 증가시킨다.",
-        "skill_level": 662,
+        "skill_level": 663,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMFKFOBIH.png"
     },
