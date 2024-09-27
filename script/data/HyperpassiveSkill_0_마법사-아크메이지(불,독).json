@@ -31,14 +31,14 @@
     {
         "skill_name": "플레임 스윕-도트 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n플레임 스윕의 도트 데미지를 증가시킨다. 플레임 스윕 VI의 거대 화염이 남긴 불씨에 의한 폭발에는 적용되지 않는다.",
-        "skill_level": 68,
+        "skill_level": 67,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAKFOBIH.png"
     },
     {
         "skill_name": "플레임 스윕-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n플레임 스윕의 공격 횟수를 증가시킨다. 플레임 스윕 VI의 거대 화염이 남긴 불씨에 의한 폭발에는 적용되지 않는다.",
-        "skill_level": 991,
+        "skill_level": 992,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAKFOBII.png"
     },

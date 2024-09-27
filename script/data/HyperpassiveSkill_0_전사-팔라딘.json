@@ -3,7 +3,7 @@
     {
         "skill_name": "디바인 차지-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 데미지를 증가시킨다.",
-        "skill_level": 439,
+        "skill_level": 437,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJG.png"
     },
@@ -17,14 +17,14 @@
     {
         "skill_name": "디바인 차지-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 공격 횟수를 증가시킨다.",
-        "skill_level": 547,
+        "skill_level": 545,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJI.png"
     },
     {
         "skill_name": "블래스트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블래스트의 데미지를 증가시킨다.",
-        "skill_level": 989,
+        "skill_level": 990,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBIG.png"
     },
@@ -38,14 +38,14 @@
     {
         "skill_name": "블래스트-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블래스트의 공격 횟수를 증가시킨다.",
-        "skill_level": 981,
+        "skill_level": 982,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBII.png"
     },
     {
         "skill_name": "생츄어리-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 데미지를 증가시킨다.",
-        "skill_level": 445,
+        "skill_level": 446,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBIJ.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "생츄어리-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 공격 횟수를 증가시킨다.",
-        "skill_level": 590,
+        "skill_level": 591,
         "skill_effect": "공격 횟수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJA.png"
     }
