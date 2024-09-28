@@ -3,7 +3,7 @@
     {
         "skill_name": "더블 럭키 다이스-원모어찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n더블 럭키 다이스 미발동 시 일정 확률로 재사용 대기시간이 적용되지 않으며 다음에는 반드시 4 이상의 더블 럭키 다이스가 발동된다.",
-        "skill_level": 354,
+        "skill_level": 353,
         "skill_effect": "더블 럭키 다이스 미발동 시 40% 확률로 재사용 대기시간 미적용, 다음 시전 시 4 이상의 더블 럭키 다이스 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBID.png"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "더블 럭키 다이스-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n럭키 다이스에서 4, 5, 6이 나올 확률을 증가시킨다.",
-        "skill_level": 696,
+        "skill_level": 698,
         "skill_effect": "럭키 다이스 4, 5, 6 나올 확률 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBIF.png"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "훅 봄버-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n훅 봄버의 데미지를 증가시킨다.",
-        "skill_level": 286,
+        "skill_level": 284,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBIJ.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "훅 봄버-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n훅 봄버의 공격 횟수를 증가시킨다.",
-        "skill_level": 503,
+        "skill_level": 504,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHKFOBJB.png"
     }
