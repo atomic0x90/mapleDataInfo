@@ -10,21 +10,21 @@
     {
         "skill_name": "샤프 아이즈-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈의 효과에 방어율 무시 효과를 추가한다.",
-        "skill_level": 433,
+        "skill_level": 434,
         "skill_effect": "방어율 무시 효과 5% 추가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBIE.png"
     },
     {
         "skill_name": "샤프 아이즈-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈 효과 중 크리티컬 확률을 증가시킨다.",
-        "skill_level": 446,
+        "skill_level": 448,
         "skill_effect": "크리티컬 확률 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBIF.png"
     },
     {
         "skill_name": "언카운터블 애로우-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n언카운터블 애로우의 데미지를 증가시킨다.",
-        "skill_level": 480,
+        "skill_level": 478,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBIG.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "언카운터블 애로우-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n언카운터블 애로우의 공격 횟수를 증가시킨다.",
-        "skill_level": 568,
+        "skill_level": 567,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBII.png"
     },
