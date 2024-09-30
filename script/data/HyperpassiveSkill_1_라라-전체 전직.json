@@ -3,7 +3,7 @@
     {
         "skill_name": "분출/흡수 - 이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n분출, 흡수 스킬의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 668,
+        "skill_level": 669,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKFOBPB.png"
     },
@@ -24,7 +24,7 @@
     {
         "skill_name": "정기 뿌리기 - 보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n정기 뿌리기의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 398,
+        "skill_level": 397,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJAKFOBPE.png"
     },
