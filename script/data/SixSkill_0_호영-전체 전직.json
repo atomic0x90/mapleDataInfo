@@ -3,126 +3,126 @@
     {
         "skill_name": "멸화염 : 천 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[천 속성 도술] 부채를 크게 휘둘러 부정한 것들을 멸하는 큰 화염을 일으킨다. 공중에서만 사용할 수 있다.\n사용 중 위쪽 방향키와 함께 스킬 키를 한 번 더 누르면 자신이 직접 공중으로 솟아오르는 멸화염 : 실로 연계되며 멸화염 : 실로 연계하지 않을 경우 분신이 공격하는 멸화염 : 허로 연계된다.\n재사용 대기시간 초기화의 효과를 받지 않는다.\n필요 스킬 : 멸화염 : 천 30레벨 이상",
-        "skill_level": 25749,
+        "skill_level": 25772,
         "skill_effect": "MP 120 소비, 최대 8명의 적을 555%의 데미지로 6번 공격, 사용 후 초상비 및 근두운 사용 초기화\n재사용 대기시간 8초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBMA.png"
     },
     {
         "skill_name": "멸화염 : 허/실 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n멸화염 : 천과 스킬 레벨을 공유하는 연계 스킬이다. 멸화염 : 천 사용 후 공중으로 솟아오르며 화염을 일으킨다.\n멸화염 : 허는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 멸화염 : 천 30레벨 이상",
-        "skill_level": 25749,
+        "skill_level": 25772,
         "skill_effect": "멸화염 : 천 사용 후 멸화염 : 허 또는 멸화염 : 실로 연계 가능, 최대 8명의 적을 555%의 데미지로 6번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDOBMB.png"
     },
     {
         "skill_name": "지진쇄 : 지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[지 속성 도술] 지면을 강하게 내리찍어 땅으로 부터 거대한 암석을 밀어 올린다. 지상에서만 사용할 수 있다.\n사용 중 왼쪽 또는 오른쪽 방향키와 함께 스킬 키를 한 번 더 누르면 자신이 직접 순간 이동하는 지진쇄 : 실로 연계되며 지진쇄 : 실로 연계하지 않을 경우 분신이 공격하는 지진쇄 : 허로 연계된다.\n필요 스킬 : 지진쇄 : 지 20레벨 이상",
-        "skill_level": 25749,
+        "skill_level": 25772,
         "skill_effect": "MP 105 소비, 최대 10명의 적을 650%의 데미지로 6번 공격, 일반 몬스터의 경우 5초 동안 기절\n재사용 대기시간 6초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBMF.png"
     },
     {
         "skill_name": "지진쇄 : 허/실 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n지진쇄 : 지와 스킬 레벨을 공유하는 연계 스킬이다. 지진쇄 : 지 사용 후 암석의 끝으로 순간 이동하여 암석을 무너뜨린다.\n지진쇄 : 실의 경우 방향키와 조합하여 왼쪽 또는 오른쪽으로 선택하여 이동할 수 있고 지진쇄 : 허의 경우 자신의 전방으로만 이동한다.\n지진쇄 : 허는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 지진쇄 : 지 20레벨 이상",
-        "skill_level": 25749,
+        "skill_level": 25772,
         "skill_effect": "지진쇄 : 지 사용 후 지진쇄 : 허 또는 지진쇄 : 실로 연계 가능, 암석 끝으로 순간 이동한 후 최대 10명의 적을 650%의 데미지로 6번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDOBMG.png"
     },
     {
         "skill_name": "금고봉 : 인 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[인 속성 도술] 전설의 도사가 사용했다는 신묘한 무기를 소환해 적을 빠르게 난타한다.\n필요 스킬 : 금고봉 : 인 30레벨 이상",
-        "skill_level": 25749,
+        "skill_level": 25772,
         "skill_effect": "MP 125 소비, 최대 10명의 적을 455%의 데미지로 10번 공격한 후 830%의 데미지로 8번 공격하며 마무리 일격\n보스 몬스터 공격 시 데미지 30% 증가\n재사용 대기시간 11초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBNB.png"
     },
     {
         "skill_name": "천지만물",
         "skill_description": "[마스터 레벨 : 30]\r\n만물의 조화를 깨우쳐 더욱 강화된 천/지/인 속성 도술을\n사용할 수 있게 된다.\n천/지/인 속성 연계 일정 횟수 달성 시 다음에 사용하는\n천/지/인 도술이 강화되고 일정 시간 동안 최종 데미지가\n증가한다.\n커스텀 커맨드 사용 시 강화된 파초풍 : 천, 토파류 : 지, 여의선 : 인을 아래 방향키와 함께 스킬 사용 시에만 발동시킬 수 있다.\n커스텀 커맨드 온오프 : 마우스 우클릭",
-        "skill_level": 25749,
+        "skill_level": 25772,
         "skill_effect": "천/지/인 속성 연계 3단계 3번 달성 시 다음에 사용하는 멸화염 : 천 VI, 지진쇄 : 지 VI, 금고봉 : 인 VI, 파초풍 : 천 VI, 토파류 : 지 VI, 여의선 : 인 VI 강화\n강화된 천/지/인 도술 사용 후 40초 동안 최종 데미지 10% 증가\n재사용 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBOJ.png"
     },
     {
         "skill_name": "파초풍 : 천 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[천 속성 도술] 거대한 부채를 소환하여 지상으로 강한 바람을 날린다.\n사용 중 전방 방향키와 함께 스킬 키를 한 번 더 누르면 자신이 직접 앞으로 도약하는 파초풍 : 실로 연계되며 파초풍 : 실로 연계하지 않을 경우 분신이 공격하는 파초풍 :허로 연계된다.\n필요 스킬 : 파초풍 : 천 20레벨 이상",
-        "skill_level": 20667,
+        "skill_level": 20708,
         "skill_effect": "MP 50 소비, 최대 6명의 적을 420% 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPF.png"
     },
     {
         "skill_name": "파초풍 : 천 허/실 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n파초풍 : 천과 스킬 레벨을 공유하는 연계 스킬이다. 파초풍 : 천 사용 후 앞으로 도약하여 적을 지르밟는다. \n파초풍 : 실의 경우 공격 성공 시 적을 밟고 다시 시간마다 공중으로 도약한다.\n\n파초풍 : 허는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 파초풍 : 천 20레벨 이상",
-        "skill_level": 20667,
+        "skill_level": 20708,
         "skill_effect": "파초풍 : 천 사용 후 파초풍 : 허 또는 파초풍 : 실로 연계 가능, 적에게 닿으면 최대 6명의 적을 420% 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPG.png"
     },
     {
         "skill_name": "토파류 : 지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[지 속성 도술] 땅을 차서 지면을 타고 달리는 기운을 날려 보낸다. 지상에서만 사용할 수 있다.\n사용 중 전방 방향키와 함께 스킬 키를 한 번 더 누르면 자신이 직접 기운을 타고 돌진하는 토파류 : 실로 연계되며 토파류 : 실로 연계하지 않을 경우 분신이 공격하는 토파류 :허로 연계된다.\n필요 스킬 : 토파류 : 지 20레벨 이상",
-        "skill_level": 20667,
+        "skill_level": 20708,
         "skill_effect": "MP 44 소비, 최대 6명의 적을 750%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPB.png"
     },
     {
         "skill_name": "토파류 : 지 허/실 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n토파류 : 지와 스킬 레벨을 공유하는 연계 스킬이다. 지면의 기운을 타고 빠르게 돌진한다.\n토파류 : 허는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 토파류 : 지 20레벨 이상",
-        "skill_level": 20667,
+        "skill_level": 20708,
         "skill_effect": "토파류 : 지 사용 후 토파류 : 허 또는 토파류 : 실로 연계 가능, 최대 6명의 적을 750% 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPC.png"
     },
     {
         "skill_name": "여의선 : 인 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[인 속성 도술] 거대하게 변화시킨 부채를 휘두른다.\n필요 스킬 : 여의선 : 인 20레벨 이상",
-        "skill_level": 20667,
+        "skill_level": 20708,
         "skill_effect": "MP 18 소비, 최대 5명의 적을 858%의 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPBPA.png"
     },
     {
         "skill_name": "선기 : 파천황",
         "skill_description": "[마스터 레벨 : 30]\r\n천/지/인의 극의에 도달하여 괴물이 가득한 혼돈의 시대를 종결하고 천지개벽을 이끌어낸다. 공격 중 천/지/인 속성 연계가 자동으로 이루어진다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 18204,
+        "skill_level": 18243,
         "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n키다운을 유지하여 최대 5초 동안 최대 15명의 적을 1013%의 데미지로 8번 공격 후 선기를 통해 1240%의 데미지로 15번 공격\n키다운 종료 혹은 최대 키다운 유지시간 경과 시 최대 15명의 적을 1077%의 데미지로 14번 공격하는 천지개벽 61회 발생\n시전 시 천지만물 버프 적용\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEJGKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 10360,
+        "skill_level": 10396,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 10360,
+        "skill_level": 10396,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "선기 : 극대 분신난무 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n선기 : 극대 분신난무를 강화한다.",
-        "skill_level": 22103,
+        "skill_level": 22127,
         "skill_effect": "선기 : 극대 분신난무 지속 중 분신이 환영 분신부에서 800%p 증가한 데미지로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAEA.png"
     },
     {
         "skill_name": "권술 : 산령소환 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n권술 : 산령소환을 강화한다.",
-        "skill_level": 5872,
+        "skill_level": 5885,
         "skill_effect": "권술 : 산령소환의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAEB.png"
     },
     {
         "skill_name": "선기 : 강림 괴력난신 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n선기 : 강림 괴력난신을 강화한다.",
-        "skill_level": 9650,
+        "skill_level": 9668,
         "skill_effect": "선기 : 강림 괴력난신의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAEC.png"
     },
     {
         "skill_name": "선기 : 천지인 환영 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n선기 : 천지인 환영을 강화한다.",
-        "skill_level": 7505,
+        "skill_level": 7544,
         "skill_effect": "선기 : 천지인 환영의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAED.png"
     },
