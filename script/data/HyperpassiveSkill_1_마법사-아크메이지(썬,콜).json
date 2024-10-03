@@ -1,4 +1,4 @@
-1000
+999
 [
     {
         "skill_name": "텔레포트 마스터리-리인포스",
@@ -31,14 +31,14 @@
     {
         "skill_name": "체인 라이트닝-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n체인 라이트닝의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 932,
+        "skill_level": 933,
         "skill_effect": "최대 공격 가능한 몬스터 수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAJFOBIH.png"
     },
     {
         "skill_name": "체인 라이트닝-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n체인 라이트닝의 공격 횟수를 증가시킨다.",
-        "skill_level": 961,
+        "skill_level": 962,
         "skill_effect": "공격 횟수 1 증가 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAJFOBII.png"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "프로즌 오브-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 오브의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 43,
+        "skill_level": 42,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAJFOBJA.png"
     },
     {
         "skill_name": "프로즌 오브-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 오브의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 29,
+        "skill_level": 28,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAJFOBJB.png"
     }
