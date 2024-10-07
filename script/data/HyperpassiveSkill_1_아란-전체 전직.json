@@ -3,7 +3,7 @@
     {
         "skill_name": "프로즌 그라운드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 그라운드의 데미지를 증가시킨다.",
-        "skill_level": 62,
+        "skill_level": 61,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBJJ.png"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "부스트 엔드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n부스트 엔드와 하이퍼 부스트 엔드 스킬의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 511,
+        "skill_level": 512,
         "skill_effect": "몬스터 방어율 무시 20% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKD.png"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "비욘더-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 파이널 비욘더-백호의 공격 횟수를 증가시킨다.",
-        "skill_level": 851,
+        "skill_level": 852,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKG.png"
     },
     {
         "skill_name": "비욘더-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 파이널 비욘더-백호의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 524,
+        "skill_level": 523,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNDKFOBKH.png"
     }

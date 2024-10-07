@@ -38,14 +38,14 @@
     {
         "skill_name": "다크니스 오멘-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크니스 오멘의 데미지를 증가시킨다.",
-        "skill_level": 538,
+        "skill_level": 539,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBII.png"
     },
     {
         "skill_name": "사이펀 바이탈리티-엑스트라 포인트",
         "skill_description": "[마스터 레벨 : 1]\r\n사이펀 바이탈리티로 생성되는 보호막을 증가시킨다.",
-        "skill_level": 372,
+        "skill_level": 371,
         "skill_effect": "보호막 최대 HP의 3% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBIJ.png"
     },
