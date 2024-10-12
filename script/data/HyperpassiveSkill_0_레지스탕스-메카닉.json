@@ -10,7 +10,7 @@
     {
         "skill_name": "마그네틱 필드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 지속 시간을 증가시킨다.",
-        "skill_level": 530,
+        "skill_level": 529,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBIE.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "서포트 웨이버:H-EX-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 웨이버:H-EX의 지속 시간을 증가시킨다.\n필요 스킬 : 서포트 웨이버 강화 10 레벨",
-        "skill_level": 89,
+        "skill_level": 90,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBII.png"
     },

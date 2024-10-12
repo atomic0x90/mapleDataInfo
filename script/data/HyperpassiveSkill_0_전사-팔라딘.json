@@ -1,9 +1,9 @@
-1000
+998
 [
     {
         "skill_name": "디바인 차지-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 데미지를 증가시킨다.",
-        "skill_level": 434,
+        "skill_level": 436,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJG.png"
     },
@@ -17,14 +17,14 @@
     {
         "skill_name": "디바인 차지-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 공격 횟수를 증가시킨다.",
-        "skill_level": 544,
+        "skill_level": 545,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJI.png"
     },
     {
         "skill_name": "블래스트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블래스트의 데미지를 증가시킨다.",
-        "skill_level": 990,
+        "skill_level": 987,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBIG.png"
     },
@@ -38,28 +38,28 @@
     {
         "skill_name": "블래스트-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블래스트의 공격 횟수를 증가시킨다.",
-        "skill_level": 983,
+        "skill_level": 980,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBII.png"
     },
     {
         "skill_name": "생츄어리-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 데미지를 증가시킨다.",
-        "skill_level": 445,
+        "skill_level": 443,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBIJ.png"
     },
     {
         "skill_name": "생츄어리-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 985,
+        "skill_level": 983,
         "skill_effect": "재사용 대기시간 30% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJB.png"
     },
     {
         "skill_name": "생츄어리-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 공격 횟수를 증가시킨다.",
-        "skill_level": 594,
+        "skill_level": 591,
         "skill_effect": "공격 횟수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPDJFOBJA.png"
     }
