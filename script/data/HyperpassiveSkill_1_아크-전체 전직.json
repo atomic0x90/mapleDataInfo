@@ -24,7 +24,7 @@
     {
         "skill_name": "멈출 수 없는 본능-엑스트라 무브",
         "skill_description": "[마스터 레벨 : 1]\r\n스펙터 잠식 상태에서 사용하는 멈출 수 없는 본능의 연속 사용 횟수를 증가시킨다.",
-        "skill_level": 21,
+        "skill_level": 22,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPJ.png"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "스펙터 잠식-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n레프 상태에서 정신력이 회복되는 속도를 증가시킨다.",
-        "skill_level": 918,
+        "skill_level": 917,
         "skill_effect": "정신력 회복 속도 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPE.png"
     },

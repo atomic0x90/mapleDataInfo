@@ -3,63 +3,63 @@
     {
         "skill_name": "귀참 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령을 강령시켜 전방에 있는 다수의 적을 빠르게 할퀴어 공격한다.\n필요 스킬 : 귀참 30레벨 이상",
-        "skill_level": 13622,
+        "skill_level": 13626,
         "skill_effect": "MP 86 소비, 최대 4명의 적을 475%의 데미지로 12번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKDPBMA.png"
     },
     {
         "skill_name": "여우령 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n은월이 직접 공격하는 스킬 적중 시 일정 확률로 여우령이 소환된다. 여우령은 주변에 있는 적을 추적하여 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않고 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는\n온오프 스킬\n필요 스킬 : 교감 심화 20레벨 이상",
-        "skill_level": 10694,
+        "skill_level": 10702,
         "skill_effect": "MP 20 소비, 직접 공격하는 스킬 적중 시 45%의 확률로 여우령 소환\n보스 몬스터에게 폭류권 적중 시에는 10%의 확률로 소환\n여우령은 352%의 데미지로 2번 공격\n최대 3번 공격 후 소멸\n[패시브 효과 : 귀참 VI 데미지 40%p, 호주개시 데미지 93%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKDPBMB.png"
     },
     {
         "skill_name": "호신강림",
         "skill_description": "[마스터 레벨 : 30]\r\n여우신이 은월과 직접 공명하여 은월의 내면에 잠들어 있던 모든 정령의 힘을 각성시킨다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 8334,
+        "skill_level": 8337,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n여우신과 공명하며 최대 15명의 적을 600%의 데미지로 11번 공격하는 빛이\n28회 발생\n이후 정령의 힘이 각성하며 780%의 데미지로 13번 공격하는 파동이 28회 발생\n마지막으로 840%의 데미지로 14번 공격하는 마무리 일격이 30회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFNHKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 3772,
+        "skill_level": 3773,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 3772,
+        "skill_level": 3773,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "환혼요호진 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n환혼요호진을 강화한다.",
-        "skill_level": 5971,
+        "skill_level": 5972,
         "skill_effect": "환혼요호진의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFG.png"
     },
     {
         "skill_name": "귀문진 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n귀문진을 강화한다.",
-        "skill_level": 2935,
+        "skill_level": 2937,
         "skill_effect": "귀문진의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFH.png"
     },
     {
         "skill_name": "진 귀참 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n진 귀참을 강화한다.",
-        "skill_level": 3917,
+        "skill_level": 3920,
         "skill_effect": "진 귀참의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFI.png"
     },
     {
         "skill_name": "파쇄 연권 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n파쇄 연권을 강화한다.",
-        "skill_level": 2840,
+        "skill_level": 2851,
         "skill_effect": "파쇄 연권의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKBFJ.png"
     },
