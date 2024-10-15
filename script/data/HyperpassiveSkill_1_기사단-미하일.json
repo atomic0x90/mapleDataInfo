@@ -3,14 +3,14 @@
     {
         "skill_name": "로얄 가드-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 소울 실드의 로얄 가드 성공 시 효과를 강화하여 로얄 가드 성공 시 최대 HP의 일정 비율로 피해를 입히는 공격의 피해 감소 비율이 증가한다.\n필요 스킬 : 어드밴스드 소울 실드 10레벨 이상",
-        "skill_level": 736,
+        "skill_level": 735,
         "skill_effect": "최대 HP의 일정 비율로 피해를 입히는 공격의 피해 5% 추가 감소, 어드밴스드 소울 실드의 효과에 합 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBID.png"
     },
     {
         "skill_name": "로얄 가드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n로얄 가드의 방어율 무시를 증가시킨다.",
-        "skill_level": 213,
+        "skill_level": 214,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFKDKFOBIE.png"
     },
