@@ -45,7 +45,7 @@
     {
         "skill_name": "어트리뷰트-힐링 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n어트리뷰트의 회복량을 증가시킨다.",
-        "skill_level": 22,
+        "skill_level": 23,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPH.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "다이크-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n다이크의 최대 키다운 시간을 증가시킨다.",
-        "skill_level": 533,
+        "skill_level": 532,
         "skill_effect": "최대 키다운 시간 2초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKDKFOBPJ.png"
     }
