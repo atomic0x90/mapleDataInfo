@@ -1,16 +1,16 @@
-1000
+999
 [
     {
         "skill_name": "블레이드 댄싱-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱의 공격력을 증가시킨다.",
-        "skill_level": 69,
+        "skill_level": 68,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIE.png"
     },
     {
         "skill_name": "블레이드 댄싱-패스트 무브먼트",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱 스킬 사용 시 이동속도를 증가시킨다.",
-        "skill_level": 31,
+        "skill_level": 30,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBID.png"
     },
@@ -24,21 +24,21 @@
     {
         "skill_name": "퍼지롭 매스커레이드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드의 데미지를 증가시킨다.",
-        "skill_level": 938,
+        "skill_level": 937,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIG.png"
     },
     {
         "skill_name": "퍼지롭 매스커레이드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드의 방어무시 비율을 증가시킨다.",
-        "skill_level": 839,
+        "skill_level": 841,
         "skill_effect": "방어무시 비율 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIH.png"
     },
     {
         "skill_name": "퍼지롭 매스커레이드-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드 : 포격의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 207,
+        "skill_level": 205,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBII.png"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "홀로그램 그래피티-스피드",
         "skill_description": "[마스터 레벨 : 1]\r\n홀로그램 필드 안에서 움직이는 응축 에너지볼의 이동속도를 증가시킨다.",
-        "skill_level": 874,
+        "skill_level": 873,
         "skill_effect": "홀로그램 필드 안에서 움직이는 응축 에너지볼의 이동속도 증가.",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIJ.png"
     },
     {
         "skill_name": "홀로그램 그래피티-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n홀로그램 필드의 유지 시간을 증가시킨다.",
-        "skill_level": 838,
+        "skill_level": 837,
         "skill_effect": "홀로그램 필드의 유지 시간 10초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBJB.png"
     }

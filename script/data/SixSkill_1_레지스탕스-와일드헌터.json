@@ -94,14 +94,14 @@
     {
         "skill_name": "와일드 발칸 Type X 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n와일드 발칸 Type X을 강화한다.",
-        "skill_level": 830,
+        "skill_level": 831,
         "skill_effect": "와일드 발칸 Type X의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANJ.png"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 196,
+        "skill_level": 197,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     }
