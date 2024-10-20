@@ -1,4 +1,4 @@
-1000
+999
 [
     {
         "skill_name": "텔레포트 마스터리-리인포스",
@@ -45,21 +45,21 @@
     {
         "skill_name": "프로즌 오브-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 오브의 데미지를 증가시킨다.",
-        "skill_level": 936,
+        "skill_level": 934,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAJFOBIJ.png"
     },
     {
         "skill_name": "프로즌 오브-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 오브의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 39,
+        "skill_level": 40,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAJFOBJA.png"
     },
     {
         "skill_name": "프로즌 오브-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 오브의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 26,
+        "skill_level": 27,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAJFOBJB.png"
     }
