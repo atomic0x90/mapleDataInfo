@@ -1,4 +1,4 @@
-1000
+999
 [
     {
         "skill_name": "기가 슬래셔-리인포스",
@@ -24,14 +24,14 @@
     {
         "skill_name": "인퍼널 브레스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스의 데미지를 증가시킨다.",
-        "skill_level": 318,
+        "skill_level": 317,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBIG.png"
     },
     {
         "skill_name": "인퍼널 브레스-타일 퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스로 깔리는 화염의 지속시간을 증가시킨다.",
-        "skill_level": 158,
+        "skill_level": 159,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKFOBIH.png"
     },
