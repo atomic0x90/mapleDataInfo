@@ -17,7 +17,7 @@
     {
         "skill_name": "퀸터플 스로우-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n퀸터플 스로우의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 30,
+        "skill_level": 29,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBIF.png"
     },
@@ -31,28 +31,28 @@
     {
         "skill_name": "다크니스 오멘-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n다크니스 오멘의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 69,
+        "skill_level": 68,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBIH.png"
     },
     {
         "skill_name": "다크니스 오멘-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크니스 오멘의 데미지를 증가시킨다.",
-        "skill_level": 420,
+        "skill_level": 423,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBII.png"
     },
     {
         "skill_name": "사이펀 바이탈리티-엑스트라 포인트",
         "skill_description": "[마스터 레벨 : 1]\r\n사이펀 바이탈리티로 생성되는 보호막을 증가시킨다.",
-        "skill_level": 500,
+        "skill_level": 498,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBIJ.png"
     },
     {
         "skill_name": "사이펀 바이탈리티-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n사이펀 바이탈리티로 생성된 보호막이 존재할 때 공격력을 증가시킨다.",
-        "skill_level": 941,
+        "skill_level": 942,
         "skill_effect": "공격력 60 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOGKFOBJA.png"
     },
