@@ -24,35 +24,35 @@
     {
         "skill_name": "카디널 포스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n카디널 포스 스킬의 데미지를 증가시킨다",
-        "skill_level": 995,
+        "skill_level": 996,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBIFOBOI.png"
     },
     {
         "skill_name": "카디널 포스-에디셔널 인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n에디셔널 디스차지, 에디셔널 블래스트의 발동 확률과 에디셔널 트랜지션의 저주 디버프 중첩 확률을 증가시킨다.",
-        "skill_level": 952,
+        "skill_level": 955,
         "skill_effect": "발동 및 중첩 확률 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBIFOBOJ.png"
     },
     {
         "skill_name": "카디널 포스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n카디널 포스 스킬의 공격 횟수가 증가한다.",
-        "skill_level": 984,
+        "skill_level": 985,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBIFOBPA.png"
     },
     {
         "skill_name": "에인션트 포스-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n에인션트 포스/인챈트 포스 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 989,
+        "skill_level": 990,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBIFOBPB.png"
     },
     {
         "skill_name": "에인션트 포스-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n에인션트 포스/인챈트 포스 스킬의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 501,
+        "skill_level": 500,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBIFOBPC.png"
     },

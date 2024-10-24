@@ -1,16 +1,16 @@
-998
+999
 [
     {
         "skill_name": "블레이드 댄싱-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱의 공격력을 증가시킨다.",
-        "skill_level": 214,
+        "skill_level": 216,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIE.png"
     },
     {
         "skill_name": "블레이드 댄싱-패스트 무브먼트",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱 스킬 사용 시 이동속도를 증가시킨다.",
-        "skill_level": 52,
+        "skill_level": 53,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBID.png"
     },
@@ -24,21 +24,21 @@
     {
         "skill_name": "퍼지롭 매스커레이드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드의 데미지를 증가시킨다.",
-        "skill_level": 986,
+        "skill_level": 987,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIG.png"
     },
     {
         "skill_name": "퍼지롭 매스커레이드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드의 방어무시 비율을 증가시킨다.",
-        "skill_level": 817,
+        "skill_level": 818,
         "skill_effect": "방어무시 비율 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBIH.png"
     },
     {
         "skill_name": "퍼지롭 매스커레이드-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드 : 포격의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 130,
+        "skill_level": 129,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBII.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "홀로그램 그래피티-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n홀로그램 필드의 유지 시간을 증가시킨다.",
-        "skill_level": 917,
+        "skill_level": 918,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMEKFOBJB.png"
     }
