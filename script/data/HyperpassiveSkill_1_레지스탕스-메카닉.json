@@ -3,21 +3,21 @@
     {
         "skill_name": "마그네틱 필드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 데미지를 증가시킨다.",
-        "skill_level": 890,
+        "skill_level": 889,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBID.png"
     },
     {
         "skill_name": "마그네틱 필드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 지속 시간을 증가시킨다.",
-        "skill_level": 527,
+        "skill_level": 528,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBIE.png"
     },
     {
         "skill_name": "마그네틱 필드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 방어율 무시를 증가시킨다.",
-        "skill_level": 271,
+        "skill_level": 270,
         "skill_effect": "몬스터 방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBIF.png"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "서포트 웨이버:H-EX-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 웨이버:H-EX의 지속 시간을 증가시킨다.\n필요 스킬 : 서포트 웨이버 강화 10 레벨",
-        "skill_level": 99,
+        "skill_level": 100,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBII.png"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "매시브 파이어 : SPLASH-F-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n매시브 파이어 : SPLASH-F의 최대 공격 가능한 몬스터 수를 증가시킨다. 매시브 파이어 : IRON-B, 매시브 파이어 : IRON-B VI의 2차 폭발에는 적용되지 않는다.",
-        "skill_level": 128,
+        "skill_level": 129,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBJA.png"
     },
     {
         "skill_name": "매시브 파이어 : IRON-B-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n매시브 파이어 : IRON-B의 공격 횟수를 증가시킨다. 매시브 파이어 : IRON-B, 매시브 파이어 : IRON-B VI의 2차 폭발에는 적용되지 않는다.",
-        "skill_level": 910,
+        "skill_level": 909,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMHKFOBJB.png"
     }
