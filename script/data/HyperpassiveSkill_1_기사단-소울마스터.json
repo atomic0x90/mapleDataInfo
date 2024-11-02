@@ -3,28 +3,28 @@
     {
         "skill_name": "트루 사이트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n트루 사이트의 지속 시간을 증가시킨다.",
-        "skill_level": 894,
+        "skill_level": 896,
         "skill_effect": "지속 시간 20초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBID.png"
     },
     {
         "skill_name": "트루 사이트-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n트루 사이트를 강화한다. 트루 사이트가 적용된 적에게 자신의 최종 데미지가 증가한다.",
-        "skill_level": 977,
+        "skill_level": 979,
         "skill_effect": "최종 데미지 10% 증가\n트루 사이트에 의해 증가되는 최종 데미지와 합적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIE.png"
     },
     {
         "skill_name": "트루 사이트-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n트루 사이트의 방어율 감소량을 증가시킨다.",
-        "skill_level": 964,
+        "skill_level": 966,
         "skill_effect": "방어율 10% 추가 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIF.png"
     },
     {
         "skill_name": "코스믹 샤워/버스트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n코스믹 샤워와 코스믹 버스트의 데미지를 증가시킨다.",
-        "skill_level": 891,
+        "skill_level": 893,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIG.png"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "디바이드 앤 슬래시-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n솔라 슬래시와 루나 디바이드의 데미지를 증가시킨다.",
-        "skill_level": 987,
+        "skill_level": 989,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFODKFOBIJ.png"
     },
