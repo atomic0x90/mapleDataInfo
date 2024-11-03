@@ -1,23 +1,23 @@
-999
+1000
 [
     {
         "skill_name": "자벨린-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n크래프트:자벨린/글로리 윙:자벨린의 데미지를 증가시킨다.\n필요 스킬 : 크래프트:자벨린Ⅱ 30레벨 이상",
-        "skill_level": 925,
+        "skill_level": 926,
         "skill_effect": "크래프트:자벨린의 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKFOBPB.png"
     },
     {
         "skill_name": "자벨린-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n크래프트:자벨린/글로리 윙:자벨린의 공격 횟수를 증가시킨다. 파편 및 매직 미사일의 공격 횟수는 증가되지 않는다.\n필요 스킬 : 크래프트:자벨린Ⅱ 30레벨 이상",
-        "skill_level": 923,
+        "skill_level": 924,
         "skill_effect": "크래프트:자벨린의 공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKFOBPC.png"
     },
     {
         "skill_name": "자벨린-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n크래프트:자벨린/글로리 윙:자벨린의 보스 몬스터 공격 시 데미지를 증가시킨다.\n필요 스킬 : 크래프트:자벨린Ⅱ 30레벨 이상",
-        "skill_level": 917,
+        "skill_level": 918,
         "skill_effect": "크래프트:자벨린의 보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKFOBPD.png"
     },
@@ -45,14 +45,14 @@
     {
         "skill_name": "데우스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n크리스탈 스킬:데우스의 데미지를 증가시킨다.",
-        "skill_level": 733,
+        "skill_level": 734,
         "skill_effect": "크리스탈 스킬:데우스와 위성의 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKFOBPH.png"
     },
     {
         "skill_name": "데우스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n크리스탈 스킬:데우스의 공격 횟수를 증가시킨다.",
-        "skill_level": 788,
+        "skill_level": 789,
         "skill_effect": "크리스탈 스킬:데우스와 위성의 공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKFOBPI.png"
     },
