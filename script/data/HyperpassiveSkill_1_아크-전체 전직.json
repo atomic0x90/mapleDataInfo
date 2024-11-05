@@ -3,7 +3,7 @@
     {
         "skill_name": "배틀 아츠-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n스펠 불릿, 다가오는 죽음, 돌아오는 증오를 제외한 1~4차 아크 공격 스킬 및 6차 마스터리 코어 스킬의 데미지를 증가시킨다.",
-        "skill_level": 959,
+        "skill_level": 955,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPB.png"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "배틀 아츠-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n스펠 불릿, 다가오는 죽음, 돌아오는 증오를 제외한 1~4차 아크 공격 스킬 및 6차 마스터리 코어 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 912,
+        "skill_level": 908,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPD.png"
     },
@@ -38,21 +38,21 @@
     {
         "skill_name": "기어 다니는 공포-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n기어 다니는 공포의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 822,
+        "skill_level": 818,
         "skill_effect": "재사용 대기시간 20% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPI.png"
     },
     {
         "skill_name": "스펙터 잠식-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n레프 상태에서 정신력이 회복되는 속도를 증가시킨다.",
-        "skill_level": 917,
+        "skill_level": 913,
         "skill_effect": "정신력 회복 속도 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPE.png"
     },
     {
         "skill_name": "스펙터 잠식-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n스펙터 잠식 상태일 때 어떠한 공격에도 밀리지 않게 된다.",
-        "skill_level": 943,
+        "skill_level": 939,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKHKFOBPF.png"
     },
