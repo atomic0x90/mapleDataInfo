@@ -3,21 +3,21 @@
     {
         "skill_name": "익시드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 익시드 스킬의 데미지를 증가 시킨다.",
-        "skill_level": 977,
+        "skill_level": 975,
         "skill_effect": "영구적으로 익시드 스킬의 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBID.png"
     },
     {
         "skill_name": "익시드-리듀스 오버로드",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 익시드 스킬을 사용했을 때의 오버로드 최대 수치를 감소 시킨다.",
-        "skill_level": 779,
+        "skill_level": 778,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBIE.png"
     },
     {
         "skill_name": "익시드-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 익시드 스킬의 추가 공격의 발동 확률을 증가 시킨다.\r\n필요 스킬 : 인핸스드 익시드 15레벨 이상",
-        "skill_level": 636,
+        "skill_level": 635,
         "skill_effect": "영구적으로 익시드 스킬의 추가 공격 발동 확률  10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBIF.png"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "실드 체이싱-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 실드 체이싱 스킬의 데미지를 증가시킨다.",
-        "skill_level": 976,
+        "skill_level": 974,
         "skill_effect": "영구적으로 실드 체이싱의 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBIJ.png"
     },
     {
         "skill_name": "실드 체이싱-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 실드 체이싱의 방패 1개 당 최대 공격 횟수를 증가 시킨다.",
-        "skill_level": 974,
+        "skill_level": 972,
         "skill_effect": "영구적으로 실드 체이싱의 방패 1개 당 최대 공격 횟수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBJA.png"
     },
     {
         "skill_name": "실드 체이싱-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 실드 체이싱의 사거리를 증가 시킨다.",
-        "skill_level": 487,
+        "skill_level": 484,
         "skill_effect": "영구적으로 실드 체이싱의 사거리 50 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFMDJFOBJB.png"
     }
