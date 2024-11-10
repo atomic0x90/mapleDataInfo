@@ -80,7 +80,7 @@
     {
         "skill_name": "재규어 맥시멈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n재규어 맥시멈을 강화한다.",
-        "skill_level": 273,
+        "skill_level": 274,
         "skill_effect": "재규어 맥시멈의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKANH.png"
     },
@@ -101,7 +101,7 @@
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 201,
+        "skill_level": 202,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     }
