@@ -31,14 +31,14 @@
     {
         "skill_name": "처형-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 처형 스킬의 데미지를 증가시킨다.",
-        "skill_level": 840,
+        "skill_level": 839,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPF.png"
     },
     {
         "skill_name": "처형-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n죽음의 축복 최종 데미지 증가 효과에 특별한 능력을 추가한다.",
-        "skill_level": 885,
+        "skill_level": 884,
         "skill_effect": "죽음의 축복 최종 데미지 증가 효과 중 처형 스킬 사용 시 어떠한 공격에도 밀리지 않게 된다.",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPG.png"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "드래곤 팡-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 팡의 활동 범위를 증가시킨다.",
-        "skill_level": 134,
+        "skill_level": 136,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJBKFOBPI.png"
     },
