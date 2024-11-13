@@ -24,42 +24,42 @@
     {
         "skill_name": "싸이킥 그라운드-리듀스 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그라운드의 방어율 감소를 증가시킨다. 싸이킥 그라운드/싸이킥 그라운드2의 효과와 합하여 적용된다.",
-        "skill_level": 666,
+        "skill_level": 665,
         "skill_effect": "방어율 감소 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKFOBPG.png"
     },
     {
         "skill_name": "싸이킥 그라운드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그라운드의 공격력을 증가시킨다.\n필요 스킬 : 싸이킥 그라운드2 1레벨 이상",
-        "skill_level": 39,
+        "skill_level": 40,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKFOBPH.png"
     },
     {
         "skill_name": "싸이킥 그라운드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그라운드의 유지시간을 증가시킨다.",
-        "skill_level": 297,
+        "skill_level": 298,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKFOBPI.png"
     },
     {
         "skill_name": "텔레키네시스-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 발동 확률을 증가시킨다.",
-        "skill_level": 807,
+        "skill_level": 806,
         "skill_effect": "발동 확률 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKFOBPJ.png"
     },
     {
         "skill_name": "텔레키네시스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 데미지를 증가시킨다.",
-        "skill_level": 139,
+        "skill_level": 140,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKFOBIA.png"
     },
     {
         "skill_name": "텔레키네시스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 공격 횟수를 증가시킨다.",
-        "skill_level": 756,
+        "skill_level": 755,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KELAKFOBIB.png"
     }
