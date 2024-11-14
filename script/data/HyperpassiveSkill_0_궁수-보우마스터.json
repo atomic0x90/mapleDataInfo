@@ -10,56 +10,56 @@
     {
         "skill_name": "샤프 아이즈-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈의 효과에 방어율 무시 효과를 추가한다.",
-        "skill_level": 473,
+        "skill_level": 472,
         "skill_effect": "방어율 무시 효과 5% 추가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBIE.png"
     },
     {
         "skill_name": "샤프 아이즈-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈 효과 중 크리티컬 확률을 증가시킨다.",
-        "skill_level": 565,
+        "skill_level": 564,
         "skill_effect": "크리티컬 확률 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBIF.png"
     },
     {
         "skill_name": "언카운터블 애로우-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n언카운터블 애로우의 데미지를 증가시킨다.",
-        "skill_level": 440,
+        "skill_level": 439,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBIG.png"
     },
     {
         "skill_name": "언카운터블 애로우-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n언카운터블 애로우의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 37,
+        "skill_level": 36,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBIH.png"
     },
     {
         "skill_name": "언카운터블 애로우-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n언카운터블 애로우의 공격 횟수를 증가시킨다.",
-        "skill_level": 526,
+        "skill_level": 525,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBII.png"
     },
     {
         "skill_name": "폭풍의 시-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n폭풍의 시, 애로우 플래터, 설치 애로우 플래터의 데미지를 증가시킨다.",
-        "skill_level": 992,
+        "skill_level": 990,
         "skill_effect": "데미지 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBIJ.png"
     },
     {
         "skill_name": "폭풍의 시-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n폭풍의 시의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 982,
+        "skill_level": 981,
         "skill_effect": "보스 몬스터 공격 시 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBJA.png"
     },
     {
         "skill_name": "폭풍의 시-스플릿 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n폭풍의 시의 데미지가 감소하는 대신 공격횟수를 증가시킨다.",
-        "skill_level": 968,
+        "skill_level": 966,
         "skill_effect": "공격 횟수 1 증가, 데미지 원래의 75%로 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPBKFOBJB.png"
     }
