@@ -52,14 +52,14 @@
     {
         "skill_name": "데우스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n크리스탈 스킬:데우스의 공격 횟수를 증가시킨다.",
-        "skill_level": 789,
+        "skill_level": 790,
         "skill_effect": "크리스탈 스킬:데우스와 위성의 공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKFOBPI.png"
     },
     {
         "skill_name": "데우스-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n크리스탈 스킬:데우스의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 106,
+        "skill_level": 105,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KEKAKFOBPJ.png"
     }
