@@ -31,14 +31,14 @@
     {
         "skill_name": "블레이징 익스팅션-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이징 익스팅션의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 86,
+        "skill_level": 85,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKFOBII.png"
     },
     {
         "skill_name": "블레이징 익스팅션-애드 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이징 익스팅션의 공격 횟수를 증가시킨다.",
-        "skill_level": 942,
+        "skill_level": 944,
         "skill_effect": "공격 횟수 1회 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKFOBIG.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "오비탈 익스플로젼-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 익스플로젼의 데미지를 증가시킨다.",
-        "skill_level": 72,
+        "skill_level": 71,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOAKFOBIJ.png"
     }
