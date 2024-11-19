@@ -24,14 +24,14 @@
     {
         "skill_name": "래피드 파이어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 데미지를 증가시킨다.",
-        "skill_level": 714,
+        "skill_level": 715,
         "skill_effect": "데미지 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHJFOBIJ.png"
     },
     {
         "skill_name": "래피드 파이어-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 사거리를 증가시킨다.",
-        "skill_level": 734,
+        "skill_level": 733,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPHJFOBJA.png"
     },
