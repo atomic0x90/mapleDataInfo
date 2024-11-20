@@ -3,77 +3,77 @@
     {
         "skill_name": "기가 슬래셔 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n빠르게 검을 휘둘러 검기를 방출하여 적을 공격한다. 보스를 포함한 모든 적은 기가 슬래셔에 적중 시 슬로우 상태가 된다.\n커맨드 스킬 : 공격 도중 + 기가 슬래셔\n필요 스킬 : 기가 슬래셔 30레벨 이상",
-        "skill_level": 20459,
+        "skill_level": 20581,
         "skill_effect": "MP 70 소비, 최대 3명의 적을 580%의 데미지로 9번 공격\n파이널 피규레이션 : MP 80 소비, 최대 4명의 적을 580%의 데미지로 11번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKDPBMA.png"
     },
     {
         "skill_name": "소드 스트라이크 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n여러 개의 검을 소환하여 내려꽂으며 폭발시켜 적들을 공격한다.\n커맨드 스킬 : 공격 도중 + ↓커맨드 \n필요 스킬 : 소드 스트라이크 20레벨 이상",
-        "skill_level": 13866,
+        "skill_level": 13912,
         "skill_effect": "MP 67 소비, 최대 12명의 적을 830%의 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKDPBMC.png"
     },
     {
         "skill_name": "윌 오브 소드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 시간마다 사용하고 있는 검을 5개 소환한다. 윌 오브 소드 : 차지로 소환한 검을 움직여 주변의 몬스터를 추적하여 타격한다. 검은 최대 HP가 가장 높은 적을 우선하여 추적한다.\n고대의 용의 분노로 윌 오브 소드 : 차지로 소환된 검 적중 시 잠든 용의 표식이 새겨지고, 한 번 더 적중하여 용의 표식이 깨어나면 기가 슬래셔나 드라코 슬래셔로 인한 공격 적중 시 드래곤 블로우가 발생한다. 윌 오브 소드 : 스트라이크로 인한 공격은 표식이 중첩되지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 어드밴스드 윌 오브 소드 30레벨 이상",
-        "skill_level": 13866,
+        "skill_level": 13912,
         "skill_effect": "MP 77 소비, 3초마다 장비중인 무기의 분신 5개 소환\n소환 후 윌 오브 소드 : 차지 사용 시 각각의 무기는 적에게 날아가 꽂히며 775%의 데미지로 4번 공격하고 파이널 피규레이션 효과가 지속 중인 경우에는 공격 횟수가 1회 증가\n[드래곤 블로우] : 3800%의 데미지로 10번 공격하는 추가 공격 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKDPBMG.png"
     },
     {
         "skill_name": "마이트 오브 노바",
         "skill_description": "[마스터 레벨 : 30]\r\n수호자의 사명을 대대로 지켜온 선대들의 의지를 계승하여 노바족의 안위를 위협하는 모든 적을 처단한다. 파이널 피규레이션 효과 중 사용 시 적용 중인 파이널 피규레이션의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 10969,
+        "skill_level": 11000,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적, 적용 중인 파이널 피규레이션의 지속 시간 10초 증가\n선대들의 의지가 이어져 최대 15명의 적을 2357%의 데미지로 8번 공격하는 참격이 14회 발생\n이후 최대 15명의 적을 1909%의 데미지로 13번 공격하는 마무리 일격 47회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFJDKDPEMA.png"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 7154,
+        "skill_level": 7156,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMA.png"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 7154,
+        "skill_level": 7156,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHPBMC.png"
     },
     {
         "skill_name": "가디언 오브 노바 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n가디언 오브 노바를 강화한다.",
-        "skill_level": 5662,
+        "skill_level": 5685,
         "skill_effect": "가디언 오브 노바의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPG.png"
     },
     {
         "skill_name": "윌 오브 소드 : 스트라이크 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n윌 오브 소드 : 스트라이크를 강화한다.",
-        "skill_level": 6190,
+        "skill_level": 6201,
         "skill_effect": "윌 오브 소드 : 스트라이크의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPH.png"
     },
     {
         "skill_name": "드라코 슬래셔 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n드라코 슬래셔를 강화한다.",
-        "skill_level": 17411,
+        "skill_level": 17520,
         "skill_effect": "드라코 슬래셔의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPI.png"
     },
     {
         "skill_name": "드래곤 블레이즈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n드래곤 블레이즈를 강화한다.",
-        "skill_level": 8645,
+        "skill_level": 8676,
         "skill_effect": "드래곤 블레이즈의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLHKAPJ.png"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 959,
+        "skill_level": 965,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KAPCLAPBMA.png"
     }

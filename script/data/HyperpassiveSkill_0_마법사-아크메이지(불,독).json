@@ -24,28 +24,28 @@
     {
         "skill_name": "플레임 스윕-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n플레임 스윕의 데미지를 증가시킨다. 플레임 스윕 VI의 거대 화염이 남긴 불씨에 의한 폭발에는 적용되지 않는다.",
-        "skill_level": 986,
+        "skill_level": 987,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAKFOBIG.png"
     },
     {
         "skill_name": "플레임 스윕-도트 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n플레임 스윕의 도트 데미지를 증가시킨다. 플레임 스윕 VI의 거대 화염이 남긴 불씨에 의한 폭발에는 적용되지 않는다.",
-        "skill_level": 65,
+        "skill_level": 66,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAKFOBIH.png"
     },
     {
         "skill_name": "플레임 스윕-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n플레임 스윕의 공격 횟수를 증가시킨다. 플레임 스윕 VI의 거대 화염이 남긴 불씨에 의한 폭발에는 적용되지 않는다.",
-        "skill_level": 990,
+        "skill_level": 991,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAKFOBII.png"
     },
     {
         "skill_name": "미스트 이럽션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n미스트 이럽션의 데미지를 증가시킨다.",
-        "skill_level": 992,
+        "skill_level": 993,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAKFOBIJ.png"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "미스트 이럽션-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n미스트 이럽션의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 996,
+        "skill_level": 997,
         "skill_effect": "재사용 대기시간 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFPAKFOBJB.png"
     }
