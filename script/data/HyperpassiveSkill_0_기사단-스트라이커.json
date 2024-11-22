@@ -3,64 +3,64 @@
     {
         "skill_name": "질풍-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n질풍의 데미지를 증가시킨다.",
-        "skill_level": 181,
+        "skill_level": 180,
         "skill_effect": null,
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBID.png"
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBID"
     },
     {
         "skill_name": "질풍-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n질풍의 최대 공격 가능한 몬스터 수를 증가시킨다.",
         "skill_level": 6,
         "skill_effect": null,
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBIE.png"
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIE"
     },
     {
         "skill_name": "질풍-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n질풍의 공격 횟수를 증가시킨다.",
-        "skill_level": 685,
+        "skill_level": 686,
         "skill_effect": "공격 횟수 1 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBIF.png"
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIF"
     },
     {
         "skill_name": "벽력-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 데미지를 증가시킨다.",
-        "skill_level": 880,
+        "skill_level": 881,
         "skill_effect": "데미지 20% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBIG.png"
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIG"
     },
     {
         "skill_name": "벽력-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 최대 공격 가능한 몬스터 수를 증가시킨다.",
         "skill_level": 67,
         "skill_effect": null,
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBIH.png"
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIH"
     },
     {
         "skill_name": "벽력-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 공격 횟수를 증가시킨다.",
         "skill_level": 935,
         "skill_effect": "공격 횟수 1 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBII.png"
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBII"
     },
     {
         "skill_name": "섬멸-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n섬멸의 데미지를 증가시킨다.",
         "skill_level": 976,
         "skill_effect": "데미지 20% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBIJ.png"
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIJ"
     },
     {
         "skill_name": "섬멸-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n섬멸의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 248,
+        "skill_level": 247,
         "skill_effect": null,
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBJA.png"
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBJA"
     },
     {
         "skill_name": "섬멸-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n섬멸의 보스 몬스터 공격 시 데미지를 증가시킨다.",
         "skill_level": 972,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/SkillIcon/KFOHKFOBJB.png"
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBJB"
     }
 ]
