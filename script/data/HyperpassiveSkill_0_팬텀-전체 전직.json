@@ -3,14 +3,14 @@
     {
         "skill_name": "템페스트 오브 카드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n템페스트 오브 카드의 데미지를 증가시킨다.",
-        "skill_level": 993,
+        "skill_level": 979,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBID"
     },
     {
         "skill_name": "템페스트 오브 카드-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n템페스트 오브 카드의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 984,
+        "skill_level": 969,
         "skill_effect": "재사용 대기시간 20% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBIE"
     },
@@ -24,35 +24,35 @@
     {
         "skill_name": "얼티밋 드라이브-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n얼티밋 드라이브의 데미지를 증가시킨다.",
-        "skill_level": 998,
+        "skill_level": 984,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBIG"
     },
     {
         "skill_name": "얼티밋 드라이브-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n얼티밋 드라이브의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 65,
+        "skill_level": 64,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBIH"
     },
     {
         "skill_name": "얼티밋 드라이브-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n얼티밋 드라이브의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 890,
+        "skill_level": 876,
         "skill_effect": "몬스터 방어율 무시 20% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBII"
     },
     {
         "skill_name": "탤런트 오브 팬텀시프-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n스틸 스킬로 훔친 다른 모험가의 스킬 중 공격 스킬의 데미지를 증가시킨다.",
-        "skill_level": 211,
+        "skill_level": 206,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBIJ"
     },
     {
         "skill_name": "탤런트 오브 팬텀시프-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n스틸 스킬로 훔친 다른 모험가의 스킬 중 버프 스킬의 지속시간을 증가시킨다.",
-        "skill_level": 496,
+        "skill_level": 489,
         "skill_effect": "버프 지속시간 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBJA"
     },
