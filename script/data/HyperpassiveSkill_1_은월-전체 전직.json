@@ -3,7 +3,7 @@
     {
         "skill_name": "귀참-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 데미지를 증가시킨다.",
-        "skill_level": 889,
+        "skill_level": 888,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIG"
     },
@@ -17,21 +17,21 @@
     {
         "skill_name": "귀참-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 공격 횟수를 증가시킨다.",
-        "skill_level": 884,
+        "skill_level": 883,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAII"
     },
     {
         "skill_name": "폭류권-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n폭류권의 데미지를 증가시킨다.",
-        "skill_level": 111,
+        "skill_level": 109,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIJ"
     },
     {
         "skill_name": "폭류권-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n폭류권의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 31,
+        "skill_level": 30,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJA"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "여우령-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 공격력을 증가시킨다.",
-        "skill_level": 276,
+        "skill_level": 277,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJC"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "여우령-서먼 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 소환 확률을 증가시킨다.",
-        "skill_level": 737,
+        "skill_level": 736,
         "skill_effect": "소환 확률 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJE"
     }

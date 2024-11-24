@@ -31,14 +31,14 @@
     {
         "skill_name": "롱기누스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n크래프트:롱기누스의 공격 횟수를 증가시킨다.",
-        "skill_level": 50,
+        "skill_level": 51,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKFOBPF"
     },
     {
         "skill_name": "롱기누스-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n크래프트:롱기누스의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 142,
+        "skill_level": 141,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKFOBPG"
     },

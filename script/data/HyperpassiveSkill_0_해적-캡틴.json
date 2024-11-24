@@ -24,42 +24,42 @@
     {
         "skill_name": "래피드 파이어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 데미지를 증가시킨다.",
-        "skill_level": 848,
+        "skill_level": 859,
         "skill_effect": "데미지 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBIJ"
     },
     {
         "skill_name": "래피드 파이어-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 사거리를 증가시킨다.",
-        "skill_level": 757,
+        "skill_level": 766,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBJA"
     },
     {
         "skill_name": "래피드 파이어-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 326,
+        "skill_level": 327,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBJB"
     },
     {
         "skill_name": "헤드 샷-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n헤드 샷의 데미지를 증가시킨다.",
-        "skill_level": 936,
+        "skill_level": 948,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBIG"
     },
     {
         "skill_name": "헤드 샷-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n헤드 샷의 공격 횟수를 증가시킨다.",
-        "skill_level": 928,
+        "skill_level": 938,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBIH"
     },
     {
         "skill_name": "헤드 샷-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n헤드 샷의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 931,
+        "skill_level": 943,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBII"
     }
