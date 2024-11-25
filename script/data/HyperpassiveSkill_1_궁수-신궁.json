@@ -10,14 +10,14 @@
     {
         "skill_name": "샤프 아이즈-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈의 효과에 방어율 무시 효과를 추가한다.",
-        "skill_level": 127,
+        "skill_level": 128,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJFOBIE"
     },
     {
         "skill_name": "샤프 아이즈-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈 효과 중 크리티컬 확률을 증가시킨다.",
-        "skill_level": 146,
+        "skill_level": 147,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJFOBIF"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "스나이핑-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n스나이핑, 인핸스 스나이핑, 인핸스 스나이핑 추가타의 공격 횟수를 증가시킨다.",
-        "skill_level": 891,
+        "skill_level": 892,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJFOBJB"
     },
     {
         "skill_name": "스나이핑-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n스나이핑, 인핸스 스나이핑, 인핸스 스나이핑 추가타의 데미지를 증가시킨다.",
-        "skill_level": 897,
+        "skill_level": 898,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJFOBIJ"
     },
     {
         "skill_name": "스나이핑-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n스나이핑, 인핸스 스나이핑, 인핸스 스나이핑 추가타의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 878,
+        "skill_level": 879,
         "skill_effect": "보스 몬스터 공격 시 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJFOBJA"
     }
