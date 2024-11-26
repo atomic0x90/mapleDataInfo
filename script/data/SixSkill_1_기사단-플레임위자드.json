@@ -3,21 +3,21 @@
     {
         "skill_name": "오비탈 플레임 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n화염 마법에 통달하여 오비탈 플레임의 데미지가 강화된다.\n동시에 4개까지 사용 가능하며 일정 횟수 사용 시 강화된 오비탈 플레임을 사용할 수 있다.\n강력한 마력으로 일정 시간마다 오비탈 플레임이 지나간 곳에 거대한 불꽃이 형성된다. 불 속성의 공격이다.\n필요 스킬 : 오비탈 플레임 IV 30레벨 이상",
-        "skill_level": 2341,
+        "skill_level": 2344,
         "skill_effect": "MP 45 소비, 최대 8명의 적을 440%의 데미지로 2번 공격, 일반 몬스터 공격 시 데미지 50% 증가\n3회 사용 시 다음 공격 강화 오비탈 플레임 VI 발동, 15초마다 최대 6명의 적을 620%의 데미지로 9번 공격하는 불길 4회 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBMA"
     },
     {
         "skill_name": "블레이징 익스팅션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n고열의 화염을 구체로 압축시켜 발사한다. 화염 구체는 전방으로 이동하며 사정거리 내의 적들에게 화염 고리를 발사하여 불태운다.\n필요 스킬 : 블레이징 익스팅션 30레벨 이상",
-        "skill_level": 2792,
+        "skill_level": 2809,
         "skill_effect": "MP 44 소비\n10초 동안 구체 주위의 최대 8명의 적을 1030%의 데미지로 4번 공격\n한명의 적에게는 최대 4번까지만 공격 발생\n재사용 대기시간 5초\n사용 시 블레이징 익스팅션 폭스 모드의 재사용 대기시간 자동 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBMH"
     },
     {
         "skill_name": "이터니티",
         "skill_description": "[마스터 레벨 : 30]\r\n생사의 순환을 관장하는 불사조가 현신하여 온 생명체를 죽음으로 인도한다. 불사조는 일정 시간 동안 지상에서 순환의 불꽃을 피워낸다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 5888,
+        "skill_level": 5889,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 2100%의 데미지로 10번 공격하는 불꽃이 38회 발생, 30초 동안 일정 시간마다 최대 15명의 적을 3700%의 데미지로 13번 공격하는 순환의 불꽃 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPEMA"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "플레임 디스차지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n플레임 디스차지를 강화한다.",
-        "skill_level": 1168,
+        "skill_level": 1174,
         "skill_effect": "플레임 디스차지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKF"
     },
     {
         "skill_name": "인피니티 플레임 서클 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n인피니티 플레임 서클을 강화한다.",
-        "skill_level": 5845,
+        "skill_level": 5851,
         "skill_effect": "인피니티 플레임 서클의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKG"
     },
     {
         "skill_name": "샐리맨더 미스칩 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n샐리맨더 미스칩을 강화한다.",
-        "skill_level": 1308,
+        "skill_level": 1311,
         "skill_effect": "샐리맨더 미스칩의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKH"
     },
