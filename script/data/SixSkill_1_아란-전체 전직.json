@@ -10,7 +10,7 @@
     {
         "skill_name": "부스트 엔드-헌터즈 타겟팅 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n폴암에 힘을 응집시켜 강한 일격을 날린다.\n 키다운 중 공격 방향을 변경할 수 있으며, 무적 상태가 된다. \n아드레날린 부스트 및 초각성 상태에서 1회만 사용 가능하다.추가로 비욘더 VI를 영구히 강화한다.\n[발동 커맨드 : ↓→↓/↓←↓ + 공격키 키다운]\n커맨드 잠금 : 마우스 우클릭\n필요 스킬 : 부스트 엔드-헌터즈 타겟팅 30레벨 이상",
-        "skill_level": 6635,
+        "skill_level": 6636,
         "skill_effect": "MP 250 소비, 최대 6초까지 키다운 가능하며 키다운 종료 시 2초 동안 무적\n최대 10명의 적을 1530%의 데미지로 15번 공격하는 참격이 10회 발동\n재사용 대기시간 30초\n[패시브 효과 : 비욘더 VI 데미지 135%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBME"
     },
@@ -38,14 +38,14 @@
     {
         "skill_name": "부스트 엔드-아드레날린 서지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n부스트 엔드-아드레날린 서지/하이퍼 부스트 엔드-아드레날린 서지를 강화한다.",
-        "skill_level": 2931,
+        "skill_level": 2933,
         "skill_effect": "부스트 엔드-아드레날린 서지/하이퍼 부스트 엔드-아드레날린 서지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEA"
     },
     {
         "skill_name": "브랜디쉬 마하 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n브랜디쉬 마하를 강화한다.",
-        "skill_level": 1111,
+        "skill_level": 1112,
         "skill_effect": "브랜디쉬 마하의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEB"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "블리자드 템페스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블리자드 템페스트를 강화한다.",
-        "skill_level": 3564,
+        "skill_level": 3566,
         "skill_effect": "블리자드 템페스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBED"
     },

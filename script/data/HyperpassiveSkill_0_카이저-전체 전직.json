@@ -3,21 +3,21 @@
     {
         "skill_name": "기가 슬래셔-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n기가 슬래셔와 드라코 슬래셔의 데미지를 증가시킨다.",
-        "skill_level": 989,
+        "skill_level": 992,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBID"
     },
     {
         "skill_name": "기가 슬래셔-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n기가 슬래셔와 드라코 슬래셔의 슬로우 지속 시간을 증가시킨다.",
-        "skill_level": 592,
+        "skill_level": 595,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIE"
     },
     {
         "skill_name": "기가 슬래셔-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n기가 슬래셔와 드라코 슬래셔의 공격 횟수를 증가시킨다.",
-        "skill_level": 987,
+        "skill_level": 990,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIF"
     },
@@ -31,14 +31,14 @@
     {
         "skill_name": "인퍼널 브레스-타일 퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스로 깔리는 화염의 지속시간을 증가시킨다.",
-        "skill_level": 174,
+        "skill_level": 175,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIH"
     },
     {
         "skill_name": "인퍼널 브레스-타일 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스로 깔리는 화염의 데미지를 증가시킨다.",
-        "skill_level": 140,
+        "skill_level": 141,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBII"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "윙비트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 지속시간을 증가시킨다.",
-        "skill_level": 342,
+        "skill_level": 343,
         "skill_effect": "지속시간 5초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBJA"
     },
     {
         "skill_name": "윙비트-엑스트라 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 공격 횟수를 증가시킨다.",
-        "skill_level": 657,
+        "skill_level": 660,
         "skill_effect": "공격 횟수 8 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBJB"
     }

@@ -38,7 +38,7 @@
     {
         "skill_name": "슈퍼 캐논 익스플로젼",
         "skill_description": "[마스터 레벨 : 30]\r\n거대한 캐논을 날려보내 일대를 초토화시킨다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4176,
+        "skill_level": 4180,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1920%의 데미지로 4번 공격하는 폭격이 68회 발생\n이후 최대 15명의 적을 2220%의 데미지로 5번 공격하는 대폭발이 52회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIDPEMA"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "빅 휴즈 기간틱 캐논볼 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n빅 휴즈 기간틱 캐논볼을 강화한다.",
-        "skill_level": 5824,
+        "skill_level": 5827,
         "skill_effect": "빅 휴즈 기간틱 캐논볼의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBJG"
     },
@@ -73,14 +73,14 @@
     {
         "skill_name": "스페셜 몽키 에스코트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스페셜 몽키 에스코트를 강화한다.",
-        "skill_level": 1586,
+        "skill_level": 1587,
         "skill_effect": "스페셜 몽키 에스코트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBJI"
     },
     {
         "skill_name": "풀 메이커 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n풀 메이커를 강화한다.",
-        "skill_level": 1897,
+        "skill_level": 1898,
         "skill_effect": "풀 메이커의 최종 데미지 60% 증가, 포격 발동 횟수 30회로 증가, 보급품은 첫 번째, 20번째 포격에 함께 투하",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBJJ"
     },

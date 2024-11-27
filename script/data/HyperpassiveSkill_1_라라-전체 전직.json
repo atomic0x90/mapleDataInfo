@@ -24,7 +24,7 @@
     {
         "skill_name": "정기 뿌리기 - 보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n정기 뿌리기의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 394,
+        "skill_level": 395,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKFOBPE"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "용맥 - 인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n용맥을 소모하는 스킬 시전 시 특별한 능력을 추가한다.",
-        "skill_level": 884,
+        "skill_level": 883,
         "skill_effect": "용맥을 소모하는 스킬 시전 동작 중 어떠한 공격에도 밀리지 않게 된다.",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKFOBPJ"
     }
