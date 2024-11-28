@@ -31,28 +31,28 @@
     {
         "skill_name": "홀리 심볼-임뷰 바디",
         "skill_description": "[마스터 레벨 : 1]\r\n홀리 심볼 사용 시 상태 이상 내성과 모든 속성 내성을 증가시킨다. 단, 홀리 심볼을 시전한 캐릭터 근처를 벗어나면 적용되지 않는다. 추가로 내성과 모든 속성 내성이 영구히 증가한다.",
-        "skill_level": 295,
+        "skill_level": 293,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIFOBIH"
     },
     {
         "skill_name": "홀리 심볼-엑스트라 드롭",
         "skill_description": "[마스터 레벨 : 1]\r\n홀리 심볼 사용 시 드롭률을 증가시킨다. 단, 홀리 심볼을 시전한 캐릭터 근처를 벗어나면 적용되지 않는다.",
-        "skill_level": 997,
+        "skill_level": 996,
         "skill_effect": "드롭률 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIFOBII"
     },
     {
         "skill_name": "어드밴스드 블레스-보너스 데미지",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 블레스로 오르는 공격력 및 마력을 추가로 증가시킨다.",
-        "skill_level": 986,
+        "skill_level": 985,
         "skill_effect": "공격력 및 마력 20 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIFOBIJ"
     },
     {
         "skill_name": "어드밴스드 블레스-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 블레스 사용 시 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 995,
+        "skill_level": 994,
         "skill_effect": "보스 몬스터 공격 시 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIFOBJA"
     },

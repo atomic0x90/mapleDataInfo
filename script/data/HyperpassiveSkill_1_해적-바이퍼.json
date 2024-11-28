@@ -3,14 +3,14 @@
     {
         "skill_name": "더블 럭키 다이스-원모어찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n더블 럭키 다이스 미발동 시 일정 확률로 재사용 대기시간이 적용되지 않으며 다음에는 반드시 4 이상의 더블 럭키 다이스가 발동된다.",
-        "skill_level": 361,
+        "skill_level": 362,
         "skill_effect": "더블 럭키 다이스 미발동 시 40% 확률로 재사용 대기시간 미적용, 다음 시전 시 4 이상의 더블 럭키 다이스 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKFOBID"
     },
     {
         "skill_name": "더블 럭키 다이스-엑스트라 넘버",
         "skill_description": "[마스터 레벨 : 1]\r\n더블 럭키 다이스에 행운의 숫자 7이 추가된다.\n필요 스킬 : 더블 럭키 다이스 5레벨 이상",
-        "skill_level": 140,
+        "skill_level": 141,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKFOBIE"
     },
@@ -24,21 +24,21 @@
     {
         "skill_name": "피스트 인레이지-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n피스트 인레이지의 데미지를 증가시킨다.",
-        "skill_level": 980,
+        "skill_level": 981,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKFOBIG"
     },
     {
         "skill_name": "피스트 인레이지-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n피스트 인레이지의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 978,
+        "skill_level": 979,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKFOBIH"
     },
     {
         "skill_name": "피스트 인레이지-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n피스트 인레이지의 공격 횟수를 증가시킨다.",
-        "skill_level": 979,
+        "skill_level": 980,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKFOBII"
     },

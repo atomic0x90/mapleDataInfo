@@ -3,7 +3,7 @@
     {
         "skill_name": "질풍-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n질풍의 데미지를 증가시킨다.",
-        "skill_level": 177,
+        "skill_level": 178,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBID"
     },
@@ -17,15 +17,15 @@
     {
         "skill_name": "질풍-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n질풍의 공격 횟수를 증가시킨다.",
-        "skill_level": 681,
-        "skill_effect": "공격 횟수 1 증가",
+        "skill_level": 683,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIF"
     },
     {
         "skill_name": "벽력-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 데미지를 증가시킨다.",
-        "skill_level": 879,
-        "skill_effect": "데미지 20% 증가",
+        "skill_level": 880,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIG"
     },
     {
@@ -38,15 +38,15 @@
     {
         "skill_name": "벽력-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 공격 횟수를 증가시킨다.",
-        "skill_level": 928,
-        "skill_effect": "공격 횟수 1 증가",
+        "skill_level": 930,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBII"
     },
     {
         "skill_name": "섬멸-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n섬멸의 데미지를 증가시킨다.",
-        "skill_level": 971,
-        "skill_effect": "데미지 20% 증가",
+        "skill_level": 973,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIJ"
     },
     {
@@ -59,8 +59,8 @@
     {
         "skill_name": "섬멸-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n섬멸의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 967,
-        "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
+        "skill_level": 969,
+        "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBJB"
     }
 ]
