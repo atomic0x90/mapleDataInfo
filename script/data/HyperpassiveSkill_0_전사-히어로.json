@@ -1,9 +1,9 @@
-1000
+999
 [
     {
         "skill_name": "어드밴스드 콤보-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n콤보 카운터의 1개 당 최종 데미지를 증가시킨다.",
-        "skill_level": 994,
+        "skill_level": 996,
         "skill_effect": "콤보 카운터 1개 당 최종 데미지 2% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKFOBID"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "어드밴스드 콤보-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n콤보 개수 당 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 984,
+        "skill_level": 986,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKFOBIF"
     },
@@ -38,14 +38,14 @@
     {
         "skill_name": "어드밴스드 파이널 어택-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 파이널 어택의 발동 확률을 증가시킨다.",
-        "skill_level": 927,
+        "skill_level": 929,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKFOBII"
     },
     {
         "skill_name": "레이징 블로우-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n레이징 블로우의 데미지를 증가시킨다.",
-        "skill_level": 993,
+        "skill_level": 995,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKFOBIJ"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "레이징 블로우-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n레이징 블로우의 공격 횟수를 증가시킨다.",
-        "skill_level": 992,
+        "skill_level": 994,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKFOBJB"
     }
