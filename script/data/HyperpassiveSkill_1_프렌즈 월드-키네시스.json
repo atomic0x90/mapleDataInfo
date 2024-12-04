@@ -3,7 +3,7 @@
     {
         "skill_name": "싸이킥 그랩-보스 포인트",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그랩으로 보스를 공격 시 충전되는 싸이킥 포인트를 증가시킨다.",
-        "skill_level": 877,
+        "skill_level": 876,
         "skill_effect": "싸이킥 포인트 충전량 두 배 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPD"
     },
@@ -38,14 +38,14 @@
     {
         "skill_name": "싸이킥 그라운드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그라운드의 유지시간을 증가시킨다.",
-        "skill_level": 301,
+        "skill_level": 300,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPI"
     },
     {
         "skill_name": "텔레키네시스-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 발동 확률을 증가시킨다.",
-        "skill_level": 808,
+        "skill_level": 807,
         "skill_effect": "발동 확률 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPJ"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "텔레키네시스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 공격 횟수를 증가시킨다.",
-        "skill_level": 757,
+        "skill_level": 755,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBIB"
     }
