@@ -24,14 +24,14 @@
     {
         "skill_name": "레조네이트-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n레조네이트로 발현된 차크리가 적을 찾는 범위를 증가시킨다. 레조네이트-애드 레인지는 레조네이트 : 얼티메이텀에는 적용되지 않는다.",
-        "skill_level": 57,
+        "skill_level": 56,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPE"
     },
     {
         "skill_name": "보이드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n보이드 계열 스킬의 데미지를 증가시킨다.",
-        "skill_level": 946,
+        "skill_level": 947,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPF"
     },

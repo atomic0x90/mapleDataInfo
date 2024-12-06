@@ -3,14 +3,14 @@
     {
         "skill_name": "데몬 슬래시-엑스트라 포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 슬래시로 흡수하는 포스를 증가시킨다.",
-        "skill_level": 457,
+        "skill_level": 458,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBID"
     },
     {
         "skill_name": "데몬 슬래시-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 슬래시의 데미지를 증가시킨다.",
-        "skill_level": 987,
+        "skill_level": 986,
         "skill_effect": "최종 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBIE"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "데몬 임팩트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 임팩트의 데미지를 증가시킨다.",
-        "skill_level": 992,
+        "skill_level": 991,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBIJ"
     },
     {
         "skill_name": "데몬 임팩트-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 임팩트의 공격 횟수를 증가시킨다.",
-        "skill_level": 988,
+        "skill_level": 987,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBJA"
     },
     {
         "skill_name": "데몬 임팩트-리듀스 포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 임팩트의 포스 소비량을 감소시킨다.",
-        "skill_level": 734,
+        "skill_level": 731,
         "skill_effect": "포스 소비량 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBJB"
     }
