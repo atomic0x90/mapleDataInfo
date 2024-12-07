@@ -10,21 +10,21 @@
     {
         "skill_name": "로얄 가드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n로얄 가드의 방어율 무시를 증가시킨다.",
-        "skill_level": 216,
+        "skill_level": 217,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFKDKFOBIE"
     },
     {
         "skill_name": "로얄 가드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 소울 실드의 로얄 가드 성공 시 발동하는 효과의 지속시간이 증가한다.\n필요 스킬 : 어드밴스드 소울 실드 10레벨 이상",
-        "skill_level": 151,
+        "skill_level": 150,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFKDKFOBIF"
     },
     {
         "skill_name": "샤이닝 크로스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n샤이닝 크로스, 샤이닝 크로스-어썰트의 데미지를 증가시킨다.",
-        "skill_level": 970,
+        "skill_level": 971,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFKDKFOBJG"
     },
@@ -38,21 +38,21 @@
     {
         "skill_name": "샤이닝 크로스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n샤이닝 크로스, 샤이닝 크로스-어썰트의 공격 횟수를 증가시킨다.",
-        "skill_level": 964,
+        "skill_level": 965,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFKDKFOBJI"
     },
     {
         "skill_name": "인스톨 실드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n인스톨 실드의 데미지를 증가시킨다.",
-        "skill_level": 827,
+        "skill_level": 829,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFKDKFOBIJ"
     },
     {
         "skill_name": "인스톨 실드-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n인스톨 실드의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 85,
+        "skill_level": 86,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFKDKFOBJA"
     },
