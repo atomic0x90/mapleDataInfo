@@ -10,7 +10,7 @@
     {
         "skill_name": "천지인-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n여의선 : 인, 토파류 류 스킬, 파초풍 류 스킬, 지진쇄 류 스킬, 멸화염 류 스킬, 금고봉 : 인의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 185,
+        "skill_level": 184,
         "skill_effect": "방어율 무시 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPC"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "환영 분신부-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n환영 분신부와 선기 : 극대 분신난무의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 765,
+        "skill_level": 766,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPF"
     },

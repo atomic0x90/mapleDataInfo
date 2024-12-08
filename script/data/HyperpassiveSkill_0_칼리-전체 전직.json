@@ -3,7 +3,7 @@
     {
         "skill_name": "헥스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n헥스 계열 스킬의 데미지를 증가시킨다.",
-        "skill_level": 987,
+        "skill_level": 988,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPB"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "헥스-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n헥스 계열 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 953,
+        "skill_level": 954,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPD"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "보이드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n보이드 계열 스킬의 데미지를 증가시킨다.",
-        "skill_level": 947,
+        "skill_level": 948,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPF"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "아츠-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n아츠 계열 스킬의 데미지를 증가시킨다.",
-        "skill_level": 961,
+        "skill_level": 962,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPH"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "아츠-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n아츠 계열 스킬의 공격 횟수를 증가시킨다.",
-        "skill_level": 919,
+        "skill_level": 920,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPJ"
     }
