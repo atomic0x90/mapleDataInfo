@@ -1,4 +1,4 @@
-996
+997
 [
     {
         "skill_name": "비스트 폼-리인포스",
@@ -17,21 +17,21 @@
     {
         "skill_name": "비스트 폼-래피드 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n비스트 폼으로 오르는 공격 속도를 증가시킨다.\n필요 스킬 : 비스트 폼 20레벨 이상",
-        "skill_level": 70,
+        "skill_level": 69,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBIF"
     },
     {
         "skill_name": "서먼 재규어-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n어나더 바이트의 데미지를 증가시킨다.",
-        "skill_level": 721,
+        "skill_level": 722,
         "skill_effect": "어나더 바이트 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBIG"
     },
     {
         "skill_name": "서먼 재규어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n재규어 스킬의 데미지를 증가시킨다.",
-        "skill_level": 792,
+        "skill_level": 793,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBIH"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "와일드 발칸-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n와일드 발칸/와일드 발칸 Type-P에 방어율 무시 효과를 추가한다.",
-        "skill_level": 252,
+        "skill_level": 251,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBJA"
     },
