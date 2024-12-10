@@ -10,7 +10,7 @@
     {
         "skill_name": "비홀더-버프 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n비홀더스 버프로 오르는 공격력과 마력을 증가시킨다.",
-        "skill_level": 916,
+        "skill_level": 917,
         "skill_effect": "공격력과 마력 30 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIFOBIE"
     },
@@ -24,14 +24,14 @@
     {
         "skill_name": "리인카네이션-데미지",
         "skill_description": "[마스터 레벨 : 1]\r\n리인카네이션 패시브 효과의 최종 데미지를 증가시킨다. 기존 최종 데미지 증가 효과와는 합적용된다.",
-        "skill_level": 984,
+        "skill_level": 985,
         "skill_effect": "최종 데미지 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIFOBIG"
     },
     {
         "skill_name": "리인카네이션-리듀스 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n리인카네이션 발동 중 재사용 대기시간이 감소하기 위해 처치 해야 하는 적 수가 감소되고 모든 타입에 적용된다.",
-        "skill_level": 18,
+        "skill_level": 19,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIFOBIH"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "궁니르 디센트-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n궁니르 디센트를 사용하여 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 525,
+        "skill_level": 527,
         "skill_effect": "보스 몬스터 공격 시 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIFOBJB"
     }
