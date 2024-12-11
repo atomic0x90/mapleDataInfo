@@ -3,7 +3,7 @@
     {
         "skill_name": "메소 익스플로젼-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n메소 익스플로젼의 데미지를 증가시킨다.",
-        "skill_level": 929,
+        "skill_level": 930,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGJFOBID"
     },
@@ -24,35 +24,35 @@
     {
         "skill_name": "크루얼 스탭-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n크루얼 스탭의 데미지를 증가시킨다.",
-        "skill_level": 120,
+        "skill_level": 122,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGJFOBIG"
     },
     {
         "skill_name": "크루얼 스탭-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n크루얼 스탭의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 49,
+        "skill_level": 51,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGJFOBIH"
     },
     {
         "skill_name": "크루얼 스탭-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n크루얼 스탭의 공격 횟수를 증가시킨다.",
-        "skill_level": 429,
+        "skill_level": 427,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGJFOBII"
     },
     {
         "skill_name": "암살-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n암살의 데미지를 증가시킨다.",
-        "skill_level": 956,
+        "skill_level": 954,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGJFOBIJ"
     },
     {
         "skill_name": "암살-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n암살의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 949,
+        "skill_level": 947,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGJFOBJA"
     },
