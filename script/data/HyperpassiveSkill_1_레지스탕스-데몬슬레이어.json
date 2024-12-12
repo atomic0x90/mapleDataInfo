@@ -3,7 +3,7 @@
     {
         "skill_name": "데몬 슬래시-엑스트라 포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 슬래시로 흡수하는 포스를 증가시킨다.",
-        "skill_level": 355,
+        "skill_level": 354,
         "skill_effect": "포스 흡수량 50% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBID"
     },
@@ -24,7 +24,7 @@
     {
         "skill_name": "메타모포시스-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n메타모포시스 발동 시 도트 데미지와 데몬 슬레이어의 모든 공격이 공격 무시 및 공격 반사 상태의 적에게도 피해를 입힌다.\n발동 이펙트 잠금 : 마우스 우클릭",
-        "skill_level": 657,
+        "skill_level": 658,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBIG"
     },

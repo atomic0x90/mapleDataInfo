@@ -3,7 +3,7 @@
     {
         "skill_name": "분출/흡수 - 이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n분출, 흡수 스킬의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 673,
+        "skill_level": 672,
         "skill_effect": "방어율 무시 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKFOBPB"
     },
@@ -24,14 +24,14 @@
     {
         "skill_name": "정기 뿌리기 - 보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n정기 뿌리기의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 396,
+        "skill_level": 397,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKFOBPE"
     },
     {
         "skill_name": "잠 깨우기 - 쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n잠 깨우기의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 15,
+        "skill_level": 16,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKFOBPF"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "산 에움 - 엑스트라 실드",
         "skill_description": "[마스터 레벨 : 1]\r\n산 에움 지속 중 일정 시간마다 최대 HP의 일정 비율에 비례하는 실드를 생성한다.",
-        "skill_level": 815,
+        "skill_level": 814,
         "skill_effect": "산 에움 지속 중 1초마다 최대 HP의 15%에 해당하는 실드 생성, 실드는 산 에움 종료 후 1초 후 소멸",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKFOBPI"
     },

@@ -3,21 +3,21 @@
     {
         "skill_name": "블레이드 댄싱-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱의 공격력을 증가시킨다.",
-        "skill_level": 214,
+        "skill_level": 215,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBIE"
     },
     {
         "skill_name": "블레이드 댄싱-패스트 무브먼트",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱 스킬 사용 시 이동속도를 증가시킨다.",
-        "skill_level": 49,
+        "skill_level": 50,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBID"
     },
     {
         "skill_name": "블레이드 댄싱-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 16,
+        "skill_level": 17,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBIF"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "홀로그램 그래피티-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n에너지볼이 주는 피해를 증가시킨다.",
-        "skill_level": 927,
+        "skill_level": 926,
         "skill_effect": "에너지볼이 주는 피해 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBJA"
     },
     {
         "skill_name": "홀로그램 그래피티-스피드",
         "skill_description": "[마스터 레벨 : 1]\r\n홀로그램 필드 안에서 움직이는 응축 에너지볼의 이동속도를 증가시킨다.",
-        "skill_level": 901,
+        "skill_level": 900,
         "skill_effect": "홀로그램 필드 안에서 움직이는 응축 에너지볼의 이동속도 증가.",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBIJ"
     },
     {
         "skill_name": "홀로그램 그래피티-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n홀로그램 필드의 유지 시간을 증가시킨다.",
-        "skill_level": 925,
+        "skill_level": 924,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBJB"
     }
