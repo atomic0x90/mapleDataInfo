@@ -3,35 +3,35 @@
     {
         "skill_name": "귀참-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 데미지를 증가시킨다.",
-        "skill_level": 976,
+        "skill_level": 975,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIG"
     },
     {
         "skill_name": "귀참-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 978,
+        "skill_level": 977,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIH"
     },
     {
         "skill_name": "귀참-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 공격 횟수를 증가시킨다.",
-        "skill_level": 967,
+        "skill_level": 966,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAII"
     },
     {
         "skill_name": "폭류권-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n폭류권의 데미지를 증가시킨다.",
-        "skill_level": 49,
+        "skill_level": 50,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIJ"
     },
     {
         "skill_name": "폭류권-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n폭류권의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 17,
+        "skill_level": 18,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJA"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "여우령-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 공격력을 증가시킨다.",
-        "skill_level": 206,
+        "skill_level": 204,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJC"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "여우령-서먼 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 소환 확률을 증가시킨다.",
-        "skill_level": 874,
+        "skill_level": 872,
         "skill_effect": "소환 확률 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJE"
     }

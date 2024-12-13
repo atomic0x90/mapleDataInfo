@@ -3,14 +3,14 @@
     {
         "skill_name": "블레이드 퓨리-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 퓨리의 데미지를 증가시킨다.",
-        "skill_level": 931,
+        "skill_level": 930,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIDOBJF"
     },
     {
         "skill_name": "블레이드 퓨리-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 퓨리의 방어율 무시를 증가시킨다.",
-        "skill_level": 125,
+        "skill_level": 124,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIDOBJG"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "블레이드 어센션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 어센션의 데미지를 증가시킨다.",
-        "skill_level": 97,
+        "skill_level": 98,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIDOBIE"
     },
     {
         "skill_name": "블레이드 어센션-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 어센션의 공격 횟수를 증가시킨다.",
-        "skill_level": 247,
+        "skill_level": 248,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIDOBIF"
     }

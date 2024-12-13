@@ -3,42 +3,42 @@
     {
         "skill_name": "래피드 파이어 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n아주 빠른 속도로 탄을 발사한다. 스킬 키를 누르고 있으면 지속적으로 탄이 나가며 좌우로 이동할 수 있다. 일정 횟수 적중 시 클립이 충전되고 클립이 전부 충전되면 난사 모드로 변한다.\n지속 중 이동속도는 고정된다.\n함장의 기개로 캡틴 디그니티의 데미지가 증가한다.\n필요 스킬 : 래피드 파이어 30레벨 이상",
-        "skill_level": 7372,
+        "skill_level": 7377,
         "skill_effect": "공격당 MP 19 소비, 발당 610%의 데미지, 공격 5회 적중 시 클립 1개 충전, 클립이 10개만큼 충전되면 난사 모드로 변경, 지속 중 이동속도 120으로 고정\n[패시브 효과 : 캡틴 디그니티의 데미지 145%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBMA"
     },
     {
         "skill_name": "배틀쉽 봄버 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n노틸러스 호의 배틀쉽을 소환한다. 배틀쉽의 포탄 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n일정 영역 내에 사인 오브 봄바드를 설치하면 해당 위치에 폭격을 일으킨다.\n필요 스킬 : 배틀쉽 봄버 15레벨 이상",
-        "skill_level": 4071,
+        "skill_level": 4075,
         "skill_effect": "MP 155 소비, 60초 동안 소환되어 일정 간격으로 포탄 발사\n발사된 포탄은 적에게 닿으면 폭발하여 최대 6명의 적을 840%의 데미지로  3번 공격\n최대 2대까지 소환 가능\n사인 오브 봄바드 설치 시 최대 6명의 적을 840%의 데미지로 3번 공격하는 폭격 발생\n재사용 대기시간 0.50초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBMC"
     },
     {
         "skill_name": "드레드노트",
         "skill_description": "[마스터 레벨 : 30]\r\n두려움을 모르는 함장의 지휘로 거대한 함선이 미지의 바다를 헤치고 나타난다. 함선은 주변의 적에게 무차별 포격을 가한다. 폭격은 최대 HP가 가장 높은 보스 몬스터에게 우선적으로 가해진다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 7898,
+        "skill_level": 7902,
         "skill_effect": "MP 2000 소비, 시전 동작 중 무적\n용맹하게 전진하여 최대 15명의 적을 1270%의 데미지로 12번 공격하는 풍랑이 52회 발생\n공격 종료 후 15초 동안 함선이 공중에 설치되어 일정 시간마다 최대 7명의 적을 1500%의 데미지로 8번 공격하는 폭격 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2097,
+        "skill_level": 2099,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2097,
+        "skill_level": 2099,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "불릿 파티 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n불릿 파티를 강화한다.",
-        "skill_level": 2882,
+        "skill_level": 2883,
         "skill_effect": "불릿 파티의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBJC"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "노틸러스 어썰트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n노틸러스 어썰트를 강화한다.",
-        "skill_level": 2828,
+        "skill_level": 2830,
         "skill_effect": "노틸러스 어썰트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBJE"
     },
@@ -66,7 +66,7 @@
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 722,
+        "skill_level": 723,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }

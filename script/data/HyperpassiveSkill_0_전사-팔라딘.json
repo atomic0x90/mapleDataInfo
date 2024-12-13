@@ -1,9 +1,9 @@
-999
+998
 [
     {
         "skill_name": "디바인 차지-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 데미지를 증가시킨다.",
-        "skill_level": 430,
+        "skill_level": 427,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJFOBJG"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "디바인 차지-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n디바인 차지의 공격 횟수를 증가시킨다.",
-        "skill_level": 544,
+        "skill_level": 542,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJFOBJI"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "생츄어리-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 983,
+        "skill_level": 982,
         "skill_effect": "재사용 대기시간 30% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJFOBJB"
     },
     {
         "skill_name": "생츄어리-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n생츄어리의 공격 횟수를 증가시킨다.",
-        "skill_level": 598,
+        "skill_level": 599,
         "skill_effect": "공격 횟수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJFOBJA"
     }
