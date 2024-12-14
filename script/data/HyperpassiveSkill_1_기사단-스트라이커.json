@@ -31,7 +31,7 @@
     {
         "skill_name": "벽력-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 77,
+        "skill_level": 78,
         "skill_effect": "최대 공격 가능한 몬스터 수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIH"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "섬멸-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n섬멸의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 855,
+        "skill_level": 854,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBJB"
     }

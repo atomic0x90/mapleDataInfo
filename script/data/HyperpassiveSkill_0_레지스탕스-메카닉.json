@@ -3,7 +3,7 @@
     {
         "skill_name": "마그네틱 필드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 데미지를 증가시킨다.",
-        "skill_level": 960,
+        "skill_level": 961,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBID"
     },
@@ -17,14 +17,14 @@
     {
         "skill_name": "마그네틱 필드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 방어율 무시를 증가시킨다.",
-        "skill_level": 333,
+        "skill_level": 332,
         "skill_effect": "몬스터 방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIF"
     },
     {
         "skill_name": "서포트 웨이버:H-EX-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 웨이버:H-EX의 폭발 데미지를 증가시킨다.\n필요 스킬 : 서포트 웨이버 강화 10 레벨",
-        "skill_level": 46,
+        "skill_level": 47,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIG"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "매시브 파이어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n매시브 파이어 : SPLASH-F/IRON-B의 데미지를 증가시킨다. 매시브 파이어 : IRON-B, 매시브 파이어 : IRON-B VI의 2차 폭발에는 적용되지 않는다.",
-        "skill_level": 958,
+        "skill_level": 957,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIJ"
     },

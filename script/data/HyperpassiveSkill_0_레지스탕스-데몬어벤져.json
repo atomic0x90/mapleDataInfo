@@ -10,14 +10,14 @@
     {
         "skill_name": "익시드-리듀스 오버로드",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 익시드 스킬을 사용했을 때의 오버로드 최대 수치를 감소 시킨다.",
-        "skill_level": 789,
+        "skill_level": 790,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDJFOBIE"
     },
     {
         "skill_name": "익시드-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 익시드 스킬의 추가 공격의 발동 확률을 증가 시킨다.\r\n필요 스킬 : 인핸스드 익시드 15레벨 이상",
-        "skill_level": 658,
+        "skill_level": 660,
         "skill_effect": "영구적으로 익시드 스킬의 추가 공격 발동 확률  10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDJFOBIF"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "실드 체이싱-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n영구적으로 실드 체이싱의 사거리를 증가 시킨다.",
-        "skill_level": 483,
+        "skill_level": 480,
         "skill_effect": "영구적으로 실드 체이싱의 사거리 50 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDJFOBJB"
     }

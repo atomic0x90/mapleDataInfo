@@ -1,4 +1,4 @@
-1000
+999
 [
     {
         "skill_name": "귀참-리인포스",
@@ -10,14 +10,14 @@
     {
         "skill_name": "귀참-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 897,
+        "skill_level": 898,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIH"
     },
     {
         "skill_name": "귀참-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 공격 횟수를 증가시킨다.",
-        "skill_level": 887,
+        "skill_level": 888,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAII"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "여우령-리핏 어택 보너스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 공격 반복 횟수를 증가시킨다.",
-        "skill_level": 731,
+        "skill_level": 732,
         "skill_effect": "공격 반복 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJD"
     },
     {
         "skill_name": "여우령-서먼 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 소환 확률을 증가시킨다.",
-        "skill_level": 737,
+        "skill_level": 739,
         "skill_effect": "소환 확률 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJE"
     }
