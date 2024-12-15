@@ -24,21 +24,21 @@
     {
         "skill_name": "릴리즈 파일 벙커-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커의 데미지를 증가시킨다.",
-        "skill_level": 740,
+        "skill_level": 741,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKFOBIG"
     },
     {
         "skill_name": "릴리즈 파일 벙커-쇼크 웨이브 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커로 발생하는 충격파의 데미지를 증가시킨다.",
-        "skill_level": 791,
+        "skill_level": 790,
         "skill_effect": "데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKFOBIH"
     },
     {
         "skill_name": "릴리즈 파일 벙커-보너스 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커 사용 중 가드 판정을 받는다.",
-        "skill_level": 462,
+        "skill_level": 463,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKFOBII"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "허리케인 믹서-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n허리케인 믹서의 데미지를 증가시킨다.",
-        "skill_level": 5,
+        "skill_level": 4,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKFOBJB"
     },

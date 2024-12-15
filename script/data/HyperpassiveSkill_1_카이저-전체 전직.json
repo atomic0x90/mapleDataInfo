@@ -24,7 +24,7 @@
     {
         "skill_name": "인퍼널 브레스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스의 데미지를 증가시킨다.",
-        "skill_level": 324,
+        "skill_level": 325,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIG"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "윙비트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 데미지를 증가시킨다.",
-        "skill_level": 703,
+        "skill_level": 704,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIJ"
     },
     {
         "skill_name": "윙비트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 지속시간을 증가시킨다.",
-        "skill_level": 343,
+        "skill_level": 342,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBJA"
     },
     {
         "skill_name": "윙비트-엑스트라 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 공격 횟수를 증가시킨다.",
-        "skill_level": 677,
+        "skill_level": 676,
         "skill_effect": "공격 횟수 8 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBJB"
     }
