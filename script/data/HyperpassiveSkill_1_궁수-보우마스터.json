@@ -10,7 +10,7 @@
     {
         "skill_name": "샤프 아이즈-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈의 효과에 방어율 무시 효과를 추가한다.",
-        "skill_level": 433,
+        "skill_level": 434,
         "skill_effect": "방어율 무시 효과 5% 추가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKFOBIE"
     },
@@ -24,7 +24,7 @@
     {
         "skill_name": "언카운터블 애로우-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n언카운터블 애로우의 데미지를 증가시킨다.",
-        "skill_level": 480,
+        "skill_level": 479,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKFOBIG"
     },

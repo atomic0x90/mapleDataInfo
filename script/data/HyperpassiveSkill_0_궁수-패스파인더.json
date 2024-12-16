@@ -1,9 +1,9 @@
-1000
+999
 [
     {
         "skill_name": "샤프 아이즈-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈의 지속 시간을 증가시킨다.",
-        "skill_level": 2,
+        "skill_level": 1,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBIFOBOF"
     },
@@ -17,14 +17,14 @@
     {
         "skill_name": "샤프 아이즈-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈 효과 중 크리티컬 확률을 증가시킨다.",
-        "skill_level": 19,
+        "skill_level": 18,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBIFOBOH"
     },
     {
         "skill_name": "카디널 포스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n카디널 포스 스킬의 데미지를 증가시킨다",
-        "skill_level": 999,
+        "skill_level": 998,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBIFOBOI"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "카디널 포스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n카디널 포스 스킬의 공격 횟수가 증가한다.",
-        "skill_level": 988,
+        "skill_level": 987,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBIFOBPA"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "에인션트 포스-인챈트 인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n인챈트 포스 스킬을 카디널 포스로 강화하여 사용 시 데미지를 증가시킨다.",
-        "skill_level": 512,
+        "skill_level": 511,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBIFOBPD"
     }
