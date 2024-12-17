@@ -24,28 +24,28 @@
     {
         "skill_name": "레조넌스-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n레조넌스와 공명해 에테르 결정이 소멸할 때 에테르를 획득할 수 있고 임페일 사용 시 에테르를 소비하지 않게 된다.",
-        "skill_level": 811,
+        "skill_level": 810,
         "skill_effect": "레조넌스로 에테르 결정 소멸 시 에테르 20 획득, 임페일 사용 시 에테르 소비 삭제",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKFOBPE"
     },
     {
         "skill_name": "테리토리-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n테리토리의 지속시간을 증가시킨다.",
-        "skill_level": 889,
+        "skill_level": 888,
         "skill_effect": "지속시간 4초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKFOBPF"
     },
     {
         "skill_name": "블로섬-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n블로섬의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 981,
+        "skill_level": 980,
         "skill_effect": "재사용 대기시간 25% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKFOBPG"
     },
     {
         "skill_name": "어트리뷰트-힐링 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n어트리뷰트의 회복량을 증가시킨다.",
-        "skill_level": 24,
+        "skill_level": 23,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKFOBPH"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "다이크-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n다이크의 최대 키다운 시간을 증가시킨다.",
-        "skill_level": 513,
+        "skill_level": 512,
         "skill_effect": "최대 키다운 시간 2초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKFOBPJ"
     }

@@ -3,42 +3,42 @@
     {
         "skill_name": "앱솔루트 킬 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[이퀄리브리엄]\n빛과 어둠의 검을 적에게 꽂아 넣어 강력한 피해를 입힌다.\n필요 스킬 : 앱솔루트 킬 30레벨 이상",
-        "skill_level": 9840,
+        "skill_level": 9842,
         "skill_effect": "MP 70 소비, 최대 3명의 적에게 빛과 어둠의 검 낙하\n빛과 어둠의 검은 최대 3명의 적을 695%의 데미지로 7번 공격\n빛과 어둠의 검은 한 명의 적에게는 최대 한 번까지만 충돌 발생\n추가 크리티컬 확률 100%, 몬스터 방어율 45% 추가 무시\n재사용 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDPBMA"
     },
     {
         "skill_name": "라이트 리플렉션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[빛 마법]\n대상에게 강력한 빛을 발사한다. 빛은 적에게 맞을 때마다 갈라지며 주위 적들에게 반사된다. 단, 반사될 때마다 피해는 점차 감소한다.\n필요 스킬 : 라이트 리플렉션 30레벨 이상",
-        "skill_level": 4987,
+        "skill_level": 4991,
         "skill_effect": "MP 93 소비, 최대 8명의 적을 810%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDPBMB"
     },
     {
         "skill_name": "엔드리스 다크니스",
         "skill_description": "[마스터 레벨 : 30]\r\n[어둠 마법]\n적의 내면에 잠들어있던 끝없는 어둠이 일어나 적을 집어삼킨다. 이클립스 또는 이퀄리브리엄 상태에서 어둠 마법, 이퀄리브리엄 마법 사용 시 발동된다.\n추가로 앱솔루트 킬 VI를 영구히 강화한다.",
-        "skill_level": 4987,
+        "skill_level": 4991,
         "skill_effect": "MP 80 소비, 최대 6명의 적을 1580%의 데미지로 5번 공격\n재발동 대기시간 2초\n[패시브 효과 : 앱솔루트 킬 VI 데미지 130%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDOBMC"
     },
     {
         "skill_name": "하모닉 패러독스",
         "skill_description": "[마스터 레벨 : 30]\r\n[이퀄리브리엄]\n빛과 어둠의 진리에 도달한 조화의 사념체를 소환한다. 조화의 사념체는 일정 시간 동안 응축된 빛과 어둠의 마력을 휘몰아치게 해 적을 세례한 후, 두 속성의 힘을 모두 해방시켜 진리의 권능을 실현한다. 하모닉 패러독스로 이퀄리브리엄 진입 혹은 이퀄리브리엄 효과 중 사용 시 적용 중인 이퀄리브리엄의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4845,
+        "skill_level": 4848,
         "skill_effect": "MP 3000 소비, 적용 중인 이퀄리브리엄의 지속시간 10초 증가, 시전 동작 중 무적\n최대 3.5초 동안 키다운하여 최대 15명의 적을 3000%의 데미지로 7번 공격하는 조화의 사념체 소환\n키다운 종료 시 조화의 사념체의 힘이 해방되며 15명의 적을 1538%의 데미지로 7번 공격하는 폭발이 39회 발생하는 진리의 권능 실현\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 1985,
+        "skill_level": 1990,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 1985,
+        "skill_level": 1990,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
@@ -59,14 +59,14 @@
     {
         "skill_name": "빛과 어둠의 세례 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n빛과 어둠의 세례를 강화한다.",
-        "skill_level": 4439,
+        "skill_level": 4440,
         "skill_effect": "빛과 어둠의 세례의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMC"
     },
     {
         "skill_name": "리버레이션 오브 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n리버레이션 오브를 강화한다.",
-        "skill_level": 1828,
+        "skill_level": 1832,
         "skill_effect": "리버레이션 오브의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMD"
     },

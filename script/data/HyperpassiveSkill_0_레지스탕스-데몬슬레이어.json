@@ -10,7 +10,7 @@
     {
         "skill_name": "데몬 슬래시-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 슬래시의 데미지를 증가시킨다.",
-        "skill_level": 991,
+        "skill_level": 990,
         "skill_effect": "최종 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBIE"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "메타모포시스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n메타모포시스의 데미지를 증가시킨다.",
-        "skill_level": 184,
+        "skill_level": 186,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBIH"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "데몬 임팩트-리듀스 포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 임팩트의 포스 소비량을 감소시킨다.",
-        "skill_level": 714,
+        "skill_level": 713,
         "skill_effect": "포스 소비량 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBJB"
     }
