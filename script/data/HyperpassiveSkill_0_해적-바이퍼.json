@@ -10,14 +10,14 @@
     {
         "skill_name": "더블 럭키 다이스-엑스트라 넘버",
         "skill_description": "[마스터 레벨 : 1]\r\n더블 럭키 다이스에 행운의 숫자 7이 추가된다.\n필요 스킬 : 더블 럭키 다이스 5레벨 이상",
-        "skill_level": 108,
+        "skill_level": 107,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKFOBIE"
     },
     {
         "skill_name": "더블 럭키 다이스-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n럭키 다이스에서 4, 5, 6이 나올 확률을 증가시킨다.",
-        "skill_level": 776,
+        "skill_level": 777,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKFOBIF"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "훅 봄버-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n훅 봄버의 데미지를 증가시킨다.",
-        "skill_level": 206,
+        "skill_level": 205,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKFOBIJ"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "훅 봄버-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n훅 봄버의 공격 횟수를 증가시킨다.",
-        "skill_level": 409,
+        "skill_level": 410,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKFOBJB"
     }
