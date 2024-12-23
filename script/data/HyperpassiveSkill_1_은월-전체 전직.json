@@ -1,37 +1,37 @@
-999
+1000
 [
     {
         "skill_name": "귀참-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 데미지를 증가시킨다.",
-        "skill_level": 881,
+        "skill_level": 890,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIG"
     },
     {
         "skill_name": "귀참-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 888,
+        "skill_level": 898,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIH"
     },
     {
         "skill_name": "귀참-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 공격 횟수를 증가시킨다.",
-        "skill_level": 879,
+        "skill_level": 889,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAII"
     },
     {
         "skill_name": "폭류권-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n폭류권의 데미지를 증가시킨다.",
-        "skill_level": 97,
+        "skill_level": 96,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIJ"
     },
     {
         "skill_name": "폭류권-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n폭류권의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 29,
+        "skill_level": 30,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJA"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "여우령-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 공격력을 증가시킨다.",
-        "skill_level": 275,
+        "skill_level": 278,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJC"
     },
     {
         "skill_name": "여우령-리핏 어택 보너스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 공격 반복 횟수를 증가시킨다.",
-        "skill_level": 728,
+        "skill_level": 738,
         "skill_effect": "공격 반복 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJD"
     },
     {
         "skill_name": "여우령-서먼 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 소환 확률을 증가시킨다.",
-        "skill_level": 732,
+        "skill_level": 740,
         "skill_effect": "소환 확률 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJE"
     }

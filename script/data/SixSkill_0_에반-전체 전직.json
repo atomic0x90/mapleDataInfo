@@ -3,133 +3,133 @@
     {
         "skill_name": "서클 오브 마나 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n마나의 흐름에 통달하여 고밀도로 응축된 강력한 마나체를 연속으로 두 번 발사한다.\n필요 스킬 : 서클 오브 마나 Ⅳ 30레벨 이상",
-        "skill_level": 23658,
+        "skill_level": 23660,
         "skill_effect": "MP 52 소비 \n[1타]: 최대 8명의 적을 555%의 데미지로 4번 공격\n[2타]: 최대 8명의 적을 625%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMA"
     },
     {
         "skill_name": "서클 오브 썬더 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n번개의 마법진을 생성해 주변의 적을 섬멸한다.\n필요 스킬 : 서클 오브 썬더 10레벨 이상",
-        "skill_level": 22617,
+        "skill_level": 22622,
         "skill_effect": "MP 87 소비, 최대 8명의 적을 730%의 데미지로 5번 공격\n미르 스킬을 사용한 후 서클 오브 마나 사용 중 혹은 엎드린 상태에서 서클 오브 썬더를 사용하면 서클 오브 썬더가 발동되지 않고 융합 스킬을 발동할 수 있지만 소비 MP가 3배로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMC"
     },
     {
         "skill_name": "드래곤 스위프트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[미르 스킬] 미르가 전방을 빠르게 왕복하며 경로상의 적들을 공격한다. 드래곤 스위프트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n미르 스킬과 융합 스킬은 공격 속도 증가의 효과를 받지 않는다.\n필요 스킬 : 드래곤 스위프트 20레벨 이상",
-        "skill_level": 22617,
+        "skill_level": 22622,
         "skill_effect": "MP 90 소비, 최대 8명의 적을 790%의 데미지로 4번 공격, 3.5초 동안 지속\n재사용 대기시간 8초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMD"
     },
     {
         "skill_name": "스위프트 오브 썬더 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 스위프트 공격 중 에반의 마법과 공명해 다섯 지점에 번개의 마법진을 그리며 충돌한다. 스위프트 오브 썬더는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 스위프트 사용 중, 에반이 서클 오브 썬더 마법을 사용하면 발동된다.\n필요 스킬 : 스위프트 오브 썬더 20레벨 이상",
-        "skill_level": 22617,
+        "skill_level": 22622,
         "skill_effect": "MP 80 소비, 지점별 충돌시마다 최대 8명의 적을 2300%의 데미지로 9번 공격\n동일한 적이 중첩해서 충돌에 맞을 때마다 충돌의 최종 데미지 60% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBME"
     },
     {
         "skill_name": "스위프트 오브 윈드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 스위프트 공격 중 에반의 마법과 공명해 일정 시간 기류를 폭주 시켜 날카로운 바람 칼날을 발사 한다. 스위프트 오브 윈드는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 스위프트 사용 중, 에반이 서클 오브 윈드 마법을 사용하면 발동된다.\n필요 스킬 : 스위프트 오브 윈드 20레벨 이상",
-        "skill_level": 22617,
+        "skill_level": 22622,
         "skill_effect": "MP 66 소비, 최대 5명의 적에게 700%의 데미지로 2번 공격하는 바람 칼날 5개 발사, 3.5초 지속\n일반 몬스터 공격 시 데미지 75%p 증가\n여러 개의 바람 칼날이 1명의 적을 공격하면 바람 칼날의 최종 데미지 35% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMF"
     },
     {
         "skill_name": "서클 오브 어스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n불규칙한 마법진을 생성해 전방의 지면을 들어 올려 적을 강타한다.\n필요 스킬 : 서클 오브 어스 20레벨 이상",
-        "skill_level": 5517,
+        "skill_level": 6310,
         "skill_effect": "MP 61 소비, 최대 8명의 적을 541%의 데미지로 5번 공격\n미르 스킬을 사용한 후 서클 오브 마나 사용 중 혹은 엎드린 상태에서 서클 오브 어스를 사용하면 서클 오브 어스가 발동되지 않고 융합 스킬을 발동할 수 있지만 소비 MP가 3배로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMG"
     },
     {
         "skill_name": "드래곤 다이브 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[미르 스킬] 미르가 에반 전방에 강하게 충돌한 후 날갯짓으로 충격파를 발생시킨다. 드래곤 다이브는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n미르 스킬과 융합 스킬은 공격 속도 증가의 효과를 받지 않는다.\n필요 스킬 : 드래곤 다이브 20레벨 이상",
-        "skill_level": 5517,
+        "skill_level": 6310,
         "skill_effect": "MP 73 소비, 최대 6명의 적을 451%의 데미지로 3번 공격, 3.5초 동안 지속\n재사용 대기시간 8초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMH"
     },
     {
         "skill_name": "다이브 오브 어스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 다이브 공격 중 에반의 마법과 공명해 전방에 솟아오른 바위를 파쇄하며 주변에 강력한 피해를 입힌다. 다이브 오브 어스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. \n 미르가 드래곤 다이브 사용 중, 에반이 서클 오브 어스 마법을 사용하면 발동된다.\n필요 스킬 : 다이브 오브 어스 20레벨 이상",
-        "skill_level": 5517,
+        "skill_level": 6310,
         "skill_effect": "MP 73 소비, 바위를 형성하고 공격한 후 세 지점에 충돌하여 공격, 공격 시 마다 최대 6명의 적을 1407%의 데미지로 10번 공격\n동일한 적이 중첩해서 충돌에 맞을 때마다 충돌의 최종 데미지 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBMI"
     },
     {
         "skill_name": "다이브 오브 썬더 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 다이브 공격 중 에반의 마법과 공명해 일정 시간 온몸에서 지면을 타고 흐르는 강력한 전기 구체들을 만들어 낸다. 다이브 오브 썬더는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 다이브 사용 중, 에반이 서클 오브 썬더 마법을 사용하면 발동된다.\n필요 스킬 : 다이브 오브 썬더 20레벨 이상",
-        "skill_level": 5517,
+        "skill_level": 6310,
         "skill_effect": "MP 73 소비, 4초 동안 일정 간격마다 439%의 데미지로 공격하는 전기 구체 4개 생성\n전기 구체는 적을 타격하거나 일정 시간이 지나면 소멸",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBMJ"
     },
     {
         "skill_name": "서클 오브 윈드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전방에 휘몰아치는 돌풍을 만들어 적을 밀어내며 충격을 입힌다.\n필요 스킬 : 서클 오브 윈드 10레벨 이상",
-        "skill_level": 2659,
+        "skill_level": 3088,
         "skill_effect": "MP 42 소비, 최대 6명의 적을 541%의 데미지로 5번 공격하며 밀어냄\n미르 스킬을 사용한 후 서클 오브 마나 사용 중 혹은 엎드린 상태에서 서클 오브 윈드를 사용하면 서클 오브 윈드가 발동되지 않고 융합 스킬을 발동할 수 있지만 소비 MP가 3배로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBNA"
     },
     {
         "skill_name": "드래곤 브레스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[미르 스킬] 미르가 전방에 타오르는 화염을 뿜어내 모든 적을 불태운다. 드래곤 브레스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n미르 스킬과 융합 스킬은 공격 속도 증가의 효과를 받지 않는다.\n필요 스킬 : 드래곤 브레스 30레벨 이상",
-        "skill_level": 2659,
+        "skill_level": 3088,
         "skill_effect": "MP 83 소비, 최대 8명의 적을 337%의 데미지로 5번 공격, 3초 동안 지속\n재사용 대기시간 10초\n",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBNB"
     },
     {
         "skill_name": "브레스 오브 어스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 브레스 공격 중 에반의 마법과 공명해 대지를 딛고 올라서 다수의 적을 추적하는 화염 브레스를 발사한다. 브레스 오브 어스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 브레스 사용 중, 에반이 서클 오브 어스 마법을 사용하면 발동된다.\n필요 스킬 : 브레스 오브 어스 30레벨 이상",
-        "skill_level": 2659,
+        "skill_level": 3088,
         "skill_effect": "MP 83 소비, 최대 4명의 적을 351%의 데미지로 6번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBNC"
     },
     {
         "skill_name": "브레스 오브 윈드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 브레스 공격 중 에반의 마법과 공명해 적의 숨결을 끊어 놓을 강력한 화염 돌풍 브레스를 발사한다. 브레스 오브 윈드는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 브레스 사용 중, 에반이 서클 오브 윈드 마법을 사용하면 발동된다.\n필요 스킬 : 브레스 오브 윈드 30레벨 이상",
-        "skill_level": 2659,
+        "skill_level": 3088,
         "skill_effect": "MP 83 소비, 최대 8명의 적을 331%의 데미지로 6번 공격, 3.5초 동안 지속\nHP가 30% 이하로 남은 적에게 데미지 65%p증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBNE"
     },
     {
         "skill_name": "마법 잔해 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n융합 스킬에 피격 당한 적의 주변에 짙은 마력의 마법 잔해를 생성한다. 생성된 마법 잔해를 발동시켜 에반 주변의 적에게 피해를 입힐 수 있으며 한 번에 발동된 마법 잔해의 수가 많을수록 더 많은 피해를 입힐 수 있다.\n자동 사용 모드에서는 마법 잔해가 일정 개수 생성될 때마다 자동으로 발동된다.\n자동 사용 모드 온오프 : 마우스 우클릭 \n필요 스킬 : 강화된 마법 잔해 20레벨 이상",
-        "skill_level": 2659,
+        "skill_level": 3088,
         "skill_effect": "융합 스킬에 피격 당한 적 근처에서 짙은 마력의 마법 잔해 1개 생성, 재생성 대기시간 0.4초, 최대 생성 제한 15개, 발동 시 MP 151 소비\n최대 15명의 적에게 분산되어 발사, 217%의 데미지로 1번 공격, 마법 잔해 5개 당 데미지 185%p증가, 생성된 마법 잔해는 사용하지 않고 일정 시간이 지나면 소멸",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBNF"
     },
     {
         "skill_name": "드래곤 스파킹 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n에반이 직접 공격하는 공격 스킬이 사용된 후 미르가 추가 공격을 실행한다.",
-        "skill_level": 2659,
+        "skill_level": 3088,
         "skill_effect": "[파이널 어택류 스킬] 100%의 확률로 282%의 데미지로 공격하는 드래곤 스파킹 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBNG"
     },
     {
         "skill_name": "조디악 버스트",
         "skill_description": "[마스터 레벨 : 30]\r\n성좌의 힘으로 에반과 미르, 별의 공명을 이끌어내어 일대를 별바다로 만든다. 공격 스킬 적중 시 별의 힘이 마력과 공명하여 유성우가 내린다. 유성우는 최대 HP가 가장 높은 보스 몬스터에게 우선 생성되며 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 14265,
+        "skill_level": 14272,
         "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n최대 15명의 적을 1120%의 데미지로 15번 공격하는 마력이 24회 발생\n45초 동안 공격 스킬 적중 시 최대 15명의 적에게 1080%의 데미지로\n8번 공격하는 유성우 9개 발생\n유성우 재발동 대기시간 3초\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 9942,
+        "skill_level": 9951,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 9942,
+        "skill_level": 9951,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "엘리멘탈 블래스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n엘리멘탈 블래스트를 강화한다.",
-        "skill_level": 13248,
+        "skill_level": 13254,
         "skill_effect": "엘리멘탈 블래스트의 최종 데미지 60% 증가, 재사용 대기시간 40초로 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEE"
     },
@@ -143,7 +143,7 @@
     {
         "skill_name": "조디악 레이 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n조디악 레이를 강화한다.",
-        "skill_level": 15155,
+        "skill_level": 15154,
         "skill_effect": "조디악 레이의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEG"
     },
