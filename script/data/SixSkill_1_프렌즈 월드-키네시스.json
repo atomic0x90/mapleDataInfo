@@ -1,4 +1,4 @@
-996
+998
 [
     {
         "skill_name": "얼티메이트-메테리얼 VI",
@@ -31,7 +31,7 @@
     {
         "skill_name": "텔레키네시스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n키네시스의 공격이 적중 시 일정 확률로 이계의 물질이 생성된다. 이계의 물질은 공격에 성공한 대상 중 최대 HP가 높은 보스 몬스터를 우선 추적한다. \n싸이킥 포스, 싸이킥 드레인, 싸이킥 샷, 에버싸이킥, 얼티메이트-B.P.M 스킬 사용시에는 발동되지 않는다.\n필요 스킬 : 텔레키네시스 10레벨 이상",
-        "skill_level": 3,
+        "skill_level": 2,
         "skill_effect": "공격 적중 시 70%의 확률로 이계의 물질이 생성되어 적을 417%의 데미지로 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDOBMH"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 15,
+        "skill_level": 14,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     },
     {
         "skill_name": "얼티메이트-무빙 매터 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n얼티메이트-무빙 매터를 강화한다.",
-        "skill_level": 32,
+        "skill_level": 31,
         "skill_effect": "얼티메이트-무빙 매터의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJH"
     },
@@ -73,16 +73,9 @@
     {
         "skill_name": "싸이킥 토네이도 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n싸이킥 토네이도를 강화한다.",
-        "skill_level": 8,
+        "skill_level": 7,
         "skill_effect": "싸이킥 토네이도의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJG"
-    },
-    {
-        "skill_name": "로 오브 그라비티 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n로 오브 그라비티를 강화한다.",
-        "skill_level": 4,
-        "skill_effect": "로 오브 그라비티의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJJ"
     },
     {
         "skill_name": "솔 야누스",
@@ -97,5 +90,12 @@
         "skill_level": 31,
         "skill_effect": "최대 HP의 10% 소비\n60초 동안 순환의 고리 소환, 최대 1개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 400%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
+    },
+    {
+        "skill_name": "로 오브 그라비티 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n로 오브 그라비티를 강화한다.",
+        "skill_level": 3,
+        "skill_effect": "로 오브 그라비티의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJJ"
     }
 ]

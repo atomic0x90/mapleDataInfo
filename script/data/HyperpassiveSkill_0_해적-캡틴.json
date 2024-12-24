@@ -10,7 +10,7 @@
     {
         "skill_name": "더블 럭키 다이스-엑스트라 넘버",
         "skill_description": "[마스터 레벨 : 1]\r\n더블 럭키 다이스에 행운의 숫자 7이 추가된다.\n필요 스킬 : 더블 럭키 다이스 5레벨 이상",
-        "skill_level": 36,
+        "skill_level": 35,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBIE"
     },
@@ -31,14 +31,14 @@
     {
         "skill_name": "래피드 파이어-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 사거리를 증가시킨다.",
-        "skill_level": 763,
+        "skill_level": 761,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBJA"
     },
     {
         "skill_name": "래피드 파이어-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 336,
+        "skill_level": 335,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBJB"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "헤드 샷-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n헤드 샷의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 950,
+        "skill_level": 949,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBII"
     }

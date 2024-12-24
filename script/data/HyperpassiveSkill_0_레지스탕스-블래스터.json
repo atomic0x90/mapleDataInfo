@@ -31,28 +31,28 @@
     {
         "skill_name": "릴리즈 파일 벙커-쇼크 웨이브 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커로 발생하는 충격파의 데미지를 증가시킨다.",
-        "skill_level": 790,
+        "skill_level": 793,
         "skill_effect": "데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKFOBIH"
     },
     {
         "skill_name": "릴리즈 파일 벙커-보너스 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n릴리즈 파일 벙커 사용 중 가드 판정을 받는다.",
-        "skill_level": 458,
+        "skill_level": 457,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKFOBII"
     },
     {
         "skill_name": "인듀어런스 실드-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n인듀어런스 실드가 소멸할 때 소멸 수치의 일부만큼 HP가 회복된다.",
-        "skill_level": 24,
+        "skill_level": 23,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKFOBIJ"
     },
     {
         "skill_name": "허리케인 믹서-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n허리케인 믹서의 데미지를 증가시킨다.",
-        "skill_level": 6,
+        "skill_level": 5,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKFOBJB"
     },

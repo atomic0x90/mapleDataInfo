@@ -45,7 +45,7 @@
     {
         "skill_name": "체인아츠:테이크다운-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠:테이크다운의 데미지를 증가시킨다.",
-        "skill_level": 220,
+        "skill_level": 219,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBIJ"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "체인아츠:테이크다운-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠:테이크다운의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 786,
+        "skill_level": 787,
         "skill_effect": "재사용 대기시간 20% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBJB"
     }
