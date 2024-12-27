@@ -3,63 +3,63 @@
     {
         "skill_name": "다크 제네시스-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 418,
+        "skill_level": 413,
         "skill_effect": "재사용 대기시간 40% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKFOBJH"
     },
     {
         "skill_name": "다크 제네시스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 데미지를 증가시킨다.",
-        "skill_level": 465,
+        "skill_level": 479,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKFOBJI"
     },
     {
         "skill_name": "다크 제네시스-에디셔널 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 제네시스의 단일 적을 공격하는 번개의 데미지를 증가시킨다.",
-        "skill_level": 554,
+        "skill_level": 563,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKFOBJJ"
     },
     {
         "skill_name": "다크 오라-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n다크 오라에 보스 몬스터 공격 시 데미지를 증가시키는 기능을 추가한다.",
-        "skill_level": 993,
+        "skill_level": 994,
         "skill_effect": "보스 몬스터 공격 시 데미지 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKFOBKA"
     },
     {
         "skill_name": "디버프 오라-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n디버프 오라에 적이 받는 최종 데미지가 증가하는 기능을 추가한다.",
-        "skill_level": 996,
+        "skill_level": 997,
         "skill_effect": "적이 받는 최종 데미지 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKFOBKB"
     },
     {
         "skill_name": "블루 오라-디스펠 매직",
         "skill_description": "[마스터 레벨 : 1]\r\n블루 오라에 일정 시간마다 파티원들의 상태 이상을 해제시키는 기능을 추가한다. 일부 상태 이상은 해제되지 않는다.",
-        "skill_level": 832,
+        "skill_level": 834,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKFOBKC"
     },
     {
         "skill_name": "쉘터-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n쉘터의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 366,
+        "skill_level": 359,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKFOBKD"
     },
     {
         "skill_name": "쉘터-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n쉘터의 지속시간을 증가시킨다.",
-        "skill_level": 279,
+        "skill_level": 271,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKFOBKE"
     },
     {
         "skill_name": "쉘터-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n쉘터의 최대 HP의 일정 비율로 피해를 입히는 공격의 피해 감소 비율을 증가시킨다.",
-        "skill_level": 82,
+        "skill_level": 80,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKFOBKF"
     }
