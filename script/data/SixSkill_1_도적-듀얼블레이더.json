@@ -3,42 +3,42 @@
     {
         "skill_name": "팬텀 블로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n비화원 격노의 비기로 전방의 적들에게 치명적인 연속공격을 가한다. 몬스터의 방어율을 일정 수준 무시할 수 있다.\n필요 스킬 : 팬텀 블로우 30레벨 이상",
-        "skill_level": 16530,
+        "skill_level": 16507,
         "skill_effect": "MP 52 소비, 최대 4명의 적을 530%의 데미지로 6번 공격\n몬스터의 방어율 40% 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMA"
     },
     {
         "skill_name": "아수라 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n빠르게 회전하여 보이지 않는 진공의 칼날을 주위에 두른 채 적들을 섬멸한다. 아수라는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 어떠한 공격에도 밀리지 않는다.\n필요 스킬 : 아수라 1레벨 이상",
-        "skill_level": 13170,
+        "skill_level": 13212,
         "skill_effect": "MP 330 소비, 최대 3초 동안 최대 10명의 적을 1110%의 데미지로 6번 공격\n몬스터의 방어율 100% 무시\n지속 시간 동안 이동 및 점프가 가능하며 스킬 재사용 시 즉시 취소\n재사용 대기시간 60초\n[패시브 효과 : 팬텀 블로우 VI 데미지 106%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMB"
     },
     {
         "skill_name": "히든 블레이드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n비화원의 비급 속에 존재하는 비검을 소환하여 자신의 모든 공격에 강력한 추가타를 입힌다. 추가로 데미지가 증가한다.\n필요 스킬 : 히든 블레이드 1레벨 이상\n발동 이펙트 잠금 : 마우스 우클릭",
-        "skill_level": 2710,
-        "skill_effect": "MP 224 소비, 데미지 10% 증가\n[파이널 어택류 스킬] 90초 동안 100%의 확률로 직접 공격하는 공격 스킬에 414%의 추가타 발생",
+        "skill_level": 2901,
+        "skill_effect": "MP 225 소비, 데미지 10% 증가\n[파이널 어택류 스킬] 90초 동안 100%의 확률로 직접 공격하는 공격 스킬에 420%의 추가타 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMC"
     },
     {
         "skill_name": "생자필멸",
         "skill_description": "[마스터 레벨 : 30]\r\n명계의 신 야차가 강림하여 주위의 모든 적을 멸한다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 2710,
-        "skill_effect": "MP 61 소비, 공용 스킬을 제외한 자신이 직접 공격하는 스킬 15회 적중 시 최대 8명의 적을 370%의 데미지로 6번 공격하는 야차의 난도가 4회 발동\n재발동 대기시간 1초",
+        "skill_level": 2901,
+        "skill_effect": "MP 62 소비, 공용 스킬을 제외한 자신이 직접 공격하는 스킬 15회 적중 시 최대 8명의 적을 375%의 데미지로 6번 공격하는 야차의 난도가 4회 발동\n재발동 대기시간 1초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBOBMG"
     },
     {
         "skill_name": "블레이드 퓨리 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n비화원의 선풍의 비기로 양손의 검을 이용해 빠르게 회전하며 주변의 적들을 동시에 베어낸다.\n일정 시간마다 주변의 적을 크게 휩쓰는 퓨리어스 제트로 강화된다. 커스텀 커맨드를 사용하면 위 방향키와 함께 스킬을 사용해야만 퓨리어스 제트가 발동된다.\n추가로 팬텀 블로우 VI를 영구히 강화한다.\n필요 스킬 : 블레이드 퓨리 30레벨 이상\n커스텀 커맨드 온오프 : 마우스 우클릭",
-        "skill_level": 1197,
+        "skill_level": 1294,
         "skill_effect": "MP 66 소비, 최대 8명의 적을 377%의 데미지로 5번 공격\n6초마다 퓨리어스 제트로 강화\n퓨리어스 제트 : MP 80 소비, 최대 12명의 적을 387%의 데미지로 6번 공격\n[패시브 효과 : 팬텀 블로우 VI 데미지 13%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMD"
     },
     {
         "skill_name": "써든레이드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n숨어 있던 동료들을 총동원하여 적들을 공격한다. 써든레이드는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n추가로 영구히 생자필멸을 강화한다.\n필요 스킬 : 써든레이드 30레벨 이상",
-        "skill_level": 1197,
+        "skill_level": 1294,
         "skill_effect": "MP 325 소비, 최대 15명의 적을 672%의 데미지로 7번 공격, 10초 동안 1초당 387%의 도트 데미지\n재사용 대기시간 14초\n[패시브 효과 : 생자필멸의 데미지 110%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMF"
     },
@@ -66,28 +66,28 @@
     {
         "skill_name": "블레이드 스톰 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블레이드 스톰을 강화한다.",
-        "skill_level": 15617,
+        "skill_level": 15614,
         "skill_effect": "블레이드 스톰의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBIE"
     },
     {
         "skill_name": "카르마 퓨리 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n카르마 퓨리를 강화한다.",
-        "skill_level": 8166,
+        "skill_level": 8175,
         "skill_effect": "카르마 퓨리의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBIF"
     },
     {
         "skill_name": "블레이드 토네이도 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블레이드 토네이도를 강화한다.",
-        "skill_level": 11367,
+        "skill_level": 11377,
         "skill_effect": "블레이드 토네이도의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBIG"
     },
     {
         "skill_name": "헌티드 엣지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n헌티드 엣지를 강화한다.",
-        "skill_level": 2686,
+        "skill_level": 2709,
         "skill_effect": "헌티드 엣지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBIH"
     },
