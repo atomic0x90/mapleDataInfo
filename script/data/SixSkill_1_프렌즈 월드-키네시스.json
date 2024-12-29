@@ -1,16 +1,16 @@
-999
+998
 [
     {
         "skill_name": "얼티메이트-메테리얼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n이계의 오브제를 들어올려 전방의 적들에게 수직으로 내리꽂는다. 오브제에 맞은 적들은 일정 시간 방어율이 감소한다. 방어율 감소 효과는 싸이킥 그랩 및 얼티메이트-싸이킥 샷에 의한 효과와 중첩되지 않는다.\n필요 스킬 : 얼티메이트-메테리얼 10레벨 이상",
-        "skill_level": 196,
+        "skill_level": 189,
         "skill_effect": "싸이킥 포인트 6칸 소비\n최대 12명의 적을 791%의 데미지로 10번 공격, 공격을 받은 적은 30초 동안 방어율 15% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPBMA"
     },
     {
         "skill_name": "어나더 렐름",
         "skill_description": "[마스터 레벨 : 30]\r\n공간을 뒤트는 균열을 통해 이계의 물질을 떨어뜨려 초토화시킨다. 사용 시 얼티메이트-무빙 매터가 정지한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 193,
+        "skill_level": 192,
         "skill_effect": "싸이킥 포인트 5칸 소비, 시전 동작 중 무적\n최대 15명의 적을 821%의 데미지로 12번 공격하는 균열이 32회 발생 후, 832%의 데미지로 13번 공격하는 폭발이 44회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPEMA"
     },

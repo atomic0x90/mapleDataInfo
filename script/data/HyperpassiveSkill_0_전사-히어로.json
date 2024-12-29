@@ -24,7 +24,7 @@
     {
         "skill_name": "어드밴스드 파이널 어택-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 파이널 어택의 데미지를 증가시킨다.",
-        "skill_level": 39,
+        "skill_level": 38,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKFOBIG"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "어드밴스드 파이널 어택-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n어드밴스드 파이널 어택의 발동 확률을 증가시킨다.",
-        "skill_level": 933,
+        "skill_level": 934,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKFOBII"
     },
