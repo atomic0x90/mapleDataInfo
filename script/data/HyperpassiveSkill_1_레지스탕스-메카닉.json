@@ -1,16 +1,16 @@
-997
+996
 [
     {
         "skill_name": "마그네틱 필드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 데미지를 증가시킨다.",
-        "skill_level": 890,
+        "skill_level": 889,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBID"
     },
     {
         "skill_name": "마그네틱 필드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 지속 시간을 증가시킨다.",
-        "skill_level": 522,
+        "skill_level": 521,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIE"
     },
@@ -31,28 +31,28 @@
     {
         "skill_name": "서포트 웨이버:H-EX-파티 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 웨이버:H-EX로 강화되는 파티원들의 최종 데미지를 추가로 증가시킨다. 서포트 웨이버 강화의 효과와 합하여 적용된다.\n필요 스킬 : 서포트 웨이버 강화 10 레벨",
-        "skill_level": 933,
+        "skill_level": 932,
         "skill_effect": "파티원 최종 데미지 2% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIH"
     },
     {
         "skill_name": "서포트 웨이버:H-EX-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 웨이버:H-EX의 지속 시간을 증가시킨다.\n필요 스킬 : 서포트 웨이버 강화 10 레벨",
-        "skill_level": 98,
+        "skill_level": 99,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBII"
     },
     {
         "skill_name": "매시브 파이어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n매시브 파이어 : SPLASH-F/IRON-B의 데미지를 증가시킨다. 매시브 파이어 : IRON-B, 매시브 파이어 : IRON-B VI의 2차 폭발에는 적용되지 않는다.",
-        "skill_level": 921,
+        "skill_level": 919,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIJ"
     },
     {
         "skill_name": "매시브 파이어 : SPLASH-F-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n매시브 파이어 : SPLASH-F의 최대 공격 가능한 몬스터 수를 증가시킨다. 매시브 파이어 : IRON-B, 매시브 파이어 : IRON-B VI의 2차 폭발에는 적용되지 않는다.",
-        "skill_level": 132,
+        "skill_level": 131,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBJA"
     },
