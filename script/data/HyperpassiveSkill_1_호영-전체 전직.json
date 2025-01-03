@@ -3,21 +3,21 @@
     {
         "skill_name": "천지인-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n여의선 : 인, 토파류 류 스킬, 파초풍 류 스킬, 지진쇄 류 스킬, 멸화염 류 스킬, 금고봉 : 인의 데미지를 증가시킨다.",
-        "skill_level": 961,
+        "skill_level": 970,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPB"
     },
     {
         "skill_name": "천지인-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n여의선 : 인, 토파류 류 스킬, 파초풍 류 스킬, 지진쇄 류 스킬, 멸화염 류 스킬, 금고봉 : 인의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 206,
+        "skill_level": 208,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPC"
     },
     {
         "skill_name": "천지인-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n여의선 : 인, 토파류 류 스킬, 파초풍 류 스킬, 지진쇄 류 스킬, 멸화염 류 스킬, 금고봉 : 인의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 950,
+        "skill_level": 959,
         "skill_effect": "보스 몬스터 공격 시 데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPD"
     },
@@ -31,14 +31,14 @@
     {
         "skill_name": "환영 분신부-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n환영 분신부와 선기 : 극대 분신난무의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 703,
+        "skill_level": 708,
         "skill_effect": "방어율 무시 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPF"
     },
     {
         "skill_name": "추적 귀화부-헤이스트",
         "skill_description": "[마스터 레벨 : 1]\r\n추적 귀화부의 공격 주기를 감소시킨다.",
-        "skill_level": 924,
+        "skill_level": 933,
         "skill_effect": "공격 주기 25% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPG"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "권술 : 호접지몽-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n권술 : 호접지몽의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 155,
+        "skill_level": 157,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPI"
     },
     {
         "skill_name": "권술 : 흡성와류-헤이스트",
         "skill_description": "[마스터 레벨 : 1]\r\n권술 : 흡성와류의 공격 주기를 감소시킨다.",
-        "skill_level": 938,
+        "skill_level": 947,
         "skill_effect": "공격 주기 20% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPJ"
     }

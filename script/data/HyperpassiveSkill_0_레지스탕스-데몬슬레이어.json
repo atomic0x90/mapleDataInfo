@@ -3,14 +3,14 @@
     {
         "skill_name": "데몬 슬래시-엑스트라 포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 슬래시로 흡수하는 포스를 증가시킨다.",
-        "skill_level": 540,
+        "skill_level": 541,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBID"
     },
     {
         "skill_name": "데몬 슬래시-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 슬래시의 데미지를 증가시킨다.",
-        "skill_level": 990,
+        "skill_level": 991,
         "skill_effect": "최종 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBIE"
     },
@@ -24,14 +24,14 @@
     {
         "skill_name": "메타모포시스-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n메타모포시스 발동 시 도트 데미지와 데몬 슬레이어의 모든 공격이 공격 무시 및 공격 반사 상태의 적에게도 피해를 입힌다.\n발동 이펙트 잠금 : 마우스 우클릭",
-        "skill_level": 394,
+        "skill_level": 391,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBIG"
     },
     {
         "skill_name": "메타모포시스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n메타모포시스의 데미지를 증가시킨다.",
-        "skill_level": 548,
+        "skill_level": 554,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBIH"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "데몬 임팩트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 임팩트의 데미지를 증가시킨다.",
-        "skill_level": 993,
+        "skill_level": 994,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBIJ"
     },
     {
         "skill_name": "데몬 임팩트-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 임팩트의 공격 횟수를 증가시킨다.",
-        "skill_level": 986,
+        "skill_level": 987,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBJA"
     },
     {
         "skill_name": "데몬 임팩트-리듀스 포스",
         "skill_description": "[마스터 레벨 : 1]\r\n데몬 임팩트의 포스 소비량을 감소시킨다.",
-        "skill_level": 485,
+        "skill_level": 484,
         "skill_effect": "포스 소비량 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKFOBJB"
     }

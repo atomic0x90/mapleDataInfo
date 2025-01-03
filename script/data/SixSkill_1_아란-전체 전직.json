@@ -1,100 +1,100 @@
-996
+997
 [
     {
         "skill_name": "비욘더 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n아란의 완성된 초식이 전방의 적을 휩쓴다. 스킬 사용 중 적의 어떠한 공격에도 밀려나지 않는다.\n일정 시간마다 아란에게 공명한 마하가 적을 추가 공격한다.\n추가 공격은 최대 HP가 높은 보스 몬스터를 우선 공격하며 재사용 대기시간 초기화 효과를 적용받지 않는다.\n필요 스킬 : 비욘더 마스터리 II 30레벨 이상",
-        "skill_level": 11063,
+        "skill_level": 11142,
         "skill_effect": "MP 52 소비, 최대 7명의 적을 공격\n스킬 키 연타를 통해 최대 3타까지 연속 공격 가능\n비욘더-현무 : 675%의 데미지로 5번 공격\n비욘더-주작 : 675%의 데미지로 5번 공격\n비욘더-청룡 : 675%의 데미지로 5번 공격\n추가 크리티컬 확률 100%, 몬스터의 방어율 30% 무시\n4초마다 마하가 나타나 최대 3명의 적을 630%의 데미지로 6번 추가 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBMA"
     },
     {
         "skill_name": "부스트 엔드-헌터즈 타겟팅 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n폴암에 힘을 응집시켜 강한 일격을 날린다.\n 키다운 중 공격 방향을 변경할 수 있으며, 무적 상태가 된다. \n아드레날린 부스트 및 초각성 상태에서 1회만 사용 가능하다.추가로 비욘더 VI를 영구히 강화한다.\n[발동 커맨드 : ↓→↓/↓←↓ + 공격키 키다운]\n커맨드 잠금 : 마우스 우클릭\n필요 스킬 : 부스트 엔드-헌터즈 타겟팅 30레벨 이상",
-        "skill_level": 6636,
+        "skill_level": 6711,
         "skill_effect": "MP 250 소비, 최대 6초까지 키다운 가능하며 키다운 종료 시 2초 동안 무적\n최대 10명의 적을 1530%의 데미지로 15번 공격하는 참격이 10회 발동\n재사용 대기시간 30초\n[패시브 효과 : 비욘더 VI 데미지 135%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBME"
     },
     {
         "skill_name": "하이퍼 부스트 엔드-라스트 스탠드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n꺾이지 않는 영웅의 의지로 마하의 힘을 담은 참격을 날린다.\n초각성 상태에서 1회만 사용 가능하다.\n필요 스킬 : 하이퍼 부스트 엔드-라스트 스탠드 1레벨 이상",
-        "skill_level": 2273,
+        "skill_level": 2381,
         "skill_effect": "MP 560 소비, 스킬 키를 연타하여 최대 3타까지 공격 가능\n1타 : 최대 12명의 적을 3360%의 데미지로 10번 공격하는 참격이 5회 발동\n2타 : 최대 12명의 적을 3360%의 데미지로 10번 공격하는 참격이 5회 발동\n3타 : 최대 15명의 적을 5880%의 데미지로 13번 공격하는 참격이 7회 발동\n재사용 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBMJ"
     },
     {
         "skill_name": "프로즌 그라운드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n마하의 힘으로 혹한의 냉기를 가득 머금은 폴암을 소환해 일정 시간 동안 동토를 생성한다. 프로즌 그라운드는 소환수 지속시간 증가로 지속시간이 증가하지 않고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n[발동 커맨드 : ↓ + 공격키]\n커맨드 잠금 : 마우스 우클릭\n필요 스킬 : 프로즌 그라운드 20레벨 이상",
-        "skill_level": 1196,
-        "skill_effect": "MP 40 소비, 60초 동안 지속\n일정 주기마다 최대 6명의 적을 808%의 데미지로 4번 공격\n재사용 대기시간 30초",
+        "skill_level": 1262,
+        "skill_effect": "MP 41 소비, 60초 동안 지속\n일정 주기마다 최대 6명의 적을 841%의 데미지로 4번 공격\n재사용 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBND"
     },
     {
         "skill_name": "아드레날린 맥시멈 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n콤보의 힘과 마하의 힘을 온전히 사용할 수 있게 되어 아드레날린 부스트의 한계를 뛰어넘는다. 극대화된 냉기로 인하여 아드레날린 부스트 상태가 아닐 때 직접 공격하는 스킬 사용 시 일정 시간마다 얼음 폭풍이 피어오른다.\n아드레날린 부스트 상태에서 강화된 아란의 폴암술에서 새어 나온 짙어진 혹한의 냉기가 주변의 적을 더욱 빠르게 공격하는 얼음 파동으로 형상화되고 일정 횟수 이상 공격 적중 시 마하의 힘을 온전히 발휘할 수 있는 초각성 상태로 진입한다.\n초각성 상태에서는 하이퍼 부스트 엔드 스킬을 사용할 수 있고 마하의 힘이 금빛 섬광이 되어 적을 추가 공격한다.\n아드레날린 부스트 지속 시간은 초각성 지속 시간에 영향을 받지 않는다.\n초각성 상태는 버프 지속시간 증가 효과를 받지 않는다.\n필요 스킬 : 아드레날린 맥시멈 30레벨 이상",
-        "skill_level": 1196,
-        "skill_effect": "1000 콤보 도달 후 아드레날린 부스트 액티베이트를 사용해 15초 동안 아드레날린 부스트 상태 진입 가능\n얼음 폭풍 : 직접 공격하는 공격 스킬 사용 시 15초 마다 최대 12명의 적을 1357%의 데미지로 14번 공격\n얼음 파동 : 일정 주기마다 최대 7명의 적을 820%의 데미지로 2번 공격\n아드레날린 부스트 상태에서 10번 이상 공격 적중 시 초각성 상태 진입\n초각성 : 5초 동안 지속, 하이퍼 부스트 엔드 스킬 사용 가능, 직접 공격하는 공격 스킬 사용 시 0.8초 간격으로 금빛 섬광 발동\n금빛 섬광 : 최대 12명의 적을 1078%의 데미지로 10번 공격\n재발동 대기시간 180초, 초각성 재발동 대기시간은 아드레날린 부스트 액티베이트의 테두리로 표기",
+        "skill_level": 1262,
+        "skill_effect": "1000 콤보 도달 후 아드레날린 부스트 액티베이트를 사용해 15초 동안 아드레날린 부스트 상태 진입 가능\n얼음 폭풍 : 직접 공격하는 공격 스킬 사용 시 15초 마다 최대 12명의 적을 1444%의 데미지로 14번 공격\n얼음 파동 : 일정 주기마다 최대 7명의 적을 853%의 데미지로 2번 공격\n아드레날린 부스트 상태에서 10번 이상 공격 적중 시 초각성 상태 진입\n초각성 : 5초 동안 지속, 하이퍼 부스트 엔드 스킬 사용 가능, 직접 공격하는 공격 스킬 사용 시 0.8초 간격으로 금빛 섬광 발동\n금빛 섬광 : 최대 12명의 적을 1126%의 데미지로 10번 공격\n재발동 대기시간 180초, 초각성 재발동 대기시간은 아드레날린 부스트 액티베이트의 테두리로 표기",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBNE"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동된다. 다만, 반드시 폴암을 들었을 경우에만 발동이 가능하다.\n필요 스킬 : 어드밴스드 파이널 어택 30레벨 이상",
-        "skill_level": 1196,
-        "skill_effect": "[파이널 어택류 스킬] 공격 적중 시 61%의 확률로 289%의 데미지로 3번 추가 공격",
+        "skill_level": 1262,
+        "skill_effect": "[파이널 어택류 스킬] 공격 적중 시 61%의 확률로 301%의 데미지로 3번 추가 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDOBNC"
     },
     {
         "skill_name": "엔드 게임",
         "skill_description": "[마스터 레벨 : 30]\r\n마하의 힘을 완전히 해방시켜 지난한 전투를 일격에 끝낸다.\n 초각성 재발동 대기시간이 아니라면 사용과 동시에 초각성 상태로 진입한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 6605,
+        "skill_level": 6647,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n마하의 힘이 해방되며 최대 15명의 적을 1500%의 데미지로 14번 공격하는 파동이 50회 발생\n이후 최대 15명의 적을 1620%의 데미지로 15번 공격하는 참격이 30회 발생\n사용 시 초각성 상태가 15초 동안 지속되며 초각성 재발동 대기시간이라면 아드레날린 부스트 상태로 진입\n엔드 게임 사용 전 누적된 콤보 100당 초각성 또는 아드레날린 부스트 지속 시간 1초 증가\n아드레날린 부스트 및 초각성 상태에서 엔드 게임 사용 시 아드레날린 부스트 혹은 초각성 상태 5초로 변경\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 3008,
+        "skill_level": 3031,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 3008,
+        "skill_level": 3031,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "부스트 엔드-아드레날린 서지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n부스트 엔드-아드레날린 서지/하이퍼 부스트 엔드-아드레날린 서지를 강화한다.",
-        "skill_level": 2931,
+        "skill_level": 2966,
         "skill_effect": "부스트 엔드-아드레날린 서지/하이퍼 부스트 엔드-아드레날린 서지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEA"
     },
     {
         "skill_name": "브랜디쉬 마하 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n브랜디쉬 마하를 강화한다.",
-        "skill_level": 1160,
+        "skill_level": 1173,
         "skill_effect": "브랜디쉬 마하의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEB"
     },
     {
         "skill_name": "파이널 비욘더-백호 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n파이널 비욘더-백호를 강화한다.",
-        "skill_level": 4768,
+        "skill_level": 4805,
         "skill_effect": "파이널 비욘더-백호의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEC"
     },
     {
         "skill_name": "블리자드 템페스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블리자드 템페스트를 강화한다.",
-        "skill_level": 3570,
+        "skill_level": 3602,
         "skill_effect": "블리자드 템페스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBED"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 667,
+        "skill_level": 671,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }
