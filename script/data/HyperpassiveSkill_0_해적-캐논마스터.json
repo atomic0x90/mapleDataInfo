@@ -1,4 +1,4 @@
-999
+1000
 [
     {
         "skill_name": "서포트 몽키 트윈스-스플릿 데미지",
@@ -17,21 +17,21 @@
     {
         "skill_name": "서포트 몽키 트윈스-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 몽키 트윈스를 추가로 설치할 수 있게 된다.",
-        "skill_level": 974,
+        "skill_level": 975,
         "skill_effect": "추가 1개 설치 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIF"
     },
     {
         "skill_name": "캐논 바주카-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 데미지를 증가시킨다.",
-        "skill_level": 305,
+        "skill_level": 307,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIG"
     },
     {
         "skill_name": "캐논 바주카-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 56,
+        "skill_level": 57,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIH"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "캐논 버스터-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 버스터의 공격 횟수를 증가시킨다.",
-        "skill_level": 987,
+        "skill_level": 988,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBJB"
     }

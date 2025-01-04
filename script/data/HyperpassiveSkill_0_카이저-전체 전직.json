@@ -1,65 +1,65 @@
-998
+997
 [
     {
         "skill_name": "기가 슬래셔-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n기가 슬래셔와 드라코 슬래셔의 데미지를 증가시킨다.",
-        "skill_level": 996,
+        "skill_level": 995,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBID"
     },
     {
         "skill_name": "기가 슬래셔-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n기가 슬래셔와 드라코 슬래셔의 슬로우 지속 시간을 증가시킨다.",
-        "skill_level": 357,
+        "skill_level": 354,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIE"
     },
     {
         "skill_name": "기가 슬래셔-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n기가 슬래셔와 드라코 슬래셔의 공격 횟수를 증가시킨다.",
-        "skill_level": 995,
+        "skill_level": 994,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIF"
     },
     {
         "skill_name": "인퍼널 브레스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스의 데미지를 증가시킨다.",
-        "skill_level": 693,
+        "skill_level": 695,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIG"
     },
     {
         "skill_name": "인퍼널 브레스-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 272,
+        "skill_level": 270,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIH"
     },
     {
         "skill_name": "인퍼널 브레스-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n인퍼널 브레스의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 560,
+        "skill_level": 564,
         "skill_effect": "보스 몬스터 공격 시 데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBII"
     },
     {
         "skill_name": "윙비트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 데미지를 증가시킨다.",
-        "skill_level": 581,
+        "skill_level": 582,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBIJ"
     },
     {
         "skill_name": "윙비트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 지속시간을 증가시킨다.",
-        "skill_level": 180,
+        "skill_level": 179,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBJA"
     },
     {
         "skill_name": "윙비트-엑스트라 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n윙비트의 공격 횟수를 증가시킨다.",
-        "skill_level": 338,
+        "skill_level": 335,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKFOBJB"
     }
