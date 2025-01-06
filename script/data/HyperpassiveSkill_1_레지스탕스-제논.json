@@ -52,14 +52,14 @@
     {
         "skill_name": "홀로그램 그래피티-스피드",
         "skill_description": "[마스터 레벨 : 1]\r\n홀로그램 필드 안에서 움직이는 응축 에너지볼의 이동속도를 증가시킨다.",
-        "skill_level": 782,
+        "skill_level": 783,
         "skill_effect": "홀로그램 필드 안에서 움직이는 응축 에너지볼의 이동속도 증가.",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBIJ"
     },
     {
         "skill_name": "홀로그램 그래피티-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n홀로그램 필드의 유지 시간을 증가시킨다.",
-        "skill_level": 718,
+        "skill_level": 717,
         "skill_effect": "홀로그램 필드의 유지 시간 10초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBJB"
     }

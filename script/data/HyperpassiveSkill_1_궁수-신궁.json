@@ -17,14 +17,14 @@
     {
         "skill_name": "샤프 아이즈-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n샤프 아이즈 효과 중 크리티컬 확률을 증가시킨다.",
-        "skill_level": 149,
+        "skill_level": 148,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJFOBIF"
     },
     {
         "skill_name": "피어싱-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n피어싱, 피어싱 II, 화살 조각, 인핸스 피어싱, 인핸스 피어싱 II의 데미지를 증가시킨다.",
-        "skill_level": 771,
+        "skill_level": 772,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJFOBIG"
     },

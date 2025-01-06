@@ -17,7 +17,7 @@
     {
         "skill_name": "자벨린-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n크래프트:자벨린/글로리 윙:자벨린의 보스 몬스터 공격 시 데미지를 증가시킨다.\n필요 스킬 : 크래프트:자벨린Ⅱ 30레벨 이상",
-        "skill_level": 975,
+        "skill_level": 976,
         "skill_effect": "크래프트:자벨린의 보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKFOBPD"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "롱기누스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n크래프트:롱기누스의 공격 횟수를 증가시킨다.",
-        "skill_level": 140,
+        "skill_level": 139,
         "skill_effect": "크래프트:롱기누스의 공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKFOBPF"
     },
