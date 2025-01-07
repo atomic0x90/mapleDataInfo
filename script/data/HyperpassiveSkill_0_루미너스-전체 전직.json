@@ -3,7 +3,7 @@
     {
         "skill_name": "라이트 리플렉션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n라이트 리플렉션의 데미지를 증가시킨다.",
-        "skill_level": 529,
+        "skill_level": 530,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKFOBID"
     },
@@ -24,7 +24,7 @@
     {
         "skill_name": "아포칼립스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n아포칼립스의 데미지를 증가시킨다.",
-        "skill_level": 327,
+        "skill_level": 326,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKFOBIG"
     },
