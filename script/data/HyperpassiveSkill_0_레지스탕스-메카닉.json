@@ -17,7 +17,7 @@
     {
         "skill_name": "마그네틱 필드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 방어율 무시를 증가시킨다.",
-        "skill_level": 338,
+        "skill_level": 339,
         "skill_effect": "몬스터 방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIF"
     },
@@ -31,7 +31,7 @@
     {
         "skill_name": "서포트 웨이버:H-EX-파티 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 웨이버:H-EX로 강화되는 파티원들의 최종 데미지를 추가로 증가시킨다. 서포트 웨이버 강화의 효과와 합하여 적용된다.\n필요 스킬 : 서포트 웨이버 강화 10 레벨",
-        "skill_level": 968,
+        "skill_level": 967,
         "skill_effect": "파티원 최종 데미지 2% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIH"
     },

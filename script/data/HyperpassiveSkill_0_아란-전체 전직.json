@@ -3,35 +3,35 @@
     {
         "skill_name": "프로즌 그라운드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 그라운드의 데미지를 증가시킨다.",
-        "skill_level": 56,
+        "skill_level": 57,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKFOBJJ"
     },
     {
         "skill_name": "프로즌 그라운드-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 그라운드의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 8,
+        "skill_level": 9,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKFOBKA"
     },
     {
         "skill_name": "프로즌 그라운드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 그라운드의 지속 시간을 증가시킨다.",
-        "skill_level": 15,
+        "skill_level": 16,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKFOBKB"
     },
     {
         "skill_name": "부스트 엔드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n부스트 엔드와 하이퍼 부스트 엔드 스킬의 데미지를 증가시킨다.",
-        "skill_level": 976,
+        "skill_level": 975,
         "skill_effect": "데미지 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKFOBKC"
     },
     {
         "skill_name": "부스트 엔드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n부스트 엔드와 하이퍼 부스트 엔드 스킬의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 558,
+        "skill_level": 556,
         "skill_effect": "몬스터 방어율 무시 20% 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKFOBKD"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "비욘더-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 파이널 비욘더-백호의 데미지를 증가시킨다.",
-        "skill_level": 988,
+        "skill_level": 987,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKFOBKF"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "비욘더-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n비욘더와 파이널 비욘더-백호의 몬스터 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 386,
+        "skill_level": 387,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKFOBKH"
     }
