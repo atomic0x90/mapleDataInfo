@@ -10,14 +10,14 @@
     {
         "skill_name": "퀸터플 스로우-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n퀸터플 스로우의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 995,
+        "skill_level": 996,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOGKFOBIE"
     },
     {
         "skill_name": "퀸터플 스로우-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n퀸터플 스로우의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 20,
+        "skill_level": 19,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOGKFOBIF"
     },
