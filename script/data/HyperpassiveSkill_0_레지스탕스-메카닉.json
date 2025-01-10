@@ -10,14 +10,14 @@
     {
         "skill_name": "마그네틱 필드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 지속 시간을 증가시킨다.",
-        "skill_level": 529,
+        "skill_level": 530,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIE"
     },
     {
         "skill_name": "마그네틱 필드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 방어율 무시를 증가시킨다.",
-        "skill_level": 339,
+        "skill_level": 338,
         "skill_effect": "몬스터 방어율 무시 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIF"
     },

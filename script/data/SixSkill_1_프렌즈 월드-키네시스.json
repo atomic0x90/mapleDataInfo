@@ -1,4 +1,4 @@
-998
+997
 [
     {
         "skill_name": "얼티메이트-메테리얼 VI",
@@ -31,7 +31,7 @@
     {
         "skill_name": "텔레키네시스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n키네시스의 공격이 적중 시 일정 확률로 이계의 물질이 생성된다. 이계의 물질은 공격에 성공한 대상 중 최대 HP가 높은 보스 몬스터를 우선 추적한다. \n싸이킥 포스, 싸이킥 드레인, 싸이킥 샷, 에버싸이킥, 얼티메이트-B.P.M 스킬 사용시에는 발동되지 않는다.\n필요 스킬 : 텔레키네시스 10레벨 이상",
-        "skill_level": 5,
+        "skill_level": 6,
         "skill_effect": "공격 적중 시 70%의 확률로 이계의 물질이 생성되어 적을 417%의 데미지로 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDOBMH"
     },
