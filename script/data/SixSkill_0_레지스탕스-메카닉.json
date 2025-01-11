@@ -3,91 +3,91 @@
     {
         "skill_name": "매시브 파이어 : SPLASH-F VI",
         "skill_description": "[마스터 레벨 : 30]\r\n<메탈아머 : 휴먼>에 내장된 대구경 다연장포로 다수의 적들을 분산 타격한다. 탱크 모드에선 해당 스킬키로 탱크에 내장된 무기를 사용 가능하다.\n필요 스킬 : 매시브 파이어 : SPLASH-F 30레벨 이상",
-        "skill_level": 8810,
+        "skill_level": 8828,
         "skill_effect": "MP 90 소비, 최대 8명의 적을 745%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKDPBMA"
     },
     {
         "skill_name": "호밍 미사일 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n다수 공격용 호밍 미사일을 발사한다. 호밍 미사일은 조준된 적을 끝까지 따라가서 타격하도록 프로그래밍 되어있다.\n호밍 미사일은 공격 반사 상태의 적을 공격해도 피해를 입지 않고 탱크 모드에서 사용 시 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n키다운하여 호밍 미사일을 지속적으로 발사할 수 있으며\n호밍 미사일 키다운 중 이동하거나 다른 스킬을 사용할 수\n있다.\n호밍 미사일 연기 이펙트 온오프 : 마우스 우클릭\n필요 스킬 : 어드밴스드 호밍 미사일 15레벨 이상",
-        "skill_level": 17367,
+        "skill_level": 17393,
         "skill_effect": "MP 70 소비, 최대 12명의 적을 550%의 데미지로 동시 조준 및 타격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKDPBMD"
     },
     {
         "skill_name": "디스토션 필드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스 비전의 기술로 제작한 특수 탄환을 발사하여 공간을 왜곡시킨다. 일정 시간마다 주변 일대를 완전히 왜곡시키는 인텐스 디스토션 필드로 강화된다.\n디스토션 필드는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 디스토션 필드 1레벨 이상",
-        "skill_level": 4266,
+        "skill_level": 4356,
         "skill_effect": "MP 280 소비, 4초 동안 일정 간격마다 최대 8명의 적을 720%의 데미지로 2번 공격\n재사용 대기시간 8초\n30초마다 인텐스 디스토션 필드로 강화\n인텐스 디스토션 필드 : MP 300 소비, 2초 동안 일정 간격마다 최대 8명의 적을 1240%의 데미지로 3번 공격 후 폭발하여 최대 8명의 적을 1990%의 데미지로 15번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKDPBME"
     },
     {
         "skill_name": "로봇 런처 : RM7 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n직사형 고정포 <RM7>을 설치한다. RM7은 전방을 향해 직선으로 포를 연발하여 적을 타격한다. RM7은 지속시간이 경과하면 스스로 폭발한다.\n소환수 지속시간 증가 효과를 받는다.\n<로봇 런처 : RM7>은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 로봇 런처 : RM7 15레벨 이상",
-        "skill_level": 3123,
+        "skill_level": 3203,
         "skill_effect": "MP 54 소비, 98초 동안 로봇 런처 설치\n일정 간격마다 최대 2명의 적을 605%의 데미지로 3번 공격, 지속시간 경과 시 자폭하여 최대 6명의 적을 825%의 데미지로 3번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKDPBMG"
     },
     {
         "skill_name": "마그네틱 필드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n3개의 자기장 코일을 설치하여 지속적으로 적을 공격할 수 있는 <마그네틱 필드>를 생성한다. 자기장 코일은 지속시간이 경과하면 스스로 폭발한다.\n자기장 코일이 1개도 설치되어 있지 않고 3개가 한번에 설치되기에 충분한 공간이 있다면 아래 방향키와 함께 사용하여 3개의 자기장 코일을 한 번에 설치할 수 있다.\n마그네틱 필드가 생성된 상태에서 자기장 코일을 새로 설치 시 기존에 설치된 3개의 자기장 코일이 모두 삭제 후 설치된다.\n추가로 영구히 매시브 파이어 : IRON-B VI의 2차 폭발 공격을 강화한다.\n소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 마그네틱 필드 10레벨 이상",
-        "skill_level": 3123,
+        "skill_level": 3203,
         "skill_effect": "MP 90 소비, 자기장 코일을 3개 설치했을 경우 98초 동안 마그네틱 필드 생성\n일정 간격마다 범위 내 최대 10명의 적을 1095%의 데미지로 공격, 공격 적중 시 기절, 지속시간 경과 시 자폭하여 최대 6명의 적을 1006%의 데미지로 3번 공격\n[패시브 효과 : 매시브 파이어 : IRON-B VI의 2차 폭발 공격 데미지 160%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKDPBMH"
     },
     {
         "skill_name": "로봇 팩토리 : RM1 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 주기로 토이 로봇을 소환하는 로봇 팩토리 <RM1>을 설치한다. 소환된 토이 로봇들은 RM1 주변에서 적을 발견하거나 일정 시간이 경과하면 자폭하여 데미지를 주며, 로봇 팩토리 또한 지속시간이 경과하면 스스로 폭발한다.\n소환수 지속시간 증가 효과를 받는다.\n<로봇 팩토리 : RM1>은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 로봇 팩토리 : RM1 30레벨 이상",
-        "skill_level": 3123,
+        "skill_level": 3203,
         "skill_effect": "MP 125 소비, 98초 동안 로봇 팩토리 설치\n자폭하여 최대 4명의 적을 825%의 데미지로 3번 공격하는 토이 로봇 3초마다 3개 소환, 로봇 팩토리는 지속시간 경과 시 자폭하여 최대 6명의 적을 930%의 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKDPBMI"
     },
     {
         "skill_name": "그라운드 제로",
         "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스의 기술이 집약된 대규모 미사일 시스템을 가동하여 폭격 지점을 완전히 초토화한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 10896,
+        "skill_level": 10912,
         "skill_effect": "MP 1800 소비, 시전 동작 중 무적\n최대 15명의 적을 2040%의 데미지로 8번 공격하는 지진 10회 발동 이후 최대 15명의 적을 1980%의 데미지로 15번 공격하는 폭발 32회 발동\n대규모 폭격 : 30초 동안 지속, 일정 시간마다 최대 15명의 적을 2888%의 데미지로 15번 공격하는 폭격 발동\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 8049,
+        "skill_level": 8052,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 8049,
+        "skill_level": 8052,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "멀티플 옵션 : M-FL 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n멀티플 옵션 : M-FL을 강화한다.",
-        "skill_level": 4408,
+        "skill_level": 4412,
         "skill_effect": "멀티플 옵션 : M-FL의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAOA"
     },
     {
         "skill_name": "마이크로 미사일 컨테이너 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n마이크로 미사일 컨테이너를 강화한다.",
-        "skill_level": 13748,
+        "skill_level": 13763,
         "skill_effect": "마이크로 미사일 컨테이너의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAOB"
     },
     {
         "skill_name": "메탈아머 전탄발사 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n메탈아머 전탄발사를 강화한다.",
-        "skill_level": 5277,
+        "skill_level": 5283,
         "skill_effect": "메탈아머 전탄발사의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAOC"
     },
     {
         "skill_name": "메카 캐리어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n메카 캐리어를 강화한다.",
-        "skill_level": 6928,
+        "skill_level": 6932,
         "skill_effect": "메카 캐리어의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAOD"
     },

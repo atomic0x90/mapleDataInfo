@@ -3,7 +3,7 @@
     {
         "skill_name": "트루 사이트-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n트루 사이트의 지속 시간을 증가시킨다.",
-        "skill_level": 898,
+        "skill_level": 899,
         "skill_effect": "지속 시간 20초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFODKFOBID"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "트루 사이트-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n트루 사이트의 방어율 감소량을 증가시킨다.",
-        "skill_level": 963,
+        "skill_level": 964,
         "skill_effect": "방어율 10% 추가 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFODKFOBIF"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "코스믹 샤워-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n코스믹 샤워의 지속 시간을 증가시킨다.",
-        "skill_level": 28,
+        "skill_level": 27,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFODKFOBII"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "디바이드 앤 슬래시-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n솔라 슬래시와 루나 디바이드의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 25,
+        "skill_level": 24,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFODKFOBJA"
     },

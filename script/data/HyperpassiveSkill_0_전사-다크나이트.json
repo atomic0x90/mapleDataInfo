@@ -38,14 +38,14 @@
     {
         "skill_name": "리인카네이션-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n리인카네이션의 패시브 효과로 오르는 크리티컬 확률을 증가시킨다.",
-        "skill_level": 493,
+        "skill_level": 494,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIFOBII"
     },
     {
         "skill_name": "궁니르 디센트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n궁니르 디센트의 데미지를 증가시킨다.",
-        "skill_level": 987,
+        "skill_level": 986,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIFOBIJ"
     },
