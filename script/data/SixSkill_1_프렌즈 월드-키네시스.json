@@ -3,7 +3,7 @@
     {
         "skill_name": "얼티메이트-메테리얼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n이계의 오브제를 들어올려 전방의 적들에게 수직으로 내리꽂는다. 오브제에 맞은 적들은 일정 시간 방어율이 감소한다. 방어율 감소 효과는 싸이킥 그랩 및 얼티메이트-싸이킥 샷에 의한 효과와 중첩되지 않는다.\n필요 스킬 : 얼티메이트-메테리얼 10레벨 이상",
-        "skill_level": 191,
+        "skill_level": 190,
         "skill_effect": "싸이킥 포인트 6칸 소비\n최대 12명의 적을 791%의 데미지로 10번 공격, 공격을 받은 적은 30초 동안 방어율 15% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPBMA"
     },

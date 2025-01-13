@@ -3,7 +3,7 @@
     {
         "skill_name": "라이트 리플렉션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n라이트 리플렉션의 데미지를 증가시킨다.",
-        "skill_level": 528,
+        "skill_level": 527,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKFOBID"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "라이트 리플렉션-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n라이트 리플렉션의 사거리를 증가시킨다.",
-        "skill_level": 591,
+        "skill_level": 592,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKFOBIF"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "앱솔루트 킬-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n앱솔루트 킬의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 79,
+        "skill_level": 78,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKFOBJA"
     },
     {
         "skill_name": "앱솔루트 킬-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n앱솔루트 킬의 사거리를 증가시킨다.",
-        "skill_level": 581,
+        "skill_level": 582,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKFOBJB"
     }

@@ -38,28 +38,28 @@
     {
         "skill_name": "롤링 캐논 레인보우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n캐논슈터의 든든한 조력자들에게 명령을 내려 여러 개의 캐논포를 소환하여 전방에 무자비한 화력을 집중시킨다.\n소환 시 가지고 있는 연락망을 1개 소모하며 아래 방향키와 함께 사용하면 가지고 있는 연락망을 2개 소모하여 더 강한 맥스 캐논 레인보우를 소환할 수 있다. 커스텀 커맨드를 사용하면 방향키 입력 없이 스킬 키만으로 맥스 캐논 레인보우를 사용할 수 있다.\n캐논은 최대 1개 소환 가능하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n영구적으로 캐논 버스터 VI를 강화시킨다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n필요 스킬 : 롤링 캐논 레인보우 1레벨",
-        "skill_level": 1309,
+        "skill_level": 1322,
         "skill_effect": "MP 330 소비, 10초 동안 캐논포 소환\n캐논포는 일정 시간마다 최대 10명의 적을 1762%의 데미지로 5번 공격\n맥스 캐논 레인보우 : MP 330 소비, 10초 동안 캐논포 소환\n캐논포는 일정 시간마다 최대 10명의 적을 1955% 데미지로 5번 공격\n연락망은 90초 마다 1개씩 증가하며 최대 2개까지 소지 가능\n[패시브 효과 : 캐논 버스터 VI의 데미지 116%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIDPBNE"
     },
     {
         "skill_name": "서포트 몽키 트윈스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전투를 도와줄 정예 포병 몽키 트윈스를 소환한다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 서포트 몽키 트윈스 VI는 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 서포트 몽키 트윈스 15레벨",
-        "skill_level": 1172,
+        "skill_level": 1188,
         "skill_effect": "MP 80 소비, 60초 동안 포병 소환, 포병은 각각 990%의 데미지로 공격\n재사용 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIDPBMJ"
     },
     {
         "skill_name": "몽키 퓨리어스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전방에 특수 제작된 고탄성 포탄을 발사하여 부딪히는 모든 적에게 화약을 묻혀 일정 시간 동안 데미지를 주며 캐논슈터 공격의 효과를 크게 강화시킨다. 스킬을 한 번 더 사용하여 즉시 포탄을 터트릴 수 있다.\n필요 스킬 : 몽키 퓨리어스 20레벨",
-        "skill_level": 1172,
+        "skill_level": 1188,
         "skill_effect": "MP 70 소비, 최대 10명의 적을 298%의 데미지로 3번 공격\n100% 확률로 60초 동안 1초마다 320%의 도트 데미지, 해당 적에게 데미지 53% 증가\n스킬 재사용 시 즉시 폭발하며 최대 10명의 적을 298%의 데미지로 3번 공격\n재사용 대기시간 10초, 적중한 적이 없다면 재사용 대기시간 5초 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIDPBNC"
     },
     {
         "skill_name": "슈퍼 캐논 익스플로젼",
         "skill_description": "[마스터 레벨 : 30]\r\n거대한 캐논을 날려보내 일대를 초토화시킨다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4219,
+        "skill_level": 4220,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1920%의 데미지로 4번 공격하는 폭격이 68회 발생\n이후 최대 15명의 적을 2220%의 데미지로 5번 공격하는 대폭발이 52회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIDPEMA"
     },
@@ -94,7 +94,7 @@
     {
         "skill_name": "스페셜 몽키 에스코트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스페셜 몽키 에스코트를 강화한다.",
-        "skill_level": 1634,
+        "skill_level": 1635,
         "skill_effect": "스페셜 몽키 에스코트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBJI"
     },
