@@ -1,4 +1,4 @@
-996
+997
 [
     {
         "skill_name": "블레이드 댄싱-리인포스",
@@ -10,7 +10,7 @@
     {
         "skill_name": "블레이드 댄싱-패스트 무브먼트",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 댄싱 스킬 사용 시 이동속도를 증가시킨다.",
-        "skill_level": 17,
+        "skill_level": 18,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBID"
     },
@@ -24,21 +24,21 @@
     {
         "skill_name": "퍼지롭 매스커레이드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드의 데미지를 증가시킨다.",
-        "skill_level": 855,
+        "skill_level": 854,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBIG"
     },
     {
         "skill_name": "퍼지롭 매스커레이드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드의 방어무시 비율을 증가시킨다.",
-        "skill_level": 644,
+        "skill_level": 641,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBIH"
     },
     {
         "skill_name": "퍼지롭 매스커레이드-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드 : 포격의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 208,
+        "skill_level": 207,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBII"
     },
