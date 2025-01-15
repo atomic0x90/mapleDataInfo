@@ -3,7 +3,7 @@
     {
         "skill_name": "귀참-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n귀참과 진 귀참의 데미지를 증가시킨다.",
-        "skill_level": 981,
+        "skill_level": 980,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAIG"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "여우령-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n여우령과 환여우령의 공격력을 증가시킨다.",
-        "skill_level": 196,
+        "skill_level": 197,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKFOAJC"
     },

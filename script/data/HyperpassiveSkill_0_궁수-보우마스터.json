@@ -24,7 +24,7 @@
     {
         "skill_name": "언카운터블 애로우-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n언카운터블 애로우의 데미지를 증가시킨다.",
-        "skill_level": 414,
+        "skill_level": 413,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKFOBIG"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "언카운터블 애로우-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n언카운터블 애로우의 공격 횟수를 증가시킨다.",
-        "skill_level": 498,
+        "skill_level": 499,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKFOBII"
     },

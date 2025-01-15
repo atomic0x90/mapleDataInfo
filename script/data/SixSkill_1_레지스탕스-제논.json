@@ -10,35 +10,35 @@
     {
         "skill_name": "홀로그램 그래피티 : 관통 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n홀로그램 필드를 전개한 뒤 에너지볼을 생성하여 에너지볼이 몬스터에 닿을 때마다 해당 몬스터에게 피해를 입힌다. 에너지볼은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 멀티 모드 링커를 통해 모드를 변경할 수 있다.\n필요 스킬 : 홀로그램 그래피티 30레벨 이상",
-        "skill_level": 3545,
+        "skill_level": 3549,
         "skill_effect": "MP 35 소비, 60초 동안 홀로그램 필드 생성\n볼이 적을 닿을 때마다 540%의 데미지로 공격\n재사용 대기시간 29초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBME"
     },
     {
         "skill_name": "트라이앵글 포메이션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n공격 시 일정 확률로 적에게 에어프레임을 출격시킨다. 에어프레임은 출격 시 적을 공격하고 지속적으로 적을 맴돌며 주의를 끌어 적의 명중치를 감소시킨다.\n에어프레임이 3개 중첩된 적을 한 번 더 공격하면 3개의 에어프레임이 일제히 강력한 플라즈마 전류를 뿜어내 공격한다.\n에어프레임은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 트라이앵글 포메이션 5레벨 이상",
-        "skill_level": 3545,
+        "skill_level": 3549,
         "skill_effect": "공격 시 30% 확률로 적에게 에어프레임을 출격시키며 410%의 데미지로 3번 공격\n에어프레임은 최대 3개까지 중첩되며 3개가 중첩된 적을 공격하면 240%의 데미지로 4번 공격하는 플라즈마 전류가 4번 발생\n에어프레임이 추가된 적의 명중치 8% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBMH"
     },
     {
         "skill_name": "로켓 시스템 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n자신의 공격 스킬 적중 시 범위 내의 적들에게 로켓을 발사한다.\n발동 시 짧은 시간 동안 발사 준비 시간이 필요하고 일정 횟수 이상 발동 시 이지스 시스템으로 강화된다. 로켓 시스템 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 추가로 퍼지롭 매스커레이드 VI의 데미지를 영구히 증가시킨다. 스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 로켓 시스템 최종 강화 10레벨 이상",
-        "skill_level": 1170,
+        "skill_level": 1172,
         "skill_effect": "직접 사용하는 공격 스킬 적중 시 568%의 데미지로 2번 공격하는 로켓 4개 발사, 일반 몬스터 공격 시 데미지 450%p 증가\n3회 발동 시 다음 로켓 시스템 VI은 이지스 시스템으로 강화\n[이지스 시스템] : 585%의 데미지로 2번 공격하는 강화 로켓 7개 발사\n재발동 대기시간 2초\n[패시브 효과 : 퍼지롭 매스커레이드 : 저격의 데미지 46%p, 퍼지롭 매스커레이드 : 처형의 데미지 30%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBMJ"
     },
     {
         "skill_name": "멜트다운 익스플로젼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n우주로부터 지상의 모든 것을 태워버리는 강력한 레이저 포격을 한다. 사용 후 일정 시간 동안 데미지가 증가한다. 재사용 대기시간 감소 효과를 받지 않는다.\n필요 스킬 : 멜트다운 익스플로젼 1레벨 이상",
-        "skill_level": 1170,
+        "skill_level": 1172,
         "skill_effect": "MP 300 소비, 최대 15명의 적을 2571%의 데미지로 7번 공격\n공격에 적중한 적은 10초 동안 몬스터 방어율 30% 감소\n사용 후 25초 동안 데미지 10% 증가, 시전 동작 중 무적\n재사용 대기시간 50초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBNC"
     },
     {
         "skill_name": "블레이드 댄싱 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n에너지소드를 길게 늘어뜨려 춤추듯이 휘두르며 주위 다수의 적에게 피해를 입힌다. 추가로 일정 시간마다 제논의 전투 메모리를 기반으로 환영을 프로젝션하는 로봇이 소환된다.\n필요 스킬 : 블레이드 댄싱 30레벨 이상",
-        "skill_level": 913,
+        "skill_level": 934,
         "skill_effect": "공격당 MP 15 소비, 최대 8명의 적을 464%의 데미지로 1번 공격\n공격 스킬 사용 시 10초 동안 지속되는 프로젝션 로봇 소환\n로봇은 일정 시간마다 메모리 댄싱을 3번 프로젝션\n메모리 댄싱 : 최대 15명의 적을 210%의 데미지로 7번 공격하는 일격 6회 발동\n메모리 댄싱 재발동 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBNE"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 1820,
+        "skill_level": 1823,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 1820,
+        "skill_level": 1823,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
@@ -73,28 +73,28 @@
     {
         "skill_name": "오버로드 모드 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n오버로드 모드를 강화한다.",
-        "skill_level": 3060,
+        "skill_level": 3061,
         "skill_effect": "오버로드 모드의 최종 데미지 60% 증가, 초과 충전 가능한 에너지 30로 증가, 에너지 충전 시간 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAOF"
     },
     {
         "skill_name": "홀로그램 그래피티 : 융합 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n홀로그램 그래피티 : 융합을 강화한다.",
-        "skill_level": 2674,
+        "skill_level": 2677,
         "skill_effect": "홀로그램 그래피티 : 융합의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAOG"
     },
     {
         "skill_name": "포톤 레이 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n포톤 레이를 강화한다.",
-        "skill_level": 1748,
+        "skill_level": 1750,
         "skill_effect": "포톤 레이의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAOH"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 506,
+        "skill_level": 507,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }

@@ -10,7 +10,7 @@
     {
         "skill_name": "싸이킥 그랩-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 스매싱과 싸이킥 샷의 공격력을 증가시킨다.\n필요 스킬 : 싸이킥 그랩2 30레벨",
-        "skill_level": 169,
+        "skill_level": 168,
         "skill_effect": "싸이킥 스매싱과 싸이킥 샷의 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPE"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "텔레키네시스-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 발동 확률을 증가시킨다.",
-        "skill_level": 147,
+        "skill_level": 148,
         "skill_effect": "발동 확률 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPJ"
     },
     {
         "skill_name": "텔레키네시스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 데미지를 증가시킨다.",
-        "skill_level": 37,
+        "skill_level": 38,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBIA"
     },
     {
         "skill_name": "텔레키네시스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 공격 횟수를 증가시킨다.",
-        "skill_level": 132,
+        "skill_level": 133,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBIB"
     }
