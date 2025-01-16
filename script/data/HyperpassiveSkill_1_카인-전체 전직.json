@@ -1,65 +1,65 @@
-1000
+999
 [
     {
         "skill_name": "브레스 슈터-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 브레스 슈터 스킬의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 95,
+        "skill_level": 96,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJBKFOBPB"
     },
     {
         "skill_name": "브레스 슈터-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 브레스 슈터 스킬의 데미지를 증가시킨다.",
-        "skill_level": 935,
+        "skill_level": 937,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJBKFOBPC"
     },
     {
         "skill_name": "브레스 슈터-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 브레스 슈터 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 905,
+        "skill_level": 916,
         "skill_effect": "보스 몬스터 공격 시 데미지 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJBKFOBPD"
     },
     {
         "skill_name": "처형-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 처형 스킬의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 75,
+        "skill_level": 73,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJBKFOBPE"
     },
     {
         "skill_name": "처형-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n4차 이하 및 하이퍼 스킬 중 처형 스킬의 데미지를 증가시킨다.",
-        "skill_level": 842,
+        "skill_level": 851,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJBKFOBPF"
     },
     {
         "skill_name": "처형-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n죽음의 축복 최종 데미지 증가 효과에 특별한 능력을 추가한다.",
-        "skill_level": 887,
+        "skill_level": 893,
         "skill_effect": "죽음의 축복 최종 데미지 증가 효과 중 처형 스킬 사용 시 어떠한 공격에도 밀리지 않게 된다.",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJBKFOBPG"
     },
     {
         "skill_name": "리메인 인센스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n리메인 인센스의 데미지를 증가시킨다.",
-        "skill_level": 888,
+        "skill_level": 897,
         "skill_effect": "데미지 50% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJBKFOBPH"
     },
     {
         "skill_name": "드래곤 팡-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 팡의 활동 범위를 증가시킨다.",
-        "skill_level": 136,
+        "skill_level": 133,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJBKFOBPI"
     },
     {
         "skill_name": "드래곤 스케일-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 스케일 사용 중 HP를 회복시킨다.",
-        "skill_level": 22,
+        "skill_level": 24,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJBKFOBPJ"
     }
