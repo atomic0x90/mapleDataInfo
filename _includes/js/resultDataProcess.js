@@ -12,7 +12,7 @@ function resultDataProcess(where, server, data) {
 	else if(where == 'hyper') what = '하이퍼 패시브 스킬 사용률';
 	else if(where == 'six') what = '6차 스킬 강화 평균';
 
-	spanContainer.textContent = (server == 0 ? '일반 월드' : '리부트 월드') + ' ' + what; 
+	spanContainer.textContent = (server == 0 ? '일반 월드' : '에오스, 핼리오스 월드') + ' ' + what; 
 
 	divID.appendChild(spanContainer);
 
