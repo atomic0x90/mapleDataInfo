@@ -1,72 +1,93 @@
-1000
+999
 [
     {
         "skill_name": "오비탈 플레임 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n화염 마법에 통달하여 오비탈 플레임의 데미지가 강화된다.\n동시에 4개까지 사용 가능하며 일정 횟수 사용 시 강화된 오비탈 플레임을 사용할 수 있다.\n강력한 마력으로 일정 시간마다 오비탈 플레임이 지나간 곳에 거대한 불꽃이 형성된다. 불 속성의 공격이다.\n필요 스킬 : 오비탈 플레임 IV 30레벨 이상",
-        "skill_level": 7527,
+        "skill_level": 7636,
         "skill_effect": "MP 45 소비, 최대 8명의 적을 440%의 데미지로 2번 공격, 일반 몬스터 공격 시 데미지 50% 증가\n3회 사용 시 다음 공격 강화 오비탈 플레임 VI 발동, 15초마다 최대 6명의 적을 620%의 데미지로 9번 공격하는 불길 4회 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBMA"
     },
     {
         "skill_name": "블레이징 익스팅션 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n고열의 화염을 구체로 압축시켜 발사한다. 화염 구체는 전방으로 이동하며 사정거리 내의 적들에게 화염 고리를 발사하여 불태운다.\n필요 스킬 : 블레이징 익스팅션 30레벨 이상",
-        "skill_level": 13265,
+        "skill_description": "[마스터 레벨 : 30]\r\n고열의 화염을 구체로 압축시켜 발사한다. 불 속성의 화염 구체는 전방으로 이동하며 사정거리 내의 적들에게 화염 고리를 발사하여 불태운다.\n아래 방향키를 누르면서 사용하면 블레이징 익스팅션 폭스 모드가 발동된다. 커맨드 잠금 시 아래 방향키를 누르면서 사용해도 블레이징 익스팅션 폭스 모드가 발동되지 않는다.\n파이어 라이온 소환 중 사용할 수 있다.\n필요 스킬 : 블레이징 익스팅션 30레벨 이상\n커맨드 잠금 : 마우스 우클릭",
+        "skill_level": 13642,
         "skill_effect": "MP 44 소비\n10초 동안 구체 주위의 최대 8명의 적을 1030%의 데미지로 4번 공격\n한명의 적에게는 최대 4번까지만 공격 발생\n재사용 대기시간 5초\n사용 시 블레이징 익스팅션 폭스 모드의 재사용 대기시간 자동 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBMH"
     },
     {
+        "skill_name": "오비탈 익스플로젼 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n화염의 본질을 이해하고 해방한다. \n일정 횟수 이상 오비탈 플레임, 피닉스 드라이브, 블레이징 오비탈 플레임, 인피니티 플레임 서클, 이터니티 적중 시 다음 공격에 불 속성의 화염의 기운 추가타가 발생한다. \n 화염의 기운 추가타는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. \n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 오비탈 익스플로젼 10레벨 이상",
+        "skill_level": 5726,
+        "skill_effect": "MP 15 소비\n오비탈 플레임, 피닉스 드라이브, 블레이징 오비탈 플레임, 인피니티 플레임 서클, 이터니티 10회 적중 시 다음 오비탈 플레임류 스킬, 인피니티 플레임 서클, 이터니티의 공격에 330%의 데미지로 3번 공격하는 추가타 발생",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBNF"
+    },
+    {
+        "skill_name": "피닉스 드라이브 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n불사조의 현신으로 화염의 흐름을 극한까지 개방하여 오비탈 플레임을 강화시킨다. 지속 중 오비탈 플레임 사용 시 화염의 기운이 넘쳐흘러 무차별적인 화염 폭격이 이루어진다.\n소환한 화신의 종류에 따라 다른 공격이 발동된다.\n필요 스킬 : 피닉스 드라이브 1레벨 이상",
+        "skill_level": 5726,
+        "skill_effect": "MP 330 소비, 15초 동안 오비탈 플레임 강화\n파이어 라이온 : 최대 8명의 적을 725%의 데미지로 2번 공격하는 불꽃 3개 발사, 여러 개의 불꽃이 하나의 몬스터를 공격하면 2번째 불꽃부터 최종 데미지 50% 감소, 일반 몬스터 공격 시 데미지 40% 증가\n플레임 폭스 : 최대 8명의 적을 1035%의 데미지로 2번 공격하는 불꽃 4개 발사, 여러 개의 불꽃이 하나의 몬스터를 공격하면 2번째 불꽃부터 최종 데미지 50% 감소\n재사용 대기시간 90초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBNA"
+    },
+    {
+        "skill_name": "인페르노라이즈 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n주변에 화염의 흐름을 한군데로 모아 지면에 거대한 화염을 솟구치게 한다. 아래 방향키를 누르면서 사용하면 인페르노라이즈 폭스 모드가 발동된다. 커맨드 잠금 시 아래 방향키를 누르면서 사용해도 인페르노라이즈 폭스 모드가 발동되지 않는다.\n불 속성의 공격이다. 파이어 라이온 소환 중에만 사용할 수 있다.\n커맨드 잠금 : 마우스 우클릭\n필요 스킬 : 인페르노라이즈 30레벨 이상",
+        "skill_level": 3588,
+        "skill_effect": "MP 130 소비, 최대 15명의 적을 500%의 데미지로 10번 공격\n일반 몬스터 공격 시 데미지 110%p 증가\n재사용 대기시간 12초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBNH"
+    },
+    {
         "skill_name": "이터니티",
         "skill_description": "[마스터 레벨 : 30]\r\n생사의 순환을 관장하는 불사조가 현신하여 온 생명체를 죽음으로 인도한다. 불사조는 일정 시간 동안 지상에서 순환의 불꽃을 피워낸다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 14368,
+        "skill_level": 14508,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 2100%의 데미지로 10번 공격하는 불꽃이 38회 발생, 30초 동안 일정 시간마다 최대 15명의 적을 3700%의 데미지로 13번 공격하는 순환의 불꽃 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 7110,
+        "skill_level": 7250,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 7110,
+        "skill_level": 7250,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "블레이징 오비탈 플레임 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블레이징 오비탈 플레임을 강화한다.",
-        "skill_level": 7542,
+        "skill_level": 7683,
         "skill_effect": "블레이징 오비탈 플레임의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKE"
     },
     {
         "skill_name": "플레임 디스차지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n플레임 디스차지를 강화한다.",
-        "skill_level": 5033,
+        "skill_level": 5146,
         "skill_effect": "플레임 디스차지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKF"
     },
     {
         "skill_name": "인피니티 플레임 서클 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n인피니티 플레임 서클을 강화한다.",
-        "skill_level": 16394,
+        "skill_level": 16555,
         "skill_effect": "인피니티 플레임 서클의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKG"
     },
     {
         "skill_name": "샐리맨더 미스칩 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n샐리맨더 미스칩을 강화한다.",
-        "skill_level": 5265,
+        "skill_level": 5358,
         "skill_effect": "샐리맨더 미스칩의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKH"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 963,
+        "skill_level": 971,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }
