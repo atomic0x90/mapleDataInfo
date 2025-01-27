@@ -1,115 +1,318 @@
-1000
+989
 [
     {
         "skill_name": "엔젤레이 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n성령의 기운으로 충만한 성검을 소환하여 전방을 향해 발사한다. 성검은 최대 HP가 가장 높은 적을 향해 유도되며 경로에 있는 적을 공격하는 한편, 파티원의 경우 HP를 회복시킨다. 언데드 상태의 파티원도 회복시킬 수 있다.\n성검이 일정 횟수 이상 적중 시 충만해진 성령의 기운에 의해 심판의 천사가 소환되어 적을 추가 공격한다. 성 속성의 공격이다.\n필요 스킬 : 엔젤레이 30레벨 이상",
-        "skill_level": 28494,
+        "skill_level": 28114,
         "skill_effect": "MP 70 소비, 최대 4명의 적을 355%의 데미지로 14번 공격하고 나를 포함한 파티원의 HP를 최대 HP의 10% 만큼 회복\n성검 12회 적중 시 심판의 천사가 나타나 적을 추가 공격\n심판의 천사 : 최대 15명의 적을 820%의 데미지로 10번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMA"
     },
     {
         "skill_name": "빅뱅 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n신성력을 넓게 퍼뜨린 후 폭발시켜 공격한다. 일정 시간마다 신성력이 충만해져 더 넓은 범위에 보다 강력한 신성 폭발을 발생시킬 수 있다.\n빅뱅 및 신성 폭발은 성 속성의 공격이다.\n커스텀 커맨드 사용 시 신성 폭발을 위 방향키와 함께 스킬 사용 시에만 발동시킬 수 있다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n필요 스킬 : 빅뱅 30레벨 이상",
-        "skill_level": 18304,
+        "skill_level": 18113,
         "skill_effect": "MP 115 소비, 최대 10명의 적을 820%의 데미지로 4번 공격\n신성 폭발 : MP 125 소비, 최대 12명의 적을 715%의 데미지로 6번 공격\n재발동 대기시간 6초\n빅뱅 및 신성 폭발의 일반 몬스터 공격 시 데미지 50% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMC"
     },
     {
         "skill_name": "트라이엄프 페더 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[복수] 승리의 천사의 힘을 강림시킨다. 승리의 힘이 지속 중일 때 스킬 적중 시 천사의 날개 깃털이 생성되어 주변의 적을 추적하여 공격한다.\n트라이엄프 페더 VI는 버프 지속시간 증가 효과를 받는다.\n필요 스킬 : 디스펠 10레벨 이상",
-        "skill_level": 18304,
+        "skill_level": 18113,
         "skill_effect": "MP 110 소비, 180초 동안 지속\n자신이 직접 공격하는 스킬 적중 시 4초 동안 적을 찾아 570%의 데미지로 4번 공격하는 천사의 날개 깃털 6개 생성\n하나의 적에게 여러 개의 날개 깃털 적중 시 두 번째 날개 깃털부터 최종 데미지 50% 감소\n날개 깃털 재생성 대기시간 3초\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBME"
     },
     {
         "skill_name": "엔젤릭 터치 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[복수] 천사를 강림시켜 적에게 천사의 손길을 선물하고, 손길이 머문 곳에 성물을 생성하여 적을 지속적으로 약화시킨다.\n천사에게 피격되거나 성물에 영향 받은 적은 약화되어 일정 시간 동안 방어율이 감소한다.\n필요 스킬 : 힐 20레벨 이상",
-        "skill_level": 10633,
+        "skill_level": 11208,
         "skill_effect": "MP 27 소비, 최대 6명의 적을 590%의 데미지로 7번 공격\n공격 당한 적은 60초 동안 방어율 44% 감소하는 디버프 적용\n천사가 공격한 위치에 성물 생성\n성물 : 90초 동안 소환, 최대 10명의 적에게 엔젤릭 터치와 동일한 디버프를 10초 동안 적용, 엔젤릭 터치의 디버프와 중첩 적용되지 않음\n재사용 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMH"
     },
     {
         "skill_name": "파운틴 포 엔젤 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[복수] 주변의 적을 신성한 힘으로 응징하는 오브제를 소환한다. 오브제에서 일정 시간마다 신성력이 발산되어 적을 공격한다. 파운틴 포 엔젤 VI는 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 홀리 파운틴 10레벨 이상",
-        "skill_level": 10633,
+        "skill_level": 11208,
         "skill_effect": "MP 45 소비, 60초 동안 지속\n일정 시간마다 최대 8명의 적을 310%의 데미지로 5번 공격\n재사용 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMG"
     },
     {
         "skill_name": "바하뮤트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 동안 성스러운 용 바하뮤트를 소환한다. 바하뮤트는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n또한 엔젤레이 VI를 영구히 강화한다.\n필요 스킬 : 바하뮤트 20레벨 이상",
-        "skill_level": 10633,
+        "skill_level": 11208,
         "skill_effect": "MP 135 소비, 270초 동안 바하뮤트 소환\n바하뮤트는 최대 5명의 적을 372%의 데미지로 3번 공격\n[패시브 효과 : 엔젤레이 VI 데미지 20%p 증가, 엔젤레이 VI 심판의 천사 데미지 35%p 증가, 엔젤레이 VI 심판의 천사 발동에 필요한 성검 적중 횟수 4회 감소]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBND"
     },
     {
         "skill_name": "제네시스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n하늘로부터 신성한 빛의 기둥을 떨어뜨려 강력한 성속성 공격을 가한다. 또한 영구히 직접 공격하는 스킬 적중 시 일정 확률로 적에게 천사의 응징이 가해진다.\n필요 스킬 : 제네시스 30레벨 이상",
-        "skill_level": 6883,
+        "skill_level": 7275,
         "skill_effect": "MP 330 소비, 최대 15명의 적을 825%의 데미지로 10번 공격, 추가 크리티컬 확률 20%\n재사용 대기시간 30초\n[패시브 효과 : [파이널 어택류 스킬] 직접 공격하는 공격 스킬 적중 시 65% 확률로 405%의 데미지로 공격하는 천사의 응징 발생]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMJ"
     },
     {
         "skill_name": "헤븐즈 도어 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n천국의 문을 열어 적을 응징함과 동시에 파티원에게 생명의 축복을 내린다.\n효과를 받은 파티원은 일정 시간 동안 헤븐즈 도어의 효과를 다시 받을 수 없다.\n필요 스킬 : 헤븐즈 도어 1레벨 이상",
-        "skill_level": 6883,
+        "skill_level": 7275,
         "skill_effect": "MP 560 소비, 최대 15명의 적을 805% 데미지로 10번 공격, 동시에 주위 파티원에게 HP가 0이 되는 것을 한 번 무시하는 버프 지급\n재사용 대기시간 60초\n버프를 받은 파티원은 600초 동안 헤븐즈 도어의 버프를 다시 받을 수 없음",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBNB"
     },
     {
         "skill_name": "홀리 어드밴트",
         "skill_description": "[마스터 레벨 : 30]\r\n모든 신성력을 개방하여 격이 높은 존재를 강림시킨다. 강림한 대천사들은 너무 거대한 존재이기에 석상의 모습으로 일정 시간 동안 현현한다.\n스킬키 재입력 시 현재 위치를 기준으로 대천사를 재강림시킬 수 있다.\n대천사들의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 15653,
+        "skill_level": 15540,
         "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n대천사들이 강림하며 최대 15명의 적을 570%의 데미지로 8번 공격하는 참격이 25회, 475%의 데미지로 12번 공격하는 참격이 35회 발생\n60초 동안 최종 데미지 5% 증가 및 균형, 복수, 자애의 대천사가 현현\n대천사는 최대 12명의 적을 공격, 재강림 대기시간 3초\n균형의 대천사 : 3초마다 515%의 데미지로 14번 공격\n복수의 대천사 : 5초마다 500%의 데미지로 12번 공격\n자애의 대천사 : 4초마다 600%의 데미지로 12번 공격\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 11306,
+        "skill_level": 11235,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 11306,
+        "skill_level": 11235,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "프레이 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n프레이를 강화한다.",
-        "skill_level": 15758,
+        "skill_level": 15696,
         "skill_effect": "프레이 사용 시 비숍의 최종 데미지 17% 추가 증가, 프레이로 인한 다른 최종 데미지 증가 효과와 합적용\n[패시브 효과 : 올스탯 90 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOA"
     },
     {
         "skill_name": "엔젤 오브 리브라 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n엔젤 오브 리브라를 강화한다.",
-        "skill_level": 7512,
+        "skill_level": 7458,
         "skill_effect": "엔젤 오브 리브라의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOB"
     },
     {
         "skill_name": "피스메이커 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n피스메이커를 강화한다.",
-        "skill_level": 6865,
+        "skill_level": 6831,
         "skill_effect": "피스메이커의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOC"
     },
     {
         "skill_name": "디바인 퍼니시먼트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n디바인 퍼니시먼트를 강화한다.",
-        "skill_level": 24492,
+        "skill_level": 24072,
         "skill_effect": "디바인 퍼니시먼트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOD"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 999,
+        "skill_level": 986,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
+    },
+    {
+        "skill_name": "천공의 노래 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n하늘에 울려 퍼지는 거센 바람의 노래를 연주하여 적들을 휘몰아친다. 스킬 사용 중 이동할 수 있다.\n필요 스킬 : 천공의 노래 30레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "공격당 MP 11 소비, 최대 4명의 적을 발당 1155%의 데미지로 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMA"
+    },
+    {
+        "skill_name": "트라이플링 윔 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령이 매우 큰 변덕을 부려 적들의 육체와 정신을 붕괴시킨다.\n정령의 기운은 윈드브레이커가 바라보는 방향의 일정 영역으로 발생한다. 단, 일부 스킬로 타격 시 바라보는 방향과 관계없이 발생한다.\n범위 내 최대 HP가 가장 높은 보스 몬스터를 무조건 포함하여 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 트라이플링 윔 III 30레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "적을 타격할 때 50% 확률로 정령의 기운이 최대 5개 발생하여 525%의 데미지로 주위의 적을 랜덤하게 공격\n 20% 확률로 750%의 데미지를 주는 강화된 정령의 기운 발생",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMB"
+    },
+    {
+        "skill_name": "스톰 브링어 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n폭풍의 힘을 불러 적들을 응징하는 힘을 얻는다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 스톰 브링어 VI는 버프 지속시간 증가 효과를 받는다.\n필요 스킬 : 스톰 브링어 15레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "MP 80 소비, 200초 동안 공격 시 45% 확률로 거대한 화살을 소환하여 1210%의 데미지로 추가 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMD"
+    },
+    {
+        "skill_name": "페어리 턴 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n바람과 함께 춤을 추듯 가볍게 제자리에서 활을 휘둘러 적을 밀쳐내는 거센 바람을 일으킨다. 일부 몬스터는 저항하여 밀리지 않는다. \n필요 스킬 : 페어리 턴 30레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "MP 42 소비, 최대 7명의 적을 뒤로 밀쳐내며 625%의 데미지로 5번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBME"
+    },
+    {
+        "skill_name": "몬순 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n세상을 감싼 채 도도히 흐르는 계절풍을 소환한다.\n필요 스킬 : 몬순 1레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "MP 410 소비, 최대 15명의 적을 705%의 데미지로 12번 공격, 30초 동안 1초마다 336%의 도트 데미지\n재사용 대기시간 30초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMF"
+    },
+    {
+        "skill_name": "스톰 윔 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령이 내린 가호로 잠시동안 변덕스러운 바람의 힘을 극한까지 다룰 수 있게 된다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 스톰 윔 1레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "MP 230 소비, 30초 동안 공격 시 30% 확률로 거센 정령의 기운이 추가로 나타나 935%의 데미지로 공격\n재사용 대기시간 120초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMG"
+    },
+    {
+        "skill_name": "아네모이",
+        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령들의 투지에 감화한 대정령이 현신하여 승리의 바람을 가져온다. 아네모이는 일정 시간마다 가벼운 손짓으로 강력한 바람을 일으켜 공격한다.\n아네모이의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n대정령 투명도 적용 온오프 : 마우스 우클릭",
+        "skill_level": 30,
+        "skill_effect": "MP 41 소비, 아네모이가 현신하며 최대 12명의 적을 1733%의 데미지로 15번 공격, 이후 20초 동안 일정 시간마다 최대 10명의 적을 1879%의 데미지로 10번 공격\n재사용 대기시간 60초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMH"
+    },
+    {
+        "skill_name": "미스트랄 스프링",
+        "skill_description": "[마스터 레벨 : 30]\r\n강력한 바람의 기운을 품고 있는 에메랄드에 호기심 많은 정령들이 이끌려 돌풍이 이는 바람의 샘이 생성된다.\n일정 시간마다 신난 바람의 정령이 돌풍을 타고 분출되어 주변의 적을 공격한다.\n바람의 샘이 존재할 때 스킬키 재입력 시 현재 위치를 기준으로 바람의 샘을 재소환할 수 있다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 30,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n에메랄드에 깃든 정령의 기운으로 최대 15명의 적을 1670%의 데미지로 10번 공격하는 바람의 칼날이 13회 발생\n공격 종료 후 20초 동안 바람의 샘이 정령의 기운을 생성하여 적을 공격\n재설치 대기시간 3초\n정령의 기운 : 1320%의 데미지로 5번 공격하는 정령의 기운 13개 생성\n신난 정령의 기운 : 1440%의 데미지로 6번 공격하는 신난 정령의 기운 5개 생성\n거센 정령의 기운 : 1275%의 데미지로 7번 공격하는 거센 정령의 기운 3개 생성\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPEMA"
+    },
+    {
+        "skill_name": "하울링 게일 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n하울링 게일을 강화한다.",
+        "skill_level": 30,
+        "skill_effect": "하울링 게일의 최종 데미지 60% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKI"
+    },
+    {
+        "skill_name": "아이들 윔 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n아이들 윔을 강화한다.",
+        "skill_level": 19,
+        "skill_effect": "아이들 윔의 최종 데미지 34% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKJ"
+    },
+    {
+        "skill_name": "윈드 월 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n윈드 월을 강화한다.",
+        "skill_level": 20,
+        "skill_effect": "윈드 월의 최종 데미지 40%, 엘리멘트 개수 367개, 지속시간 55초로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBLA"
+    },
+    {
+        "skill_name": "볼텍스 스피어 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n볼텍스 스피어를 강화한다.",
+        "skill_level": 20,
+        "skill_effect": "볼텍스 스피어의 최종 데미지 40% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBLB"
+    },
+    {
+        "skill_name": "퍼지롭 매스커레이드 VI : 저격",
+        "skill_description": "[마스터 레벨 : 30]\r\n루티가 적의 치명적인 단점을 탐색한 뒤, 하이테크 스나이퍼 라이플로 타겟에 막대한 피해를 입히는 폭발을 발생시킨다. 일정 시간마다 라이플에 에너지가 응집되어 폭발이 빠르게 연속해서 발동하여 조준한 적을 처형한다. 최대 HP가 가장 높은 적을 우선 공격하고 멀티 모드 링커를 통해 모드를 변경할 수 있다.\n필요 스킬 : 퍼지롭 매스커레이드 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 30 소비, 최대 5명의 적을 394%의 데미지로 7번 공격\n8초마다 퍼지롭 매스커레이드 VI : 처형으로 강화\n몬스터 방어율 31% 추가 무시",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBMA"
+    },
+    {
+        "skill_name": "홀로그램 그래피티 : 관통 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n홀로그램 필드를 전개한 뒤 에너지볼을 생성하여 에너지볼이 몬스터에 닿을 때마다 해당 몬스터에게 피해를 입힌다. 에너지볼은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 멀티 모드 링커를 통해 모드를 변경할 수 있다.\n필요 스킬 : 홀로그램 그래피티 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 32 소비, 60초 동안 홀로그램 필드 생성\n볼이 적을 닿을 때마다 250%의 데미지로 공격\n재사용 대기시간 29초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBME"
+    },
+    {
+        "skill_name": "트라이앵글 포메이션 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n공격 시 일정 확률로 적에게 에어프레임을 출격시킨다. 에어프레임은 출격 시 적을 공격하고 지속적으로 적을 맴돌며 주의를 끌어 적의 명중치를 감소시킨다.\n에어프레임이 3개 중첩된 적을 한 번 더 공격하면 3개의 에어프레임이 일제히 강력한 플라즈마 전류를 뿜어내 공격한다.\n에어프레임은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 트라이앵글 포메이션 5레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "공격 시 30% 확률로 적에게 에어프레임을 출격시키며 265%의 데미지로 3번 공격\n에어프레임은 최대 3개까지 중첩되며 3개가 중첩된 적을 공격하면 124%의 데미지로 4번 공격하는 플라즈마 전류가 4번 발생\n에어프레임이 추가된 적의 명중치 8% 감소",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBMH"
+    },
+    {
+        "skill_name": "로켓 시스템 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n자신의 공격 스킬 적중 시 범위 내의 적들에게 로켓을 발사한다.\n발동 시 짧은 시간 동안 발사 준비 시간이 필요하고 일정 횟수 이상 발동 시 이지스 시스템으로 강화된다. 로켓 시스템 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 추가로 퍼지롭 매스커레이드 VI의 데미지를 영구히 증가시킨다. 스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 로켓 시스템 최종 강화 10레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "직접 사용하는 공격 스킬 적중 시 307%의 데미지로 2번 공격하는 로켓 4개 발사, 일반 몬스터 공격 시 데미지 276%p 증가\n3회 발동 시 다음 로켓 시스템 VI은 이지스 시스템으로 강화\n[이지스 시스템] : 324%의 데미지로 2번 공격하는 강화 로켓 7개 발사\n재발동 대기시간 2초\n[패시브 효과 : 퍼지롭 매스커레이드 : 저격의 데미지 17%p, 퍼지롭 매스커레이드 : 처형의 데미지 1%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBMJ"
+    },
+    {
+        "skill_name": "멜트다운 익스플로젼 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n우주로부터 지상의 모든 것을 태워버리는 강력한 레이저 포격을 한다. 사용 후 일정 시간 동안 데미지가 증가한다. 재사용 대기시간 감소 효과를 받지 않는다.\n필요 스킬 : 멜트다운 익스플로젼 1레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 200 소비, 최대 15명의 적을 1411%의 데미지로 7번 공격\n공격에 적중한 적은 10초 동안 몬스터 방어율 30% 감소\n사용 후 25초 동안 데미지 10% 증가, 시전 동작 중 무적\n재사용 대기시간 50초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBNC"
+    },
+    {
+        "skill_name": "블레이드 댄싱 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n에너지소드를 길게 늘어뜨려 춤추듯이 휘두르며 주위 다수의 적에게 피해를 입힌다. 추가로 일정 시간마다 제논의 전투 메모리를 기반으로 환영을 프로젝션하는 로봇이 소환된다.\n필요 스킬 : 블레이드 댄싱 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "공격당 MP 11 소비, 최대 8명의 적을 290%의 데미지로 1번 공격\n공격 스킬 사용 시 10초 동안 지속되는 프로젝션 로봇 소환\n로봇은 일정 시간마다 메모리 댄싱을 3번 프로젝션\n메모리 댄싱 : 최대 15명의 적을 123%의 데미지로 7번 공격하는 일격 6회 발동\n메모리 댄싱 재발동 대기시간 10초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPBNE"
+    },
+    {
+        "skill_name": "아티피셜 에볼루션",
+        "skill_description": "[마스터 레벨 : 30]\r\n제네로이드의 궁극의 진화를 이룩한다. 진화 상태에서는 강화형 에어프레임이 소환되어 제논이 공격하는 적을 함께 공격하며, 에비에이션 리버티가 강화되어 비행 속도가 빨라지며, 비행 상태에서 일부 공격 스킬을 사용할 수 있게 되며, 메가 스매셔 발동 시 메가 스매셔를 설치할 수 있게 변경된다. 강화된 에비에이션 리버티는 진화 상태 종료 시 즉시 해제된다. 스킬 시전 이후 에비에이션 리버티가 즉시 발동하며, 커스텀 커맨드를 사용하면 사용 직후 에비에이션 리버티가 발동하지 않는다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 1,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 362%의 데미지로 7번 공격하는 폭격 31회 발동 후 30초 동안 진화 상태\n진화 상태 : 제논이 공격한 적을 558%의 데미지로 5번 공격하는 강화형 에어프레임 6기 소환, 재발동 대기시간 1.8초\n강화 에비에이션 리버티 사용 시 비행 속도 증가, 일부 버프 및 공격 스킬 사용 가능\n강화 에비에이션 리버티 중 메가 스매셔 발동 시 설치 가능 및 공격 간격 감소, 공격 시간 5초로 감소 및 차지한 시간 6초당 공격 시간 1초 증가하여 최대 3초까지 증가, 설치 후 2초 동안 무적\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKDPEMA"
+    },
+    {
+        "skill_name": "래피드 파이어 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n아주 빠른 속도로 탄을 발사한다. 스킬 키를 누르고 있으면 지속적으로 탄이 나가며 좌우로 이동할 수 있다. 일정 횟수 적중 시 클립이 충전되고 클립이 전부 충전되면 난사 모드로 변한다.\n지속 중 이동속도는 고정된다.\n함장의 기개로 캡틴 디그니티의 데미지가 증가한다.\n필요 스킬 : 래피드 파이어 30레벨 이상",
+        "skill_level": 3,
+        "skill_effect": "공격당 MP 10 소비, 발당 448%의 데미지, 공격 5회 적중 시 클립 1개 충전, 클립이 10개만큼 충전되면 난사 모드로 변경, 지속 중 이동속도 120으로 고정\n[패시브 효과 : 캡틴 디그니티의 데미지 37%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBMA"
+    },
+    {
+        "skill_name": "배틀쉽 봄버 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n노틸러스 호의 배틀쉽을 소환한다. 배틀쉽의 포탄 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n일정 영역 내에 사인 오브 봄바드를 설치하면 해당 위치에 폭격을 일으킨다.\n필요 스킬 : 배틀쉽 봄버 15레벨 이상, 크루 커맨더십 15레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 150 소비, 60초 동안 소환되어 일정 간격으로 포탄 발사\n발사된 포탄은 적에게 닿으면 폭발하여 최대 6명의 적을 560%의 데미지로  3번 공격\n최대 2대까지 소환 가능\n사인 오브 봄바드 설치 시 최대 6명의 적을 560%의 데미지로 3번 공격하는 폭격 발생\n재사용 대기시간 0.50초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBMC"
+    },
+    {
+        "skill_name": "헤드 샷 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n몬스터의 머리를 맞혀 강력한 데미지로 공격한다. 일정 횟수 적중 시 헤드 샷 대신 신속한 사격을 하는 데스 헤일이 발동된다.\n필요 스킬 : 헤드 샷 30레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 31 소비, 1212%의 데미지로 13번 공격\n몬스터 방어율 60% 무시, 추가 크리티컬 확률 100%\n 2번 적중 시 다음 헤드 샷은 데스 헤일로 발동 \n데스 헤일 : MP 31 소비, 최대 8명의 적을 874%의 데미지로 13번 공격하는 사격 2회 발동\n재사용 대기시간 5초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBMF"
+    },
+    {
+        "skill_name": "퍼실레이드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n전방에 일제 사격을 퍼붓는다. 캡틴이 아래 방향키를 누르면서 사용하면 공격 범위가 감소하지만 시전하는 동안에는 적의 어떠한 공격에도 밀려나지 않는다.\n필요 스킬 : 퍼실레이드 30레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 56 소비, 불릿 4개 소비, 최대 8명의 적을 744%의 데미지로 4번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBMH"
+    },
+    {
+        "skill_name": "사인 오브 봄바드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n캡틴의 표식을 설치하여 배틀쉽 봄버와 시즈 봄버가 폭격을 내릴 위치를 지시한다. 아래 방향키와 함께 사용하면 설치된 표식이 소멸된다.\n자동 사용 모드에서는 컨티뉴얼 에이밍이 적중할 때마다 적중 위치에 사인 오브 봄바드가 설치된다.\n자동 사용 모드 온오프 : 마우스 우클릭\n필요 스킬 : 사인 오브 봄바드 15레벨 이상, 크루 커맨더십 15레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 41 소비, 64초 동안 설치, 최대 1개 설치 가능\n표식 주변의 적을 배틀쉽 봄버와 시즈 봄버가 자동으로 폭격, 폭격은 컨티뉴얼 에이밍이 적용 중인 적을 우선하고, 컨티뉴얼 에이밍이 적용 중인 적이 없다면 보스 몬스터를 우선 타격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBMJ"
+    },
+    {
+        "skill_name": "서먼 크루 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n노틸러스의 용맹한 선원을 소환한다. 소환된 선원은 자유롭게 움직이며 적을 추적하는 탄환을 발사하고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 선원은 사정거리 내 최대 HP가 가장 높은 적을 우선하여 공격한다.\n필요 스킬 : 크루 커맨더십 15레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 41 소비, 120초 동안 전투를 도와주는 용맹한 선원 두 명 소환\n쌍권총 크루 : 575%의 데미지로 3번 공격하는 탄환을 2개 발사\n명사수 크루 : 최대 4명의 적을 286%의 데미지로 4번 공격하는 폭탄 발사\n상태 이상 공격을 당하면 선원 중 한 명이 상태 이상을 막아주며 상태 이상을 한 번 막은 선원은 재소환될 때까지 상태 이상을 막을 수 없음\n재사용 대기시간 45초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBNA"
+    },
+    {
+        "skill_name": "시즈 봄버 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n고정형 대포를 설치하여 일정 시간 동안 주위 적들에게 무차별 포격을 하게 한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 시즈 봄버는 사정거리 내 최대 HP가 가장 높은 적을 우선하여 공격한다.\n일정 영역 내에 사인 오브 봄바드를 설치하면 해당 위치에 폭격을 일으킨다.\n필요 스킬 : 시즈 봄버 10레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 19 소비, 60초 동안 최대 3명의 적을 381%의 데미지로 공격하는 대포 소환\n사인 오브 봄바드 설치 시 최대 3명의 적을 381%의 데미지로 공격하는 폭격 발생",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBNF"
+    },
+    {
+        "skill_name": "스트레인지 봄 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n알 수 없는 기술로 만들어진 대형 폭탄을 전방으로 유도하여 폭발시킨다.\n필요 스킬 : 스트레인지 봄 1레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 512 소비, 최대 15명의 적을 470%의 데미지로 12번 공격\n재사용 대기시간 15초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBNH"
+    },
+    {
+        "skill_name": "전함 노틸러스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n전함 노틸러스호에 공격 명령을 내려 적 다수를 동시에 공격한다. 전함 노틸러스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 전함 노틸러스 30레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 358 소비, 최대 15명의 적을 657%의 데미지로 7번 공격\n재사용 대기시간 30초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBNI"
+    },
+    {
+        "skill_name": "드레드노트",
+        "skill_description": "[마스터 레벨 : 30]\r\n두려움을 모르는 함장의 지휘로 거대한 함선이 미지의 바다를 헤치고 나타난다. 함선은 주변의 적에게 무차별 포격을 가한다. 폭격은 최대 HP가 가장 높은 보스 몬스터에게 우선적으로 가해진다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 3,
+        "skill_effect": "MP 2000 소비, 시전 동작 중 무적\n용맹하게 전진하여 최대 15명의 적을 703%의 데미지로 12번 공격하는 풍랑이 52회 발생\n공격 종료 후 15초 동안 함선이 공중에 설치되어 일정 시간마다 최대 7명의 적을 825%의 데미지로 8번 공격하는 폭격 발생\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPEMA"
     }
 ]
