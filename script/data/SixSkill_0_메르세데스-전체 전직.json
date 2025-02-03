@@ -1,262 +1,122 @@
-986
+998
 [
     {
         "skill_name": "이슈타르의 링 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전설의 무기 이슈타르의 힘을 빌려 빠른 속도로 화살을 전방의 적에게 발사한다. 화살은 적을 관통하며 스킬 키를 누르고 있으면 지속적으로 발사된다.\n적중 시 적에게 이슈타르의 낙인을 새긴다. 이슈타르의 낙인은 직접 공격하는 스킬이 일정 횟수 이상 적중 시 하나씩 채워진다. 낙인이 채워질 때마다 정령이 적을 공격하고, 낙인 완성 시 더욱 강하게 공격한다.\n엘리멘탈 고스트의 잔상도 이슈타르의 낙인을 완성할 수 있으며, 이슈타르의 낙인은 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 이슈타르의 링 30레벨 이상",
-        "skill_level": 23664,
+        "skill_level": 24084,
         "skill_effect": "공격당 MP 12 소비, 최대 4명의 적을 525%의 데미지로 2번의 공격\n공격 적중 시 이그니스 로어의 지속시간 0.1초 증가\n공격 적중 시 적에게 90초 동안 이슈타르의 낙인을 새김\n이슈타르의 낙인 : 직접 공격하는 스킬 6번 적중 시 증가, 이슈타르의 링 VI, 이르칼라의 숨결은 12번 적중 시 증가\n낙인이 채워질 때마다 610%의 데미지로 3번 추가 공격\n낙인 완성 시 740%의 데미지로 8번 추가 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDPBMA"
     },
     {
         "skill_name": "래쓰 오브 엔릴 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n엔릴의 분노를 적에게 퍼붓는다. 보스 몬스터 공격 시 일정 시간 공격 당한 적과 충돌을 무시하는 디버프를 적용한다.\n일정 시간마다 고대 정령의 힘이 깃들어 래쓰 오브 엔릴 VI : 스피릿 인챈트로 강화된다.\n차지 드라이브, 스트라이크 듀얼샷, 유니콘 스파이크, 레전드리 스피어, 라이트닝 엣지와 연계 가능하다.\n추가로 이슈타르의 낙인을 영구히 강화한다.\n필요 스킬 : 래쓰 오브 엔릴 1레벨 이상",
-        "skill_level": 25032,
+        "skill_level": 25496,
         "skill_effect": "MP 230 소비, 최대 10명의 적을 850%의 데미지로 10번 공격\n보스 몬스터 공격 시 보스와의 충돌을 무시하는 디버프가 60초 동안 발생\n재사용 대기시간 8초\n연계 스킬 사용 시 재사용 대기시간 1초 감소\n12초마다 래쓰 오브 엔릴 VI : 스피릿 인챈트로 강화\n[패시브 효과 : 이슈타르의 낙인 생성 데미지 240%p 증가, 이슈타르의 낙인 완성 데미지 290%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDPBMD"
     },
     {
         "skill_name": "레전드리 스피어 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n도약과 동시에 전설의 창을 떨어트려 적을 공격한다. 스킬 사용 중 적의 어떠한 공격에도 밀려나지 않으며 적중한 적에게 방어율을 일정 수준 무시하는 디버프를 적용한다.\n일정 시간마다 고대 정령의 힘이 깃들어 레전드리 스피어 VI : 스피릿 인챈트로 강화된다.\n리프 토네이도, 거스트 다이브, 롤링 문썰트, 래쓰 오브 엔릴과 연계 가능하다.\n필요 스킬 : 레전드리 스피어 20레벨 이상",
-        "skill_level": 25032,
+        "skill_level": 25496,
         "skill_effect": "MP 70 소비, 최대 12명의 적을 1055%의 데미지로 4번 크리티컬 공격\n60초 동안 적중한 적의 방어율 35% 감소 효과 적용\n재사용 대기시간 5초\n연계 스킬 사용 시 재사용 대기시간 1초 감소\n12초마다 레전드리 스피어 VI : 스피릿 인챈트로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDPBMF"
     },
     {
         "skill_name": "리프 토네이도 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n공중에서 빠르게 몸을 회전하면서 사방에 화살을 난사한다. 공중에서만 사용 가능하며 스킬은 반드시 일정 높이 이상에서만 사용할 수 있고 거스트 다이브에 연계하여 사용 시에는 더 높은 높이가 필요하다. \n일정 시간마다 고대 정령의 힘이 깃들어 리프 토네이도 VI : 스피릿 인챈트로 강화된다.\n거스트 다이브, 레전드리 스피어, 래쓰 오브 엔릴로 연계 가능하다.\n필요 스킬 : 리프 토네이도 20레벨 이상",
-        "skill_level": 25032,
+        "skill_level": 25496,
         "skill_effect": "MP 51 소비, 최대 8명의 적을 780%의 데미지로 4번 공격\n6초마다 리프 토네이도 VI : 스피릿 인챈트로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDPBMH"
     },
     {
         "skill_name": "유니콘 스파이크 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n성스러운 유니콘을 소환해 전방의 적 다수를 동시에 공격하고 일정 시간 동안 약화시킨다. 약화된 대상은 모든 공격에 추가 피해를 받게 된다. 차지 드라이브, 스트라이크 듀얼샷, 레전드리 스피어, 라이트닝 엣지, 래쓰 오브 엔릴로 연계 가능하며 연계 스킬을 사용하면 재사용 대기시간이 1초씩 줄어든다.\n필요 스킬 : 유니콘 스파이크 20레벨 이상",
-        "skill_level": 14179,
+        "skill_level": 15173,
         "skill_effect": "MP 69 소비, 최대 8명의 적을 927%의 데미지로 6번 크리티컬 공격, 대상은 100%의 확률로 60초 동안 30%의 데미지로 추가 피해를 받는 디버프 효과 적용\n재사용 대기시간 9초\n연계 스킬 사용 시 재사용 대기시간 1초 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDPBNB"
     },
     {
         "skill_name": "거스트 다이브 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n바람의 힘으로 공중에서 빠르게 하강하면서 범위 내의 적 다수를 동시에 공격한다. 스킬 사용을 위해 120 이상의 점프력이 필요하다. 스킬 사용 중 적의 어떠한 공격에도 밀려나지 않는다. 차지 드라이브, 스트라이크 듀얼샷, 리프 토네이도, 유니콘 스파이크, 레전드리 스피어, 라이트닝 엣지, 래쓰 오브 엔릴로 연계 가능하다.\n필요 스킬 : 거스트 다이브 20레벨 이상",
-        "skill_level": 14179,
+        "skill_level": 15173,
         "skill_effect": "MP 50 소비, 최대 6명의 적을 768%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDPBNC"
     },
     {
         "skill_name": "스트라이크 듀얼샷 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전방에 있는 다수의 적들에게 매우 빠른 속도로 다수의 화살을 날린다. 공중에서도 사용가능하며 차지 드라이브, 유니콘 스파이크, 레전드리 스피어, 라이트닝 엣지, 래쓰 오브 엔릴로 연계 가능하다.\n필요 스킬 : 스트라이크 듀얼샷 20레벨 이상, 어드밴스드 스트라이크 듀얼샷 10레벨 이상",
-        "skill_level": 14179,
+        "skill_level": 15173,
         "skill_effect": "MP 44 소비, 최대 8명의 적을 880%의 데미지로 4번 공격\n[패시브 효과 : 이슈타르의 링 VI 데미지 20%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDPBNA"
     },
     {
         "skill_name": "엘리멘탈 나이트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n냉기 정령, 화염 정령, 암흑 정령 중 1명을 랜덤으로 소환하여 전투를 돕게 한다. 엘리멘탈 나이트가 활성화된 상태에서 공격 적중 시 정령이 소환된다. 엘리멘탈 나이트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n소환수 지속시간 증가 효과를 받는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 엘리멘탈 나이트 10레벨 이상",
-        "skill_level": 10513,
+        "skill_level": 11510,
         "skill_effect": "공격 적중 시 MP 60 소비하여 정령 1명을 210초 동안 소환, 최대 3명까지 소환 가능\n소환된 정령들은 2초마다 적을 313%의 데미지로 2번 공격\n재소환 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDPBND"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동된다. 다만, 반드시 듀얼보우건 계열 무기를 들었을 경우에만 발동이 가능하다.\n필요 스킬 : 어드밴스드 파이널 어택 30레벨 이상",
-        "skill_level": 10513,
+        "skill_level": 11510,
         "skill_effect": "[파이널 어택류 스킬] 76%의 확률로 329%의 데미지로 2번 공격하는 파이널 어택 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDOBNH"
     },
     {
         "skill_name": "언페이딩 글로리",
         "skill_description": "[마스터 레벨 : 30]\r\n백성을 위하는 왕의 숭고한 마음이 위대한 정신 및 고대의 정령왕의 인정을 받는다. 위대한 정신과 고대 정령왕의 힘이 싸울 운명을 가진 자의 무기에 깃들어 마법 화살과 함께 방출된다.\n방출된 정령의 힘은 일정 시간 동안 정령왕을 모방한 형상으로 빚어져 함께 전투한다. 정령왕의 형상이 존재할 때 스킬키 재입력 시 현재 위치를 기준으로 정령왕의 형상을 재소환할 수 있다.\n언페이딩 글로리 시전 중에는 실피디아가 지속시간으로 종료되지 않으며, 정령왕의 형상은 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 17661,
+        "skill_level": 18025,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n위대한 정신과 고대 정령왕의 가호로 최대 15명의 적을 840%의 데미지로 10번 공격하는 파동이 36회 발생, 무기에 깃든 가호가 방출되며 870%의 데미지로 15번 공격하는 충돌이 28회 발생\n이후 60초 동안 정령의 힘이 정령왕의 형상으로 빚어져 소환, 재소환 대기시간 3초\n정령왕의 형상은 최대 12명의 적을 2200%의 데미지로 15번 공격\n이슈타르의 낙인이 완성되면 이슈타르의 힘이 더해져 다음 공격이 강화 공격으로 발동\n강화 공격 : 1440%의 데미지로 15번 공격하는 파동이 4회 발생, 재발동 대기시간 2초\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNBKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 12666,
+        "skill_level": 12986,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 12666,
+        "skill_level": 12986,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "엘리멘탈 고스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n엘리멘탈 고스트를 강화한다.",
-        "skill_level": 18618,
+        "skill_level": 19051,
         "skill_effect": "엘리멘탈 고스트의 최종 데미지 60% 증가, 잔상의 최종 데미지 반영률 75%로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEI"
     },
     {
         "skill_name": "실피디아 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n실피디아를 강화한다.",
-        "skill_level": 7938,
+        "skill_level": 8189,
         "skill_effect": "실피디아의 최종 데미지 60% 증가, 지속 중 최종 데미지 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEJ"
     },
     {
         "skill_name": "이르칼라의 숨결 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n이르칼라의 숨결을 강화한다.",
-        "skill_level": 19301,
+        "skill_level": 19681,
         "skill_effect": "이르칼라의 숨결의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBFA"
     },
     {
         "skill_name": "로얄 나이츠 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n로얄 나이츠를 강화한다.",
-        "skill_level": 9666,
+        "skill_level": 9903,
         "skill_effect": "로얄 나이츠의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBFB"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 973,
+        "skill_level": 987,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
-    },
-    {
-        "skill_name": "서클 오브 마나 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n마나의 흐름에 통달하여 고밀도로 응축된 강력한 마나체를 연속으로 두 번 발사한다.\n필요 스킬 : 서클 오브 마나 Ⅳ 30레벨 이상",
-        "skill_level": 20,
-        "skill_effect": "MP 50 소비 \n[1타]: 최대 8명의 적을 475%의 데미지로 4번 공격\n[2타]: 최대 8명의 적을 535%의 데미지로 4번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMA"
-    },
-    {
-        "skill_name": "서클 오브 썬더 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n번개의 마법진을 생성해 주변의 적을 섬멸한다.\n필요 스킬 : 서클 오브 썬더 10레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 84 소비, 최대 8명의 적을 622%의 데미지로 5번 공격\n미르 스킬을 사용한 후 서클 오브 마나 사용 중 혹은 엎드린 상태에서 서클 오브 썬더를 사용하면 서클 오브 썬더가 발동되지 않고 융합 스킬을 발동할 수 있지만 소비 MP가 3배로 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMC"
-    },
-    {
-        "skill_name": "드래곤 스위프트 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[미르 스킬] 미르가 전방을 빠르게 왕복하며 경로상의 적들을 공격한다. 드래곤 스위프트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n미르 스킬과 융합 스킬은 공격 속도 증가의 효과를 받지 않는다.\n필요 스킬 : 드래곤 스위프트 20레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 88 소비, 최대 8명의 적을 694%의 데미지로 4번 공격, 3.5초 동안 지속\n재사용 대기시간 8초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMD"
-    },
-    {
-        "skill_name": "스위프트 오브 썬더 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 스위프트 공격 중 에반의 마법과 공명해 다섯 지점에 번개의 마법진을 그리며 충돌한다. 스위프트 오브 썬더는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 스위프트 사용 중, 에반이 서클 오브 썬더 마법을 사용하면 발동된다.\n필요 스킬 : 스위프트 오브 썬더 20레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 78 소비, 지점별 충돌시마다 최대 8명의 적을 1940%의 데미지로 9번 공격\n동일한 적이 중첩해서 충돌에 맞을 때마다 충돌의 최종 데미지 60% 감소",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBME"
-    },
-    {
-        "skill_name": "스위프트 오브 윈드 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 스위프트 공격 중 에반의 마법과 공명해 일정 시간 기류를 폭주 시켜 날카로운 바람 칼날을 발사 한다. 스위프트 오브 윈드는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 스위프트 사용 중, 에반이 서클 오브 윈드 마법을 사용하면 발동된다.\n필요 스킬 : 스위프트 오브 윈드 20레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 63 소비, 최대 5명의 적에게 628%의 데미지로 2번 공격하는 바람 칼날 5개 발사, 3.5초 지속\n일반 몬스터 공격 시 데미지 75%p 증가\n여러 개의 바람 칼날이 1명의 적을 공격하면 바람 칼날의 최종 데미지 35% 감소",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMF"
-    },
-    {
-        "skill_name": "서클 오브 어스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n불규칙한 마법진을 생성해 전방의 지면을 들어 올려 적을 강타한다.\n필요 스킬 : 서클 오브 어스 20레벨 이상",
-        "skill_level": 29,
-        "skill_effect": "MP 68 소비, 최대 8명의 적을 721%의 데미지로 5번 공격\n미르 스킬을 사용한 후 서클 오브 마나 사용 중 혹은 엎드린 상태에서 서클 오브 어스를 사용하면 서클 오브 어스가 발동되지 않고 융합 스킬을 발동할 수 있지만 소비 MP가 3배로 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMG"
-    },
-    {
-        "skill_name": "드래곤 다이브 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[미르 스킬] 미르가 에반 전방에 강하게 충돌한 후 날갯짓으로 충격파를 발생시킨다. 드래곤 다이브는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n미르 스킬과 융합 스킬은 공격 속도 증가의 효과를 받지 않는다.\n필요 스킬 : 드래곤 다이브 20레벨 이상",
-        "skill_level": 29,
-        "skill_effect": "MP 80 소비, 최대 6명의 적을 671%의 데미지로 3번 공격, 3.5초 동안 지속\n재사용 대기시간 8초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMH"
-    },
-    {
-        "skill_name": "다이브 오브 어스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 다이브 공격 중 에반의 마법과 공명해 전방에 솟아오른 바위를 파쇄하며 주변에 강력한 피해를 입힌다. 다이브 오브 어스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. \n 미르가 드래곤 다이브 사용 중, 에반이 서클 오브 어스 마법을 사용하면 발동된다.\n필요 스킬 : 다이브 오브 어스 20레벨 이상",
-        "skill_level": 29,
-        "skill_effect": "MP 80 소비, 바위를 형성하고 공격한 후 세 지점에 충돌하여 공격, 공격 시 마다 최대 6명의 적을 2067%의 데미지로 10번 공격\n동일한 적이 중첩해서 충돌에 맞을 때마다 충돌의 최종 데미지 50% 감소",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBMI"
-    },
-    {
-        "skill_name": "다이브 오브 썬더 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 다이브 공격 중 에반의 마법과 공명해 일정 시간 온몸에서 지면을 타고 흐르는 강력한 전기 구체들을 만들어 낸다. 다이브 오브 썬더는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 다이브 사용 중, 에반이 서클 오브 썬더 마법을 사용하면 발동된다.\n필요 스킬 : 다이브 오브 썬더 20레벨 이상",
-        "skill_level": 29,
-        "skill_effect": "MP 80 소비, 4초 동안 일정 간격마다 579%의 데미지로 공격하는 전기 구체 4개 생성\n전기 구체는 적을 타격하거나 일정 시간이 지나면 소멸",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBMJ"
-    },
-    {
-        "skill_name": "서클 오브 윈드 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n전방에 휘몰아치는 돌풍을 만들어 적을 밀어내며 충격을 입힌다.\n필요 스킬 : 서클 오브 윈드 10레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 44 소비, 최대 6명의 적을 622%의 데미지로 5번 공격하며 밀어냄\n미르 스킬을 사용한 후 서클 오브 마나 사용 중 혹은 엎드린 상태에서 서클 오브 윈드를 사용하면 서클 오브 윈드가 발동되지 않고 융합 스킬을 발동할 수 있지만 소비 MP가 3배로 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBNA"
-    },
-    {
-        "skill_name": "드래곤 브레스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[미르 스킬] 미르가 전방에 타오르는 화염을 뿜어내 모든 적을 불태운다. 드래곤 브레스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n미르 스킬과 융합 스킬은 공격 속도 증가의 효과를 받지 않는다.\n필요 스킬 : 드래곤 브레스 30레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 86 소비, 최대 8명의 적을 409%의 데미지로 5번 공격, 3초 동안 지속\n재사용 대기시간 10초\n",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBNB"
-    },
-    {
-        "skill_name": "브레스 오브 어스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 브레스 공격 중 에반의 마법과 공명해 대지를 딛고 올라서 다수의 적을 추적하는 화염 브레스를 발사한다. 브레스 오브 어스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 브레스 사용 중, 에반이 서클 오브 어스 마법을 사용하면 발동된다.\n필요 스킬 : 브레스 오브 어스 30레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 86 소비, 최대 4명의 적을 405%의 데미지로 6번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBNC"
-    },
-    {
-        "skill_name": "브레스 오브 윈드 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 브레스 공격 중 에반의 마법과 공명해 적의 숨결을 끊어 놓을 강력한 화염 돌풍 브레스를 발사한다. 브레스 오브 윈드는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 브레스 사용 중, 에반이 서클 오브 윈드 마법을 사용하면 발동된다.\n필요 스킬 : 브레스 오브 윈드 30레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 86 소비, 최대 8명의 적을 439%의 데미지로 6번 공격, 3.5초 동안 지속\nHP가 30% 이하로 남은 적에게 데미지 65%p증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBNE"
-    },
-    {
-        "skill_name": "마법 잔해 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n융합 스킬에 피격 당한 적의 주변에 짙은 마력의 마법 잔해를 생성한다. 생성된 마법 잔해를 발동시켜 에반 주변의 적에게 피해를 입힐 수 있으며 한 번에 발동된 마법 잔해의 수가 많을수록 더 많은 피해를 입힐 수 있다.\n자동 사용 모드에서는 마법 잔해가 일정 개수 생성될 때마다 자동으로 발동된다.\n자동 사용 모드 온오프 : 마우스 우클릭 \n필요 스킬 : 강화된 마법 잔해 20레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "융합 스킬에 피격 당한 적 근처에서 짙은 마력의 마법 잔해 1개 생성, 재생성 대기시간 0.4초, 최대 생성 제한 15개, 발동 시 MP 157 소비\n최대 15명의 적에게 분산되어 발사, 307%의 데미지로 1번 공격, 마법 잔해 5개 당 데미지 257%p증가, 생성된 마법 잔해는 사용하지 않고 일정 시간이 지나면 소멸",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBNF"
-    },
-    {
-        "skill_name": "드래곤 스파킹 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n에반이 직접 공격하는 공격 스킬이 사용된 후 미르가 추가 공격을 실행한다.",
-        "skill_level": 18,
-        "skill_effect": "[파이널 어택류 스킬] 100%의 확률로 399%의 데미지로 공격하는 드래곤 스파킹 발동",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBNG"
-    },
-    {
-        "skill_name": "조디악 버스트",
-        "skill_description": "[마스터 레벨 : 30]\r\n성좌의 힘으로 에반과 미르, 별의 공명을 이끌어내어 일대를 별바다로 만든다. 공격 스킬 적중 시 별의 힘이 마력과 공명하여 유성우가 내린다. 유성우는 최대 HP가 가장 높은 보스 몬스터에게 우선 생성되며 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 4,
-        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n최대 15명의 적을 652%의 데미지로 15번 공격하는 마력이 24회 발생\n45초 동안 공격 스킬 적중 시 최대 15명의 적에게 612%의 데미지로\n8번 공격하는 유성우 9개 발생\n유성우 재발동 대기시간 3초\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPEMA"
-    },
-    {
-        "skill_name": "엘리멘탈 블래스트 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n엘리멘탈 블래스트를 강화한다.",
-        "skill_level": 9,
-        "skill_effect": "엘리멘탈 블래스트의 최종 데미지 19% 증가, 재사용 대기시간 50초로 감소",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEE"
-    },
-    {
-        "skill_name": "드래곤 브레이크 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n드래곤 브레이크, 임페리얼 브레스, 브레이크-돌아와!를 강화한다.",
-        "skill_level": 4,
-        "skill_effect": "드래곤 브레이크, 임페리얼 브레스, 브레이크-돌아와!의 최종 데미지 14% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEF"
-    },
-    {
-        "skill_name": "조디악 레이 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n조디악 레이를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "조디악 레이의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEG"
-    },
-    {
-        "skill_name": "스파이럴 오브 마나 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n스파이럴 오브 마나를 강화한다.",
-        "skill_level": 4,
-        "skill_effect": "스파이럴 오브 마나의 최종 데미지 14% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEH"
     }
 ]

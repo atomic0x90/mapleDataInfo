@@ -1,262 +1,94 @@
-992
+999
 [
     {
         "skill_name": "피스트 인레이지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[격투 스킬] 전방으로 소나기와 같은 펀치를 퍼붓는다.\n서펜트 어썰트 인레이지가 발동할 경우 일정 시간 동안 강력한 충격파를 발생시키는 슈퍼 피스트 인레이지로 변경된다.\n씨 서펜트 인레이지 또는 써펜트 어썰트 인레이지만을 발동시킨다.\n충격파는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 피스트 인레이지 30레벨 이상",
-        "skill_level": 20997,
+        "skill_level": 21231,
         "skill_effect": "MP 52 소비, 최대 4명의 적을 455%의 데미지로 10번 공격, 서펜트 어썰트 인레이지 발동 시 10초 동안 슈퍼 피스트 인레이지 사용 가능 \n슈퍼 피스트 인레이지 : MP 52 소비, 최대 4명의 적을 270%의 데미지로 3번 공격 이후 최대 4명의 적을 455%의 데미지로 10번 공격하는 충격파 발생 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKDPBMA"
     },
     {
         "skill_name": "씨 서펜트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n수룡의 힘을 완전히 체득한다.\n수룡 스킬이 씨 서펜트 VI와 씨 서펜트 인레이지 VI로 강화된다.\n필요 스킬 : 씨 서펜트 강화 II 20레벨 이상",
-        "skill_level": 12712,
+        "skill_level": 12943,
         "skill_effect": "수룡 스킬 발동 시 MP 44 소비\n씨 서펜트 버스트 VI\n최대 8명의 적을 860%의 데미지로 8번 공격\n재사용 대기시간 6초\n씨 서펜트 인레이지 VI\nMP 44 소비, 최대 6명의 적을 870%의 데미지로 6번 공격\n서펜트 마크가 남은 적은 30초 동안 바이퍼의 공격에 받는 최종 데미지 20% 증가\n재사용 대기시간 4초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKDOBME"
     },
     {
         "skill_name": "전함 노틸러스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n전함 노틸러스호에 공격 명령을 내려 다수의 적을 동시에 공격한다.\n전함 노틸러스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 스킬 습득 후 자신이 직접 공격하는 스킬로 공격 시 추가 공격을 한다.\n필요 스킬 : 전함 노틸러스 30레벨 이상",
-        "skill_level": 12712,
+        "skill_level": 12943,
         "skill_effect": "MP 385 소비, 최대 15명의 적을 888%의 데미지로 7번 공격\n[파이널 어택류 스킬] 써머솔트 킥, 스크류 펀치, 피스트 인레이지, 퓨리어스 차지, 하울링 피스트, 리버레이트 넵투누스로 공격 시 100% 확률로 501%의 데미지로 2번 추가 공격\n넵투누스 인레이지에 의해서는 발동하지 않음\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKDPBMJ"
     },
     {
         "skill_name": "서펜트 스톤 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n수룡의 힘을 다루면서 힘에 대한 단서를 획득할 수 있고, 단서를 소모하여 강한 수룡의 힘을 사용할 수 있다 .\n어썰트 스킬이 서펜트 어썰트 VI와 서펜트 어썰트 인레이지 VI로 강화된다.\n추가로 씨 서펜트 인레이지 VI의 데미지가 증가한다.\n자동 사용 모드 온오프 : 마우스 우클릭\n필요 스킬 : 서펜트 어썰트 인레이지 20레벨 이상",
-        "skill_level": 5003,
+        "skill_level": 5533,
         "skill_effect": "5개의 서펜트 스톤을 소모하여 15초 동안 어썰트 스킬 발동 가능\n수룡 스킬 발동 시 마다 서펜트 스톤 1개 획득, 서펜트 스톤은 최대 5개까지 소지 가능\n서펜트 어썰트 VI\nMP 60 소비, 최대 15명의 적을 705%의 데미지로 6번 공격\n서펜트 어썰트 인레이지 VI\nMP 60 소비, 5초 동안 수룡 소환\n수룡은 일정 간격마다 최대 6명의 적을 905%의 데미지로 6번 공격, 한 명의 적에게 10번 공격 발생 시 소멸\n[패시브 효과 : 씨 서펜트 인레이지 VI의 데미지 438%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKDPBNB"
     },
     {
         "skill_name": "훅 봄버 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[격투 스킬]\n주먹을 내질러 만든 강한 폭발의 기로 전방의 적을 공격한다.\n자신의 한계를 뛰어넘어 피스트 인레이지, 슈퍼 피스트 인레이지의 데미지가 증가한다.\n필요 스킬 : 훅 봄버 30레벨 이상",
-        "skill_level": 4695,
+        "skill_level": 5261,
         "skill_effect": "MP 56 소비, 최대 8명의 적을 946%의 데미지로 4번 공격\n[패시브 효과 : 피스트 인레이지 VI의 데미지 128%p 증가,\n슈퍼 피스트 인레이지의 데미지 75%p 증가,\n슈퍼 피스트 인레이지 충격파의 데미지 128%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKDPBNF"
     },
     {
         "skill_name": "리버레이트 넵투누스",
         "skill_description": "[마스터 레벨 : 30]\r\n심연의 바다에 잠들어 있던 최초의 수룡 넵투누스를 깨운다.\n격투 스킬과 서펜트 스크류를 제외한 5차 스킬 사용 시 넵투누스가 전방의 적을 휩쓴다. 넵투누스의 공격은 씨 서펜트 활성화 상태에서만 발동하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 12650,
+        "skill_level": 12811,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최초의 수룡 넵투누스가 깨어나며 최대 15명의 적을 1380%의 데미지로 13번 공격하는 파동이 4회 발생 후, 1140%의 데미지로 15번 공격하는 바다의 분노가 22회 발생\n30초 동안 격투 스킬과 서펜트 스크류를 제외한 5차 스킬 사용 시 넵투누스 인레이지 발동\n넵투누스 인레이지 : 재발동 대기시간 4초\n1타 : 최대 10명의 적을 1680%의 데미지로 12번 공격\n2타 : 최대 10명의 적을 1800%의 데미지로 13번 공격\n3타 : 최대 10명의 적을 1920%의 데미지로 15번 공격\n4타 : 최대 10명의 적을 1920%의 데미지로 15번 공격\n5타 : 최대 10명의 적을 2180%의 데미지로 15번 공격\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 9362,
+        "skill_level": 9560,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 9362,
+        "skill_level": 9560,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "라이트닝 폼 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n라이트닝 폼을 강화한다.",
-        "skill_level": 8433,
+        "skill_level": 8577,
         "skill_effect": "라이트닝 폼의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBII"
     },
     {
         "skill_name": "서펜트 스크류 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n서펜트 스크류를 강화한다.",
-        "skill_level": 19377,
+        "skill_level": 19621,
         "skill_effect": "서펜트 스크류의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBIJ"
     },
     {
         "skill_name": "퓨리어스 차지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n퓨리어스 차지를 강화한다.",
-        "skill_level": 1577,
+        "skill_level": 1673,
         "skill_effect": "퓨리어스 차지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBJA"
     },
     {
         "skill_name": "하울링 피스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n하울링 피스트를 강화한다.",
-        "skill_level": 10364,
+        "skill_level": 10537,
         "skill_effect": "하울링 피스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBJB"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 980,
+        "skill_level": 990,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
-    },
-    {
-        "skill_name": "엔젤레이 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n성령의 기운으로 충만한 성검을 소환하여 전방을 향해 발사한다. 성검은 최대 HP가 가장 높은 적을 향해 유도되며 경로에 있는 적을 공격하는 한편, 파티원의 경우 HP를 회복시킨다. 언데드 상태의 파티원도 회복시킬 수 있다.\n성검이 일정 횟수 이상 적중 시 충만해진 성령의 기운에 의해 심판의 천사가 소환되어 적을 추가 공격한다. 성 속성의 공격이다.\n필요 스킬 : 엔젤레이 30레벨 이상",
-        "skill_level": 29,
-        "skill_effect": "MP 69 소비, 최대 4명의 적을 351%의 데미지로 14번 공격하고 나를 포함한 파티원의 HP를 최대 HP의 10% 만큼 회복\n성검 12회 적중 시 심판의 천사가 나타나 적을 추가 공격\n심판의 천사 : 최대 15명의 적을 811%의 데미지로 10번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMA"
-    },
-    {
-        "skill_name": "빅뱅 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n신성력을 넓게 퍼뜨린 후 폭발시켜 공격한다. 일정 시간마다 신성력이 충만해져 더 넓은 범위에 보다 강력한 신성 폭발을 발생시킬 수 있다.\n빅뱅 및 신성 폭발은 성 속성의 공격이다.\n커스텀 커맨드 사용 시 신성 폭발을 위 방향키와 함께 스킬 사용 시에만 발동시킬 수 있다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n필요 스킬 : 빅뱅 30레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 109 소비, 최대 10명의 적을 700%의 데미지로 4번 공격\n신성 폭발 : MP 119 소비, 최대 12명의 적을 607%의 데미지로 6번 공격\n재발동 대기시간 6초\n빅뱅 및 신성 폭발의 일반 몬스터 공격 시 데미지 50% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMC"
-    },
-    {
-        "skill_name": "트라이엄프 페더 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[복수] 승리의 천사의 힘을 강림시킨다. 승리의 힘이 지속 중일 때 스킬 적중 시 천사의 날개 깃털이 생성되어 주변의 적을 추적하여 공격한다.\n트라이엄프 페더 VI는 버프 지속시간 증가 효과를 받는다.\n필요 스킬 : 디스펠 10레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 104 소비, 180초 동안 지속\n자신이 직접 공격하는 스킬 적중 시 4초 동안 적을 찾아 498%의 데미지로 4번 공격하는 천사의 날개 깃털 6개 생성\n하나의 적에게 여러 개의 날개 깃털 적중 시 두 번째 날개 깃털부터 최종 데미지 50% 감소\n날개 깃털 재생성 대기시간 3초\n재사용 대기시간 60초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBME"
-    },
-    {
-        "skill_name": "엔젤릭 터치 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[복수] 천사를 강림시켜 적에게 천사의 손길을 선물하고, 손길이 머문 곳에 성물을 생성하여 적을 지속적으로 약화시킨다.\n천사에게 피격되거나 성물에 영향 받은 적은 약화되어 일정 시간 동안 방어율이 감소한다.\n필요 스킬 : 힐 20레벨 이상",
-        "skill_level": 8,
-        "skill_effect": "MP 25 소비, 최대 6명의 적을 414%의 데미지로 7번 공격\n공격 당한 적은 60초 동안 방어율 44% 감소하는 디버프 적용\n천사가 공격한 위치에 성물 생성\n성물 : 90초 동안 소환, 최대 10명의 적에게 엔젤릭 터치와 동일한 디버프를 10초 동안 적용, 엔젤릭 터치의 디버프와 중첩 적용되지 않음\n재사용 대기시간 10초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMH"
-    },
-    {
-        "skill_name": "파운틴 포 엔젤 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[복수] 주변의 적을 신성한 힘으로 응징하는 오브제를 소환한다. 오브제에서 일정 시간마다 신성력이 발산되어 적을 공격한다. 파운틴 포 엔젤 VI는 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 홀리 파운틴 10레벨 이상",
-        "skill_level": 8,
-        "skill_effect": "MP 41 소비, 60초 동안 지속\n일정 시간마다 최대 8명의 적을 222%의 데미지로 5번 공격\n재사용 대기시간 30초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMG"
-    },
-    {
-        "skill_name": "바하뮤트 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 동안 성스러운 용 바하뮤트를 소환한다. 바하뮤트는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n또한 엔젤레이 VI를 영구히 강화한다.\n필요 스킬 : 바하뮤트 20레벨 이상",
-        "skill_level": 8,
-        "skill_effect": "MP 124 소비, 270초 동안 바하뮤트 소환\n바하뮤트는 최대 5명의 적을 240%의 데미지로 3번 공격\n[패시브 효과 : 엔젤레이 VI 데미지 9%p 증가, 엔젤레이 VI 심판의 천사 데미지 13%p 증가, 엔젤레이 VI 심판의 천사 발동에 필요한 성검 적중 횟수 2회 감소]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBND"
-    },
-    {
-        "skill_name": "제네시스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n하늘로부터 신성한 빛의 기둥을 떨어뜨려 강력한 성속성 공격을 가한다. 또한 영구히 직접 공격하는 스킬 적중 시 일정 확률로 적에게 천사의 응징이 가해진다.\n필요 스킬 : 제네시스 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 290 소비, 최대 15명의 적을 361%의 데미지로 10번 공격, 추가 크리티컬 확률 20%\n재사용 대기시간 30초\n[패시브 효과 : [파이널 어택류 스킬] 직접 공격하는 공격 스킬 적중 시 60% 확률로 202%의 데미지로 공격하는 천사의 응징 발생]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBMJ"
-    },
-    {
-        "skill_name": "헤븐즈 도어 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n천국의 문을 열어 적을 응징함과 동시에 파티원에게 생명의 축복을 내린다.\n효과를 받은 파티원은 일정 시간 동안 헤븐즈 도어의 효과를 다시 받을 수 없다.\n필요 스킬 : 헤븐즈 도어 1레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 502 소비, 최대 15명의 적을 573% 데미지로 10번 공격, 동시에 주위 파티원에게 HP가 0이 되는 것을 한 번 무시하는 버프 지급\n재사용 대기시간 60초\n버프를 받은 파티원은 600초 동안 헤븐즈 도어의 버프를 다시 받을 수 없음",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPBNB"
-    },
-    {
-        "skill_name": "홀리 어드밴트",
-        "skill_description": "[마스터 레벨 : 30]\r\n모든 신성력을 개방하여 격이 높은 존재를 강림시킨다. 강림한 대천사들은 너무 거대한 존재이기에 석상의 모습으로 일정 시간 동안 현현한다.\n스킬키 재입력 시 현재 위치를 기준으로 대천사를 재강림시킬 수 있다.\n대천사들의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 9,
-        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n대천사들이 강림하며 최대 15명의 적을 360%의 데미지로 8번 공격하는 참격이 25회, 307%의 데미지로 12번 공격하는 참격이 35회 발생\n60초 동안 최종 데미지 5% 증가 및 균형, 복수, 자애의 대천사가 현현\n대천사는 최대 12명의 적을 공격, 재강림 대기시간 3초\n균형의 대천사 : 3초마다 326%의 데미지로 14번 공격\n복수의 대천사 : 5초마다 332%의 데미지로 12번 공격\n자애의 대천사 : 4초마다 390%의 데미지로 12번 공격\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAIDPEMA"
-    },
-    {
-        "skill_name": "프레이 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n프레이를 강화한다.",
-        "skill_level": 14,
-        "skill_effect": "프레이 사용 시 비숍의 최종 데미지 9% 추가 증가, 프레이로 인한 다른 최종 데미지 증가 효과와 합적용\n[패시브 효과 : 올스탯 42 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOA"
-    },
-    {
-        "skill_name": "엔젤 오브 리브라 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n엔젤 오브 리브라를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "엔젤 오브 리브라의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOB"
-    },
-    {
-        "skill_name": "피스메이커 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n피스메이커를 강화한다.",
-        "skill_level": 3,
-        "skill_effect": "피스메이커의 최종 데미지 13% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOC"
-    },
-    {
-        "skill_name": "디바인 퍼니시먼트 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n디바인 퍼니시먼트를 강화한다.",
-        "skill_level": 20,
-        "skill_effect": "디바인 퍼니시먼트의 최종 데미지 40% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOD"
-    },
-    {
-        "skill_name": "귀참 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령을 강령시켜 전방에 있는 다수의 적을 빠르게 할퀴어 공격한다.\n필요 스킬 : 귀참 30레벨 이상",
-        "skill_level": 13,
-        "skill_effect": "MP 83 소비, 최대 4명의 적을 373%의 데미지로 12번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKDPBMA"
-    },
-    {
-        "skill_name": "여우령 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n은월이 직접 공격하는 스킬 적중 시 일정 확률로 여우령이 소환된다. 여우령은 주변에 있는 적을 추적하여 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않고 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는\n온오프 스킬\n필요 스킬 : 교감 심화 20레벨 이상",
-        "skill_level": 10,
-        "skill_effect": "MP 17 소비, 직접 공격하는 스킬 적중 시 41%의 확률로 여우령 소환\n보스 몬스터에게 폭류권 적중 시에는 10%의 확률로 소환\n여우령은 292%의 데미지로 2번 공격\n최대 3번 공격 후 소멸\n[패시브 효과 : 귀참 VI 데미지 20%p, 호주개시 데미지 53%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKDPBMB"
-    },
-    {
-        "skill_name": "폭류권 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n땅의 정령을 강령시켜 전방에 있는 다수의 적을 공격한다.\n최대 3타까지 연속 공격이 가능하다.\n필요 스킬 : 폭류권 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "1타당 MP 20 소비 \n1타 : 최대 8명의 적을 256%의 데미지로 4번 공격\n2타 : 최대 8명의 적을 256%의 데미지로 4번 공격\n3타 : 최대 8명의 적을 256%의 데미지로 4번 공격, 공격당한 적은 100% 확률로 3초 동안 기절\n모든 공격이 일반 몬스터 공격 시 데미지 215%p 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKDPBMD"
-    },
-    {
-        "skill_name": "사혼 각인 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n죽음의 정령을 강령시켜 전방에 있는 다수의 적을 공격하고 죽음의 표식을 새긴다.\n죽음의 표식이 새겨진 적은 지속적으로 피해를 입는다. 죽음의 표식으로 인한 피해의 일정 비율만큼 자신의 HP를 회복한다. 사혼 각인은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 추가로 분혼 격참의 데미지를 영구히 증가시킨다.\n필요 스킬 : 사혼각인 20레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 121 소비, 최대 10명의 적을 677%의 데미지로 8번 크리티컬 공격\n죽음의 표식 : 15초 동안 1초당 281%의 도트 데미지\n도트 데미지를 입을 때 마다 피해량의 1% 만큼 자신의 HP 회복\n재사용 대기시간 54초\n[패시브 효과 : 분혼 격참의 데미지 314%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKDPBMG"
-    },
-    {
-        "skill_name": "천귀야참",
-        "skill_description": "[마스터 레벨 : 30]\r\n정령의 기운을 방출하며 세 번 연속 정권을 내지른다.",
-        "skill_level": 1,
-        "skill_effect": "1타당 MP 61 소비, 스킬 키를 연타하여 최대 3타까지 공격 가능\n1타 : 최대 12명의 적을 1516%의 데미지로 10번 공격\n2타 : 최대 12명의 적을 1516%의 데미지로 10번 공격\n3타 : 최대 15명의 적을 373%의 데미지로 11번 공격하는 정권이 8회 발동\n재사용 대기시간 20초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKDPBMI"
-    },
-    {
-        "skill_name": "소혼 장막 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n정령들이 지나다니는 통로를 열어 장막을 생성한다.\n소혼 장막 VI는 소환수 지속시간 증가 효과를 받으며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 추가로 정령의 화신과 귀참 VI의 데미지를 영구히 증가시킨다.\n필요 스킬 : 교감심화 20레벨 이상",
-        "skill_level": 6,
-        "skill_effect": "MP 33 소비, 60초 동안 지속되는 소혼 장막 소환\n장막은 일정 간격마다 최대 10명의 적을 437%의 데미지로 8번 공격\n재사용 대기시간 30초\n[패시브 효과 : 정령의 화신의 데미지 66%p, 귀참 VI의 데미지 32%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKDPBMH"
-    },
-    {
-        "skill_name": "호신강림",
-        "skill_description": "[마스터 레벨 : 30]\r\n여우신이 은월과 직접 공명하여 은월의 내면에 잠들어 있던 모든 정령의 힘을 각성시킨다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 2,
-        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n여우신과 공명하며 최대 15명의 적을 320%의 데미지로 11번 공격하는 빛이\n28회 발생\n이후 정령의 힘이 각성하며 416%의 데미지로 13번 공격하는 파동이 28회 발생\n마지막으로 448%의 데미지로 14번 공격하는 마무리 일격이 30회 발생\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNHKDPEMA"
-    },
-    {
-        "skill_name": "환혼요호진 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n환혼요호진을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "환혼요호진의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBFG"
-    },
-    {
-        "skill_name": "귀문진 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n귀문진을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "귀문진의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBFH"
-    },
-    {
-        "skill_name": "진 귀참 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n진 귀참을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "진 귀참의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBFI"
-    },
-    {
-        "skill_name": "파쇄 연권 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n파쇄 연권을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "파쇄 연권의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBFJ"
     }
 ]

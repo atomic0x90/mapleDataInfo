@@ -1,4 +1,4 @@
-994
+997
 [
     {
         "skill_name": "서포트 몽키 트윈스-스플릿 데미지",
@@ -10,56 +10,56 @@
     {
         "skill_name": "서포트 몽키 트윈스-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 몽키 트윈스의 지속 시간을 증가시킨다.",
-        "skill_level": 29,
+        "skill_level": 30,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIE"
     },
     {
         "skill_name": "서포트 몽키 트윈스-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 몽키 트윈스를 추가로 설치할 수 있게 된다.",
-        "skill_level": 845,
+        "skill_level": 846,
         "skill_effect": "추가 1개 설치 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIF"
     },
     {
         "skill_name": "캐논 바주카-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 데미지를 증가시킨다.",
-        "skill_level": 399,
+        "skill_level": 401,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIG"
     },
     {
         "skill_name": "캐논 바주카-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 103,
+        "skill_level": 104,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIH"
     },
     {
         "skill_name": "캐논 바주카-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 공격 횟수를 증가시킨다.",
-        "skill_level": 860,
+        "skill_level": 862,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBII"
     },
     {
         "skill_name": "캐논 버스터-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 버스터의 데미지를 증가시킨다.",
-        "skill_level": 914,
+        "skill_level": 918,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIJ"
     },
     {
         "skill_name": "캐논 버스터-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 버스터의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 34,
+        "skill_level": 35,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBJA"
     },
     {
         "skill_name": "캐논 버스터-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 버스터의 공격 횟수를 증가시킨다.",
-        "skill_level": 903,
+        "skill_level": 906,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBJB"
     }

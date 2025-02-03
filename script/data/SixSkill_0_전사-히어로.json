@@ -1,192 +1,185 @@
-984
+996
 [
     {
         "skill_name": "레이징 블로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[검술] 전방의 적 다수를 순식간에 여러 번 베어낸다. 마지막 공격은 반드시 크리티컬로 적용된다. 콤보가 완충되면 스킬이 강화된다.\n필요 스킬 : 레이징 블로우 30레벨 이상",
-        "skill_level": 27581,
+        "skill_level": 27885,
         "skill_effect": "MP 49 소비, 최대 8명의 적을 482%의 데미지로 4번 공격하고 마지막 공격은 크리티컬 판정, 소드 오브 버닝 소울 일반 상태의 공격 범위 증가\n강화 레이징 블로우 : 534%의 데미지로 4번 공격, 마지막 두 번의 공격은 크리티컬 판정, 콤보 인스팅트와 소드 오브 버닝 소울 일반 상태의 공격 범위 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMA"
     },
     {
         "skill_name": "레이지 업라이징 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n고대 전사의 분노를 구현하여 전방의 적을 초토화시킨다.\n필요 스킬 : 레이지 업라이징 1레벨 이상",
-        "skill_level": 25365,
+        "skill_level": 25650,
         "skill_effect": "MP 201 소비\n최대 10명의 적을 154%의 데미지로 8번 공격하는 참격 4회 발동\n재사용 대기시간 10초\n[패시브 효과 : 레이징 블로우 VI 데미지 32%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMC"
     },
     {
         "skill_name": "오라 블레이드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n원하는 방향으로 적을 찢어발기는 검기를 날린다. 8방향으로 날릴 수 있어 방향키와 함께 사용하면 해당 방향으로 날린다.\n연속으로 사용할 경우 파이널 블레이드로 연계할 수 있다.\n필요 스킬 : 오라 블레이드 20레벨 이상",
-        "skill_level": 12084,
+        "skill_level": 13131,
         "skill_effect": "MP 28 소비, 최대 8명의 적을 317%의 데미지로 5번 공격하는 검기 발사\n오라 블레이드 VI의 일반 몬스터 공격 시 데미지 203%p 증가\n오라 블레이드는 4초마다 1개씩 준비되며 최대 2개까지 충전 가능\n2초 내 재사용 시 다음 공격 파이널 블레이드로 대체 \n 파이널 블레이드 : 최대 8명의 적을 519%의 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMD"
     },
     {
         "skill_name": "퓨리어스 엣지",
         "skill_description": "[마스터 레벨 : 30]\r\n검술이 극의에 달하여 강력한 검의 상흔을 남긴다. 검의 상흔은 직접 공격하는 스킬이 일정 횟수 적중 시 생성된다. 검의 상흔은 최대 HP가 가장 높은 보스 몬스터를 우선하여 생성된다.",
-        "skill_level": 12084,
+        "skill_level": 13131,
         "skill_effect": "자신이 직접 공격하는 스킬 5번 적중 시 검의 상흔 생성 \r\n 검의 상흔은 최대 8명의 적을 132%의 데미지로 3번 공격\n발할라, 콤보 인스팅트, 스피릿 칼리버는 2번 적중 시 1회 공격으로 간주 \n검의 상흔은 4회 공격 시 사라지며 최대 5개까지 생성 가능\n콤보 인스팅트 지속 중 최대 10개까지 생성 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDOBMF"
     },
     {
         "skill_name": "발할라 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n고대 전사들의 의지가 깃들어 강력한 힘을 발휘한다. 히어로가 검술 스킬 사용 시 일정 시간마다 공격이 발생한 위치에 검격이 잔상처럼 남아 적을 추가 공격한다. 검격은 최대 HP가 가장 높은 보스 몬스터에게 우선적으로 생성된다. 공용 스킬, 5차 스킬에 의해서는 검격이 발생하지 않는다.\n필요 스킬 : 발할라 1레벨 이상",
-        "skill_level": 15637,
+        "skill_level": 16757,
         "skill_effect": "MP 302 소비, 30초 동안 적의 어떠한 공격에도 밀려나지 않고 콤보 최대치로 완충\n버프 지속 중 공격력 50, 크리티컬 확률 30%, 상태 이상 내성 100, 모든 속성 내성 100% 증가\n일정 시간마다 최대 6명의 적을 575%의 데미지로 2번 공격하는 검격 3개씩 발생, 검격은 최대 12회까지 발생하며 검격이 모두 발생하면 더 이상 발생하지 않음\n재사용 대기시간 120초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMG"
     },
     {
         "skill_name": "인사이징 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[검술] 정신을 집중하여 전방으로 검을 크게 내리긋는다. 궁극의 검술로 영혼에 새겨진 검이 실체화되어 공격하는 것처럼 보인다. 공격 당한 적은 상처를 입어 일정 시간 동안 도트 데미지를 입고, 도트 데미지를 입는 동안 크리티컬에 의한 피해량이 증가한다.\n필요 스킬 : 인사이징 30레벨 이상",
-        "skill_level": 15646,
+        "skill_level": 16757,
         "skill_effect": "MP 36 소비, 최대 8명의 적을 437%의 데미지로 4번 공격, 일반 몬스터 공격 시 데미지 50% 증가\n공격당한 적은 100% 확률로 60초 동안 2초마다 179%의 피해를 입으며 크리티컬에 한해 데미지 26% 증가, 파티원이 공격 시 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMI"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동되며 최대 HP가 가장 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 어드밴스드 파이널 어택 30레벨 이상",
-        "skill_level": 15646,
+        "skill_level": 16757,
         "skill_effect": "[파이널 어택류 스킬] 61%의 확률로 179%의 데미지로 3번 공격하는 파이널 어택 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDOBMJ"
     },
     {
         "skill_name": "스피릿 칼리버",
         "skill_description": "[마스터 레벨 : 30]\r\n[검술] 검과 영혼이 하나가 되어 모든 것을 벤다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 24593,
+        "skill_level": 24921,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 240%의 데미지로 14번 공격하는 참격이 33회 발생 후, 238%의 데미지로 15번 공격하는 마무리 일격이 48회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 16576,
+        "skill_level": 16953,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 16576,
+        "skill_level": 16953,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "소드 오브 버닝 소울 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소드 오브 버닝 소울을 강화한다.",
-        "skill_level": 19061,
+        "skill_level": 19296,
         "skill_effect": "소드 오브 버닝 소울의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMA"
     },
     {
         "skill_name": "콤보 인스팅트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n콤보 인스팅트를 강화한다.",
-        "skill_level": 18900,
+        "skill_level": 19209,
         "skill_effect": "콤보 인스팅트의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMB"
     },
     {
         "skill_name": "콤보 데스폴트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n콤보 데스폴트를 강화한다.",
-        "skill_level": 2661,
+        "skill_level": 2677,
         "skill_effect": "콤보 데스폴트의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMC"
     },
     {
         "skill_name": "소드 일루전 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소드 일루전을 강화한다.",
-        "skill_level": 11623,
+        "skill_level": 11791,
         "skill_effect": "소드 일루전의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMD"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 981,
+        "skill_level": 994,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     },
     {
-        "skill_name": "체인 라이트닝 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n주변의 적으로 연쇄되는 고압의 전류를 발사해 적을 기절시킨다. 적중 시 일정 확률로 범위 내의 적의 위치에 전류 지대가 생성된다.\n일정 시간마다 번개의 힘이 완충되어 전류 지대를 확정적으로 생성할 수 있다. 전류 지대는 최대 HP가 높은 보스 몬스터 위치에 우선하여 생성된다. 전류 지대는 빙결 중첩을 감소시키지 않는다. 번개 속성의 공격이다.\n필요 스킬 : 체인 라이트닝 30레벨 이상",
-        "skill_level": 17,
-        "skill_effect": "MP 54 소비, 최대 7명의 적을 296%의 데미지로 10번 공격, 100% 확률로 5초 동안 기절, 추가 크리티컬 확률 30%\n적에게 공격 적중 시 28%의 확률로 범위 내의 적 위치에 전류 지대 생성\n7초마다 100%의 확률로 전류 지대 생성\n전류 지대 : 4초 동안 지속, 최대 6명의 적을 114%의 데미지로 2번 공격\n전류 지대 1개당 최대 4번 공격 가능하며, 최대 공격 횟수 도달 시 소멸\n전류 지대는 맵 내에 최대 4개까지 생성 가능",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJDPBMA"
-    },
-    {
-        "skill_name": "프로즌 오브 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n얼음 파편을 뿌리며 주위에 얼음 속성의 데미지를 입히는 프로즌 오브를 생성하여 전방으로 던진다.\n오브는 보스 몬스터와 만나면 현저히 느려지며, 지형의 끝에 도달해도 직선으로 이동한다. 프로즌 오브는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 프로즌 오브 30레벨 이상",
-        "skill_level": 7,
-        "skill_effect": "MP 52 소비, 최대 8명의 적을 290%의 데미지로 공격하는 프로즌 오브 생성\n한명의 적에게는 최대 20번까지만 공격\n재사용 대기시간 5초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJDPBMC"
-    },
-    {
-        "skill_name": "블리자드 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n하늘로부터 얼음의 창을 떨어뜨려 적에게 강력한 얼음 속성 공격을 가해 빙결시킨다.\n공격 시 일정 확률로 단일 적에게 블리자드가 떨어져 피해를 입힌다.\n추가로 라이트닝 스피어를 영구히 강화한다.\n필요 스킬 : 블리자드 30레벨 이상",
-        "skill_level": 7,
-        "skill_effect": "MP 305 소비, 최대 15명의 적을 400%의 데미지로 12번 공격\n재사용 대기시간 45초\n패시브 효과\n[파이널 어택류 스킬] : 직접 공격하는 공격 스킬 사용 시 70% 확률로 단일 적에게 285%의 데미지로 공격하는 블리자드를 떨어뜨림\n라이트닝 스피어의 지속 데미지 14%p 증가, 피니시 공격 데미지 87%p 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJDPBMD"
-    },
-    {
-        "skill_name": "라이트닝 스피어 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n전방에 거대한 전기의 구를 발생시켜 몬스터를 지속적으로 타격한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 라이트닝 스피어 1레벨 이상",
-        "skill_level": 7,
-        "skill_effect": "키다운 스킬, 공격당 MP 31 소비, 최대 15명의 적을 일정 간격 마다 188% 데미지로 15번 공격, 최대 2초 동안 키다운 가능, 키다운 종료 시 948%의 데미지로 15번 공격하는 피니시 공격 발동\n재사용 대기시간 60초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJDPBMF"
-    },
-    {
-        "skill_name": "크라이오 쇼크",
-        "skill_description": "[마스터 레벨 : 30]\r\n적에게 냉기를 가한 후 강력한 번개의 힘으로 극심한 충격을 준다.",
-        "skill_level": 7,
-        "skill_effect": "MP 42 소비, 빙결 중첩 감소 13회마다 적을 791%의 데미지로 15번 공격하는 쇼크 발생",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJDOBMG"
-    },
-    {
-        "skill_name": "썬더 스피어 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n번개가 응집된 구체를 소환한다. 구체는 주변의 적에게 고압의 전류를 뿜어 번개 속성으로 공격한다. 아래 방향키와 함께 스킬을 재사용하면 구체를 제자리에 고정할 수 있다. 제자리에 고정된 구체는 일정 시간동안 소환되어 더 넓은 범위의 적을 공격한다. 구체의 공격은 빙결 중첩을 감소시키지 않는다. 추가로 크라이오 쇼크의 데미지가 증가한다.\n커스텀 커맨드를 사용하면 방향키 입력 없이 스킬 키만으로 구체를 고정할 수 있다. 썬더 스피어 VI는 소환수 지속시간 증가 효과를 받는다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n필요 스킬 : 썬더 스피어 20레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "MP 56 소비, 120초 지속되는 번개 구체 소환, 번개 구체는 최대 6명의 적을 425%의 데미지로 3번 공격\n아래 방향키와 함께 재사용 시 60초 동안 구체를 제자리에 고정, 고정된 구체는 최대 6명의 적을 425%의 데미지로 3번 공격\n일반 몬스터 공격 시 데미지 171%p 증가\n구체 고정 재사용 대기시간 30초\n[패시브 효과 : 크라이오 쇼크의 데미지 147%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJDPBMH"
-    },
-    {
-        "skill_name": "엘퀴네스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 동안 얼음 속성을 지닌 엘퀴네스를 소환한다. 엘퀴네스는 다수의 적을 동시에 공격할 수 있다. 엘퀴네스의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않고 적을 빙결 상태에 걸리게 한다. 엘퀴네스 VI는 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 엘퀴네스 30레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "MP 143 소비, 270초 동안 엘퀴네스 소환\n엘퀴네스는 최대 5명의 적을 149%의 데미지로 3번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJDPBMJ"
-    },
-    {
-        "skill_name": "프로즌 라이트닝",
-        "skill_description": "[마스터 레벨 : 30]\r\n고압의 번개를 극한의 냉기로 응축한 후 터뜨려 번개가 흐르는 동토를 구현한다. 일정 시간마다 동토 내의 적의 몸속에 침투한 얼음과 번개의 마력을 개화시켜 적을 추가 공격한다. 프로즌 라이트닝은 주피터 썬더에 감전된 적에 적중해도 최종 데미지 증가 효과가 적용되지 않으며 마력 개화는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_name": "팬텀 블로우 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n비화원 격노의 비기로 전방의 적들에게 치명적인 연속공격을 가한다. 몬스터의 방어율을 일정 수준 무시할 수 있다.\n필요 스킬 : 팬텀 블로우 30레벨 이상",
         "skill_level": 1,
-        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n얼음과 번개의 융합 마법으로 최대 15명의 적을 409%의 데미지로 7번 공격하는 충격파 32회 발생 후, 412%의 데미지로 12번 공격하는 충격파 24회 발생\n30초 동안 번개가 흐르는 동토 구현\n2초마다 동토 내의 적의 몸 속에 침투한 얼음과 번개의 마력을 개화시켜 적을 추가 공격\n마력 개화 : 최대 15명의 적을 868%의 데미지로 15번 공격\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJDPEMA"
+        "skill_effect": "MP 45 소비, 최대 4명의 적을 356%의 데미지로 6번 공격\n몬스터의 방어율 31% 무시",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMA"
     },
     {
-        "skill_name": "아이스 에이지 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n아이스 에이지를 강화한다.",
+        "skill_name": "아수라 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n빠르게 회전하여 보이지 않는 진공의 칼날을 주위에 두른 채 적들을 섬멸한다. 아수라는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 어떠한 공격에도 밀리지 않는다.\n필요 스킬 : 아수라 1레벨 이상",
         "skill_level": 1,
-        "skill_effect": "아이스 에이지의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNG"
+        "skill_effect": "MP 301 소비, 최대 3초 동안 최대 10명의 적을 617%의 데미지로 6번 공격\n몬스터의 방어율 100% 무시\n지속 시간 동안 이동 및 점프가 가능하며 스킬 재사용 시 즉시 취소\n재사용 대기시간 60초\n[패시브 효과 : 팬텀 블로우 VI 데미지 48%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMB"
     },
     {
-        "skill_name": "썬더 브레이크 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n썬더 브레이크를 강화한다.",
-        "skill_level": 3,
-        "skill_effect": "썬더 브레이크의 최종 데미지 13% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNH"
-    },
-    {
-        "skill_name": "스피릿 오브 스노우 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n스피릿 오브 스노우를 강화한다.",
+        "skill_name": "히든 블레이드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n비화원의 비급 속에 존재하는 비검을 소환하여 자신의 모든 공격에 강력한 추가타를 입힌다. 추가로 데미지가 증가한다.\n필요 스킬 : 히든 블레이드 1레벨 이상\n발동 이펙트 잠금 : 마우스 우클릭",
         "skill_level": 1,
-        "skill_effect": "스피릿 오브 스노우의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNI"
+        "skill_effect": "MP 215 소비, 데미지 10% 증가\n[파이널 어택류 스킬] 90초 동안 100%의 확률로 직접 공격하는 공격 스킬에 306%의 추가타 발생",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMC"
     },
     {
-        "skill_name": "주피터 썬더 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n주피터 썬더를 강화한다.",
-        "skill_level": 2,
-        "skill_effect": "주피터 썬더의 최종 데미지 12% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNJ"
+        "skill_name": "생자필멸",
+        "skill_description": "[마스터 레벨 : 30]\r\n명계의 신 야차가 강림하여 주위의 모든 적을 멸한다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
+        "skill_level": 1,
+        "skill_effect": "MP 52 소비, 공용 스킬을 제외한 자신이 직접 공격하는 스킬 15회 적중 시 최대 8명의 적을 280%의 데미지로 6번 공격하는 야차의 난도가 4회 발동\n재발동 대기시간 1초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBOBMG"
+    },
+    {
+        "skill_name": "블레이드 퓨리 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n비화원의 선풍의 비기로 양손의 검을 이용해 빠르게 회전하며 주변의 적들을 동시에 베어낸다.\n일정 시간마다 주변의 적을 크게 휩쓰는 퓨리어스 제트로 강화된다. 커스텀 커맨드를 사용하면 위 방향키와 함께 스킬을 사용해야만 퓨리어스 제트가 발동된다.\n추가로 팬텀 블로우 VI를 영구히 강화한다.\n필요 스킬 : 블레이드 퓨리 30레벨 이상\n커스텀 커맨드 온오프 : 마우스 우클릭",
+        "skill_level": 1,
+        "skill_effect": "MP 66 소비, 최대 8명의 적을 377%의 데미지로 5번 공격\n6초마다 퓨리어스 제트로 강화\n퓨리어스 제트 : MP 80 소비, 최대 12명의 적을 387%의 데미지로 6번 공격\n[패시브 효과 : 팬텀 블로우 VI 데미지 13%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMD"
+    },
+    {
+        "skill_name": "써든레이드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n숨어 있던 동료들을 총동원하여 적들을 공격한다. 써든레이드는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n추가로 영구히 생자필멸을 강화한다.\n필요 스킬 : 써든레이드 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 325 소비, 최대 15명의 적을 672%의 데미지로 7번 공격, 10초 동안 1초당 387%의 도트 데미지\n재사용 대기시간 14초\n[패시브 효과 : 생자필멸의 데미지 110%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPBMF"
+    },
+    {
+        "skill_name": "카르마 블레이드",
+        "skill_description": "[마스터 레벨 : 30]\r\n업화의 신을 검에 강림시킨다. 검에 깃든 업보의 칼날을 소모하여 적을 벨 때마다 적의 업보가 스스로를 공격하게 한다.\n업보의 칼날을 모두 소모 혹은 지속시간 종료 시 업화의 신이 직접 현현하여 모든 생을 순식간에 베어낸다. 업보의 칼날은 최대 HP가 높은 적을 우선 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 1,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n업화의 신이 강림하며 15명의 적을 496%의 데미지로 5번 공격하는 참격이 6회 발생 후, 465%의 데미지로 7번 공격하는 참격이 20회 발생\n20초 동안 공격 적중 시 업보의 칼날을 1개 소모하여 최대 3명의 적을 644%의 데미지로 7번 공격하는 추가 타격 발생, 재발동 대기시간 0.1초\n업보의 칼날은 35개까지 사용 가능\n업보의 칼날을 전부 사용 혹은 지속시간 종료 시 업화의 신이 직접 현현하여 15명의 적을 578%의 데미지로 7번 공격하는 참격이 30회 발생\n업화의 신 현현 시 1초 동안 무적 및 업화의 신 현현은 상태 이상을 무시하고 발동 가능\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIBPEMA"
+    },
+    {
+        "skill_name": "블레이드 스톰 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n블레이드 스톰을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "블레이드 스톰의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBIE"
+    },
+    {
+        "skill_name": "카르마 퓨리 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n카르마 퓨리를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "카르마 퓨리의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBIF"
+    },
+    {
+        "skill_name": "블레이드 토네이도 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n블레이드 토네이도를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "블레이드 토네이도의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBIG"
+    },
+    {
+        "skill_name": "헌티드 엣지 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n헌티드 엣지를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "헌티드 엣지의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBIH"
     }
 ]

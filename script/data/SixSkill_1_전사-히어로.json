@@ -1,402 +1,108 @@
-990
+999
 [
     {
         "skill_name": "레이징 블로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[검술] 전방의 적 다수를 순식간에 여러 번 베어낸다. 마지막 공격은 반드시 크리티컬로 적용된다. 콤보가 완충되면 스킬이 강화된다.\n필요 스킬 : 레이징 블로우 30레벨 이상",
-        "skill_level": 20472,
+        "skill_level": 20780,
         "skill_effect": "MP 51 소비, 최대 8명의 적을 530%의 데미지로 4번 공격하고 마지막 공격은 크리티컬 판정, 소드 오브 버닝 소울 일반 상태의 공격 범위 증가\n강화 레이징 블로우 : 590%의 데미지로 4번 공격, 마지막 두 번의 공격은 크리티컬 판정, 콤보 인스팅트와 소드 오브 버닝 소울 일반 상태의 공격 범위 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMA"
     },
     {
         "skill_name": "레이지 업라이징 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n고대 전사의 분노를 구현하여 전방의 적을 초토화시킨다.\n필요 스킬 : 레이지 업라이징 1레벨 이상",
-        "skill_level": 11868,
+        "skill_level": 12095,
         "skill_effect": "MP 230 소비\n최대 10명의 적을 270%의 데미지로 8번 공격하는 참격 4회 발동\n재사용 대기시간 10초\n[패시브 효과 : 레이징 블로우 VI 데미지 148%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMC"
     },
     {
         "skill_name": "오라 블레이드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n원하는 방향으로 적을 찢어발기는 검기를 날린다. 8방향으로 날릴 수 있어 방향키와 함께 사용하면 해당 방향으로 날린다.\n연속으로 사용할 경우 파이널 블레이드로 연계할 수 있다.\n필요 스킬 : 오라 블레이드 20레벨 이상",
-        "skill_level": 2944,
+        "skill_level": 3285,
         "skill_effect": "MP 32 소비, 최대 8명의 적을 462%의 데미지로 5번 공격하는 검기 발사\n오라 블레이드 VI의 일반 몬스터 공격 시 데미지 290%p 증가\n오라 블레이드는 4초마다 1개씩 준비되며 최대 2개까지 충전 가능\n2초 내 재사용 시 다음 공격 파이널 블레이드로 대체 \n 파이널 블레이드 : 최대 8명의 적을 693%의 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMD"
     },
     {
         "skill_name": "퓨리어스 엣지",
         "skill_description": "[마스터 레벨 : 30]\r\n검술이 극의에 달하여 강력한 검의 상흔을 남긴다. 검의 상흔은 직접 공격하는 스킬이 일정 횟수 적중 시 생성된다. 검의 상흔은 최대 HP가 가장 높은 보스 몬스터를 우선하여 생성된다.",
-        "skill_level": 2944,
+        "skill_level": 3285,
         "skill_effect": "자신이 직접 공격하는 스킬 5번 적중 시 검의 상흔 생성 \r\n 검의 상흔은 최대 8명의 적을 277%의 데미지로 3번 공격\n발할라, 콤보 인스팅트, 스피릿 칼리버는 2번 적중 시 1회 공격으로 간주 \n검의 상흔은 4회 공격 시 사라지며 최대 5개까지 생성 가능\n콤보 인스팅트 지속 중 최대 10개까지 생성 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDOBMF"
     },
     {
         "skill_name": "발할라 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n고대 전사들의 의지가 깃들어 강력한 힘을 발휘한다. 히어로가 검술 스킬 사용 시 일정 시간마다 공격이 발생한 위치에 검격이 잔상처럼 남아 적을 추가 공격한다. 검격은 최대 HP가 가장 높은 보스 몬스터에게 우선적으로 생성된다. 공용 스킬, 5차 스킬에 의해서는 검격이 발생하지 않는다.\n필요 스킬 : 발할라 1레벨 이상",
-        "skill_level": 4269,
+        "skill_level": 4742,
         "skill_effect": "MP 360 소비, 30초 동안 적의 어떠한 공격에도 밀려나지 않고 콤보 최대치로 완충\n버프 지속 중 공격력 50, 크리티컬 확률 30%, 상태 이상 내성 100, 모든 속성 내성 100% 증가\n일정 시간마다 최대 6명의 적을 1010%의 데미지로 2번 공격하는 검격 3개씩 발생, 검격은 최대 12회까지 발생하며 검격이 모두 발생하면 더 이상 발생하지 않음\n재사용 대기시간 120초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMG"
     },
     {
         "skill_name": "인사이징 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[검술] 정신을 집중하여 전방으로 검을 크게 내리긋는다. 궁극의 검술로 영혼에 새겨진 검이 실체화되어 공격하는 것처럼 보인다. 공격 당한 적은 상처를 입어 일정 시간 동안 도트 데미지를 입고, 도트 데미지를 입는 동안 크리티컬에 의한 피해량이 증가한다.\n필요 스킬 : 인사이징 30레벨 이상",
-        "skill_level": 4269,
+        "skill_level": 4742,
         "skill_effect": "MP 42 소비, 최대 8명의 적을 640%의 데미지로 4번 공격, 일반 몬스터 공격 시 데미지 50% 증가\n공격당한 적은 100% 확률로 60초 동안 2초마다 266%의 피해를 입으며 크리티컬에 한해 데미지 26% 증가, 파티원이 공격 시 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMI"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동되며 최대 HP가 가장 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 어드밴스드 파이널 어택 30레벨 이상",
-        "skill_level": 4270,
+        "skill_level": 4742,
         "skill_effect": "[파이널 어택류 스킬] 61%의 확률로 266%의 데미지로 3번 공격하는 파이널 어택 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDOBMJ"
     },
     {
         "skill_name": "스피릿 칼리버",
         "skill_description": "[마스터 레벨 : 30]\r\n[검술] 검과 영혼이 하나가 되어 모든 것을 벤다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 13854,
+        "skill_level": 14093,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 472%의 데미지로 14번 공격하는 참격이 33회 발생 후, 470%의 데미지로 15번 공격하는 마무리 일격이 48회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 6922,
+        "skill_level": 7067,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 6922,
+        "skill_level": 7067,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "소드 오브 버닝 소울 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소드 오브 버닝 소울을 강화한다.",
-        "skill_level": 6843,
+        "skill_level": 6950,
         "skill_effect": "소드 오브 버닝 소울의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMA"
     },
     {
         "skill_name": "콤보 인스팅트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n콤보 인스팅트를 강화한다.",
-        "skill_level": 7188,
+        "skill_level": 7317,
         "skill_effect": "콤보 인스팅트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMB"
     },
     {
         "skill_name": "콤보 데스폴트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n콤보 데스폴트를 강화한다.",
-        "skill_level": 301,
+        "skill_level": 307,
         "skill_effect": "콤보 데스폴트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMC"
     },
     {
         "skill_name": "소드 일루전 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소드 일루전을 강화한다.",
-        "skill_level": 2395,
+        "skill_level": 2432,
         "skill_effect": "소드 일루전의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMD"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 962,
+        "skill_level": 974,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
-    },
-    {
-        "skill_name": "스나이핑 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n몬스터의 급소를 정확히 노려 치명적인 공격을 가한다.\n또 스나이핑을 위한 인핸스 애로우가 강화된다. 스나이핑 적중 시 두 번째 사용하는 스나이핑에 인핸스 애로우가 준비되며 네 번째 사용하는 스나이핑에는 보다 특별한 얼티밋 애로우가 2개 준비된다.\n스나이핑 적중 시 적중한 적의 약점을 파악하여 표식을 남기고, 인핸스 애로우로 표식이 남은 적을 공격 시 적의 약점을 꿰뚫어 추가 공격이 발생한다.\n스나이핑 및 인핸스 애로우로 강화되는 스나이핑은 최대 HP가 가장 높은 적을 우선하여 공격한다.\n필요 스킬 : 스나이핑 30레벨 이상, 어드밴스드 인핸스 애로우 20레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "스나이핑 : MP 60 소비, 496%의 데미지로 9번 공격\n적중한 적에게 표식을 남김\n인핸스 스나이핑 : MP 120 소비, 490%의 데미지로 10번 공격\n표식이 새겨진 적 적중 시 323%의 데미지로 5번 공격하는 추가타 발생\n얼티밋 스나이핑 : MP 120 소비\n258%의 데미지로 10번 공격하는 화살을 2발 발사\n표식이 새겨진 적 적중 시 323%의 데미지로 5번 공격하는 추가타 발생\n스나이핑, 인핸스 스나이핑, 얼티밋 스나이핑은 몬스터 방어율 30% 무시, 추가 크리티컬 확률 100%",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBMA"
-    },
-    {
-        "skill_name": "피어싱 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n적을 꿰뚫을 때마다 데미지가 증폭되는 관통 화살을 발사한다.\n인핸스 애로우가 더욱 강화되어 피어싱 적중 시 두 번째 사용하는 피어싱에 인핸스 애로우가 준비되며 네 번째 피어싱 사용 시 얼티밋 애로우를 발동할 수 있다. \n 피어싱이 적에게 적중 시 피어싱 공격 경로 근처에 화살 조각이 튀어 피어싱이 꿰뚫지 못한 적을 추가 공격할 수 있다.\n추가로 스나이핑 VI를 영구히 강화한다.\n필요 스킬 : 피어싱 II 30레벨 이상, 어드밴스드 인핸스 애로우 20레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "피어싱 : MP 55 소비, 최대 8명의 적을 관통하며 381%의 데미지로 5번 공격\n 화살이 적을 관통할 때마다 최종 데미지가 15%씩 증가, 증가하는 데미지 간에는 곱 적용\n 처음 관통한 적 근처에 화살 조각이 튀어 최대 3명의 적을 392%의 데미지로 4번 공격\n인핸스 피어싱 : MP 100 소비, 최대 10명의 적을 467%의 데미지로 6번 공격, 소멸 지점에서 화살이 폭발하여 최대 10명의 적을 309%의 데미지로 10번 추가 공격 \n얼티밋 피어싱 : MP 100 소비, 최대 10명의 적을 477%의 데미지로 6번 공격, 소멸 지점에서 화살이 폭발하여 최대 10명의 적을 324%의 데미지로 10번 추가 공격\n[패시브 효과 : 스나이핑 VI 데미지 3%p, 인핸스 스나이핑 VI 데미지 5%p, 인핸스 스나이핑 VI 추가타 데미지 2%p, 얼티밋 스나이핑 VI 데미지 2%p, 얼티밋 스나이핑 VI 추가타 데미지 2%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBMF"
-    },
-    {
-        "skill_name": "프리져 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 동안 냉기 속성을 지닌 프리져를 소환한다. 프리져의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다. 추가로 스나이핑 VI를 영구히 강화한다.\n필요 스킬 : 프리져 10레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 85 소비, 270초 동안 프리져 소환\n프리져는 최대 6명의 적을 335%의 데미지로 3번 공격\n공격에 맞은 적은 3초 동안 빙결\n[패시브 효과 : 스나이핑 VI 데미지 4%p, 인핸스 스나이핑 VI 데미지 8%p, 인핸스 스나이핑 VI 추가타 데미지 4%p, 얼티밋 스나이핑 VI 데미지 5%p, 얼티밋 스나이핑 VI 추가타 데미지 3%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBNC"
-    },
-    {
-        "skill_name": "볼트 스위프트 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n화살을 사방으로 발사해 주변에 있는 다수의 적을 공격한다.\n필요 스킬 : 볼트 스위프트 20레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 100 소비, 최대 8명의 적을 477%의 데미지로 7번 공격\n재사용 대기시간 7초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBND"
-    },
-    {
-        "skill_name": "롱 레인지 트루샷 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n정신을 집중하여 거리 내 어떤 적이라도 단 일격에 격침시킨다.\n필요 스킬 : 롱 레인지 트루샷 1레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 345 소비, 최대 12명의 적을 378%의 데미지로 9번 공격하는 타격이 6회 발생\n재사용 대기시간 40초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBNF"
-    },
-    {
-        "skill_name": "파이널 에임",
-        "skill_description": "[마스터 레벨 : 30]\r\n저격술의 극의에 달하여 매우 먼 거리에서 적을 정확히 조준해 꿰뚫는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1,
-        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 806%의 데미지로 7번 공격하는 파동 35회 발생\n이후 최대 15명의 적을 869%의 데미지로 13번 공격하는 화살 35회 명중\n파이널 에임 적중 시 스플릿 애로우의 화살 최대 13번까지만 발생\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPEMA"
-    },
-    {
-        "skill_name": "트루 스나이핑 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n트루 스나이핑을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "트루 스나이핑의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOI"
-    },
-    {
-        "skill_name": "스플릿 애로우 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n스플릿 애로우를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "스플릿 애로우의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOJ"
-    },
-    {
-        "skill_name": "차지드 애로우 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n차지드 애로우를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "차지드 애로우의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBPA"
-    },
-    {
-        "skill_name": "리피팅 크로스보우 카트리지 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n리피팅 크로스보우 카트리지를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "리피팅 크로스보우 카트리지의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBPB"
-    },
-    {
-        "skill_name": "천공의 노래 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n하늘에 울려 퍼지는 거센 바람의 노래를 연주하여 적들을 휘몰아친다. 스킬 사용 중 이동할 수 있다.\n필요 스킬 : 천공의 노래 30레벨 이상",
-        "skill_level": 21,
-        "skill_effect": "공격당 MP 11 소비, 최대 4명의 적을 발당 975%의 데미지로 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMA"
-    },
-    {
-        "skill_name": "트라이플링 윔 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령이 매우 큰 변덕을 부려 적들의 육체와 정신을 붕괴시킨다.\n정령의 기운은 윈드브레이커가 바라보는 방향의 일정 영역으로 발생한다. 단, 일부 스킬로 타격 시 바라보는 방향과 관계없이 발생한다.\n범위 내 최대 HP가 가장 높은 보스 몬스터를 무조건 포함하여 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 트라이플링 윔 III 30레벨 이상",
-        "skill_level": 21,
-        "skill_effect": "적을 타격할 때 50% 확률로 정령의 기운이 최대 5개 발생하여 462%의 데미지로 주위의 적을 랜덤하게 공격\n 20% 확률로 651%의 데미지를 주는 강화된 정령의 기운 발생",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMB"
-    },
-    {
-        "skill_name": "스톰 브링어 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n폭풍의 힘을 불러 적들을 응징하는 힘을 얻는다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 스톰 브링어 VI는 버프 지속시간 증가 효과를 받는다.\n필요 스킬 : 스톰 브링어 15레벨 이상",
-        "skill_level": 19,
-        "skill_effect": "MP 76 소비, 200초 동안 공격 시 45% 확률로 거대한 화살을 소환하여 1023%의 데미지로 추가 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMD"
-    },
-    {
-        "skill_name": "페어리 턴 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n바람과 함께 춤을 추듯 가볍게 제자리에서 활을 휘둘러 적을 밀쳐내는 거센 바람을 일으킨다. 일부 몬스터는 저항하여 밀리지 않는다. \n필요 스킬 : 페어리 턴 30레벨 이상",
-        "skill_level": 19,
-        "skill_effect": "MP 39 소비, 최대 7명의 적을 뒤로 밀쳐내며 548%의 데미지로 5번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBME"
-    },
-    {
-        "skill_name": "몬순 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n세상을 감싼 채 도도히 흐르는 계절풍을 소환한다.\n필요 스킬 : 몬순 1레벨 이상",
-        "skill_level": 19,
-        "skill_effect": "MP 388 소비, 최대 15명의 적을 617%의 데미지로 12번 공격, 30초 동안 1초마다 292%의 도트 데미지\n재사용 대기시간 30초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMF"
-    },
-    {
-        "skill_name": "스톰 윔 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령이 내린 가호로 잠시동안 변덕스러운 바람의 힘을 극한까지 다룰 수 있게 된다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 스톰 윔 1레벨 이상",
-        "skill_level": 19,
-        "skill_effect": "MP 219 소비, 30초 동안 공격 시 30% 확률로 거센 정령의 기운이 추가로 나타나 814%의 데미지로 공격\n재사용 대기시간 120초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMG"
-    },
-    {
-        "skill_name": "아네모이",
-        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령들의 투지에 감화한 대정령이 현신하여 승리의 바람을 가져온다. 아네모이는 일정 시간마다 가벼운 손짓으로 강력한 바람을 일으켜 공격한다.\n아네모이의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n대정령 투명도 적용 온오프 : 마우스 우클릭",
-        "skill_level": 19,
-        "skill_effect": "MP 38 소비, 아네모이가 현신하며 최대 12명의 적을 1436%의 데미지로 15번 공격, 이후 20초 동안 일정 시간마다 최대 10명의 적을 1538%의 데미지로 10번 공격\n재사용 대기시간 60초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMH"
-    },
-    {
-        "skill_name": "미스트랄 스프링",
-        "skill_description": "[마스터 레벨 : 30]\r\n강력한 바람의 기운을 품고 있는 에메랄드에 호기심 많은 정령들이 이끌려 돌풍이 이는 바람의 샘이 생성된다.\n일정 시간마다 신난 바람의 정령이 돌풍을 타고 분출되어 주변의 적을 공격한다.\n바람의 샘이 존재할 때 스킬키 재입력 시 현재 위치를 기준으로 바람의 샘을 재소환할 수 있다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1,
-        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n에메랄드에 깃든 정령의 기운으로 최대 15명의 적을 858%의 데미지로 10번 공격하는 바람의 칼날이 13회 발생\n공격 종료 후 20초 동안 바람의 샘이 정령의 기운을 생성하여 적을 공격\n재설치 대기시간 3초\n정령의 기운 : 682%의 데미지로 5번 공격하는 정령의 기운 13개 생성\n신난 정령의 기운 : 744%의 데미지로 6번 공격하는 신난 정령의 기운 5개 생성\n거센 정령의 기운 : 666%의 데미지로 7번 공격하는 거센 정령의 기운 3개 생성\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPEMA"
-    },
-    {
-        "skill_name": "하울링 게일 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n하울링 게일을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "하울링 게일의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKI"
-    },
-    {
-        "skill_name": "볼텍스 스피어 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n볼텍스 스피어를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "볼텍스 스피어의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBLB"
-    },
-    {
-        "skill_name": "퀸터플 스로우 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[스로우]\n대상에게 5개의 표창을 연속으로 던진다. 마지막 공격은 어둠의 힘을 담아 더 강력한 어둠 속성의 피해를 입힌다. 마지막 공격은 일정 시간마다 칠흑 표창으로 강화되어 더 먼거리를 날아가며 경로상의 모든 적을 공격하고, 더 강력한 어둠 속성의 피해를 입힌다.\n표창은 최대 HP가 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 퀸터플 스로우 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 45 소비, 표창 5개 소비\n272%의 데미지로 4번, 1088%의 데미지로 1번 공격\n6초마다 마지막 공격이 칠흑 표창으로 강화",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOGKDPBMA"
-    },
-    {
-        "skill_name": "쉐도우 배트 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n그림자로 이루어진 종복 쉐도우 배트를 소환한다. 쉐도우 배트는 표창을 사용하는 스킬로 공격할 때 일정 확률로 함께 공격한다. 어둠의 표식이 새겨진 적에게는 공격 확률이 2배가 되고 표식 중첩만큼 소환된 쉐도우 배트가 한 번에 공격하며, 이 때 쉐도우 배트가 1마리 추가로 생성된다.\n쉐도우 배트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 래버너스 배트와 동시에 사용할 수 없다. 어둠 속성의 공격이다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 래버너스 배트 20레벨, 배트 커뮤니온 III 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "표창을 사용하는 스킬을 3번 적중시킬 때마다 60초 동안 유지되는 쉐도우 배트 1마리 소환, 최대 2마리까지 소환 가능\n표창을 사용하는 스킬로 공격 시 50% 확률로 날아가 대상에게 910%의 데미지로 공격 후 추가로 3명의 적에게 튕겨 같은 데미지를 입힌 후 소멸\n일반 몬스터 공격 시 데미지 85% 증가, 쉐도우 배트 및 배트 커뮤니온 III과 중복 적용되지 않음\n첫 데미지를 줄 때 최대 HP의 1% 회복",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOGKDPBME"
-    },
-    {
-        "skill_name": "래버너스 배트 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n피에 더욱 굶주린 래버너스 배트를 소환한다. 래버너스 배트는 표창을 사용하는 스킬로 공격할 때 일정 확률로 함께 공격한다. 어둠의 표식이 새겨진 적에게는 표식 중첩만큼 소환된 래버너스 배트가 한 번에 공격하며, 이 때 래버너스 배트가 1마리 추가로 생성된다. 래버너스 배트는 최대 HP가 높은 보스 몬스터를 우선 추적하고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 쉐도우 배트와 동시에 사용할 수 없다. 어둠 속성의 공격이다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 래버너스 배트 20레벨, 배트 커뮤니온 III 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "표창을 사용하는 스킬을 3번 적중시킬 때마다 60초 동안 유지되는 래버너스 배트 1마리 소환, 최대 5마리까지 소환 가능\n표창을 사용하는 스킬로 공격 시 100% 확률로 날아가 대상에게 748%의 데미지로 2번 공격, 적중 시 최대 HP의 1% 회복",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOGKDPBNC"
-    },
-    {
-        "skill_name": "다크니스 오멘 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n어둠의 징조인 배트 무리를 소환하여 일정 시간 적을 공격한다. 쉐도우 배트가 활성화되었을 때 스킬을 사용하면 위력이 약화된 배트 무리를 더욱 길게 소환할 수 있다.\n배트 무리에 공격당한 적들의 수에 비례해 쉐도우 배트 및 래버너스 배트가 소환된다. 다크니스 오멘은 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받으며 시전 동작 중에는 적의 어떠한 공격에도 밀려나지 않는다. 어둠 속성의 공격이다.\n필요 스킬 : 다크니스 오멘 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 107 소비, 7초 동안 0.3초 마다 최대 6명의 적을 414%의 데미지로 6번 공격하는 배트 무리 소환\n쉐도우 배트 적용 중 60초 동안 1.5초 마다 최대 6명의 적을 332%의 데미지로 2번 공격하는 약화된 배트 무리 소환\n적 3명을 적중시킬 때 마다 쉐도우 배트 및 래버너스 배트 1마리 소환\n맵 내에 최대 1개까지 소환 가능\n재사용 대기시간 60초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOGKDPBNH"
-    },
-    {
-        "skill_name": "도미니언 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n어둠의 힘을 극대화하여 주위를 자신의 영지로 만든다. 어둠 속성의 공격이다.\n회색 연출 온오프 : 마우스 우클릭\n필요 스킬 : 도미니언 1레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 352 소비, 최대 15명의 적을 1101%의 데미지로 10번 공격, 시전 동작 중 무적\n공격 후 30초 동안 표창을 던지는 스킬 사용 시 어둠의 표식을 최대 중첩으로 새기고 쉐도우 배트 및 래버너스 배트의 최대 소환 제한 3 증가 및 배트가 지속적으로 소환\n지속 중 최종 데미지 20%, 크리티컬 확률 100% 증가, 쉐도우 모멘텀의 관성 최대로 유지 후 도미니언 종료 시 지속시간 갱신\n재사용 대기시간 180초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOGKDPBNI"
-    },
-    {
-        "skill_name": "어비셜 다크니스",
-        "skill_description": "[마스터 레벨 : 30]\r\n어둠에 통달하여 적의 급소에 강력한 공격을 가한다. 어둠의 표식이 새겨진 적에게 표창을 사용하는 스킬을 일정 횟수 적중시키면 심연의 일격이 발생한다. 어비셜 다크니스는 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 심연의 일격의 데미지는 엘리멘트 : 다크니스 어둠의 표식 중첩 수에 비례하여 증가한다.\n필요 스킬 : 다크니스 어뎁팅 III 10레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "래피드 스로우를 제외한 표창을 사용하는 스킬 12번 적중 시 195%의 데미지로 6번 공격하는 심연의 일격 발생\n심연의 일격의 데미지는 엘리멘트 : 다크니스 어둠의 표식 중첩 수에 비례하여 증가, 최대 5회 중첩 가능",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOGKDPBNJ"
-    },
-    {
-        "skill_name": "사일런스",
-        "skill_description": "[마스터 레벨 : 30]\r\n쉐도우 배트를 무한한 칠흑의 힘으로 끌어내 적을 공포 속에 침묵하게 한다.\n일정 시간 동안 공격 적중 시 쉐도우 배트가 거대한 그림자 표창으로 형상화되어 적을 지속적으로 추적하여 공격한다. 그림자 표창은 공격마다 엘리멘트 : 다크니스, 쉐도우 배트, 래버너스 배트의 효과를 발동시킨다.\n그림자 표창은 최대 HP가 높은 보스 몬스터를 우선 추적하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1,
-        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 481%의 데미지로 12번 공격하는 참격이 34회 발생\n30초 동안 공격 적중 시 쉐도우 배트가 거대한 그림자 표창 3개로 형상화되어 적을 추적하여 공격\n그림자 표창 : 465%의 데미지로 12번 공격, 그림자 표창은 적에게 적중 후 최대 5번까지 튕기며 공격, 그림자 표창 재생성 대기시간 3초\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOGKDPEMA"
-    },
-    {
-        "skill_name": "래피드 스로우 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n래피드 스로우를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "래피드 스로우의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBLF"
-    },
-    {
-        "skill_name": "플레임 스윕 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n전방을 강력한 화염으로 휩쓴다. 플레임 스윕이 적중할 때마다 열기가 남아 일정량 이상 쌓이면 더 거대한 화염으로 발화한다.\n거대 화염은 적중한 적에 불씨를 남기고, 불씨가 있는 적에게 미스트 이럽션 적중 시 불씨가 독에 반응하여 폭발한다.\n플레임 스윕의 모든 화염에 적중한 적은 화상을 입어 지속적으로 도트 데미지를 입는다. 일부 몬스터는 저항하여 화상을 입지 않는다. 불 속성 공격이다.\n필요 스킬 : 플레임 스윕 30레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 47 소비, 최대 8명의 적을 271%의 데미지로 7번 공격\n플레임 스윕 2회 적중 시 다음 플레임 스윕은 거대 화염 발생\n거대 화염에 적중한 적은 30초 동안 불씨가 남아 미스트 이럽션 적중 시 207%의 데미지로 8번 공격하는 폭발 발생\n플레임 스윕의 모든 화염에 적중한 적은 5초 동안 화상을 입으며 1초당 309%의 도트 데미지",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPBMA"
-    },
-    {
-        "skill_name": "플레임 헤이즈 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n적을 타오르는 독안개로 감싸 부딪히지 않는 상태로 만들고 도트 데미지를 입히며 느려지게 만든다.\n필요 스킬 : 플레임 헤이즈 30레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 76 소비, 251%의 데미지로 15번 공격\n100% 확률로 10초 동안 241% 도트 데미지를 주며 부딪히지 않는 상태 지속 및 -51% 감속\n적중 시 적 위치에 포이즌 미스트 생성, 적중한 적이 없을 경우 자신 위치에 포이즌 미스트 생성\n재사용 대기시간 10초\n[패시브 효과 : 영구적으로 플레임 헤이즈로 생성되는 포이즌 미스트의 도트 데미지 371%로 증가, 직접 사용하는 포이즌 미스트에는 적용되지 않음]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPBMD"
-    },
-    {
-        "skill_name": "미스트 이럽션 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n주변에 설치된 포이즌 미스트들을 폭발시켜 적에게 치명적인 독 속성 데미지를 준다. 대상에게 적용된 도트의 수가 많을수록 더 큰 피해를 줄 수 있으며 다른 사람이 설치한 미스트는 폭발시킬 수 없다.\n재사용 대기시간 초기화의 효과를 받지 않고 미스트 폭발에 성공하면 플레임 헤이즈의 재사용 대기시간이 초기화된다.\n필요 스킬 : 미스트 이럽션 30레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 103 소비, 최대 12명의 적을 152%의 데미지로 10번 공격하는 폭발 2번 발생\n몬스터의 방어율을 45% 무시\n대상에게 적용된 도트의 개수가 2개 일 때 20%, 3개 일 때 54%, 4개 일 때 104%, 5개 일 때 170% 만큼 폭발의 최종 데미지 증가\n최대 6개의 미스트 동시 폭발 가능\n재사용 대기시간 10초\n도트가 5개 이상 적용된 적에게 미스트 이럽션을 적중시키면 미스트 이럽션의 재사용 대기시간 2초 감소, 도트 5중첩으로 인한 재사용 대기시간 감소는 다른 재사용 대기시간 감소 기능보다 먼저 적용",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPBMF"
-    },
-    {
-        "skill_name": "이그나이트 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n파이어 오라를 제외한 화염 마법으로 적을 공격하면 일정 확률로 적중 위치에 불의 벽을 생성하여 적들을 불태운다.\n이그나이트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 이그나이트 10레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "화염 마법 시전 시 50% 확률로 불의 벽 생성\n불의 벽은 4초 동안 지속되며 일정 간격으로 최대 8명의 적을 54%의 데미지로 3번 공격, 한명의 적에게는 최대 3번까지만 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPBMH"
-    },
-    {
-        "skill_name": "이프리트 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 동안 불 속성을 지닌 이프리트를 소환한다. 이프리트의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 이프리트 30레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 129 소비, 270초 동안 이프리트 소환\n이프리트는 최대 5명의 적을 186%의 데미지로 3번 공격\n2초 동안 1초 간격으로 173%의 도트 데미지",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPBMJ"
-    },
-    {
-        "skill_name": "파이어 오라 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n주변을 불태우는 오라를 발동시킨다. 공격 무시 및 공격 반사 상태의 적에게도 피해를 입힐 수 있다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 파이어 오라 1레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "초당 MP 103 소비, 3초 마다 최대 10명의 적을 548%의 데미지로 2번 공격\n공격당한 적은 30초 동안 1초 마다 500%의 도트 데미지",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPBMG"
-    },
-    {
-        "skill_name": "포이즌 리젼 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n주변을 맹독 지대로 만드는 독 마법진을 설치한다. 마법진에서 지속적으로 맹독이 생성되어 점차 맹독 지대가 좌우로 번진다. 맹독 지대는 발판에 끝에 다다르면 더 이상 번지지 않는다.\n맹독 지대의 독은 인화성으로 생성 후 일정 시간이 지난 후에 맹독 지대에서 화염 마법을 사용하거나 적이 화염 마법에 피격되면 강력한 폭발을 일으킨다. 폭발도 주변의 맹독 지대를 폭발시킬 수 있다. 독 속성의 공격이며 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 포이즌 리젼 14레벨 이상",
-        "skill_level": 7,
-        "skill_effect": "MP 55 소비, 60초 동안 지속되는 독 마법진 설치\n마법진은 일정 시간마다 주변을 맹독 지대로 만들며 맹독 지대 위의 적에게 10초 동안 1초마다 238%의 도트 데미지\n맹독 지대 폭발 : MP 61 소비, 맹독 지대 폭발에 의한 폭발은 MP를 소비하지 않음, 생성 후 1.5초 후부터 폭발 가능, 최대 10명의 적을 248%의 데미지로 4번 공격, 폭발에 의해서도 맹독 지대 폭발 가능\n하나의 몬스터가 0.4초 이내에 폭발에 연속으로 맞으면 두번째 폭발부터 최종 데미지 60% 감소\n일반 몬스터 공격 시 데미지 50% 증가\n재사용 대기시간 30초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPBNE"
-    },
-    {
-        "skill_name": "메테오 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n수많은 운석을 소환하여 강력한 화염 공격을 가한다. 또한 영구히 파이어 오라를 제외한 스킬 적중 시 일정 확률로 적에게 운석이 떨어져 피해를 입힌다.\n필요 스킬 : 메테오 30레벨 이상",
-        "skill_level": 7,
-        "skill_effect": "MP 307 소비, 최대 15명의 적을 424%의 데미지로 12번 공격\n재사용 대기시간 50초\n[패시브 효과 : [파이널 어택류 스킬] 직접 공격하는 공격 스킬 적중 시 65% 확률로 268%의 데미지로 공격하는 메테오를 떨어뜨림]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPBNC"
-    },
-    {
-        "skill_name": "메기도 플레임 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n상대의 영혼까지 태워버리는 푸른 불꽃을 날려 적을 소멸시킨다. 푸른 불꽃은 적을 태운 후 일정 횟수까지 재생성된다.\n아래 방향키와 함께 사용 시 폭발 모드가 발동되며 폭발 모드에서는 불꽃이 재생성되지 않고 적중한 적에게 폭발이 발생한다.\n불꽃은 범위 내의 보스 몬스터를 우선하여 추적하며, 보스 몬스터가 여럿일 경우 최대 HP가 가장 높은 보스 몬스터를 우선하여 추적한다. 공격 무시 및 공격 반사 상태의 적에게도 피해를 입힌다.\n커스텀 커맨드를 사용하면 방향키 입력 없이 스킬 키만으로 폭발 모드를 사용할 수 있다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n필요 스킬 : 메기도 플레임 1레벨 이상",
-        "skill_level": 7,
-        "skill_effect": "MP 524 소비, 푸른 불꽃 3개 생성\n불꽃은 407%의 데미지로 5번 공격하며 적에게 적중 후 분열하여 자신 외에 1개의 불꽃을 추가로 생성, 처음 생성된 불꽃을 포함하여 최대 11개까지 생성될 수 있으며 최대 개수까지 생성되면 더 이상 재생성되지 않음\n여러 개의 불꽃이 하나의 적을 공격하면 2번째 불꽃부터 최종 데미지 55% 감소, 불꽃이 태운 적은 30초 동안 1초 마다 819%의 도트 데미지\n폭발 모드 : 불꽃이 재생성되지 않고 불꽃에 적중한 적에게 294%의 데미지로 3번 공격하는 폭발이 3회 발생\n재사용 대기시간 50초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPBNA"
-    },
-    {
-        "skill_name": "인페르날 베놈",
-        "skill_description": "[마스터 레벨 : 30]\r\n불과 독의 화신이 가진 본래의 힘을 해방시켜 궁극의 융합 마법으로 주위를 초토화시킨다.\n두 화신의 힘으로 일정 시간 동안 퍼번트 드레인의 한계가 확장되며, 최대 스택으로 고정된다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 2,
-        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n20초 동안 퍼번트 드레인의 한계치가 10스택으로 확장\n불과 독의 화신이 해방되어 15명의 적을 288%의 데미지로 12번 공격하는 폭발이 17회 발생\n두 화신의 마력이 융합하여 최대 15명의 적을 278%의 데미지로 15번 공격하는 강력한 폭렬 마법이 42회 발생\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAKDPEMA"
-    },
-    {
-        "skill_name": "도트 퍼니셔 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n도트 퍼니셔를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "도트 퍼니셔의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNC"
-    },
-    {
-        "skill_name": "포이즌 노바 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n포이즌 노바를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "포이즌 노바의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBND"
-    },
-    {
-        "skill_name": "퓨리 오브 이프리트 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n퓨리 오브 이프리트를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "퓨리 오브 이프리트의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNE"
-    },
-    {
-        "skill_name": "포이즌 체인 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n포이즌 체인을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "포이즌 체인의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNF"
     }
 ]

@@ -1,255 +1,136 @@
-995
+998
 [
     {
         "skill_name": "크래프트:자벨린 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n적들 사이를 빠르게 오가며 공격하는 날카로운 마법의 자벨린을 투척한다. 자벨린이 적에게 명중하면 파편으로 갈라져 추가 공격한다.\n크래프트:오브 II와 연계하여 사용 가능하고 다수 공격 스킬의 공격 대상 증가 효과를 받지 않는다.\n자벨린이 크리스탈 또는 적에 적중하면 크리스탈 파편을 획득한다. 크리스탈 파편을 일정량 이상 모으면 축적된 크리스탈의 힘을 자벨린에 부여하여 인챈트 자벨린을 사용할 수 있다. 인챈트 자벨린은 적을 자동으로 추적하며 한 번에 많은 마력을 크리스탈에 차지시킨다.\n자벨린, 인챈트 자벨린, 자벨린 파편은 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n필요 스킬 : 크래프트:자벨린 II 30레벨 이상",
-        "skill_level": 9662,
+        "skill_level": 9828,
         "skill_effect": "MP 40 소비, 최대 5명의 적을 580%의 데미지로 3번 공격\n자벨린 적중 시 200%의 데미지로 공격하는 파편 2개 생성\n자벨린을 크리스탈 또는 적에 적중 시 크리스탈 파편 1개 획득, 자벨린 1회에 크리스탈 파편은 최대 1개까지 획득 가능\n크리스탈 파편을 30개 획득 시 다음 자벨린이 인챈트 자벨린으로 발동\n인챈트 자벨린 : 자벨린 한 번에 3개 투척, 크리스탈 25 차지\n인챈트 자벨린으로 생성된 자벨린 파편은 하나의 적에게 적중 시 두번째 자벨린 파편부터 최종 데미지 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMA"
     },
     {
         "skill_name": "글로리 윙:자벨린 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n글로리 윙의 힘으로 강화된 자벨린을 투척한다. 자벨린은 적을 자동으로 추적하여 폭발하며 막대한 피해를 입힌다. 사용 시 적을 추적하는 매직 미사일이 함께 생성된다.\n자벨린이 적에 적중할 때마다 영광의 크리스탈 파편을 획득한다. 영광의 크리스탈 파편을 일정량 모으면 축적된 크리스탈의 힘을 자벨린에 부여하여 인챈트 자벨린을 사용할 수 있다.\n자벨린 및 매직 미사일은 최대 HP가 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 크래프트:자벨린 II 30레벨 이상",
-        "skill_level": 9662,
+        "skill_level": 9828,
         "skill_effect": "MP 40 소비, 최대 5명의 적을 925%의 데미지로 6번 공격\n자벨린 적중 시 375%의 데미지로 3번 공격하는 매직 미사일 3개 생성\n자벨린 적중 시 영광의 크리스탈 파편 1개 획득, 자벨린 1회에 영광의 크리스탈 파편은 최대 1개까지 획득 가능\n크리스탈 파편을 10개 획득 시 다음 자벨린이 인챈트 자벨린으로 발동\n인챈트 자벨린 : 자벨린 한 번에 3개 투척\n인챈트 자벨린으로 생성된 매직 미사일은 하나의 적에게 적중 시 두번째 매직 미사일부터 최종 데미지 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBME"
     },
     {
         "skill_name": "리액션:디스트럭션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:자벨린 또는 크래프트:롱기누스에 닿으면 공명하여 크리스탈 주변의 적들에게 파괴적인 기운을 두 차례 내뿜는다.\n필요 스킬 : 리액션:디스트럭션 Ⅱ 20레벨 이상",
-        "skill_level": 4099,
+        "skill_level": 4195,
         "skill_effect": "MP 205 소비, 최대 10명의 적을 1145%의 데미지로 6번 공격하는 기운이 2번 발동, 보스 몬스터 공격 시 데미지 20% 증가\n재발동 대기시간 4초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMH"
     },
     {
         "skill_name": "리액션:도미네이션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:오브에 닿으면 공명하여 크리스탈 주변의 적들을 공격하고 공격한 적에게 커스 마크를 새긴다.\n필요 스킬 : 리액션:도미네이션 Ⅱ 20레벨 이상",
-        "skill_level": 4099,
+        "skill_level": 4195,
         "skill_effect": "MP 70 소비, 최대 12명의 적을 915%의 데미지로 5번 공격\n재발동 대기시간 4초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMI"
     },
     {
         "skill_name": "글로리 윙:모탈 윙비트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n모든 마력을 날개 끝에 집중한 뒤 빠르게 회전하며 주변을 휩쓴다. 응집된 마력은 적에게 저주의 표식을 남긴다.\n추가로 크래프트:자벨린 VI와 글로리 윙:자벨린 VI의 인챈트 자벨린을 영구적으로 강화한다.\n글로리 윙 중 1회 사용 가능\n필요 스킬 : 글로리 윙:모탈 윙비트 30레벨 이상",
-        "skill_level": 4099,
+        "skill_level": 4195,
         "skill_effect": "MP 200 소비, 최대 15명의 적을 2200%의 데미지로 15번 공격하는 마력 폭풍이 5번 발생\n[패시브 효과 : 인챈트 자벨린의 데미지 170%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMJ"
     },
     {
         "skill_name": "리요 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n든든한 기계친구 리요를 소환한다. 리요는 한 명의 적에게 일정 시간 지속 공격한다.\n리요는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 리요 20레벨 이상",
-        "skill_level": 1016,
+        "skill_level": 1143,
         "skill_effect": "MP 94 소비, 207초 동안 소환, 공격 목표에게 이동하여 일정 간격으로 336%의 데미지로 지속 공격\n40회 공격 시 공격 종료",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNA"
     },
     {
         "skill_name": "마키나 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n기계친구 마키나를 소환한다.\n마키나는 크리스탈 근처에 소환되어 크리스탈을 수호하며 적을 끌어모은다. 크리스탈이 이동하면 함께 이동하며 경로상의 적들을 공격한다.\n마키나는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 마키나 20레벨 이상",
-        "skill_level": 1016,
+        "skill_level": 1143,
         "skill_effect": "MP 104 소비, 207초 동안 소환\n최대 5명의 적을 483%의 데미지로 4번 공격\n크리스탈 이동 시 이동 경로 상의 적을 1회 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNB"
     },
     {
         "skill_name": "크리스탈 스킬:데우스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n리요와 마키나의 힘을 하나로 합쳐 데우스를 불러낸다. 데우스는 주변의 적을 추적하여 공격하는 위성을 소환한다.\n데우스는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 크리스탈 차지 : 90 이상\n※사용 후 크리스탈 차지가 초기화돼야 재사용 가능\n필요 스킬 : 크리스탈 스킬:데우스 30레벨 이상",
-        "skill_level": 1016,
+        "skill_level": 1143,
         "skill_effect": "MP 312 소비, 30초 동안 소환\n데우스는 최대 10명의 적을 809%의 데미지로 5번 공격\n위성 : 최대 5개 소환, 위성은 한명의 적에게는 최대 3개까지 소환되며 127%의 데미지로 지속 공격, 위성당 최대 40회까지 공격 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNC"
     },
     {
         "skill_name": "크래프트:롱기누스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n신창 롱기누스를 그려내어 투척한다. 롱기누스는 크리스탈을 향해 날아가며 경로상의 모든 적에게 막대한 피해를 입힌다. 단, 크리스탈이 없는 경우 직선으로 날아간다.\n필요 스킬 : 크래프트:롱기누스 30레벨 이상",
-        "skill_level": 1407,
+        "skill_level": 1537,
         "skill_effect": "MP 160 소비\n최대 10명의 적을 1230%의 데미지로 12번 공격\n적 또는 크리스탈에 적중 시 크래프트:자벨린 VI의 크리스탈 파편 2개, 글로리 윙:자벨린 VI의 영광의 크리스탈 파편 3개 획득\n보스 몬스터 공격 시 데미지 20% 증가, 추가 크리티컬 확률 100%\n크리스탈 스킬:글로리 윙 중 보스 몬스터 공격 시 데미지 20% 추가 증가\n재사용 대기시간 15초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNE"
     },
     {
         "skill_name": "커스 마크 완성 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n커스 마크가 새겨진 적에게 강한 추가 타격을 입힌다. 추가로 크래프트:자벨린 VI를 영구히 강화한다.\n필요 스킬 : 커스 마크 완성 10레벨 이상",
-        "skill_level": 1407,
+        "skill_level": 1537,
         "skill_effect": "커스 마크가 새겨진 적을 공격하면 커스 마크 중첩 개수와 상관 없이 400% 데미지의 추가 타격 발생\n[패시브 효과 : 크래프트:자벨린 VI, 크래프트:인챈트 자벨린의 데미지 10%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDOBNG"
     },
     {
         "skill_name": "롱기누스 존 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n신창 롱기누스 6자루를 그려내어 넓은 지역에 공격을 퍼붓는다.\n필요 스킬 : 롱기누스 존 1레벨 이상",
-        "skill_level": 1407,
+        "skill_level": 1537,
         "skill_effect": "MP 215 소비, 최대 12명의 적을 1210%의 데미지로 5번 공격하는 폭발이 4회 발동\n시전 동작 중 무적\n재사용 대기시간 120초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNF"
     },
     {
         "skill_name": "언리미티드 크리스탈",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈에 담긴 무한한 마력을 해방하여 폭발시킨 후, 무한의 크리스탈을 소환한다.\n무한의 크리스탈은 크리스탈이 리액션을 일으킬 때마다 공명하여 강력한 리액션을 일으킨다. 리액션이 일정 횟수 이상 발동하면, 무한의 크리스탈 속에 응축되어 있던 순수한 마력이 분출되어 크리스탈 결정을 생성한다.\n글로리 윙 지속 중 언리미티드 크리스탈 사용 시 크리스탈의 무한한 마력이 글로리 윙에 깃들어 글로리 윙의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n크리스탈 결정은 최대 HP가 높은 보스 몬스터를 우선 추적하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 3958,
+        "skill_level": 3995,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n글로리 윙 지속 중 사용 시 글로리 윙 지속시간 10초 증가\n최대 15명의 적을 1200%의 데미지로 8번 공격하는 마력 폭발이 12회, 1330%의 데미지로 10번 공격하는 마력 폭발이 13회, 1500%의 데미지로 15번 공격하는 마력 폭발이 16회 발생\n20초 동안 무한의 크리스탈 소환\n크리스탈에 리액션 발생 시 무한의 크리스탈에서 최대 15명의 적을 1920%의 데미지로 15번 공격하는 공명 발생, 공명 재발동 시간 1초\n공명이 3번 발생하면 다음 공명 대신 1200%의 데미지로 2번 공격하는 크리스탈 결정이 25개 생성, 크리스탈 결정 재생성 대기시간 2초\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 1912,
+        "skill_level": 1926,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 81% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 1912,
+        "skill_level": 1926,
         "skill_effect": "최대 HP의 10% 소비\n80초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 660%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "크리스탈 이그니션 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈 이그니션, 리액션:스펙트럼을 강화한다.",
-        "skill_level": 2815,
+        "skill_level": 2854,
         "skill_effect": "크리스탈 이그니션, 리액션:스펙트럼의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKE"
     },
     {
         "skill_name": "그람홀더 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n그람홀더를 강화한다.",
-        "skill_level": 831,
+        "skill_level": 837,
         "skill_effect": "그람홀더의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKF"
     },
     {
         "skill_name": "소울 오브 크리스탈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소울 오브 크리스탈을 강화한다.",
-        "skill_level": 543,
+        "skill_level": 557,
         "skill_effect": "소울 오브 크리스탈의 리액션 스킬 최종 데미지 반영률 90%, 글로리 윙 사용 시 소멸한 영혼의 크리스탈 1개당 데미지 증가량 50%로 증가\n[패시브 효과 : 올스탯 90 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKG"
     },
     {
         "skill_name": "크리스탈 게이트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈 게이트를 강화한다.",
-        "skill_level": 2186,
+        "skill_level": 2240,
         "skill_effect": "크리스탈 게이트의 최종 데미지 60% 증가, 지속시간 190초, 버프의 마력 증가량 95로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKH"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 517,
+        "skill_level": 524,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
-    },
-    {
-        "skill_name": "디바이드 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[트리거 스킬] 거대한 대검을 생성하여 전방의 적을 절단한다. 일정 시간마다 에테르의 기운을 받아 디바이드가 강화된다.\n필요 스킬 : 디바이드 30레벨 이상",
-        "skill_level": 20,
-        "skill_effect": "MP 51 소비, 최대 7명의 적을 630%의 데미지로 6번 공격\n 6초마다 다음 공격 강화된 디바이드로 대체 \n 강화 디바이드 : 최대 8명의 적을 480%의 데미지로 7번 공격하는 참격 3회 발생",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMA"
-    },
-    {
-        "skill_name": "샤드 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n적을 감지하여 날아가는 마력 조각을 생성한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 20,
-        "skill_effect": "MP 30 소비, 640% 데미지로 3번 공격하는 마력 조각 5개 생성\n재사용 대기시간 6초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMC"
-    },
-    {
-        "skill_name": "원더 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n공격 시 샤드가 자동 생성된다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬",
-        "skill_level": 20,
-        "skill_effect": "트리거 스킬 적중 시 7초 마다 생성, 생성 시 MP 30 소모\n재사용 대기시간 0.50초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMD"
-    },
-    {
-        "skill_name": "오더 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n크리에이션으로 창조한 에테르 소드에 명령을 내려 적을 추적하게 한다. 크리에이션으로 창조한 에테르 소드가 있어야 사용할 수 있다.\n에테르 소드는 아델 근처에서만 움직이며 멀어지면 근처로 이동하여 새로운 적을 추적한다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않고 아델이 전투 상태일 때만 적을 추적한다.\n추적 중인 에테르 소드가 소멸할 때 남은 지속시간에 비례해 에테르를 획득할 수 있다.\n필요 스킬 : 오더 20레벨 이상",
-        "skill_level": 29,
-        "skill_effect": "MP 52, 에테르 100 소비\n각 에테르 소드는 59초 동안 존재하며 786%의 데미지로 2번 공격\n최대 6자루까지 명령 가능, 최대 개수를 초과해서 명령 시 지속시간이 가장 적게 남은 에테르 소드가 소멸\n공격 적중 시 15% 확률로 에테르 결정 생성\n재사용 대기시간 0.50초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBME"
-    },
-    {
-        "skill_name": "트레드 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n[트리거 스킬] 전신에 마력을 휘감아 급강하한다.\n필요 스킬 : 트레드 20레벨 이상",
-        "skill_level": 29,
-        "skill_effect": "MP 62 소비, 최대 6명의 적을 807%의 데미지로 6번 공격\n재사용 대기시간 1.50초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMF"
-    },
-    {
-        "skill_name": "임페일 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n에테르 소드를 생성하여 강하게 날린다. 8방향으로 날릴 수 있어 방향키와 함께 사용하면 해당 방향으로 날린다.\n사정거리 끝에 도달하면 소멸하며 에테르 결정을 남긴다. 임페일로 에테르 결정이 생성될 때 이미 결정이 있는 곳이라면 이전 결정을 소멸시키고 새롭게 생성되며 재생성 대기시간을 무시한다.\n레조넌스로 연계할 수 있지만 연계하면 에테르 결정을 남길 수 없다.\n필요 스킬 : 임페일 10레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 48, 에테르 15 소비\n최대 6명의 적을 616%의 데미지로 6번 공격\n재사용 대기시간 7초  ",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNA"
-    },
-    {
-        "skill_name": "레조넌스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n마력으로 이루어진 대검을 생성하고 에테르 결정과 공명시켜 결정이 있는 곳으로 돌진한다. 8방향으로 사용할 수 있어 방향키와 함께 사용하면 해당 방향에 있는 가장 가까운 결정으로 돌진한다.\n사정거리 안에 에테르 결정이 있거나 임페일에서 연계해야만 사용할 수 있다.\n임페일에서 연계하여 사용하면 대검 생성시간이 단축되고 에테르 소드를 날린 방향으로 돌진한다.\n추가로 디바이드 VI의 데미지를 영구히 증가시킨다.\n필요 스킬 : 레조넌스 10레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "레조넌스와 공명한 에테르 결정 소멸\n최대 6명의 적을 639%의 데미지로 6번 공격\n공격 적중 시 30초 동안 최종 데미지 10%, 방어율 무시 10%가 증가하는 버프 발동\n[패시브 효과 : 디바이드 VI의 데미지 28%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNB"
-    },
-    {
-        "skill_name": "게더링 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n오더로 명령을 내린 모든 에테르 소드를 되돌아오게 한다. 에테르 소드는 스킬을 사용한 곳까지 직선으로 돌아오며 경로 상의 적을 공격한 후 짧은 시간 이동한 자리에 머무른다. 오더로 적을 추적 중인 에테르 소드가 있어야 사용할 수 있다.\n게더링 중에는 에테르 소드의 지속시간이 경과하지 않는다. 게더링은 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 재사용 대기시간 초기화의 효과를 받지 않는다.\n필요 스킬 : 게더링 20레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 54 소비, 최대 10명의 적을 826%의 데미지로 4번 공격\n공격을 받은 적은 30초 동안 디버프가 걸리고 해당 적에 대한 아델의 공격은 방어율 무시 10% 증가\n공격 적중 시 40% 확률로 에테르 결정 생성\n재사용 대기시간 12초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNE"
-    },
-    {
-        "skill_name": "블로섬 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n오더로 명령을 내린 모든 에테르 소드를 회전시켜 마력을 개화시킨다. 오더로 적을 추적 중인 에테르 소드가 있어야 사용할 수 있다.\n블로섬 중에는 에테르 소드의 지속시간이 경과하지 않고 게더링으로 돌아오는 에테르 소드는 개화시킬 수 없다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않고 재사용 대기시간 초기화의 효과를 받지 않는다.\n필요 스킬 : 블로섬 30레벨 이상",
-        "skill_level": 18,
-        "skill_effect": "MP 87 소비, 각 에테르 소드가 최대 8명의 적을 944%의 데미지로 8번 공격\n한명의 적이 복수의 블로섬에 적중당하면 해당 적에 대한 블로섬의 최종 데미지 25% 감소\n공격 적중 시 50% 확률로 에테르 결정 생성\n재사용 대기시간 20초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNG"
-    },
-    {
-        "skill_name": "크리에이션 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n현재 가진 에테르로 몸 주위에 에테르 소드를 창조하며 에테르의 증감에 따라 에테르 소드의 수가 저절로 조절된다.\n창조된 에테르 소드는 주변의 적을 스스로 공격하고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 크리에이션 10레벨 이상",
-        "skill_level": 16,
-        "skill_effect": "트리거 스킬 적중 시 1.5초 마다 최대 10명의 적을 908%의 데미지로 공격\n에테르 소드 1자루당 1번 공격\n공격 적중 시 30%의 확률로 에테르 결정 생성\n재사용 대기시간 0.50초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMG"
-    },
-    {
-        "skill_name": "테리토리 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n수많은 검이 창조되는 자신만의 영역을 만든다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 테리토리 20레벨 이상",
-        "skill_level": 16,
-        "skill_effect": "MP 128 소비, 7초 동안 일정 간격마다 최대 8명의 적을 630%의 데미지로 4번 공격하는 영역 생성\n재사용 대기시간 30초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNF"
-    },
-    {
-        "skill_name": "마커 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n허공에 존재하는 작은 조각에 마력을 불어넣어 자라게 한 후 파쇄한다.\n파쇄된 위치에는 마력이 집중되어 에테르 결정이 생성되며 재생성 대기시간을 무시한다.\n필요 스킬 : 마커 1레벨 이상",
-        "skill_level": 16,
-        "skill_effect": "MP 266 소비, 최대 7명의 적 위치에 조각 생성\n조각은 생성 및 파쇄될 때 각각 최대 7명의 적을 2564%의 데미지로 6번 공격\n공격할 수 있는 적이 최대 공격 가능한 적 수보다 적다면 임의의 위치에 조각 7개까지 생성\n그레이브가 적용된 적에게는 조각이 절반만 생성되고 최대 7명의 적을 3205%의 데미지로 6번 공격\n조각이 파쇄된 후 에테르 결정 최대 7개까지 생성\n재사용 대기시간 60초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNH"
-    },
-    {
-        "skill_name": "마에스트로",
-        "skill_description": "[마스터 레벨 : 30]\r\n무한한 에테르 소드를 지휘하여 전장을 휩쓴다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 9,
-        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n에테르 소드를 소환하며 최대 15명의 적을 887%의 데미지로 10번 공격하는 참격이 29회 발생\n마지막으로 에테르 소드를 조종하여 최대 15명의 적을 887%의 데미지로 14번 공격하는 마무리 일격 57회 발생\n재사용 대기시간 360초 ",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPEMA"
-    },
-    {
-        "skill_name": "루인 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n루인을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "루인의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKA"
-    },
-    {
-        "skill_name": "인피니트 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n인피니트를 강화한다.",
-        "skill_level": 3,
-        "skill_effect": "인피니트의 최종 데미지 13% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKB"
-    },
-    {
-        "skill_name": "리스토어 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n리스토어를 강화한다.",
-        "skill_level": 7,
-        "skill_effect": "리스토어의 최종 데미지 17% 증가, 지속 중 최종 데미지 3% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKC"
-    },
-    {
-        "skill_name": "스톰 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n스톰을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "스톰의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKD"
     }
 ]
