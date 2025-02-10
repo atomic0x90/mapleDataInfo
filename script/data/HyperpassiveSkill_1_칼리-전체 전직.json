@@ -1,37 +1,37 @@
-997
+998
 [
     {
         "skill_name": "헥스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n헥스 계열 스킬의 데미지를 증가시킨다.",
-        "skill_level": 954,
+        "skill_level": 957,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPB"
     },
     {
         "skill_name": "헥스-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n헥스 계열 스킬의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 113,
+        "skill_level": 112,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPC"
     },
     {
         "skill_name": "헥스-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n헥스 계열 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 924,
+        "skill_level": 927,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPD"
     },
     {
         "skill_name": "레조네이트-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n레조네이트로 발현된 차크리가 적을 찾는 범위를 증가시킨다. 레조네이트-애드 레인지는 레조네이트 : 얼티메이텀에는 적용되지 않는다.",
-        "skill_level": 69,
+        "skill_level": 70,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPE"
     },
     {
         "skill_name": "보이드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n보이드 계열 스킬의 데미지를 증가시킨다.",
-        "skill_level": 900,
+        "skill_level": 903,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPF"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "아츠-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n아츠 계열 스킬의 데미지를 증가시킨다.",
-        "skill_level": 911,
+        "skill_level": 914,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPH"
     },
     {
         "skill_name": "아츠-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n아츠 계열 스킬의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 35,
+        "skill_level": 34,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPI"
     },
     {
         "skill_name": "아츠-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n아츠 계열 스킬의 공격 횟수를 증가시킨다.",
-        "skill_level": 895,
+        "skill_level": 899,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKFOBPJ"
     }

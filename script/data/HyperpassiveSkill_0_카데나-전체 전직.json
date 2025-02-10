@@ -1,65 +1,65 @@
-998
+1000
 [
     {
         "skill_name": "논체인아츠-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠를 제외한 소환 무기를 사용하는 모든 공격들의 데미지를 증가시킨다.",
-        "skill_level": 995,
+        "skill_level": 997,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBID"
     },
     {
         "skill_name": "논체인아츠-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠를 제외한 소환 무기를 사용하는 공격들의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 20,
+        "skill_level": 18,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBIE"
     },
     {
         "skill_name": "논체인아츠-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠를 제외한 소환 무기를 사용하는 공격들의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 993,
+        "skill_level": 995,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBIF"
     },
     {
         "skill_name": "체인아츠:스트로크-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠:스트로크의 데미지를 증가시킨다.",
-        "skill_level": 931,
+        "skill_level": 933,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBIG"
     },
     {
         "skill_name": "체인아츠:스트로크-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠:스트로크의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 23,
+        "skill_level": 22,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBII"
     },
     {
         "skill_name": "체인아츠:스트로크-넥스트어택 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠:스트로크 사용 중 1타 직후 연계하여 사용한 다음 공격의 데미지를 증가시킨다. 1차 스킬 \"체인아츠:스트로크\"의 1타 직후 사용 스킬의 최종 데미지 증가 효과와는 합적용된다.",
-        "skill_level": 989,
+        "skill_level": 992,
         "skill_effect": "체인아츠:스트로크를 제외한 1타 직후 사용하는 스킬의 최종 데미지 5% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBIH"
     },
     {
         "skill_name": "체인아츠:테이크다운-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠:테이크다운의 데미지를 증가시킨다.",
-        "skill_level": 212,
+        "skill_level": 215,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBIJ"
     },
     {
         "skill_name": "체인아츠:테이크다운-웨이브 리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠:테이크다운의 연속 공격 시 발생하는 충격파의 데미지를 증가시킨다.",
-        "skill_level": 35,
+        "skill_level": 34,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBJA"
     },
     {
         "skill_name": "체인아츠:테이크다운-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n체인아츠:테이크다운의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 792,
+        "skill_level": 794,
         "skill_effect": "재사용 대기시간 20% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKFOBJB"
     }

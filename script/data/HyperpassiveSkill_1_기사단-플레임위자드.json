@@ -24,21 +24,21 @@
     {
         "skill_name": "블레이징 익스팅션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이징 익스팅션의 데미지를 증가시킨다.",
-        "skill_level": 879,
+        "skill_level": 881,
         "skill_effect": "블레이징 익스팅션의 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKFOBIH"
     },
     {
         "skill_name": "블레이징 익스팅션-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이징 익스팅션의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 79,
+        "skill_level": 78,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKFOBII"
     },
     {
         "skill_name": "블레이징 익스팅션-애드 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이징 익스팅션의 공격 횟수를 증가시킨다.",
-        "skill_level": 873,
+        "skill_level": 874,
         "skill_effect": "공격 횟수 1회 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKFOBIG"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "오비탈 익스플로젼-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 익스플로젼의 몬스터 방어율 무시를 증가시킨다.",
-        "skill_level": 27,
+        "skill_level": 26,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKFOBJB"
     },
     {
         "skill_name": "오비탈 익스플로젼-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 익스플로젼의 데미지를 증가시킨다.",
-        "skill_level": 96,
+        "skill_level": 95,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKFOBIJ"
     }
