@@ -10,7 +10,7 @@
     {
         "skill_name": "소울 시커-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n소울 시커의 데미지를 증가시킨다.",
-        "skill_level": 950,
+        "skill_level": 949,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBID"
     },
@@ -31,14 +31,14 @@
     {
         "skill_name": "피니투라 페투치아-리듀스 아머",
         "skill_description": "[마스터 레벨 : 1]\r\n피니투라 페투치아 습득 시 방어율 무시가 영구적으로 증가한다.\n필요 스킬 : 피니투라 페투치아 1레벨 이상",
-        "skill_level": 803,
+        "skill_level": 804,
         "skill_effect": "방어율 무시 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBIH"
     },
     {
         "skill_name": "피니투라 페투치아-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n피니투라 페투치아의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 44,
+        "skill_level": 46,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBII"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "트리니티-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n트리니티, 트리니티 퓨전의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 168,
+        "skill_level": 166,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBJA"
     },
