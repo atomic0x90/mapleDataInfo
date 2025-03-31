@@ -3,14 +3,14 @@
     {
         "skill_name": "서포트 몽키 트윈스-스플릿 데미지",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 몽키 트윈스의 최종 데미지를 낮추고 공격 횟수를 증가시킨다.",
-        "skill_level": 724,
+        "skill_level": 725,
         "skill_effect": "공격 횟수 1 증가, 최종 데미지 60%로 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBID"
     },
     {
         "skill_name": "서포트 몽키 트윈스-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 몽키 트윈스의 지속 시간을 증가시킨다.",
-        "skill_level": 29,
+        "skill_level": 30,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIE"
     },
@@ -24,21 +24,21 @@
     {
         "skill_name": "캐논 바주카-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 데미지를 증가시킨다.",
-        "skill_level": 305,
+        "skill_level": 304,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIG"
     },
     {
         "skill_name": "캐논 바주카-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 54,
+        "skill_level": 55,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIH"
     },
     {
         "skill_name": "캐논 바주카-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 공격 횟수를 증가시킨다.",
-        "skill_level": 913,
+        "skill_level": 911,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBII"
     },
