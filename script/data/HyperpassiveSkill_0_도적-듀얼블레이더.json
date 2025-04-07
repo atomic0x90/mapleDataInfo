@@ -3,7 +3,7 @@
     {
         "skill_name": "블레이드 퓨리-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 퓨리의 데미지를 증가시킨다.",
-        "skill_level": 929,
+        "skill_level": 928,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIDOBJF"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "블레이드 퓨리-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 퓨리의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 617,
+        "skill_level": 615,
         "skill_effect": "최대 공격 가능한 몬스터 수 2 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIDOBJH"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "블레이드 어센션-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 어센션의 데미지를 증가시킨다.",
-        "skill_level": 93,
+        "skill_level": 95,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIDOBIE"
     },
     {
         "skill_name": "블레이드 어센션-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이드 어센션의 공격 횟수를 증가시킨다.",
-        "skill_level": 238,
+        "skill_level": 239,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGIDOBIF"
     }

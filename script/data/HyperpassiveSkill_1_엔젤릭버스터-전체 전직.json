@@ -3,21 +3,21 @@
     {
         "skill_name": "소울 시커-메이크 업",
         "skill_description": "[마스터 레벨 : 1]\r\n소울 시커의 재생성 확률을 증가시킨다.",
-        "skill_level": 964,
+        "skill_level": 965,
         "skill_effect": "재생성 확률 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBIE"
     },
     {
         "skill_name": "소울 시커-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n소울 시커의 데미지를 증가시킨다.",
-        "skill_level": 950,
+        "skill_level": 951,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBID"
     },
     {
         "skill_name": "소울 시커-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n소울 시커의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 28,
+        "skill_level": 27,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBIF"
     },
@@ -31,14 +31,14 @@
     {
         "skill_name": "피니투라 페투치아-리듀스 아머",
         "skill_description": "[마스터 레벨 : 1]\r\n피니투라 페투치아 습득 시 방어율 무시가 영구적으로 증가한다.\n필요 스킬 : 피니투라 페투치아 1레벨 이상",
-        "skill_level": 807,
+        "skill_level": 805,
         "skill_effect": "방어율 무시 15% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBIH"
     },
     {
         "skill_name": "피니투라 페투치아-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n피니투라 페투치아의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 46,
+        "skill_level": 48,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBII"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "트리니티-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n트리니티, 트리니티 퓨전의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 167,
+        "skill_level": 169,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBJA"
     },
     {
         "skill_name": "트리니티-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n트리니티의 공격횟수를 증가시킨다. \n필요 스킬: 트리니티 30레벨 이상",
-        "skill_level": 964,
+        "skill_level": 966,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJHKFOBJB"
     }
