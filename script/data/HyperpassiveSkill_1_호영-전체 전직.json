@@ -1,4 +1,4 @@
-998
+999
 [
     {
         "skill_name": "천지인-리인포스",
@@ -31,7 +31,7 @@
     {
         "skill_name": "환영 분신부-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n환영 분신부와 선기 : 극대 분신난무의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 715,
+        "skill_level": 704,
         "skill_effect": "방어율 무시 25% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPF"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "권술 : 호접지몽-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n권술 : 호접지몽의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 197,
+        "skill_level": 210,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPI"
     },
     {
         "skill_name": "권술 : 흡성와류-헤이스트",
         "skill_description": "[마스터 레벨 : 1]\r\n권술 : 흡성와류의 공격 주기를 감소시킨다.",
-        "skill_level": 916,
+        "skill_level": 914,
         "skill_effect": "공격 주기 20% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJGKFOBPJ"
     }

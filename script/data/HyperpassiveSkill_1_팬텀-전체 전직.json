@@ -10,14 +10,14 @@
     {
         "skill_name": "템페스트 오브 카드-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n템페스트 오브 카드의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 934,
+        "skill_level": 936,
         "skill_effect": "재사용 대기시간 20% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBIE"
     },
     {
         "skill_name": "템페스트 오브 카드-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n템페스트 오브 카드의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 8,
+        "skill_level": 7,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBIF"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "탤런트 오브 팬텀시프-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n스틸 스킬로 훔친 다른 모험가의 스킬 중 공격 스킬의 데미지를 증가시킨다.",
-        "skill_level": 313,
+        "skill_level": 312,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBIJ"
     },
     {
         "skill_name": "탤런트 오브 팬텀시프-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n스틸 스킬로 훔친 다른 모험가의 스킬 중 버프 스킬의 지속시간을 증가시킨다.",
-        "skill_level": 470,
+        "skill_level": 473,
         "skill_effect": "버프 지속시간 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBJA"
     },
     {
         "skill_name": "탤런트 오브 팬텀시프-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n스킬 매니지먼트의 훔친 4차 스킬 슬롯 개수를 증가시킨다.",
-        "skill_level": 456,
+        "skill_level": 453,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNGKFOBJB"
     }

@@ -3,112 +3,112 @@
     {
         "skill_name": "매그넘 펀치 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n건틀렛 리볼버의 폭발력을 이용하여 전방에 더욱 강력해진 스트레이트 펀치를 내지른다. 스킬 사용 시 리볼빙 캐논이 자동으로 발동된다. 더블 팡 Ⅵ, 버닝 브레이커로 연계 가능하다.\n필요 스킬 : 매그넘 펀치 20레벨 이상",
-        "skill_level": 18245,
+        "skill_level": 18247,
         "skill_effect": "MP 21 소비, 최대 7명의 적을 800%의 데미지로 3번 공격\n매그넘 펀치 VI 사용 시 리볼빙 캐논이 자동 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPBMA"
     },
     {
         "skill_name": "더블 팡 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n건틀렛 리볼버의 추진력을 이용하여 전방에 더욱 강력해진 2단 콤비네이션을 가한다. 스킬을 배운 뒤 매그넘 펀치 Ⅵ 버튼을 연타해도 사용할 수 있다. 스킬 사용 시 리볼빙 캐논이 자동으로 발동된다. 더킹, 해머 스매시, 스웨이, 쇼크 웨이브 펀치, 버닝 브레이커로 연계 가능하다.\n필요 스킬 : 더블 팡 20레벨 이상",
-        "skill_level": 18245,
+        "skill_level": 18247,
         "skill_effect": "MP 27 소비, 최대 7명의 적을 680%의 데미지로 4번 공격\n더블 팡 VI 사용 시 리볼빙 캐논이 자동 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPBMB"
     },
     {
         "skill_name": "릴리즈 파일 벙커 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n축적한 실린더를 한 번에 터뜨려 파일 벙커를 꽂아 넣는다. 파일 벙커는 폭발을 수반한 충격파를 발생시키고 일정 횟수 사용 시 완충된 실린더에서 강력한 폭발을 발생시킬 수 있는 버스트 파일 벙커를 사용할 수 있다.\n파일 벙커를 이용한 직접 공격은 몬스터의 방어율을 추가 무시한다.\n스킬 사용 시 실린더 게이지에 따라 다중 충격파가 발생하여 가까운 적일수록 더 많은 피해를 입힌다. 실린더 게이지가 최소 3칸이 쌓여야만 사용 가능하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 릴리즈 파일 벙커 10레벨 이상, 리볼빙 캐논 업그레이드 III 20레벨 이상",
-        "skill_level": 16878,
+        "skill_level": 16969,
         "skill_effect": "사용 시 파일 벙커를 이용해 최대 10명의 적을 8번 직접 공격\n이후 최대 10명의 적을 6번 공격하는 충격파 발생\n실린더 게이지에 따라 직접 공격의 데미지가 달라지고 더 많은 충격파 발생\n릴리즈 파일 벙커 5회 사용 시 버스트 파일 벙커 사용 가능 상태로 돌입\n[실린더 게이지 3칸] 520%의 데미지로 직접 공격\n580%의 데미지의 충격파A 발생\n[실린더 게이지 4칸] 595%의 데미지로 직접 공격\n충격파A 발생 후 530% 데미지의 충격파B 추가 발생\n[실린더 게이지 5칸] 740%의 데미지로 직접 공격\n충격파 A, B 발생 후 540% 데미지의 충격파C 추가 발생\n[실린더 게이지 6칸] 1160%의 데미지로 직접 공격\n충격파 A, B, C 발생 후 730% 데미지의 충격파D 추가 발생\n사용 후 7초 동안 과열되어 실린더 게이지가 최대치가 되며 실린더 게이지 충전 및 릴리즈 파일 벙커 사용 불가, 이후 실린더 게이지 초기화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPBMC"
     },
     {
         "skill_name": "버스트 파일 벙커",
         "skill_description": "[마스터 레벨 : 30]\r\n누적된 폭발로 실린더에 쌓인 열기로 강력한 위력의 다중 폭발을 발생시켜 적에게 꽂아넣는다.\n릴리즈 파일 벙커 VI를 일정 횟수 사용한 상태에서 실린더 게이지가 6칸일 때 사용 가능하다.\n버스트 파일 벙커는 몬스터의 방어율을 추가로 무시하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 릴리즈 파일 벙커 10레벨 이상, 리볼빙 캐논 업그레이드 III 20레벨 이상",
-        "skill_level": 16878,
+        "skill_level": 16969,
         "skill_effect": "실린더 게이지 6칸 필요\n최대 10명의 적을 790%의 데미지로 10번 공격하는 초강력 폭발이 6번 발생\n버스트 파일 벙커는 충격파를 발생시키지 않음\n사용 후 7초 동안 과열되어 실린더 게이지가 최대치가 되며 실린더 게이지 충전 및 릴리즈 파일 벙커 사용 불가, 이후 실린더 게이지 초기화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPBMH"
     },
     {
         "skill_name": "리볼빙 캐논 마스터리 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n건틀렛 리볼버로 인한 직접 공격에 당하는 상대방은 그 열로 인한 추가 타격을 입는다.\n필요 스킬 : 리볼빙 캐논 업그레이드 III 20레벨 이상",
-        "skill_level": 11577,
+        "skill_level": 11629,
         "skill_effect": "[파이널 어택류 스킬] 건틀렛 리볼버를 이용한 직접 공격 적중 시 최대 6명의 적을 700%의 데미지로 공격하는 추가 타격 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPBMI"
     },
     {
         "skill_name": "해머 스매시 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n지면을 내려찍듯 강타하여 주변 적들에게 피해를 입히고 공중으로 띄운다. 공격 당한 적은 일정 시간 동안 약점이 드러나고 해당 적에 대한 블래스터의 공격은 최종 데미지가 증가되어 적용된다.\n매그넘 펀치, 버닝 브레이커로 연계 가능하다.\n키다운을 통해 차지가 가능하다. 차지 후 발동 시 자신의 다른 스킬 사용 중에도 해당 스킬을 취소하며 해머 스매시가 발동되고 스킬 사용 중 적의 어떠한 공격을 받아도 밀려나지 않는다.\n차지는 해머 스매시를 제외한 다른 스킬 사용 중에도 가능하며 한 번에 최대 2개의 스킬을 동시에 차지할 수 있다.\n추가로 매그넘 펀치 VI와 더블 팡 VI의 데미지를 영구히 증가시킨다.\n필요 스킬 : 해머 스매시 20레벨 이상",
-        "skill_level": 11577,
+        "skill_level": 11629,
         "skill_effect": "MP 30 소비, 최대 8명의 적을 477%의 데미지로 6번 공격\n공격 당한 적은 60초 동안 약점이 드러나고 해당 적에 대한 블래스터의 공격은 최종 데미지 10%가 증가되어 적용\n[패시브 효과 : 매그넘 펀치 VI의 데미지 85%p, 더블 팡 VI의 데미지 70%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPBMJ"
     },
     {
         "skill_name": "쇼크 웨이브 펀치 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n스크류 블로를 내지른다. 더킹, 스웨이, 버닝 브레이커로 연계 가능하다.\n필요 스킬 : 쇼크 웨이브 펀치 30레벨 이상",
-        "skill_level": 11577,
+        "skill_level": 11629,
         "skill_effect": "MP 81 소비, 최대 8명의 적을 315%의 데미지로 6번 공격\n일반 몬스터 공격 시 데미지 380% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPBNB"
     },
     {
         "skill_name": "리볼빙 캐논 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n건틀렛 리볼버에 내장된 캐논을 이용하여 추가 폭발을 일으켜 피해를 준다. 단독으로는 사용할 수 없으며 일부 공격 스킬 사용 시 자동으로 발동하거나 특정 공격 스킬 사용 중 수동으로 사용할 수 있다.\n키다운을 통해 차지 시 불릿을 수동으로 리로드한다. 차지는 다른 스킬 사용 중에도 가능하며 한 번에 최대 2개의 스킬을 동시에 차지할 수 있다.\n리볼빙 캐논 자동 발동 스킬 : 매그넘 펀치, 더블 팡\n리볼빙 캐논 수동 사용 가능 스킬 : 리볼빙 벙커\n필요 스킬 : 리볼빙 캐논 업그레이드 III 20레벨 이상",
-        "skill_level": 9088,
+        "skill_level": 9337,
         "skill_effect": "불릿 1개 소비, 키다운 시 불릿 리로드\n매그넘 펀치 및 더블 팡 사용 시 리볼빙 캐논이 자동 발동되어 최대 6명의 적을 675%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPBNC"
     },
     {
         "skill_name": "허리케인 믹서 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n위빙, 더킹, 스웨이를 활용하여 넓은 범위의 적을 휩쓰는 폭풍을 만들어낸다. 공격 적중 시 콤비네이션 트레이닝을 최대로 중첩한다.\n필요 스킬 : 허리케인 믹서 30레벨 이상",
-        "skill_level": 9088,
+        "skill_level": 9337,
         "skill_effect": "MP 71 소비, 최대 12명의 적을 2520% 데미지로 5번 공격\n공격 적중 시 콤비네이션 트레이닝 최대로 중첩, 지속시간 12초로 적용\n재사용 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPBNF"
     },
     {
         "skill_name": "파이널 디스트로이어",
         "skill_description": "[마스터 레벨 : 30]\r\n건틀렛 리볼버의 화력을 한계까지 끌어올려 공중으로 날아오른 후 모든 것을 파괴한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 8760,
+        "skill_level": 8797,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1500%의 데미지로 10번 공격하는 열기가 43회 발생\n이후 최대 15명의 적을 1550%의 데미지로 14번 공격하는 폭발 30회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMFKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 8897,
+        "skill_level": 8979,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 8897,
+        "skill_level": 8979,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "벙커 버스터 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n벙커 버스터를 강화한다.",
-        "skill_level": 7884,
+        "skill_level": 7953,
         "skill_effect": "벙커 버스터의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAOI"
     },
     {
         "skill_name": "발칸 펀치 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n발칸 펀치를 강화한다.",
-        "skill_level": 4996,
+        "skill_level": 5091,
         "skill_effect": "발칸 펀치의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAOJ"
     },
     {
         "skill_name": "버닝 브레이커 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n버닝 브레이커를 강화한다.",
-        "skill_level": 6473,
+        "skill_level": 6498,
         "skill_effect": "버닝 브레이커의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAPA"
     },
     {
         "skill_name": "애프터이미지 쇼크 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n애프터이미지 쇼크를 강화한다.",
-        "skill_level": 5395,
+        "skill_level": 5421,
         "skill_effect": "애프터이미지 쇼크의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAPB"
     },
