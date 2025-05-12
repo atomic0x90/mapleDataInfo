@@ -10,28 +10,28 @@
     {
         "skill_name": "배틀 아츠-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n스펠 불릿, 다가오는 죽음, 돌아오는 증오, 끝없는 고통 VI을 제외한 1~4차 아크 공격 스킬 및 6차 마스터리 코어 스킬의 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 226,
+        "skill_level": 224,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKHKFOBPC"
     },
     {
         "skill_name": "배틀 아츠-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n스펠 불릿, 다가오는 죽음, 돌아오는 증오, 끝없는 고통 VI을 제외한 1~4차 아크 공격 스킬 및 6차 마스터리 코어 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 920,
+        "skill_level": 919,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKHKFOBPD"
     },
     {
         "skill_name": "멈출 수 없는 본능-엑스트라 무브",
         "skill_description": "[마스터 레벨 : 1]\r\n스펙터 잠식 상태에서 사용하는 멈출 수 없는 본능의 연속 사용 횟수를 증가시킨다.",
-        "skill_level": 20,
+        "skill_level": 21,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKHKFOBPJ"
     },
     {
         "skill_name": "황홀한 구속-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n황홀한 구속의 데미지를 증가시킨다.",
-        "skill_level": 33,
+        "skill_level": 32,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKHKFOBPH"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "스펙터 잠식-엑스트라 힐링",
         "skill_description": "[마스터 레벨 : 1]\r\n레프 상태에서 정신력이 회복되는 속도를 증가시킨다.",
-        "skill_level": 927,
+        "skill_level": 929,
         "skill_effect": "정신력 회복 속도 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKHKFOBPE"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "잠식-어드밴스드",
         "skill_description": "[마스터 레벨 : 1]\r\n레프 상태에서 스킬 사용 중 잠식 제어를 사용하면 정신력을 추가로 소모하여 해당 스킬을 취소하고 스펙터 잠식 상태가 될 수 있다.\n플레인 차지드라이브 사용 중 잠식 제어를 사용해 스킬을 취소했다면 전투 광란이 발동될 수 있다.",
-        "skill_level": 13,
+        "skill_level": 14,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKHKFOBPG"
     }

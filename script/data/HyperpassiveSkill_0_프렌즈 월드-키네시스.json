@@ -1,16 +1,16 @@
-999
+1000
 [
     {
         "skill_name": "싸이킥 그랩-보스 포인트",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그랩으로 보스를 공격 시 충전되는 싸이킥 포인트를 증가시킨다.",
-        "skill_level": 936,
+        "skill_level": 938,
         "skill_effect": "싸이킥 포인트 충전량 두 배 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPD"
     },
     {
         "skill_name": "싸이킥 그랩-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 스매싱과 싸이킥 샷의 공격력을 증가시킨다.\n필요 스킬 : 싸이킥 그랩2 30레벨",
-        "skill_level": 432,
+        "skill_level": 431,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPE"
     },
@@ -31,35 +31,35 @@
     {
         "skill_name": "싸이킥 그라운드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그라운드의 공격력을 증가시킨다.\n필요 스킬 : 싸이킥 그라운드2 1레벨 이상",
-        "skill_level": 32,
+        "skill_level": 31,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPH"
     },
     {
         "skill_name": "싸이킥 그라운드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n싸이킥 그라운드의 유지시간을 증가시킨다.",
-        "skill_level": 125,
+        "skill_level": 121,
         "skill_effect": "유지시간 15초 추가 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPI"
     },
     {
         "skill_name": "텔레키네시스-보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 발동 확률을 증가시킨다.",
-        "skill_level": 915,
+        "skill_level": 919,
         "skill_effect": "발동 확률 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBPJ"
     },
     {
         "skill_name": "텔레키네시스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 데미지를 증가시킨다.",
-        "skill_level": 681,
+        "skill_level": 689,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBIA"
     },
     {
         "skill_name": "텔레키네시스-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n텔레키네시스의 공격 횟수를 증가시킨다.",
-        "skill_level": 899,
+        "skill_level": 904,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKFOBIB"
     }
