@@ -1,128 +1,128 @@
-992
+993
 [
     {
         "skill_name": "아츠 : 플러리 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[아츠]\n순식간에 사라져 전방의 적을 수회 강력하게 벤다.\n필요 스킬 : 아츠 : 플러리 30레벨 이상",
-        "skill_level": 3476,
+        "skill_level": 3484,
         "skill_effect": "MP 52 소비, 최대 8명의 적을 585%의 데미지로 7번 공격\n공격 적중 시 보이드 러쉬/보이드 블리츠의 재사용 대기시간 1초 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBMA"
     },
     {
         "skill_name": "아츠 : 크레센텀 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[아츠]\n순간적으로 빠르게 회전하여 주변의 적을 휩쓴다. 보이드 러쉬 이동 중 혹은 이동 후에 연계하여 사용하거나 보이드 블리츠 시전 이후 사용할 수 있다. 직전에 사용한 보이드 러쉬의 방향에 따라 공격 범위가 달라진다.\n필요 스킬 : 아츠 : 크레센텀 20레벨 이상",
-        "skill_level": 3476,
+        "skill_level": 3484,
         "skill_effect": "MP 40 소비, 최대 8명의 적을 975% 데미지로 4번 공격\n사용 시 보이드 러쉬/보이드 블리츠의 재사용 대기시간 5초 감소\n재사용 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBMB"
     },
     {
         "skill_name": "보이드 러쉬 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[보이드]\n잔상만 보일 정도로 한 방향으로 빠르게 이동한다. 8방향으로 사용할 수 있어 방향키와 함께 사용하면 해당 방향으로 이동할 수 있고, 이동 경로 상의 적에게 데미지를 입힐 수 있으며 연속으로 사용할 수 있다. 단, 공중에서 상단을 포함한 방향으로는 재사용 대기시간 초기화와 무관하게 최대 2회 사용할 수 있다. 스파크 및 헥스 계열 스킬을 제외한 다른 스킬 사용 시 연속 사용 가능 상태가 해제된다. 보이드 러쉬 이동 중에도 보이드 러쉬를 재입력하여 다음 이동을 즉시 시작할 수 있다. 또한 사용 시 짧은 시간 동안 다크 사이트 상태가 되며 이동 종료 시 짧은 시간 동안 체공한다. 아츠 및 헥스 계열 스킬 사용 중에 사용할 수 있으며 이동 중 점프키를 입력하여 즉시 정지할 수 있다. 보이드 러쉬는 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 재사용 대기시간 초기화의 효과를 받지 않는다.\n필요 스킬 : 인새니티 III 10레벨 이상",
-        "skill_level": 6751,
+        "skill_level": 6837,
         "skill_effect": "MP 62 소비, 입력한 방향으로 빠르게 이동하며 최대 7명의 적을 370%의 데미지로 4번 공격\n일반 몬스터 공격 시 데미지 585%p 증가\n사용 시 2초 동안 다크 사이트\n최대 3회 연속 사용 가능\n재사용 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBMD"
     },
     {
         "skill_name": "보이드 블리츠 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[보이드]\n잔상의 힘을 증폭시켜 전방에 잔상을 수개 쏟아낸다. 각 잔상은 별개의 공격으로 취급되어 서먼 차크리의 효과가 각각 적용된다. 사용 시 일정 시간 동안 다크 사이트 상태가 된다. 보이드 블리츠는 재사용 대기시간 초기화의 효과를 받지 않는다. 커스텀 커맨드를 사용하면 방향키와 조합하지 않은 보이드 러쉬 사용으로 보이드 블리츠를 발동할 수 있다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n필요 스킬 : 보이드 블리츠 30레벨 이상",
-        "skill_level": 6751,
+        "skill_level": 6837,
         "skill_effect": "MP 57 소비, 최대 6명의 적을 335%의 데미지로 5번 공격하는 잔상이 4회 발동\n사용 시 2초 동안 다크 사이트\n재사용 대기시간 6초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBMH"
     },
     {
         "skill_name": "헥스 : 차크람 스플릿 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[헥스]\n적들을 수회 공격하는 다수의 거대한 차크람을 전방에 던진다. 던진 차크람은 최대 사거리에서 도달 시 짧은 시간 회전하며 공격한 후, 회전 공격 종료 시 캐릭터의 위치로 회수되며 경로 상의 적을 공격한다. 단, 회수 중인 차크람은 일정 거리 이동 시 즉시 소멸한다. 헥스 : 차크람 스플릿은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 헥스 : 차크람 스플릿 30레벨 이상",
-        "skill_level": 6751,
+        "skill_level": 6837,
         "skill_effect": "MP 87 소비, 최대 10명의 적을 일정 시간마다 500%의 데미지로 5번 공격하는 거대 차크람 4개 투척\n각 차크람은 대상을 최대 4회까지 타격 가능\n재사용 대기시간 14초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBMJ"
     },
     {
         "skill_name": "헥스 : 차크람 스윕 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[헥스]\n전방에 거대한 차크람을 던져 그 반동으로 후방으로 도약한다.\n필요 스킬 : 헥스 : 차크람 스윕 20레벨 이상",
-        "skill_level": 4287,
+        "skill_level": 4370,
         "skill_effect": "MP 52 소비, 최대 8명의 적을 1326%의 데미지로 7번 공격하는 거대 차크람 투척\n재사용 대기시간 6초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBNB"
     },
     {
         "skill_name": "헥스 : 차크람 퓨리 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[헥스]\n주변의 적을 갈기갈기 찢어버리는 고통의 영역을 펼친다. 사용 중에 체공하며 적의 어떠한 공격에도 밀려나지 않는다.\n필요 스킬 : 헥스 : 차크람 퓨리 30레벨 이상",
-        "skill_level": 4287,
+        "skill_level": 4370,
         "skill_effect": "MP 81 소비, 일정 시간마다 최대 10명의 적을 1076%의 데미지로 10번 공격\n재사용 대기시간 12초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBNA"
     },
     {
         "skill_name": "데스 블로섬 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n모래로 빚은 절망의 장미를 개화한다. 검은 장미는 일정 시간 동안 주변의 적을 공격하며 공격한 위치에 일정 확률로 서먼 차크리가 생성된다. 공격한 대상 수가 최대 공격 가능한 대상 수보다 적을 경우 추가로 서먼 차크리가 생성된다. 데스 블로섬은 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다. 장미가 개화 중일 때 아래 방향키와 스킬키를 눌러 재설치할 수 있다.\n필요 스킬 : 데스 블로섬 1레벨 이상",
-        "skill_level": 4287,
+        "skill_level": 4370,
         "skill_effect": "MP 330 소비, 30초 동안 일정 간격마다 최대 10명의 적을 950%의 데미지로 6번 공격하는 절망의 장미 소환\n공격한 위치에 100% 확률로 서먼 차크리 생성\n공격한 대상 수가 최대 공격 가능한 대상 수보다 적다면 그 차이만큼 임의 위치에 서먼 차크리 추가 생성\n추가 생성되는 서먼 차크리는 최대 2개까지 생성, 차크리가 이미 있는 곳 근처에는 생성 불가\n재사용 대기시간 60초\n설치 후 아래 방향키와 함께 스킬을 재사용하여 재설치 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBNC"
     },
     {
         "skill_name": "레조네이트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n강력한 마력으로 소환된 차크리를 발현시켜 자유자재로 움직일 수 있게 된다. 헥스 계열 스킬 사용 시 일정 범위 내의 차크리가 레조네이트로 발현되며, 발현된 레조네이트는 발현 지점 주변의 적을 추적하여 공격한다. 차크리를 일정 횟수 발현시켰을 때 자신의 주위에서 레조네이트가 수 개 생성된다. 레조네이트는 최대 HP가 높은 보스 몬스터를 우선 추적하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 레조네이트 15레벨 이상, 레조네이트 : 얼티메이텀 25레벨 이상",
-        "skill_level": 2744,
+        "skill_level": 2774,
         "skill_effect": "헥스 계열 스킬 사용 시 일정 범위 내 소환된 차크리를 레조네이트로 발현\n발현된 레조네이트는 390%의 데미지로 3번 공격, 최대 4회 튕긴 후 소멸\n차크리 15번 발현 시 자신의 주위에서 추가 레조네이트 10개 생성\n하나의 대상에게 반복해서 적중 시 최종 데미지 45% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBND"
     },
     {
         "skill_name": "디시빙 블레이드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n적의 그림자를 흡수하여 자신의 힘으로 만든다. 보이드 계열 스킬 명중 시 일정 시간 동안 보이드 계열 스킬을 제외한 직접 사용하는 스킬 명중 시 추가타가 발생한다. 디시빙 블레이드는 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 버프 지속시간 증가의 효과를 받지 않는다\n필요 스킬 : 디시빙 블레이드 20레벨 이상",
-        "skill_level": 2746,
+        "skill_level": 2776,
         "skill_effect": "보이드 계열 스킬 명중 시 20초 동안 지속되는 버프 발생\n버프 지속 중 직접 사용한 공격 명중 시 670%의 데미지로 2번 공격하는 추가타 발생\n추가타 재발동 대기시간 0.5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPBNE"
     },
     {
         "skill_name": "헥스 : 샌드스톰",
         "skill_description": "[마스터 레벨 : 30]\r\n[헥스]\n차크람으로 강한 모래 폭풍을 일으켜 전장을 휩쓴다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 8399,
+        "skill_level": 8352,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 3초 동안 키다운하여 최대 15명의 적을 770%의 데미지로 15번 공격하는 차크람의 폭풍 생성\n키다운 종료 시 최대 15명의 적을 830%의 데미지로 10번 공격하는 참격이 13회 발생, 이후 모래 폭풍이 강하게 발생하여 최대 15명의 적을 820%의 데미지로 14번 공격하는 폭발 34회 발생\n사용 시 30초 동안 최종 데미지 15% 증가\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKGKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2952,
+        "skill_level": 2937,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2952,
+        "skill_level": 2937,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "헥스 : 판데모니움 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n헥스 : 판데모니움을 강화한다.",
-        "skill_level": 2766,
+        "skill_level": 2747,
         "skill_effect": "헥스 : 판데모니움의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKI"
     },
     {
         "skill_name": "보이드 버스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n보이드 버스트를 강화한다.",
-        "skill_level": 3170,
+        "skill_level": 3152,
         "skill_effect": "보이드 버스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKJ"
     },
     {
         "skill_name": "아츠 : 아스트라 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n아츠 : 아스트라를 강화한다.",
-        "skill_level": 921,
+        "skill_level": 919,
         "skill_effect": "아츠 : 아스트라의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALA"
     },
     {
         "skill_name": "레조네이트 : 얼티메이텀 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n레조네이트 : 얼티메이텀을 강화한다.",
-        "skill_level": 4397,
+        "skill_level": 4391,
         "skill_effect": "레조네이트 : 얼티메이텀의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALB"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 846,
+        "skill_level": 848,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }
