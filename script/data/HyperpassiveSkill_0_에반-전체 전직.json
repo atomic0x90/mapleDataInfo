@@ -3,28 +3,28 @@
     {
         "skill_name": "드래곤 스위프트-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 스위프트의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 981,
+        "skill_level": 982,
         "skill_effect": "재사용 대기시간 25% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAKAOBEE"
     },
     {
         "skill_name": "드래곤 스위프트-윈드 인스톨",
         "skill_description": "[마스터 레벨 : 1]\r\n스위프트 오브 윈드의 바람 칼날의 발사 개수를 증가시킨다.",
-        "skill_level": 149,
+        "skill_level": 148,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAKAOBEF"
     },
     {
         "skill_name": "드래곤 스위프트-썬더 보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n스위프트 오브 썬더의 지점별 충돌 시마다 발생하는 공격 횟수를 증가시킨다.",
-        "skill_level": 804,
+        "skill_level": 806,
         "skill_effect": "지점별 공격 횟수 1회 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAKAOBEG"
     },
     {
         "skill_name": "드래곤 다이브-쿨타임 리듀스",
         "skill_description": "[마스터 레벨 : 1]\r\n드래곤 다이브의 재사용 대기시간을 감소시킨다.",
-        "skill_level": 980,
+        "skill_level": 982,
         "skill_effect": "재사용 대기시간 25% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAKAOBEH"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "드래곤 브레스-어스 인스톨",
         "skill_description": "[마스터 레벨 : 1]\r\n브레스 오브 어스의 브레스 줄기 개수를 증가시킨다.",
-        "skill_level": 82,
+        "skill_level": 80,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAKAOBFB"
     },
     {
         "skill_name": "드래곤 브레스-윈드 보너스 찬스",
         "skill_description": "[마스터 레벨 : 1]\r\n브레스 오브 윈드의 특수 효과 체력 조건과 데미지 증가량을 증가시킨다.",
-        "skill_level": 129,
+        "skill_level": 127,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAKAOBFC"
     }

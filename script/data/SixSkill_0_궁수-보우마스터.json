@@ -1,114 +1,114 @@
-999
+1000
 [
     {
         "skill_name": "폭풍의 시 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n폭풍우가 몰아치듯 빠른 속도로 화살을 발사한다. 화살은 최대 HP가 높은 몬스터를 우선 추적한다.\n화살이 적중할 때마다 적에게서 특수 화살촉을 획득한다. 특수 화살촉이 일정량 이상 모이면 스킬 사용 중 NPC/채집키를 입력하여 한 번에 더 많은 화살을 난사할 수 있는 난사 모드로 변경할 수 있다. 특수 화살촉이 최대 획득 가능한 양만큼 모이면 자동으로 난사 모드로 변경된다.\n난사 모드 사용 중 NPC/채집키를 입력해 난사 모드를 해제할 수 있다.\n커스텀 커맨드를 사용하면 NPC/채집키 대신 공격키를 사용하여 변경할 수 있다.\n스킬 사용 중 이동할 수 있고 퀴버 카트리지를 사용할 수 있다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n필요 스킬 : 폭풍의 시 30레벨 이상",
-        "skill_level": 24938,
+        "skill_level": 25078,
         "skill_effect": "MP 12 소비, 발당 575%의 데미지\n공격 적중 시 특수 화살촉 1개 획득, 최대 획득 가능한 특수 화살촉 75개\n특수 화살촉 40개 획득 시 난사 모드 전환 가능\n난사 모드 : MP 12 소비, 공격 적중 시 특수 화살촉을 1개 소모하여 한 번에 더 많은 화살을 발사, 발당 750%의 데미지",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKDPBMA"
     },
     {
         "skill_name": "언카운터블 애로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n대상을 특정하지 않은 셀 수 없이 많은 화살을 순간적으로 전방으로 쏜다.\n일정 시간마다 집중력이 증가하여 강화된 언카운터블 애로우가 발동된다. 강화 언카운터블 애로우는 더 많은 화살을 주변을 흐르는 바람에 태워 멀리 날려보낸다.\n커스텀 커맨드 사용 시 강화 언카운터블 애로우를 위 방향키와 함께 스킬 사용 시에만 발동시킬 수 있다.\n추가로 어드밴스드 파이널 어택의 데미지를 영구히 증가시킨다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n필요 스킬 : 언카운터블 애로우 30레벨 이상",
-        "skill_level": 21300,
+        "skill_level": 21449,
         "skill_effect": "MP 37 소비, 최대 8명의 적을 610%의 데미지로 5번 공격\n강화 언카운터블 애로우 : MP 42 소비, 최대 12명의 적을 650%의 데미지로 5번 공격\n재발동 대기시간 6초\n[패시브 효과 : 어드밴스드 파이널 어택의 데미지 320%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKDPBMC"
     },
     {
         "skill_name": "애로우 플래터 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n화살을 곡사로 발사한다. 스킬 키를 누르고 있으면 지속적으로 발사하며, 발사 중 ↑,↓화살표 키를 이용해 쏘는 힘을 조절할 수 있다.\n스킬 시전 중 채집/NPC 대화키를 눌러 현재 자신의 위치에 애로우 플래터를 설치하여 지속적으로 화살을 발사할 수 있고 보우마스터는 커스텀 커맨드를 사용하면 채집/NPC 대화키 대신 공격키를 사용하여 설치할 수 있다.\n설치된 애로우 플래터는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n커스텀 커맨드 온오프 : 마우스 우클릭\n필요 스킬 : 애로우 플래터 20레벨 이상",
-        "skill_level": 21300,
+        "skill_level": 21449,
         "skill_effect": "MP 10 소비, 최대 4명의 적을 530%의 데미지로 공격\n시전 중 채집/NPC 대화 키로 440%의 데미지의 화살을 발사하는 애로우 플래터 60초 동안 설치",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKDPBME"
     },
     {
         "skill_name": "퀴버 카트리지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n특수 화살촉을 사용한다. 스킬을 재사용하여 사용할 화살촉을 변경할 수 있다.\n필요 스킬 : 어드밴스드 퀴버 10레벨 이상",
-        "skill_level": 17743,
+        "skill_level": 18111,
         "skill_effect": "마법 화살 : 60% 확률로 442%의 데미지로 적을 공격하는 마법 화살 발사\n흡혈 화살 : 60%의 확률로 최대 HP의 1.8%를 회복하는 흡혈 화살촉 사용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKDPBMF"
     },
     {
         "skill_name": "피닉스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 동안 불 속성을 지닌 피닉스를 소환한다. 피닉스는 일정 확률로 적을 기절시킨다.\n피닉스는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 피닉스 10레벨 이상",
-        "skill_level": 17743,
+        "skill_level": 18111,
         "skill_effect": "MP 85 소비, 270초 동안 피닉스 소환\n피닉스는 최대 6명의 적을 975%의 데미지로 공격, 95% 확률로 기절",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKDPBNC"
     },
     {
         "skill_name": "엑스트라 퀴버 카트리지",
         "skill_description": "[마스터 레벨 : 30]\r\n퀴버 카트리지를 확장하여 특수 화살촉을 장전한다. 퀴버 카트리지의 화살 사용 시 특수 화살촉을 현재 사용하지 않는 퀴버 카트리지에 추가 장전한다.\n엑스트라 퀴버 카트리지를 사용하면 직접 공격하는 스킬 적중 시 장전된 특수 화살촉이 추가 발사된다.\n자동 사용 모드에서는 카트리지 전체에 장전된 화살촉의 개수가 일정 수 이상일 때 스킬이 자동으로 사용된다.\n엑스트라 퀴버 카트리지는 스킬 사용 중 사용 가능하며, 적용 중 특수 화살촉을 장전할 수 없다.\n특수 화살촉은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n자동 사용 모드 온오프 : 마우스 우클릭\n필요 스킬 : 어드밴스드 퀴버 10레벨 이상",
-        "skill_level": 17743,
+        "skill_level": 18111,
         "skill_effect": "MP 120 소비, 30초 동안 특수 화살촉 추가 사용, 화살촉 소진 시 자동 종료\n특수 화살 : 1625%의 데미지로 공격, 퀴버 카트리지 당 최대 50개 장전 가능\n자동 사용 모드에서는 각 카트리지에 장전된 화살의 총합이 50개 이상일 때 엑스트라 퀴버 카트리지 자동 발동\n재사용 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKDPBMJ"
     },
     {
         "skill_name": "플레시 미라주 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n잔영이 남을 정도로 빠른 궁술을 구사한다.\n일정 횟수 이상 자신이 직접 쏜 화살 공격이 적중할 때마다 잔영이 생성되어 적을 추적하는 화살을 쏘고 사라진다. 화살은 잔영의 전방의 적 하나를 추적하며 추적한 적에게 가며 부딪히는 적을 관통하여 공격한다. 설치 애로우 플래터는 자신이 직접 쏜 공격으로 간주되지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 플레시 미라주 II 20레벨 이상",
-        "skill_level": 18884,
+        "skill_level": 19174,
         "skill_effect": "MP 105 소비, 7번 공격 적중 시 잔영이 4개 생성되어 전방의 적 1명을 향해 화살 발사\n애로우 플래터, 폭풍의 시, 실루엣 미라주, 잔영의 시, 퀴버 풀버스트, 애로우 레인은 7번 적중 시 1회 공격으로 간주\n발사된 화살은 목표한 적까지 가는 경로에 부딪힌 적을 최대 5명까지 관통하며 1245%의 데미지로 4번 공격\n재사용 대기시간 1초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKDPBND"
     },
     {
         "skill_name": "윈드 오브 프레이 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n바람의 결을 읽어 주변을 모두 찢어발기는 충격파를 발산한다.\n필요 스킬 : 윈드 오브 프레이 1레벨 이상",
-        "skill_level": 18884,
+        "skill_level": 19174,
         "skill_effect": "MP 230 소비, 최대 12명의 적을 570%의 데미지로 12번 공격\n적중한 적은 20초 동안 이동속도 -30만큼 감속\n재사용 대기시간 15초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKDPBNF"
     },
     {
         "skill_name": "어센던트 셰이드",
         "skill_description": "[마스터 레벨 : 30]\r\n하늘을 뒤덮어 그늘이 질 정도로 많은 화살을 쏘아 올린다. 일정 시간마다 화살 세례가 적을 강타한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 16705,
+        "skill_level": 16773,
         "skill_effect": "MP 1000 소비, 시전 동작 중 무적\n최대 15명의 적을 1425%의 데미지로 14번 공격하는 화살 세례가 39회 발생\n마지막 화살 세례 후 30초 동안 공격 적중 시 3초 마다 최대 15명의 적을 1543%의 데미지로 8번 공격하는 화살 세례 7회 발동\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 11735,
+        "skill_level": 11924,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 11735,
+        "skill_level": 11924,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "애로우 레인 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n애로우 레인을 강화한다.",
-        "skill_level": 11964,
+        "skill_level": 12057,
         "skill_effect": "애로우 레인의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOE"
     },
     {
         "skill_name": "잔영의 시 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n잔영의 시를 강화한다.",
-        "skill_level": 14415,
+        "skill_level": 14491,
         "skill_effect": "잔영의 시 강화의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOF"
     },
     {
         "skill_name": "퀴버 풀버스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n퀴버 풀버스트를 강화한다.",
-        "skill_level": 14303,
+        "skill_level": 14353,
         "skill_effect": "퀴버 풀버스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOG"
     },
     {
         "skill_name": "실루엣 미라주 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n실루엣 미라주를 강화한다.",
-        "skill_level": 5865,
+        "skill_level": 5998,
         "skill_effect": "실루엣 미라주의 최종 데미지 60% 증가, 환영 소멸 시 피해 95% 감소로 증가, 생성된 환영이 존재하지 않아도 환영 화살 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOH"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 990,
+        "skill_level": 991,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }
