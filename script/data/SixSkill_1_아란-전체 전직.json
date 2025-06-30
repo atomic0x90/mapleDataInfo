@@ -1,101 +1,332 @@
-995
+989
 [
     {
         "skill_name": "비욘더 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n아란의 완성된 초식이 전방의 적을 휩쓴다. 스킬 사용 중 적의 어떠한 공격에도 밀려나지 않는다.\n일정 시간마다 아란에게 공명한 마하가 적을 추가 공격한다.\n추가 공격은 최대 HP가 높은 보스 몬스터를 우선 공격하며 재사용 대기시간 초기화 효과를 적용받지 않는다.\n필요 스킬 : 비욘더 마스터리 II 30레벨 이상",
-        "skill_level": 11654,
+        "skill_level": 11455,
         "skill_effect": "MP 52 소비, 최대 7명의 적을 공격\n스킬 키 연타를 통해 최대 3타까지 연속 공격 가능\n비욘더-현무 : 675%의 데미지로 5번 공격\n비욘더-주작 : 675%의 데미지로 5번 공격\n비욘더-청룡 : 675%의 데미지로 5번 공격\n추가 크리티컬 확률 100%, 몬스터의 방어율 30% 무시\n4초마다 마하가 나타나 최대 3명의 적을 630%의 데미지로 6번 추가 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBMA"
     },
     {
         "skill_name": "부스트 엔드-헌터즈 타겟팅 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n폴암에 힘을 응집시켜 강한 일격을 날린다.\n 키다운 중 공격 방향을 변경할 수 있으며, 무적 상태가 된다. \n아드레날린 부스트 및 초각성 상태에서 1회만 사용 가능하다.추가로 비욘더 VI를 영구히 강화한다.\n[발동 커맨드 : ↓→↓/↓←↓ + 공격키 키다운]\n커맨드 잠금 : 마우스 우클릭\n필요 스킬 : 부스트 엔드-헌터즈 타겟팅 30레벨 이상",
-        "skill_level": 7727,
+        "skill_level": 7648,
         "skill_effect": "MP 250 소비, 최대 6초까지 키다운 가능하며 키다운 종료 시 2초 동안 무적\n최대 10명의 적을 1530%의 데미지로 15번 공격하는 참격이 10회 발동\n재사용 대기시간 30초\n[패시브 효과 : 비욘더 VI 데미지 135%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBME"
     },
     {
         "skill_name": "하이퍼 부스트 엔드-라스트 스탠드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n꺾이지 않는 영웅의 의지로 마하의 힘을 담은 참격을 날린다.\n초각성 상태에서 1회만 사용 가능하다.\n필요 스킬 : 하이퍼 부스트 엔드-라스트 스탠드 1레벨 이상",
-        "skill_level": 6522,
+        "skill_level": 6542,
         "skill_effect": "MP 560 소비, 스킬 키를 연타하여 최대 3타까지 공격 가능\n1타 : 최대 12명의 적을 3360%의 데미지로 10번 공격하는 참격이 5회 발동\n2타 : 최대 12명의 적을 3360%의 데미지로 10번 공격하는 참격이 5회 발동\n3타 : 최대 15명의 적을 5880%의 데미지로 13번 공격하는 참격이 7회 발동\n재사용 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBMJ"
     },
     {
         "skill_name": "프로즌 그라운드 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n마하의 힘으로 혹한의 냉기를 가득 머금은 폴암을 소환해 일정 시간 동안 동토를 생성한다. 프로즌 그라운드는 소환수 지속시간 증가로 지속시간이 증가하지 않고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n[발동 커맨드 : ↓ + 공격키]\n커맨드 잠금 : 마우스 우클릭\n필요 스킬 : 프로즌 그라운드 20레벨 이상",
-        "skill_level": 4602,
+        "skill_level": 4586,
         "skill_effect": "MP 42 소비, 60초 동안 지속\n일정 주기마다 최대 6명의 적을 885%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBND"
     },
     {
         "skill_name": "아드레날린 맥시멈 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n콤보의 힘과 마하의 힘을 온전히 사용할 수 있게 되어 아드레날린 부스트의 한계를 뛰어넘는다. 극대화된 냉기로 인하여 아드레날린 부스트 상태가 아닐 때 직접 공격하는 스킬 사용 시 일정 시간마다 얼음 폭풍이 피어오른다.\n아드레날린 부스트 상태에서 강화된 아란의 폴암술에서 새어 나온 짙어진 혹한의 냉기가 주변의 적을 더욱 빠르게 공격하는 얼음 파동으로 형상화되고 일정 횟수 이상 공격 적중 시 마하의 힘을 온전히 발휘할 수 있는 초각성 상태로 진입한다.\n초각성 상태에서는 하이퍼 부스트 엔드 스킬을 사용할 수 있고 마하의 힘이 금빛 섬광이 되어 적을 추가 공격한다.\n아드레날린 부스트 지속 시간은 초각성 지속 시간에 영향을 받지 않는다.\n초각성 상태는 버프 지속시간 증가 효과를 받지 않는다.\n필요 스킬 : 아드레날린 맥시멈 30레벨 이상",
-        "skill_level": 4602,
+        "skill_level": 4586,
         "skill_effect": "1000 콤보 도달 후 아드레날린 부스트 액티베이트를 사용해 15초 동안 아드레날린 부스트 상태 진입 가능\n얼음 폭풍 : 직접 공격하는 공격 스킬 사용 시 15초 마다 최대 12명의 적을 1560%의 데미지로 14번 공격\n얼음 파동 : 일정 주기마다 최대 7명의 적을 897%의 데미지로 2번 공격\n아드레날린 부스트 상태에서 10번 이상 공격 적중 시 초각성 상태 진입\n초각성 : 5초 동안 지속, 하이퍼 부스트 엔드 스킬 사용 가능, 직접 공격하는 공격 스킬 사용 시 0.8초 간격으로 금빛 섬광 발동\n금빛 섬광 : 최대 12명의 적을 1190%의 데미지로 10번 공격\n재발동 대기시간 120초, 초각성 재발동 대기시간은 아드레날린 부스트 액티베이트의 테두리로 표기",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPBNE"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동된다. 다만, 반드시 폴암을 들었을 경우에만 발동이 가능하다.\n필요 스킬 : 어드밴스드 파이널 어택 30레벨 이상",
-        "skill_level": 4602,
+        "skill_level": 4586,
         "skill_effect": "[파이널 어택류 스킬] 공격 적중 시 61%의 확률로 317%의 데미지로 3번 추가 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDOBNC"
     },
     {
         "skill_name": "엔드 게임",
         "skill_description": "[마스터 레벨 : 30]\r\n마하의 힘을 완전히 해방시켜 지난한 전투를 일격에 끝낸다.\n 초각성 재발동 대기시간이 아니라면 사용과 동시에 초각성 상태로 진입한다.\n필요 스킬 : 아드레날린 맥시멈 30레벨 이상\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 6844,
+        "skill_level": 6658,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n마하의 힘이 해방되며 최대 15명의 적을 1500%의 데미지로 14번 공격하는 파동이 50회 발생\n이후 최대 15명의 적을 1620%의 데미지로 15번 공격하는 참격이 30회 발생\n사용 시 초각성 상태가 15초 동안 지속되며 초각성 재발동 대기시간이라면 아드레날린 부스트 상태로 진입\n엔드 게임 사용 전 누적된 콤보 100당 초각성 또는 아드레날린 부스트 지속 시간 1초 증가\n아드레날린 부스트 및 초각성 상태에서 엔드 게임 사용 시 아드레날린 부스트 혹은 초각성 상태 5초로 변경\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNDKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 3616,
+        "skill_level": 3577,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 3616,
+        "skill_level": 3577,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "부스트 엔드-아드레날린 서지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n부스트 엔드-아드레날린 서지/하이퍼 부스트 엔드-아드레날린 서지를 강화한다.",
-        "skill_level": 3407,
+        "skill_level": 3357,
         "skill_effect": "부스트 엔드-아드레날린 서지/하이퍼 부스트 엔드-아드레날린 서지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEA"
     },
     {
         "skill_name": "브랜디쉬 마하 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n브랜디쉬 마하를 강화한다.",
-        "skill_level": 1579,
+        "skill_level": 1535,
         "skill_effect": "브랜디쉬 마하의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEB"
     },
     {
         "skill_name": "파이널 비욘더-백호 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n파이널 비욘더-백호를 강화한다.",
-        "skill_level": 5054,
+        "skill_level": 4960,
         "skill_effect": "파이널 비욘더-백호의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEC"
     },
     {
         "skill_name": "블리자드 템페스트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블리자드 템페스트를 강화한다.",
-        "skill_level": 3876,
+        "skill_level": 3785,
         "skill_effect": "블리자드 템페스트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBED"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 726,
+        "skill_level": 724,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
+    },
+    {
+        "skill_name": "서클 오브 마나 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n마나의 흐름에 통달하여 고밀도로 응축된 강력한 마나체를 연속으로 두 번 발사한다.\n필요 스킬 : 서클 오브 마나 Ⅳ 30레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 46 소비 \n[1타]: 최대 8명의 적을 371%의 데미지로 4번 공격\n[2타]: 최대 8명의 적을 418%의 데미지로 4번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMA"
+    },
+    {
+        "skill_name": "서클 오브 썬더 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n번개의 마법진을 생성해 주변의 적을 섬멸한다.\n필요 스킬 : 서클 오브 썬더 10레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 82 소비, 최대 8명의 적을 523%의 데미지로 5번 공격\n미르 스킬을 사용한 후 서클 오브 마나 사용 중 혹은 엎드린 상태에서 서클 오브 썬더를 사용하면 서클 오브 썬더가 발동되지 않고 융합 스킬을 발동할 수 있지만 소비 MP가 3배로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMC"
+    },
+    {
+        "skill_name": "드래곤 스위프트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[미르 스킬] 미르가 전방을 빠르게 왕복하며 경로상의 적들을 공격한다. 드래곤 스위프트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n미르 스킬과 융합 스킬은 공격 속도 증가의 효과를 받지 않는다.\n필요 스킬 : 드래곤 스위프트 20레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 86 소비, 최대 8명의 적을 606%의 데미지로 4번 공격, 3.5초 동안 지속\n재사용 대기시간 8초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMD"
+    },
+    {
+        "skill_name": "스위프트 오브 썬더 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 스위프트 공격 중 에반의 마법과 공명해 다섯 지점에 번개의 마법진을 그리며 충돌한다. 스위프트 오브 썬더는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 스위프트 사용 중, 에반이 서클 오브 썬더 마법을 사용하면 발동된다.\n필요 스킬 : 스위프트 오브 썬더 20레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 76 소비, 지점별 충돌시마다 최대 8명의 적을 1610%의 데미지로 9번 공격\n동일한 적이 중첩해서 충돌에 맞을 때마다 충돌의 최종 데미지 60% 감소",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBME"
+    },
+    {
+        "skill_name": "스위프트 오브 윈드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 스위프트 공격 중 에반의 마법과 공명해 일정 시간 기류를 폭주 시켜 날카로운 바람 칼날을 발사 한다. 스위프트 오브 윈드는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 스위프트 사용 중, 에반이 서클 오브 윈드 마법을 사용하면 발동된다.\n필요 스킬 : 스위프트 오브 윈드 20레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 61 소비, 최대 5명의 적에게 562%의 데미지로 2번 공격하는 바람 칼날 5개 발사, 3.5초 지속\n일반 몬스터 공격 시 데미지 75%p 증가\n여러 개의 바람 칼날이 1명의 적을 공격하면 바람 칼날의 최종 데미지 35% 감소",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMF"
+    },
+    {
+        "skill_name": "서클 오브 어스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n불규칙한 마법진을 생성해 전방의 지면을 들어 올려 적을 강타한다.\n필요 스킬 : 서클 오브 어스 20레벨 이상",
+        "skill_level": 13,
+        "skill_effect": "MP 63 소비, 최대 8명의 적을 577%의 데미지로 5번 공격\n미르 스킬을 사용한 후 서클 오브 마나 사용 중 혹은 엎드린 상태에서 서클 오브 어스를 사용하면 서클 오브 어스가 발동되지 않고 융합 스킬을 발동할 수 있지만 소비 MP가 3배로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMG"
+    },
+    {
+        "skill_name": "드래곤 다이브 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[미르 스킬] 미르가 에반 전방에 강하게 충돌한 후 날갯짓으로 충격파를 발생시킨다. 드래곤 다이브는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n미르 스킬과 융합 스킬은 공격 속도 증가의 효과를 받지 않는다.\n필요 스킬 : 드래곤 다이브 20레벨 이상",
+        "skill_level": 13,
+        "skill_effect": "MP 75 소비, 최대 6명의 적을 495%의 데미지로 3번 공격, 3.5초 동안 지속\n재사용 대기시간 8초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBMH"
+    },
+    {
+        "skill_name": "다이브 오브 어스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 다이브 공격 중 에반의 마법과 공명해 전방에 솟아오른 바위를 파쇄하며 주변에 강력한 피해를 입힌다. 다이브 오브 어스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. \n 미르가 드래곤 다이브 사용 중, 에반이 서클 오브 어스 마법을 사용하면 발동된다.\n필요 스킬 : 다이브 오브 어스 20레벨 이상",
+        "skill_level": 13,
+        "skill_effect": "MP 75 소비, 바위를 형성하고 공격한 후 세 지점에 충돌하여 공격, 공격 시 마다 최대 6명의 적을 1539%의 데미지로 10번 공격\n동일한 적이 중첩해서 충돌에 맞을 때마다 충돌의 최종 데미지 50% 감소",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBMI"
+    },
+    {
+        "skill_name": "다이브 오브 썬더 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 다이브 공격 중 에반의 마법과 공명해 일정 시간 온몸에서 지면을 타고 흐르는 강력한 전기 구체들을 만들어 낸다. 다이브 오브 썬더는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 다이브 사용 중, 에반이 서클 오브 썬더 마법을 사용하면 발동된다.\n필요 스킬 : 다이브 오브 썬더 20레벨 이상",
+        "skill_level": 13,
+        "skill_effect": "MP 75 소비, 4초 동안 일정 간격마다 467%의 데미지로 공격하는 전기 구체 4개 생성\n전기 구체는 적을 타격하거나 일정 시간이 지나면 소멸",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBMJ"
+    },
+    {
+        "skill_name": "서클 오브 윈드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n전방에 휘몰아치는 돌풍을 만들어 적을 밀어내며 충격을 입힌다.\n필요 스킬 : 서클 오브 윈드 10레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 42 소비, 최대 6명의 적을 523%의 데미지로 5번 공격하며 밀어냄\n미르 스킬을 사용한 후 서클 오브 마나 사용 중 혹은 엎드린 상태에서 서클 오브 윈드를 사용하면 서클 오브 윈드가 발동되지 않고 융합 스킬을 발동할 수 있지만 소비 MP가 3배로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBNA"
+    },
+    {
+        "skill_name": "드래곤 브레스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[미르 스킬] 미르가 전방에 타오르는 화염을 뿜어내 모든 적을 불태운다. 드래곤 브레스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n미르 스킬과 융합 스킬은 공격 속도 증가의 효과를 받지 않는다.\n필요 스킬 : 드래곤 브레스 30레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 83 소비, 최대 8명의 적을 321%의 데미지로 5번 공격, 3초 동안 지속\n재사용 대기시간 10초\n",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBNB"
+    },
+    {
+        "skill_name": "브레스 오브 어스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 브레스 공격 중 에반의 마법과 공명해 대지를 딛고 올라서 다수의 적을 추적하는 화염 브레스를 발사한다. 브레스 오브 어스는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 브레스 사용 중, 에반이 서클 오브 어스 마법을 사용하면 발동된다.\n필요 스킬 : 브레스 오브 어스 30레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 83 소비, 최대 4명의 적을 339%의 데미지로 6번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBNC"
+    },
+    {
+        "skill_name": "브레스 오브 윈드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[융합 스킬] 미르가 드래곤 브레스 공격 중 에반의 마법과 공명해 적의 숨결을 끊어 놓을 강력한 화염 돌풍 브레스를 발사한다. 브레스 오브 윈드는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n 미르가 드래곤 브레스 사용 중, 에반이 서클 오브 윈드 마법을 사용하면 발동된다.\n필요 스킬 : 브레스 오브 윈드 30레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 83 소비, 최대 8명의 적을 307%의 데미지로 6번 공격, 3.5초 동안 지속\nHP가 30% 이하로 남은 적에게 데미지 65%p증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBNE"
+    },
+    {
+        "skill_name": "마법 잔해 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n융합 스킬에 피격 당한 적의 주변에 짙은 마력의 마법 잔해를 생성한다. 생성된 마법 잔해를 발동시켜 에반 주변의 적에게 피해를 입힐 수 있으며 한 번에 발동된 마법 잔해의 수가 많을수록 더 많은 피해를 입힐 수 있다.\n자동 사용 모드에서는 마법 잔해가 일정 개수 생성될 때마다 자동으로 발동된다.\n자동 사용 모드 온오프 : 마우스 우클릭 \n필요 스킬 : 강화된 마법 잔해 20레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "융합 스킬에 피격 당한 적 근처에서 짙은 마력의 마법 잔해 1개 생성, 재생성 대기시간 0.4초, 최대 생성 제한 15개, 발동 시 MP 148 소비\n최대 15명의 적에게 분산되어 발사, 233%의 데미지로 1번 공격, 마법 잔해 5개 당 데미지 205%p증가, 생성된 마법 잔해는 사용하지 않고 일정 시간이 지나면 소멸",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPBNF"
+    },
+    {
+        "skill_name": "드래곤 스파킹 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n에반이 직접 공격하는 공격 스킬이 사용된 후 미르가 추가 공격을 실행한다.",
+        "skill_level": 7,
+        "skill_effect": "[파이널 어택류 스킬] 100%의 확률로 293%의 데미지로 공격하는 드래곤 스파킹 발동",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHOBNG"
+    },
+    {
+        "skill_name": "조디악 버스트",
+        "skill_description": "[마스터 레벨 : 30]\r\n성좌의 힘으로 에반과 미르, 별의 공명을 이끌어내어 일대를 별바다로 만든다. 공격 스킬 적중 시 별의 힘이 마력과 공명하여 유성우가 내린다. 유성우는 최대 HP가 가장 높은 보스 몬스터에게 우선 생성되며 공격반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 4,
+        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n최대 15명의 적을 652%의 데미지로 15번 공격하는 마력이 24회 발생\n45초 동안 공격 스킬 적중 시 최대 15명의 적에게 612%의 데미지로\n8번 공격하는 유성우 9개 발생\n유성우 재발동 대기시간 3초\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNAJHPEMA"
+    },
+    {
+        "skill_name": "엘리멘탈 블래스트 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n엘리멘탈 블래스트를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "엘리멘탈 블래스트의 최종 데미지 11% 증가, 재사용 대기시간 55초로 감소",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEE"
+    },
+    {
+        "skill_name": "드래곤 브레이크 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n드래곤 브레이크, 임페리얼 브레스, 브레이크-돌아와!를 강화한다.",
+        "skill_level": 4,
+        "skill_effect": "드래곤 브레이크, 임페리얼 브레스, 브레이크-돌아와!의 최종 데미지 14% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEF"
+    },
+    {
+        "skill_name": "조디악 레이 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n조디악 레이를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "조디악 레이의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEG"
+    },
+    {
+        "skill_name": "스파이럴 오브 마나 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n스파이럴 오브 마나를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "스파이럴 오브 마나의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBEH"
+    },
+    {
+        "skill_name": "디바이드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[트리거 스킬] 거대한 대검을 생성하여 전방의 적을 절단한다. 일정 시간마다 에테르의 기운을 받아 디바이드가 강화된다.\n필요 스킬 : 디바이드 30레벨 이상",
+        "skill_level": 3,
+        "skill_effect": "MP 46 소비, 최대 7명의 적을 426%의 데미지로 6번 공격\n 6초마다 다음 공격 강화된 디바이드로 대체 \n 강화 디바이드 : 최대 8명의 적을 327%의 데미지로 7번 공격하는 참격 3회 발생",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMA"
+    },
+    {
+        "skill_name": "샤드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n적을 감지하여 날아가는 마력 조각을 생성한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
+        "skill_level": 3,
+        "skill_effect": "MP 30 소비, 504% 데미지로 3번 공격하는 마력 조각 5개 생성\n재사용 대기시간 6초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMC"
+    },
+    {
+        "skill_name": "원더 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n공격 시 샤드가 자동 생성된다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬",
+        "skill_level": 3,
+        "skill_effect": "트리거 스킬 적중 시 8초 마다 생성, 생성 시 MP 30 소모\n재사용 대기시간 0.50초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMD"
+    },
+    {
+        "skill_name": "오더 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n크리에이션으로 창조한 에테르 소드에 명령을 내려 적을 추적하게 한다. 크리에이션으로 창조한 에테르 소드가 있어야 사용할 수 있다.\n에테르 소드는 아델 근처에서만 움직이며 멀어지면 근처로 이동하여 새로운 적을 추적한다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않고 아델이 전투 상태일 때만 적을 추적한다.\n추적 중인 에테르 소드가 소멸할 때 남은 지속시간에 비례해 에테르를 획득할 수 있다.\n필요 스킬 : 오더 20레벨 이상",
+        "skill_level": 8,
+        "skill_effect": "MP 47, 에테르 100 소비\n각 에테르 소드는 49초 동안 존재하며 492%의 데미지로 2번 공격\n최대 6자루까지 명령 가능, 최대 개수를 초과해서 명령 시 지속시간이 가장 적게 남은 에테르 소드가 소멸\n공격 적중 시 15% 확률로 에테르 결정 생성\n재사용 대기시간 0.50초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBME"
+    },
+    {
+        "skill_name": "트레드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[트리거 스킬] 전신에 마력을 휘감아 급강하한다.\n필요 스킬 : 트레드 20레벨 이상",
+        "skill_level": 8,
+        "skill_effect": "MP 57 소비, 최대 6명의 적을 639%의 데미지로 6번 공격\n재사용 대기시간 1.50초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMF"
+    },
+    {
+        "skill_name": "임페일 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n에테르 소드를 생성하여 강하게 날린다. 8방향으로 날릴 수 있어 방향키와 함께 사용하면 해당 방향으로 날린다.\n사정거리 끝에 도달하면 소멸하며 에테르 결정을 남긴다. 임페일로 에테르 결정이 생성될 때 이미 결정이 있는 곳이라면 이전 결정을 소멸시키고 새롭게 생성되며 재생성 대기시간을 무시한다.\n레조넌스로 연계할 수 있지만 연계하면 에테르 결정을 남길 수 없다.\n필요 스킬 : 임페일 10레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 45, 에테르 15 소비\n최대 6명의 적을 376%의 데미지로 6번 공격\n재사용 대기시간 7초  ",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNA"
+    },
+    {
+        "skill_name": "레조넌스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n마력으로 이루어진 대검을 생성하고 에테르 결정과 공명시켜 결정이 있는 곳으로 돌진한다. 8방향으로 사용할 수 있어 방향키와 함께 사용하면 해당 방향에 있는 가장 가까운 결정으로 돌진한다.\n사정거리 안에 에테르 결정이 있거나 임페일에서 연계해야만 사용할 수 있다.\n임페일에서 연계하여 사용하면 대검 생성시간이 단축되고 에테르 소드를 날린 방향으로 돌진한다.\n추가로 디바이드 VI의 데미지를 영구히 증가시킨다.\n필요 스킬 : 레조넌스 10레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "레조넌스와 공명한 에테르 결정 소멸\n최대 6명의 적을 437%의 데미지로 6번 공격\n공격 적중 시 30초 동안 최종 데미지 10%, 방어율 무시 10%가 증가하는 버프 발동\n[패시브 효과 : 디바이드 VI의 데미지 12%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNB"
+    },
+    {
+        "skill_name": "게더링 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n오더로 명령을 내린 모든 에테르 소드를 되돌아오게 한다. 에테르 소드는 스킬을 사용한 곳까지 직선으로 돌아오며 경로 상의 적을 공격한 후 짧은 시간 이동한 자리에 머무른다. 오더로 적을 추적 중인 에테르 소드가 있어야 사용할 수 있다.\n게더링 중에는 에테르 소드의 지속시간이 경과하지 않는다. 게더링은 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 재사용 대기시간 초기화의 효과를 받지 않는다.\n필요 스킬 : 게더링 20레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 50 소비, 최대 10명의 적을 634%의 데미지로 4번 공격\n공격을 받은 적은 30초 동안 디버프가 걸리고 해당 적에 대한 아델의 공격은 방어율 무시 10% 증가\n공격 적중 시 40% 확률로 에테르 결정 생성\n재사용 대기시간 12초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNE"
+    },
+    {
+        "skill_name": "블로섬 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n오더로 명령을 내린 모든 에테르 소드를 회전시켜 마력을 개화시킨다. 오더로 적을 추적 중인 에테르 소드가 있어야 사용할 수 있다.\n블로섬 중에는 에테르 소드의 지속시간이 경과하지 않고 게더링으로 돌아오는 에테르 소드는 개화시킬 수 없다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않고 재사용 대기시간 초기화의 효과를 받지 않는다.\n필요 스킬 : 블로섬 30레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 81 소비, 각 에테르 소드가 최대 8명의 적을 736%의 데미지로 8번 공격\n한명의 적이 복수의 블로섬에 적중당하면 해당 적에 대한 블로섬의 최종 데미지 25% 감소\n공격 적중 시 50% 확률로 에테르 결정 생성\n재사용 대기시간 20초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNG"
+    },
+    {
+        "skill_name": "크리에이션 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n현재 가진 에테르로 몸 주위에 에테르 소드를 창조하며 에테르의 증감에 따라 에테르 소드의 수가 저절로 조절된다.\n창조된 에테르 소드는 주변의 적을 스스로 공격하고 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 크리에이션 10레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "트리거 스킬 적중 시 1.5초 마다 최대 10명의 적을 796%의 데미지로 공격\n에테르 소드 1자루당 1번 공격\n공격 적중 시 30%의 확률로 에테르 결정 생성\n재사용 대기시간 0.50초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBMG"
+    },
+    {
+        "skill_name": "테리토리 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n수많은 검이 창조되는 자신만의 영역을 만든다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 테리토리 20레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 121 소비, 7초 동안 일정 간격마다 최대 8명의 적을 560%의 데미지로 4번 공격하는 영역 생성\n재사용 대기시간 30초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNF"
+    },
+    {
+        "skill_name": "마커 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n허공에 존재하는 작은 조각에 마력을 불어넣어 자라게 한 후 파쇄한다.\n파쇄된 위치에는 마력이 집중되어 에테르 결정이 생성되며 재생성 대기시간을 무시한다.\n필요 스킬 : 마커 1레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 252 소비, 최대 7명의 적 위치에 조각 생성\n조각은 생성 및 파쇄될 때 각각 최대 7명의 적을 2228%의 데미지로 6번 공격\n공격할 수 있는 적이 최대 공격 가능한 적 수보다 적다면 임의의 위치에 조각 7개까지 생성\n그레이브가 적용된 적에게는 조각이 절반만 생성되고 최대 7명의 적을 2785%의 데미지로 6번 공격\n조각이 파쇄된 후 에테르 결정 최대 7개까지 생성\n재사용 대기시간 60초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPBNH"
+    },
+    {
+        "skill_name": "마에스트로",
+        "skill_description": "[마스터 레벨 : 30]\r\n무한한 에테르 소드를 지휘하여 전장을 휩쓴다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 1,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n에테르 소드를 소환하며 최대 15명의 적을 703%의 데미지로 10번 공격하는 참격이 29회 발생\n마지막으로 에테르 소드를 조종하여 최대 15명의 적을 703%의 데미지로 14번 공격하는 마무리 일격 57회 발생\n재사용 대기시간 360초 ",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKDKDPEMA"
     }
 ]

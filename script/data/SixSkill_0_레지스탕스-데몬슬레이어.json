@@ -1,108 +1,458 @@
-1000
+983
 [
     {
         "skill_name": "데몬 임팩트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n마족의 힘을 분출하여 전방의 적 다수에게 치명적인 데미지를 준다. 일정 시간마다 마족의 힘이 한계까지 개방되어 새어나온 포스가 데몬 체인으로 형상화되어 적을 초토화시킨다.\n필요 스킬 : 데몬 임팩트 30레벨 이상",
-        "skill_level": 13949,
+        "skill_level": 13646,
         "skill_effect": "포스 8 소비, 최대 5명의 적을 690%의 데미지로 6번 공격\n추가 크리티컬 확률 100%, 몬스터 방어율 40% 추가 무시\n보스 몬스터 공격 시 데미지 45% 증가, 적중한 적은 3초 동안 슬로우\n15초마다 데몬 임팩트 VI : 데몬 체인으로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKDPBMA"
     },
     {
         "skill_name": "데몬 슬래시 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n공격키를 연타하여 적을 연속 공격한다. 공격 시 대상으로부터 일정량의 포스를 흡수할 수 있다.\n일정 시간마다 내재되어 있던 악마의 힘이 자동으로 표출되어 적을 휩쓰는 데모닉 스피어가 발동된다. 데몬 어웨이크닝 지속 중에는 각성의 여파로 데모닉 스피어가 강화된다.\n데몬 슬래시 VI 및 데모닉 스피어는 데몬 슬래시 1차, 2차, 최종 강화의 효과를 적용 받는다.\n추가로 데몬 어웨이크닝 지속 중 강화되는 데몬 슬래시를 영구히 강화한다.\n필요 스킬 : 데몬 슬래시 10레벨 이상",
-        "skill_level": 19382,
+        "skill_level": 18973,
         "skill_effect": "1타, 2타 : 최대 6명의 적을 340%의 데미지로 2번 공격\n3타 : 최대 6명의 적을 325%의 데미지로 3번 공격\n4타 : 최대 6명의 적을 325%의 데미지로 4번 공격\n데모닉 스피어 : 최대 10명의 적을 500%의 데미지로 6번 공격, 재발동 대기시간 6초\n데몬 어웨이크닝 중 발동되는 데모닉 스피어는 800%의 데미지로 공격, 재발동 대기시간 3초\n데모닉 스피어의 일반 몬스터 공격시 데미지 180%p 증가\n[패시브 효과 : 데몬 어웨이크닝의 강화 데몬 슬래시 데미지 80%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKDPBMC"
     },
     {
         "skill_name": "데몬 익스플로젼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n어두운 기운을 끌어올린 후 폭발시킨다. 추가로 데몬 임팩트 VI를 영구히 강화한다.\n필요 스킬 : 데몬 익스플로젼 30레벨 이상",
-        "skill_level": 19382,
+        "skill_level": 18973,
         "skill_effect": "HP 300, 포스 15 소비, 최대 10명의 적을 585%의 데미지로 5번 공격\n추가 크리티컬 확률 60%, 일반 몬스터 공격 시 데미지 205%p증가\n[패시브 효과 : 데몬 임팩트 VI 데미지 70%p, 데몬 임팩트 VI : 데몬 체인 데미지 90%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKDPBMI"
     },
     {
         "skill_name": "데빌 크라이 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n순간적으로 잠재된 힘을 방출하여 사방의 적 다수를 위협하고 강한 데미지를 준다. 대상은 암흑 상태 이상에 걸려 방어력, 공격력, 명중률이 감소하며 경험치 획득량과 아이템 드롭 확률이 증가한다. 추가로 데몬 임팩트 VI : 데몬 체인을 영구히 강화한다.\n필요 스킬 : 데빌 크라이 30레벨 이상",
-        "skill_level": 10713,
+        "skill_level": 10502,
         "skill_effect": "HP 400, 포스 30 소비\n최대 15명의 적을 865%의 데미지로 7번 공격하며 위협\n대상은 60초 동안 공격력, 명중률 20% 감소, 방어력 15% 감소, 획득 경험치, 아이템 드롭률 20% 증가\n재사용 대기시간 6초\n[패시브 효과 : 데몬 임팩트 VI : 데몬 체인 데미지 550%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKDPBNC"
     },
     {
         "skill_name": "메타모포시스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 동안 마족의 기운을 극한으로 개방하여 일정 범위 내 적들에게 마족의 표식을 새긴다. 마족의 표식이 있는 적에게 자신의 직접 공격 스킬 적중 시 강력한 마기가 추가적인 공격을 가한다. 추가로 데몬 임팩트 VI를 영구히 강화한다.\n메타모포시스 VI의 마기의 공격은 블루 블러드의 효과를 적용받지 않는다.\n버프 지속시간 증가 효과를 받는다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 메타모포시스 30레벨 이상",
-        "skill_level": 10713,
+        "skill_level": 10502,
         "skill_effect": "HP 300, 포스 40 소비, 시전 동작 중 무적\n184초 동안 데미지 45% 증가\n지속시간 동안 일정 범위 내 최대 10명의 적에게 마족의 표식을 새김\n마족의 표식이 있는 적에게 자신의 직접 공격 스킬 적중 시 1090%의 데미지로 4번 공격하는 마기 발생\n마기 재발동 대기시간 1초, 재사용 대기시간 92초\n[패시브 효과 : 데몬 임팩트 VI 데미지 15%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKDPBMJ"
     },
     {
         "skill_name": "서버러스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n명계를 지키는 신장의 힘으로 전방의 적들을 처단하고 혼을 강탈한다. 일정 시간마다 명계의 신장이 완전히 각성하여 서버러스 VI : 타테리안 서버러스로 모습을 탈바꿈하고 주변의 모든 것을 집어삼킨다.\n데몬 어웨이크닝 지속 중에는 서버러스 VI가 변경되지 않으며, 자동 발동되는 서버러스가 서버러스 VI : 타테리안 서버러스로 변경된다.\n필요 스킬 : 서버러스 1레벨 이상",
-        "skill_level": 12505,
+        "skill_level": 12305,
         "skill_effect": "HP 300 소비, 최대 8명의 적을 756%의 데미지로 6번 공격\n보스 몬스터 공격 시 데미지 50% 증가, 몬스터 방어율 50% 추가 무시, 공격 시 포스 추가 흡수량 50\n재사용 대기시간 5초\n15초마다 서버러스 VI : 타테리안 서버러스로 강화, 데몬 어웨이크닝 지속 중에는 강화되지 않음\n서버러스 VI : 타테리안 서버러스 : HP 300 소비, 최대 10명의 적을 520%의 데미지로 7번 공격하는 파수꾼의 분노가 4회 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKDPBND"
     },
     {
         "skill_name": "데모닉 디센트",
         "skill_description": "[마스터 레벨 : 30]\r\n고결한 혈통의 힘이 형체를 얻어 주변의 적들에게 강력한 공격을 가한다. 다수의 적 공격 시 최대 HP가 높은 보스 몬스터를 우선하여 탐색하고 공격한다.\n나이트메어 시전 시 재발동 대기시간이 1회 초기화되고, 나이트메어 지속 중 재발동 대기시간이 감소한다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 12505,
+        "skill_level": 12305,
         "skill_effect": "공용 스킬을 제외한 자신의 직접 공격 스킬 적중 시 최대 8명의 적을 1780%의 데미지로 7번 공격하는 마족의 포효가 5회 발동\n재발동 대기시간 20초\n나이트메어 시전 시 재발동 대기시간 1회 초기화, 나이트메어 지속 중 재발동 대기시간 5초로 고정",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKDOBNG"
     },
     {
         "skill_name": "나이트메어",
         "skill_description": "[마스터 레벨 : 30]\r\n폭주하는 데몬의 포스로 마족의 영지를 구현한다. 일정 시간 동안 데몬의 모든 공격에 명계의 화염이 솟아오르는 추가 공격이 발생하며 데몬 포스를 최대 제한 이상으로 획득할 수 있다.\n스킬을 다시 사용하여 모든 포스를 거대한 무기로 응집시켜 강력한 일격을 가할 수 있다. 강력한 일격은 데몬 슬래시 및 데몬 임팩트 사용 중에도 사용할 수 있다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 16240,
+        "skill_level": 15882,
         "skill_effect": "포스 50 소비, 시전 동작 중 무적\n포스를 방출시켜 최대 15명의 적을 3000%의 데미지로 4번 공격하는 파동 6회 발생 후 마족의 영지 구현\n마족의 영지 : 20초 동안 지속, 최대 포스 제한을 500까지 초과 가능하며 직접 공격하는 스킬 사용 시 최대 3명의 적을 2229%의 데미지로 7번 공격하는 명계의 화염 발동, 재발동 대기시간 0.3초\n명계의 화염 발동 시 포스 10 추가 회복\n스킬 재사용 시 즉시 종료되며 최대 15명의 적을 1760%의 데미지로 7번 공격하는 명계의 심판 46회 발동\n최대 포스 제한을 초과하여 획득한 포스 10당 명계의 심판 최종 데미지 1% 증가, 명계의 심판 시전 동작 중 무적, 명계의 심판은 상태 이상을 무시하고 발동 가능\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMDKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 10860,
+        "skill_level": 10648,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 10860,
+        "skill_level": 10648,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "데몬 어웨이크닝 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데몬 어웨이크닝을 강화한다.",
-        "skill_level": 23034,
+        "skill_level": 22585,
         "skill_effect": "데몬 어웨이크닝의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAME"
     },
     {
         "skill_name": "요르문간드 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n요르문간드를 강화한다.",
-        "skill_level": 9244,
+        "skill_level": 9079,
         "skill_effect": "요르문간드의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMF"
     },
     {
         "skill_name": "오르트로스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n오르트로스를 강화한다.",
-        "skill_level": 10307,
+        "skill_level": 10130,
         "skill_effect": "오르트로스의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMG"
     },
     {
         "skill_name": "데몬 베인 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데몬 베인을 강화한다.",
-        "skill_level": 12052,
+        "skill_level": 11888,
         "skill_effect": "데몬 베인의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMH"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 994,
+        "skill_level": 977,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
+    },
+    {
+        "skill_name": "데스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n사신과의 계약이 완성된다. 사신은 자신을 따라다니며, 일정 수 이상의 영혼을 수집하면 본 모습을 드러내 넓은 범위를 공격한다.\n사신은 자신의 공격과 사신의 낫으로 적을 처치할 때마다 적의 영혼을 수집하고, 많은 양의 영혼이 모이면 이를 먹이로 한층 더 강한 힘을 발휘할 수 있다.\n사신의 공격은 공격 반사 상태의 적에게도 피해를 입힌다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 데스 컨트랙트3 1레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "적 6명 처치 시 다음 공격 적중 시 사신이 나타나 최대 10명의 적을 524%의 데미지로 12번 공격, 보스 몬스터는 2번 공격 시 적 1명 해치운 것으로 취급\n데스로 적 4마리 처치 시 혹은 보스 몬스터 공격 시 영혼 1개 수확\n사신의 낫으로 적 12마리 처치 시 혹은 보스 몬스터 3회 공격 시 영혼 1개 수확\n영혼을 4개 보유한 상태에서 데스 발동 시 사신의 힘이 강화되어 최대 12명의 적을 837%의 데미지로 14번 공격\n사신의 공격은 발동 후 4초 동안 다시 발동하지 않음",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKDPBMA"
+    },
+    {
+        "skill_name": "피니쉬 블로우 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n다수의 적들을 빠르게 6번 연속 공격한다.\n오라와 사신의 힘이 증폭되어 사신의 낫의 데미지와 공격 범위가 한 층 강화된다.\n필요 스킬 : 피니쉬 블로우 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 61 소비, 최대 6명의 적을 376%의 데미지로 6번 공격, 92% 확률로 5초 동안 기절, 추가 크리티컬 확률 26%, 추가 방어율 무시 22%\n[패시브 효과 : 사신의 낫 데미지 50%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKDPBMB"
+    },
+    {
+        "skill_name": "배틀킹 바 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n자유자재로 늘어나는 신비한 봉을 소환하여 전방을 크게 휩쓸고 마력 폭발을 일으킨다.\n필요 스킬 : 배틀킹 바 1레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 81 소비, 8명의 적을 371%의 데미지로 5번 공격 후 323%의 데미지로 5번 공격하는 마력 폭발 4회 발동\n재사용 대기시간 13초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKDPBMC"
+    },
+    {
+        "skill_name": "다크 라이트닝 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n텔레포트를 사용하면 출발점과 도착점 사이를 검은 번개로 공격하며 맞은 적에게 검은 징표를 새긴다.\n다크 체인, 배틀 스퍼트 사용 시에도 검은 징표가 새겨지며 징표를 새기는 스킬과 소환수로는 징표가 발동하지 않는다. 징표가 일정 횟수 이상 발동할 때마다 다크 펜타클이 추가로 발동한다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 다크 라이트닝 20레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "텔레포트 사용 시 MP 17 추가 소비\n텔레포트 출발점과 도착점 사이 최대 8명의 적을 171%의 데미지로 4번 공격, 일반 몬스터 공격 시 데미지 112%p 증가\n공격에 적중한 적은 30초 동안 검은 징표가 새겨짐\n검은 징표가 새겨진 적을 공격 시 징표가 발동하여 482%의 데미지로 4번 공격, 징표가 15번 발동할 때마다 다크 펜타클 추가 발동\n다크 펜타클 : 610%의 데미지로 6번 공격\n검은 징표와 다크 펜타클이 보스 몬스터 공격 시 데미지 20% 증가\n징표는 30번 공격 시 소비",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKDPBMF"
+    },
+    {
+        "skill_name": "다크 제네시스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n죽음의 번개로 다수의 적을 동시에 공격하고 일정 시간 동안 기절시킨다. 일정 시간마다 사신의 힘이 응집되어 다크 제네시스 VI : 데스 휩으로 강화된다. 다크 제네시스 VI : 데스 휩은 다크 제네시스-쿨타임 리듀스의 효과를 받지 않는다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 추가로 직접 공격하는 스킬 적중 시 일정 확률로 단일 적에게 번개 공격을 하여 피해를 입힌다.\r\n추가로 영구적으로 다크 라이트닝 VI의 검은 징표 데미지를 강화시킨다.\n필요 스킬 : 다크 제네시스 30레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 220 소비, 최대 15명의 적을 600%의 데미지로 8번 공격\n일반 몬스터의 경우 4초 동안 기절\n30초마다 다크 제네시스 VI : 데스 휩으로 강화\n다크 제네시스 VI : 데스 휩 : 최대 15명의 적을 163%의 데미지로 10번 공격하는 사신의 참격 6번 발생, 일반 몬스터의 경우 4초 동안 기절\n재사용 대기시간 30초\n[패시브 효과 : [파이널 어택류 스킬] 직접 공격하는 스킬 적중 시 80%의 확률로 285%의 데미지로 번개 공격, 다크 라이트닝 VI의 검은 징표 데미지 1%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKDPBMI"
+    },
+    {
+        "skill_name": "크림슨 팩텀",
+        "skill_description": "[마스터 레벨 : 30]\r\n사신이 온전한 힘을 각성하여 핏빛 계약이 완성된다. 계약이 완성되면 사신의 진정한 모습이 드러나 모든 생을 앗아간다. 크림슨 팩텀의 모든 공격은 다크 라이트닝의 검은 징표를 발동시키며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 1,
+        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n사신이 온전한 힘을 해방시키며 최대 15명의 적을 931%의 데미지로 11번 공격하는 참격이 48회 발생\n계약 완성 후 진정한 모습을 드러낸 사신이 모든 생을 앗아가며 1471%의 데미지로 14번 공격하는 참격이 22회 발생\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMAKDPEMA"
+    },
+    {
+        "skill_name": "유니온 오라 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n사신의 낫을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "사신의 낫의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANC"
+    },
+    {
+        "skill_name": "블랙 매직 알터 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n블랙 매직 알터를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "블랙 매직 알터의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAND"
+    },
+    {
+        "skill_name": "어비셜 라이트닝 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n어비셜 라이트닝을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "어비셜 라이트닝의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANF"
+    },
+    {
+        "skill_name": "체인아츠:스트로크 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n공격키를 입력하여 2연속 공격을 가한다. 체인을 채찍처럼 움켜쥔 뒤, 한차례 돌린 후 휘둘러 내려치는 연속 공격은 적을 순식간에 휩쓸고 지나간다. 2타째인 휘둘러 내려치는 공격에 맞은 적은 뒤로 밀려나며 체인에 닿은 적은 일정 시간 동안 슬로우 상태 이상에 걸린다.\n체인을 돌릴 때의 원심력을 이용하여 1타와 2타 사이에 다른 공격으로 연계가 가능하다. 이때의 원심력은 연계된 공격 스킬의 데미지를 더 강하게 만든다.\n일정 시간마다 체인을 더 강하게 휘둘러 내리쳐 내리친 위치에 충격파를 발생시킬 수 있다. 충격파는 2타에 적중된 적이 있을 때만 발동한다.\n자신의 스킬 사용 중에도 사용할 수 있다.\n필요 스킬 : 체인아츠:스트로크 10레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "MP 15 소비\n1타 : 최대 4명의 적을 155%의 데미지로 2번 공격\n2타 : 최대 8명의 적을 415%의 데미지로 5번 공격, 공격 시 100% 확률로 5초 동안 슬로우\n강화 2타 : 10초 마다 준비되며 최대 3번까지 사용 가능\n최대 8명의 적을 415%의 데미지로 5번 공격 후 468%의 데미지로 10번 공격하는 충격파 발생\n체인아츠:스트로크를 제외한 1타 직후 사용하는 스킬의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBMA"
+    },
+    {
+        "skill_name": "웨폰 버라이어티 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n무기 간의 흐름을 완전히 깨우쳐 웨폰 버라이어티의 효과를 완성시킨다. 추가타 발동 시 일정 시간 동안 다크 사이트 상태가 되며 빠르게 소멸하는 보호막 효과가 발동된다.\n필요 스킬 : 웨폰 버라이어티 Ⅲ 10레벨 이상",
+        "skill_level": 1,
+        "skill_effect": "무기 교체 시 30초 동안 버프 1 스택당 모든 공격 스킬의 최종 데미지 11% 증가, 체인아츠를 제외한 사용 가능 소환 무기 스킬 최대 개수만큼 중첩 가능\n버프 중첩 및 갱신 시 457%의 데미지로 최대 7명의 적을 4번 공격하는 추가타 발생\n추가타 발생 시 2초 동안 다크 사이트 및 최대 HP의 7%의 피해를 막아주는 보호막 생성\n보호막은 최대 HP의 25%만큼 누적 가능하며 초당 현재 보호막의 30% + 50씩 소멸\n추가타 재발동 대기시간 : 0.2초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBME"
+    },
+    {
+        "skill_name": "서먼 커팅 시미터 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n시미터를 소환하여 거꾸로 쥔 뒤 적에게 순식간에 파고들며 가로로 가른다. 시전 동작 중 어떠한 공격에도 밀리지 않는다. 공중에서도 사용 가능하며, 자신의 스킬 사용 중에도 사용할 수 있다.\n필요 스킬 : 서먼 커팅 시미터 20레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 15 소비, 최대 6명의 적을 563%의 데미지로 5번 공격\n재사용 대기시간 4초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBPA"
+    },
+    {
+        "skill_name": "서먼 스크래칭 클로 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n클로를 소환하여 손에 장착한 뒤, 빠르게 할퀴며 전방 사선 방향으로 하강한다. 시전 동작 중 어떠한 공격에도 밀리지 않는다. 공중에서만 사용 가능하며 자신의 스킬 사용 중에도 사용할 수 있다.\n필요 스킬 : 서먼 스크래칭 클로 20레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 20 소비, 최대 10명의 적을 594%의 데미지로 4번 공격\n재사용 대기시간 3초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBPE"
+    },
+    {
+        "skill_name": "서먼 스로잉 윙대거 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 후 폭발하는 수리검을 소환하여 지면에 낮게 깔아 던진다. 수리검은 적을 밀어내며 공격한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않고 일부 몬스터는 저항하여 밀리지 않는다. 사용 및 폭발 시 다크 사이트를 해제하지 않는다.\n필요 스킬 : 서먼 스로잉 윙대거 19레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 28 소비, 7초 동안 일정 간격마다 1명의 적을 563%의 데미지로 \n1번 공격하는 수리검 소환\n7초가 지난 경우 자동 폭발하며 스킬키를 재입력하여 수동 폭발 가능\n폭발 시 최대 8명의 적을 851%의 데미지로 3번 공격\n재사용 대기시간 10초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBPC"
+    },
+    {
+        "skill_name": "서먼 비팅 니들배트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n가시 박힌 방망이를 소환하여 머리 위로 가차 없이 내리꽂는다. 3번 연속해서 사용할 수 있으며 방향키와 함께 사용하면 앞으로 전진하며 사용한다. 연속 사용 중 공격 스킬을 사용하면 다음 타수를 사용할 수 없다. 니들배트에 맞은 적은 일정 시간 동안 혼미 상태 이상에 걸린다. 시전 동작 중 어떠한 공격에도 밀리지 않는다.\n필요 스킬 : 서먼 비팅 니들배트 30레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 41 소비\n1타 : 최대 8명의 적을 386%의 데미지로 12번 공격\n2타 : 최대 8명의 적을 523%의 데미지로 13번 공격\n3타 : 최대 10명의 적을 770%의 데미지로 14번 공격\n공격 시 100%의 확률로 30초 동안 혼미 상태 이상 효과가 적용되어 적의 공격력 20% 감소\n재사용 대기시간 12초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBMI"
+    },
+    {
+        "skill_name": "체인아츠:크러시 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n여러 갈래의 체인을 공중에서부터 지면까지 한 번에 터져 나오게 하여 적을 찍어 누른다. 공격 적중 시 웨폰 버라이어티의 스택이 최대로 중첩된다.\n필요 스킬 : 체인아츠:크러시 1레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 304 소비, 최대 15명의 적을 603%의 데미지로 15번 공격\n공격 적중 시 웨폰 버라이어티 최대로 중첩, 지속 시간 15초로 적용\n재사용 대기시간 30초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBOB"
+    },
+    {
+        "skill_name": "서먼 슈팅 샷건 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n샷건을 소환하여 전방 부채꼴 범위의 적에게 산탄을 발사한다. 가까운 적일수록 큰 피해를 입는다. 발사 시의 역추진력을 이용해 후방으로 뛰어오르며 이동한다. 시전 동작 중 어떠한 공격에도 밀리지 않는다.\n필요 스킬 : 서먼 슈팅 샷건 20레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 30 소비\n가까운 거리 : 최대 6명의 적을 654%의 데미지로 7번 공격\n중간 거리 : 최대 6명의 적을 577%의 데미지로 7번 공격\n먼 거리 : 최대 6명의 적을 524%의 데미지로 7번 공격\n재사용 대기시간 5초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBOC"
+    },
+    {
+        "skill_name": "서먼 슬래싱 나이프 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n2개의 단도를 소환하여 전후방을 순식간에 베어낸다. 공중에서 사용 시 베어내는 시간 동안 공중에 머문다. 단도에 닿은 적은 일정 시간 동안 공포 상태 이상에 걸린다.\n필요 스킬 : 서먼 슬래싱 나이프 20레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 35 소비, 최대 4명의 적을 568%의 데미지로 8번 공격, 적중 시 100%의 확률로 30초 동안 공포에 빠지게 하여 적의 방어율 30% 감소\n재사용 대기시간 10초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBOH"
+    },
+    {
+        "skill_name": "서먼 릴리싱 봄 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n폭탄을 소환하여 설치한 뒤 후방으로 도주한다. 공중에서 사용 시 해당 위치에 폭탄을 떨어뜨린다. 폭탄은 일정 시간 후 폭발하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 사용 및 폭발 시 다크 사이트를 해제하지 않는다. 시전 동작 중 어떠한 공격에도 밀리지 않는다.\n필요 스킬 : 서먼 릴리싱 봄 20레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 40 소비, 1초 후 폭발하는 폭탄 설치, 폭탄은 최대 8명의 적을 688%의 데미지로 6번 공격\n재사용 대기시간 8초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBOI"
+    },
+    {
+        "skill_name": "서먼 스트라이킹 브릭 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n거대한 벽돌을 소환하여 체인에 묶은 뒤 전방을 향해 점프하여 강하게 내려찍는다. 위 방향키를 입력하며 사용하면 더 멀리 점프한다. 시전 동작 중 어떠한 공격에도 밀리지 않는다.\n필요 스킬 : 서먼 스트라이킹 브릭 30레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 46 소비, 최대 7명의 적을 629%의 데미지로 7번 공격\n재사용 대기시간 8초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBOD"
+    },
+    {
+        "skill_name": "체인아츠:테이크다운 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n체인을 순식간에 길게 뽑아 휘둘러 범위 내의 적을 체인으로 결박한다. 체인아츠:테이크다운은 최대 HP가 높은 적을 우선 결박한다.\n결박 후 일정 시간이 지나면 잔상이 남을 정도로 빠르게 적을 난타한다. 난타의 위력은 해당 시간 동안 발동된 웨폰 버라이어티 추가타의 횟수에 따라 달라지고, 난타 중에는 웨폰 버라이어티 중첩이 최대치로 유지된다.\n재사용 대기시간 초기화의 효과를 받지 않고 공격을 받은 적은 90초 동안 행동 불가 상태 이상에 저항하여 체인아츠:테이크다운 및 다른 스킬로 인한 행동 불가 상태 이상에 걸리지 않는다.\n필요 스킬 : 체인아츠:테이크다운 30레벨 이상\n행동 불가 상태 이상 온오프 : 마우스 우클릭",
+        "skill_level": 4,
+        "skill_effect": "MP 256 소비, 최대 8명의 적을 352%의 데미지로 2번 공격\n공격당한 적은 10초 동안 행동 불가 상태 적용\n체인아츠:테이크다운으로 적에게 준 데미지에 따라 행동 불가 지속시간 최대 100% 증가\n시전 후 5초 동안 웨폰 버라이어티 추가타 발동 횟수에 따라 공격 강도가 \n3단계로 나뉘는 난타 발생, 발동 횟수를 시간 내에 충족하지 않으면 최소 단계의 난타 발생, 시간 내에 최대 발동 횟수를 충족하면 난타 즉시 발생\n난타 : 웨폰 버라이어티 발동 횟수가 0, 3, 5회 이상일 때 단계에 따라 묶은 위치에서 최대 10명의 적을 906%/1032%/1164%의 데미지로 15번 공격 후 최대 10명의 적을 290%/406%/580%의 데미지로 10번 공격하는 마무리 일격 발동\n연속 공격 중 타격에 따라 최대 10명의 적을 703%의 데미지로 4번 공격하는 충격파 발생, 모든 공격은 방어율 80% 추가 무시\n재사용 대기시간 120초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBND"
+    },
+    {
+        "skill_name": "프로페셔널 에이전트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n다양한 무기를 다룰 수 있는 진정한 프로페셔널의 모습을 보여준다. 웨폰 버라이어티 효과가 증가하며, 공격 스킬이 사용된 후 추가 타격이 발동된다.\n재사용 대기시간 초기화의 효과를 받지 않는다.\n필요 스킬 : 프로페셔널 에이전트 1레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 512 소비, 20초 동안 웨폰 버라이어티의 최종 데미지 증가량 2배로 적용\n공격 적중 시 최대 6명의 적을 295%의 데미지로 3번 공격하는 폭발 생성\n재사용 대기시간 120초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBNB"
+    },
+    {
+        "skill_name": "체인아츠:매서커",
+        "skill_description": "[마스터 레벨 : 30]\r\n다룰 수 있는 모든 무기를 총동원하여 적을 무자비하게 학살한다. 시전 시 웨폰 버라이어티의 스택이 최대로 중첩되며 체인아츠:매서커의 모든 공격은 웨폰 버라이어티를 발동시킨다. 체인아츠:매서커는 체인아츠:스트로크로 인한 최종 데미지 증가 효과를 받지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 1,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 공격\n1차 연계 공격 : 352%의 데미지로 8번 공격하는 참격이 54회 발생\n2차 연계 공격 : 382%의 데미지로 9번 공격하는 참격이 17회 발생\n3차 연계 공격 : 403%의 데미지로 14번 공격하는 폭발이 60회 발생\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPEMA"
+    },
+    {
+        "skill_name": "와일드 발칸 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n폭풍우가 몰아치듯 빠른 속도로 화살을 발사한다. 어나더 바이트 발동 시마다 야성이 중첩되어, 최대 중첩 시 일정 시간 동안 와일드 발칸의 연사 속도가 증가한다. 재규어 라이딩 상태에서 사용하는 와일드 발칸에는 적용되지 않는다. 화살은 최대 HP가 높은 보스 몬스터를 우선 공격한다. 재규어를 탑승한 상태일 경우 재규어 포대를 사용하여 다수의 적을 공격할 수 있으나 공격력이 약해지고 사정거리가 감소한다.\n필요 스킬 : 와일드 발칸 30레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "공격 당 MP 15 소비, 발 당 425%의 데미지, 보스 몬스터 공격 시 데미지 11% 증가\n야성 : 어나더 바이트 발동 시 100% 확률로 30초 동안 유지, 50중첩 도달 시 10초 동안 와일드 발칸의 연사 속도 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMA"
+    },
+    {
+        "skill_name": "클로우 컷 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[재규어 스킬] 재규어의 앞발로 전방의 적 다수를 연속 공격한다. 적을 공격하면 HP를 회복하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 클로우 컷 1레벨 이상",
+        "skill_level": 18,
+        "skill_effect": "MP 33 소비, 최대 8명의 적을 628%의 데미지로 4번 공격\n공격 시 최대 HP의 7% 회복\n어나더 바이트 디버프가 없는 적 공격 시 100% 확률로 디버프 발생, 이후 공격 시 30% 확률로 어나더 바이트 디버프 추가 발생\n재사용 대기시간 5초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMG"
+    },
+    {
+        "skill_name": "프로보크 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[재규어 스킬] 재규어가 주변의 적을 도발하여 자신을 공격하게 하며 부딪히지 않는 상태로 만든다. 도발된 적이 일정 시간 동안 공격하지 않으면 도발 상태에서 벗어난다.\n필요 스킬 : 프로보크 1레벨 이상",
+        "skill_level": 18,
+        "skill_effect": "MP 53 소비, 최대 10명의 적을 30초 동안 도발",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMH"
+    },
+    {
+        "skill_name": "크로스 로드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[재규어 스킬] 재규어가 전방으로 돌진하며 다수의 적을 밀어내고 피해를 입힌다. 아래 방향키와 함께 사용하면 캐릭터가 보는 방향과 반대 방향으로 돌진한다. 일부 몬스터는 저항하여 밀리지 않는다.\n재규어 스킬로 사용했을 때는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 재규어 스킬로 사용 시 스틸 모드를 사용하면 재규어가 돌진하지 않는다.\n필요 스킬 : 크로스 로드 1레벨 이상\n스틸 모드 온오프 : 마우스 우클릭",
+        "skill_level": 18,
+        "skill_effect": "MP 48 소비, 최대 8명의 적을 663%의 데미지로 2번 공격\n100% 확률로 3초 동안 기절\n어나더 바이트 디버프가 없는 적 공격 시 100% 확률로 디버프 발생, 이후 공격 시 90% 확률로 어나더 바이트 디버프 추가 발생\n재사용 대기시간 7초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMI"
+    },
+    {
+        "skill_name": "소닉붐 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[재규어 스킬] 재규어가 날카롭게 포효한다. 포효는 강한 충격파를 일으켜 다수의 적들에게 피해를 입힌다.\n소닉붐은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 소닉붐 1레벨 이상",
+        "skill_level": 18,
+        "skill_effect": "MP 43 소비, 최대 8명의 적을 656%의 데미지로 6번 공격\n어나더 바이트 디버프가 없는 적 공격 시 100% 확률로 디버프 발생, 이후 공격 시 40% 확률로 어나더 바이트 디버프 추가 발생\n재사용 대기시간 6초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBNA"
+    },
+    {
+        "skill_name": "재규어 소울 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[재규어 스킬] 재규어의 영혼을 담은 울부짖음이 적의 모든 버프를 해제하고 행동 불가 상태로 만든다.\n재규어 소울은 범위 내의 적 중 최대 HP가 가장 높은 적을 우선으로 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n공격을 받은 적은 90초 동안 행동 불가 상태 이상에 저항하여 재규어 소울 및 다른 스킬로 인한 행동 불가 상태 이상에 걸리지 않는다. \n필요 스킬 : 재규어 소울 1레벨 이상",
+        "skill_level": 18,
+        "skill_effect": "MP 318 소비, 최대 10명의 적을 414%의 데미지로 12번 공격\n공격당한 적은 10초 동안 행동 불가 상태, 재규어 소울로 적에게 준 데미지에 따라 행동 불가 지속시간 최대 100% 증가\n공격 시 100% 확률로 어나더 바이트 디버프 발생\n재사용 대기시간 120초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBNB"
+    },
+    {
+        "skill_name": "플래쉬 레인 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스 기술의 정수를 사용한다. 재규어에 탑승했거나 재규어를 소환하지 않았을 때 사용할 수 있다.\n재규어를 소환하면 램피지 애즈 원 VI으로 대체되며 재사용 대기시간을 공유한다.\n필요 스킬 : 플래쉬 레인 1레벨 이상",
+        "skill_level": 18,
+        "skill_effect": "MP 214 소비, 최대 15명의 적을 562%의 데미지로 11번 공격\n재사용 대기시간 12초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBND"
+    },
+    {
+        "skill_name": "서먼 재규어 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n재규어를 소환하여 함께 싸운다. 재규어는 캐릭터가 공격하는 적을 우선해서 공격한다. 재규어에게 [재규어 스킬]을 사용하도록 지시할 수 있다. 재규어 스킬은 공격 범위 내의 최대 HP가 높은 보스 몬스터를 우선 공격한다. 보스 몬스터가 없다면 캐릭터가 보는 방향으로 공격한다.\n재규어가 소환된 상태에서 아래 방향키와 함께 스킬을 재사용하여 메인 재규어를 해당 위치에 고정되어 전투하도록 지시할 수 있다.\n고정된 재규어는 공격 범위 내의 최대 HP가 높은 보스 몬스터 쪽을 우선하여 공격하며 캐릭터와 일정 거리 이상 멀어지면 다시 캐릭터 위치로 이동한다. 단, 일정 거리 내에 보스 몬스터가 존재한다면 캐릭터와 일정 거리 이상 멀어져도 캐릭터 위치로 이동하지 않는다.\n재규어 라이딩을 사용하면 재규어를 탑승할 수 있다.\n필요 스킬 : 서먼 재규어 1레벨 이상",
+        "skill_level": 18,
+        "skill_effect": "MP 23 소비, 최대 6명의 적을 574%의 데미지로 공격하는 재규어 소환\n재규어가 공격 시 15%의 확률로 최대 3회까지 중첩되고 20초 동안 지속되는 디버프 발생\n어나더 바이트 : [파이널 어택류 스킬] 디버프에 걸린 적을 석궁을 사용하는 스킬로 공격하면 중첩 당 272%의 데미지로 추가 공격\n재사용 대기시간 1초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBNE"
+    },
+    {
+        "skill_name": "어시스턴트 헌팅 유닛 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스의 기술을 빌려 사냥에 도움을 주는 보조 유닛을 전방에 발사한다.\n어시스턴트 헌팅 유닛은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 어시스턴트 헌팅 유닛 20레벨 이상",
+        "skill_level": 18,
+        "skill_effect": "MP 71 소비, 60초 동안 설치되어 5초 공격 후 2초 동안 장전을 반복\n매 공격마다 최대 8명의 적을 216%의 데미지로 3번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBOD"
+    },
+    {
+        "skill_name": "드릴 컨테이너 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스의 기술을 빌려 거대한 드릴을 발사하는 유닛을 설치한다.\n드릴 컨테이너는 공격 반사의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 드릴 컨테이너 30레벨 이상",
+        "skill_level": 18,
+        "skill_effect": "MP 58 소비, 60초 동안 드릴 컨테이너 설치\n드릴 컨테이너는 일정 간격마다 최대 10명의 적을 631%의 데미지로 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBOE"
+    },
+    {
+        "skill_name": "파이널 어택 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동된다. 다만, 반드시 석궁 계열 무기를 들었을 경우에만 발동이 가능하다.\n필요 스킬 : 어드밴스드 파이널 어택 30레벨 이상",
+        "skill_level": 18,
+        "skill_effect": "[파이널 어택류 스킬] 71%의 확률로 554%의 데미지로 공격하는 파이널 어택 발동",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDOBOG"
+    },
+    {
+        "skill_name": "네이쳐스 빌리프",
+        "skill_description": "[마스터 레벨 : 30]\r\n재규어와의 완전한 공명으로 영혼의 재규어를 불러내어 그 힘을 빌린다. 일정 시간마다 재규어 스킬을 포함한 와일드헌터의 공격 스킬 사용 시 영혼의 재규어가 전방을 급습하며, 적중한 대상에게 어나더 바이트 디버프를 발생시킨다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 5,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1150%의 데미지로 7번 공격하는 파동 12회 발동 이후 최대 15명의 적을 1225%의 데미지로 14번 공격하는 포효 23회 발동\n영혼의 공명 : 30초 동안 지속, 재규어 스킬을 포함한 와일드헌터의 공격 스킬 사용 시 최대 12명의 적을 1150%의 데미지로 10번 공격하는 참격이 6회 발동, 재발동 대기시간 2초\n모든 공격은 100% 확률로 어나더 바이트 디버프 발생\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPEMA"
+    },
+    {
+        "skill_name": "재규어 스톰 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n재규어 스톰을 강화한다.",
+        "skill_level": 14,
+        "skill_effect": "재규어 스톰으로 소환된 재규어의 최종 데미지 반영률 104%, 아래 방향키와 함께 사용 시 최종 데미지 반영률 280%로 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANG"
+    },
+    {
+        "skill_name": "재규어 맥시멈 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n재규어 맥시멈을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "재규어 맥시멈의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANH"
+    },
+    {
+        "skill_name": "와일드 그레네이드 : 플래시 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n와일드 그레네이드 : 플래시를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "와일드 그레네이드 : 플래시의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANI"
+    },
+    {
+        "skill_name": "와일드 발칸 Type X 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n와일드 발칸 Type X을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "와일드 발칸 Type X의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANJ"
+    },
+    {
+        "skill_name": "매화검 본초 : 선참 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n검을 매우 빠르게 휘둘러 전방의 적을 크게 베어낸다. 키다운 스킬이며 스킬 사용 중 청풍보를 사용할 수 있다.\n필요 스킬 : 매화검 본초 : 선참 30레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 11 소비, 최대 8명의 적을 202%의 데미지로 5번 지속 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMA"
+    },
+    {
+        "skill_name": "망혼검 본초 : 영격 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n영격을 강화한다. 매화검 본초, 섬무 적중 시 이무기의 내공이 실린 검격이 추가로 적을 벤다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 망혼검 본초 : 영격 III 30레벨 이상",
+        "skill_level": 5,
+        "skill_effect": "매화검 본초, 섬무 적중 시 35%의 확률로 적중한 적 위치에 발동, 적중한 적이 이미 처치된 경우 캐릭터 위치에서 발동\n최대 8명의 적을 872%의 데미지로 4번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMB"
+    },
+    {
+        "skill_name": "망혼강림 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n망혼검 절기 일정 횟수 이상 적중 시 이무기의 내력을 실은 검기가 발사되어 적을 섬멸한다.\n검기는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
+        "skill_level": 7,
+        "skill_effect": "망혼검 절기 8번 적중 시 최대 8명의 적을 948%의 데미지로 5번 공격하는 검기 2개 발사, 검기 하나 당 한명의 적에게는 최대 1번까지만 공격 발생\n몬스터 방어율 20% 추가 무시",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDOBMF"
+    },
+    {
+        "skill_name": "망혼검 절기 : 열지 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n강력한 검격이 땅을 가른다.\n필요 스킬 : 망혼검 절기 : 열지 20레벨 이상, 망혼검 절기 : 망탄 30레벨 이상, 망혼검 절기 : 무량겁 1레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 42 소비\n전방을 베어내며 최대 10명의 적을 910%의 데미지로 5번 공격, 이후 검격이 땅을 가르며 최대 10명의 적을 990%의 데미지로 7번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMC"
+    },
+    {
+        "skill_name": "망혼검 절기 : 망탄 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n이무기의 내공을 실어 검을 내지른다. 거친 내공이 검과 함께 뻗어나가 적을 집어삼킨다. 망혼검 절기 : 열지 VI 이후 사용할 수 있다.\n필요 스킬 : 망혼검 절기 : 열지 20레벨 이상, 망혼검 절기 : 망탄 30레벨 이상, 망혼검 절기 : 무량겁 1레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 42 소비, 최대 10명의 적을 1530%의 데미지로 9번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMD"
+    },
+    {
+        "skill_name": "망혼검 절기 : 무량겁 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n극의에 달한 셀 수 없는 검로가 펼쳐진다. 망혼검 절기 : 망탄 VI 이후 사용할 수 있다.\n내공으로 발화한 불꽃은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 망혼검 절기 : 열지 20레벨 이상, 망혼검 절기 : 망탄 30레벨 이상, 망혼검 절기 : 무량겁 1레벨 이상",
+        "skill_level": 7,
+        "skill_effect": "MP 62 소비\n최대 12명의 적을 442%의 데미지로 7번 공격하는 참격이 8회 발생\n공격에 적중한 적은 내공으로 발화한 불꽃에 휩싸여 5초 동안 112%의 데미지로 3번 지속 피해",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBME"
+    },
+    {
+        "skill_name": "매화검 2초식 : 쇄매 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n공격 적중 시 허공에 흩어진 내공의 잔흔이 매화 꽃잎으로 형상화되어 적을 향해 쇄도한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 매화검 2초식 : 쇄매 20레벨 이상",
+        "skill_level": 6,
+        "skill_effect": "직접 공격하는 스킬 적중 시 35%의 확률로 발동\n130%의 데미지로 3번 공격하는 매화 꽃잎이 5개 발생, 일반 몬스터 공격 시 데미지 145%p 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDOBMH"
+    },
+    {
+        "skill_name": "매화검 3초식 : 예인 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n내공을 빚어 스스로 움직이는 검기를 생성한다. 검기는 전진하며 적을 공격한다. 일정 거리 도달 시 반대 방향을 향해 재생성되며 일정 횟수 이상 재생성 시 소멸된다.\n일격예인 VI 활성화 시 검기가 재생성되지 않으며 더 느리게 전진한다. 망혼검 1초식 : 운기를 발동시키지 않는다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n일격예인 VI 온오프 : 마우스 우클릭\n필요 스킬 : 매화검 3초식 : 예인 20레벨 이상",
+        "skill_level": 6,
+        "skill_effect": "MP 84 소비, 최대 6명의 적을 720%의 데미지로 4번 지속 공격\n검기는 맵 내에 1개까지만 존재 가능, 첫 시전을 포함하여 최대 28회 생성되며 한명의 적에게는 최대 3번까지만 공격 발생\n검기는 10초 마다 준비되며 최대 2개까지 준비 가능\n예인 VI, 일격예인 VI 전환 시 일격예인 VI의 재사용 대기시간 동안 스킬 사용 불가, 예인 VI의 준비된 검기 개수 초기화",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMJ"
+    },
+    {
+        "skill_name": "망혼검 2초식 : 연참 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동된다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 망혼검 2초식 : 연참 20레벨 이상",
+        "skill_level": 5,
+        "skill_effect": "[파이널 어택류 스킬] 62%의 확률로 247%의 데미지로 2번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDOBNA"
+    },
+    {
+        "skill_name": "창룡파천검 : 승천",
+        "skill_description": "[마스터 레벨 : 30]\r\n이무기의 내공이 렌의 내공과 온전히 어우러져 하늘도 가르는 창룡의 기운을 품은 검법을 펼친다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 2,
+        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n렌과 이무기의 무공이 창룡의 기운으로 승화되며 15명의 적을 775%의 데미지로 12번 공격하는 파동이 58회 발생\n창룡의 힘을 품은 검이 세상을 일격에 가르며 최대 15명의 적을 1085%의 데미지로 15번 공격하는 참격이 27회 발생\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPEMA"
+    },
+    {
+        "skill_name": "망혼검 절기 : 심검 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n망혼검 절기 : 심검을 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "망혼검 절기 : 심검의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKDMI"
     }
 ]
