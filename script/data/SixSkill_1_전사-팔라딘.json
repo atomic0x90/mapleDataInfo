@@ -1,58 +1,58 @@
-991
+994
 [
     {
         "skill_name": "블래스트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[홀리 포스]\n성스러운 빛의 기사와 하나가 되어 적들을 강력하게 공격한다.\n필요 스킬 : 블래스트 30레벨 이상",
-        "skill_level": 22035,
+        "skill_level": 22139,
         "skill_effect": "MP 35 소비, 최대 4명의 적을 535%의 데미지로 10번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJDPBMA"
     },
     {
         "skill_name": "디바인 저지먼트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n블래스트에 신성한 낙인을 담아 공격할 수 있게 된다. 블래스트로 적을 공격하면 적에게 신성 낙인이 중첩되며, 일정 중첩 수에서 블래스트로 다시 공격 시 낙인이 폭발하며 추가 데미지를 입히며 몬스터의 방어율을 일정 수준 무시한다. 홀리 유니티로 결속된 파티원이 사용하는 블래스트는 낙인이 중첩되지 않는다.\n필요 스킬 : 디바인 저지먼트 30레벨 이상",
-        "skill_level": 22035,
+        "skill_level": 22139,
         "skill_effect": "블래스트로 공격한 적에게 신성 낙인을 새김\n신성 낙인 : 최대 30초 동안 유지, 5번까지 중첩 시 낙인이 폭발하며 1명의 적을 1160%의 데미지로 10번 공격, 몬스터 방어율 20% 추가 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJDOBMB"
     },
     {
         "skill_name": "디바인 차지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[홀리 포스]\n순간적으로 신성한 망치를 소환하여 적들에게 내리찍어 데미지를 입히고 침묵시킨다. 일정 시간마다 빛의 가호를 받아 신성한 망치가 디바인 스티그마 VI로 강화된다.\n필요 스킬 : 디바인 스티그마 30레벨 이상",
-        "skill_level": 9235,
+        "skill_level": 9281,
         "skill_effect": "MP 40 소비, 최대 11명의 적을 724%의 데미지로 4번 공격, 100% 확률로 10초 동안 침묵\n디바인 스티그마 VI : MP 60 소비, 최대 13명의 적을 749%의 데미지로 7번 공격, 재발동 대기시간 6초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJDPBMD"
     },
     {
         "skill_name": "폴링 저스티스",
         "skill_description": "[마스터 레벨 : 30]\r\n신성한 힘으로 정의의 심판을 내린다.\n폴링 저스티스의 재발동 대기시간은 재사용 대기시간 감소 효과를 적용받는다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 9235,
+        "skill_level": 9281,
         "skill_effect": "공용 스킬을 제외한 팔라딘이 직접 사용하는 스킬 적중 시 2.5초 동안 최대 8명의 적을 1491%의 데미지로 6번 공격하는 심판의 망치 소환\n한명의 적에게는 최대 15번까지만 공격 발생\n재발동 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJDPBMF"
     },
     {
         "skill_name": "생츄어리 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n거대한 망치로 지면을 내리쳐 다수의 적을 공격하는 충격을 일으킨다. \n생츄어리 VI는 보스 몬스터에게 추가 데미지를 입히며 시전하는 동안에는 적의 어떠한 공격에도 밀려나지 않는다. 적중한 적에게 디바인 저지먼트의 신성 낙인을 새긴다. 추가로 블래스트 VI와 디바인 저지먼트 VI의 데미지를 영구히 증가시킨다.\n필요 스킬 : 생츄어리 30레벨 이상",
-        "skill_level": 8916,
+        "skill_level": 8980,
         "skill_effect": "MP 90 소비, 최대 15명의 적을 237%의 데미지로 8번 공격하는 충격이 4회 발동, 보스 몬스터 공격 시 데미지 30% 증가\n재사용 대기시간 14초\n[패시브 효과 : 블래스트 VI의 데미지 80%p, 디바인 저지먼트 VI의 데미지 410%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJDPBMH"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 적중 시 강력한 추가 타격이 발동된다.\n단, 반드시 검과 둔기를 들었을 경우에만 발동이 가능하다.\n필요 스킬 : 파이널 어택 20레벨 이상",
-        "skill_level": 7029,
+        "skill_level": 7089,
         "skill_effect": "[파이널 어택류 스킬] 공격 적중 시 65%의 확률로 160%의 데미지로 2번 추가 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJDOBMI"
     },
     {
         "skill_name": "라이징 저스티스",
         "skill_description": "[마스터 레벨 : 30]\r\n폴링 저스티스로 인한 충격으로 심판의 편린이 떠오르게 된다.\n떠오른 심판의 편린은 주변에 있는 적을 추적하여 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않고 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n필요 스킬 : 폴링 저스티스 1레벨 이상",
-        "skill_level": 7029,
+        "skill_level": 7080,
         "skill_effect": "폴링 저스티스 발동 시 5개의 빛무리에서 각각 심판의 편린 4개 생성\n각 심판의 편린은 1060%의 데미지로 6번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJDPBMJ"
     },
     {
         "skill_name": "세이크리드 바스티온",
         "skill_description": "[마스터 레벨 : 30]\r\n신성한 기사가 광휘를 펼쳐 적을 심판하고 성역을 구축한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 9195,
+        "skill_level": 9269,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 787%의 데미지로 9번 공격하는 충격파가 28회 발동 후, 895%의 데미지로 14번 공격하는 충격파가 17회 발동\n30초 동안 성역 생성, 성역 내에서 팔라딘이 공격 시 최대 5명의 적에게 1200%의 데미지로 13번 공격하는 심판의 빛 발동, 심판의 빛은 적에게 신성 낙인을 새김, 재발동 대기시간 0.5초\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDJDPEMA"
     },
@@ -73,211 +73,106 @@
     {
         "skill_name": "홀리 유니티 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n홀리 유니티를 강화한다.",
-        "skill_level": 10630,
+        "skill_level": 10711,
         "skill_effect": "홀리 유니티로 증가하는 최종 데미지 90%, 결속 대상에게 시전되는 공격 스킬의 최종 데미지 60%로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBME"
     },
     {
         "skill_name": "블래스드 해머 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블래스드 해머를 강화한다.",
-        "skill_level": 6087,
+        "skill_level": 6139,
         "skill_effect": "블래스드 해머의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMF"
     },
     {
         "skill_name": "그랜드 크로스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n그랜드 크로스를 강화한다.",
-        "skill_level": 14589,
+        "skill_level": 14686,
         "skill_effect": "그랜드 크로스의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMG"
     },
     {
         "skill_name": "마이티 묠니르 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n마이티 묠니르를 강화한다.",
-        "skill_level": 4407,
+        "skill_level": 4432,
         "skill_effect": "마이티 묠니르의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMH"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 970,
+        "skill_level": 972,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     },
     {
-        "skill_name": "천공의 노래 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n하늘에 울려 퍼지는 거센 바람의 노래를 연주하여 적들을 휘몰아친다. 스킬 사용 중 이동할 수 있다.\n필요 스킬 : 천공의 노래 30레벨 이상",
+        "skill_name": "레이징 블로우 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[검술] 전방의 적 다수를 순식간에 여러 번 베어낸다. 마지막 공격은 반드시 크리티컬로 적용된다. 콤보가 완충되면 스킬이 강화된다.\n필요 스킬 : 레이징 블로우 30레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "MP 46 소비, 최대 8명의 적을 404%의 데미지로 4번 공격하고 마지막 공격은 크리티컬 판정, 소드 오브 버닝 소울 일반 상태의 공격 범위 증가\n강화 레이징 블로우 : 490%의 데미지로 4번 공격, 마지막 두 번의 공격은 크리티컬 판정, 콤보 인스팅트와 소드 오브 버닝 소울 일반 상태의 공격 범위 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMA"
+    },
+    {
+        "skill_name": "레이지 업라이징 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n고대 전사의 분노를 구현하여 전방의 적을 초토화시킨다.\n필요 스킬 : 레이지 업라이징 1레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "MP 209 소비\n최대 10명의 적을 213%의 데미지로 8번 공격하는 참격 4회 발동\n재사용 대기시간 10초\n[패시브 효과 : 레이징 블로우 VI 데미지 64%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMC"
+    },
+    {
+        "skill_name": "오라 블레이드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n원하는 방향으로 적을 찢어발기는 검기를 날린다. 8방향으로 날릴 수 있어 방향키와 함께 사용하면 해당 방향으로 날린다.\n연속으로 사용할 경우 파이널 블레이드로 연계할 수 있다.\n필요 스킬 : 오라 블레이드 20레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "MP 29 소비, 최대 8명의 적을 382%의 데미지로 5번 공격하는 검기 발사\n오라 블레이드 VI의 일반 몬스터 공격 시 데미지 227%p 증가\n오라 블레이드는 4초마다 1개씩 준비되며 최대 2개까지 충전 가능\n2초 내 재사용 시 다음 공격 파이널 블레이드로 대체 \n 파이널 블레이드 : 최대 8명의 적을 594%의 데미지로 5번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMD"
+    },
+    {
+        "skill_name": "퓨리어스 엣지",
+        "skill_description": "[마스터 레벨 : 30]\r\n검술이 극의에 달하여 강력한 검의 상흔을 남긴다. 검의 상흔은 직접 공격하는 스킬이 일정 횟수 적중 시 생성된다. 검의 상흔은 최대 HP가 가장 높은 보스 몬스터를 우선하여 생성된다.",
+        "skill_level": 9,
+        "skill_effect": "자신이 직접 공격하는 스킬 5번 적중 시 검의 상흔 생성\n발할라, 공간의 상처, 스피릿 칼리버는 2번 적중 시 1회 공격으로 간주\r\n 검의 상흔은 1.5초 동안 최대 8명의 적을 172%의 데미지로 3번 공격, 32회 공격 시 사라지며 한 명의 적에게는 최대 4번 까지만 공격\n최대 5개까지 생성 가능 하며 콤보 인스팅트 지속 중 최대 10개까지 생성 가능",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDOBMF"
+    },
+    {
+        "skill_name": "발할라 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n고대 전사들의 의지가 깃들어 강력한 힘을 발휘한다. 히어로가 검술 스킬 사용 시 일정 시간마다 공격이 발생한 위치에 검격이 잔상처럼 남아 적을 추가 공격한다. 검격은 최대 HP가 가장 높은 보스 몬스터에게 우선적으로 생성된다. 공용 스킬, 5차 스킬에 의해서는 검격이 발생하지 않는다.\n필요 스킬 : 발할라 1레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "MP 318 소비, 30초 동안 적의 어떠한 공격에도 밀려나지 않고 콤보 최대치로 완충\n버프 지속 중 공격력 50, 크리티컬 확률 30%, 상태 이상 내성 100, 모든 속성 내성 100% 증가\n일정 시간마다 최대 6명의 적을 695%의 데미지로 2번 공격하는 검격 3개씩 발생, 검격은 최대 12회까지 발생하며 검격이 모두 발생하면 더 이상 발생하지 않음\n재사용 대기시간 120초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMG"
+    },
+    {
+        "skill_name": "인사이징 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[검술] 정신을 집중하여 전방으로 검을 크게 내리긋는다. 궁극의 검술로 영혼에 새겨진 검이 실체화되어 공격하는 것처럼 보인다. 공격 당한 적은 상처를 입어 일정 시간 동안 도트 데미지를 입고, 도트 데미지를 입는 동안 크리티컬에 의한 피해량이 증가한다.\n필요 스킬 : 인사이징 30레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "MP 37 소비, 최대 8명의 적을 493%의 데미지로 4번 공격, 일반 몬스터 공격 시 데미지 50% 증가\n공격당한 적은 100% 확률로 60초 동안 2초마다 203%의 피해를 입으며 크리티컬에 한해 데미지 26% 증가, 파티원이 공격 시 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMI"
+    },
+    {
+        "skill_name": "스피릿 칼리버",
+        "skill_description": "[마스터 레벨 : 30]\r\n[검술] 검과 영혼이 하나가 되어 모든 것을 벤다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 10,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 312%의 데미지로 14번 공격하는 참격이 33회 발생 후, 310%의 데미지로 15번 공격하는 마무리 일격이 48회 발생\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPEMA"
+    },
+    {
+        "skill_name": "소드 오브 버닝 소울 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n소드 오브 버닝 소울을 강화한다.",
         "skill_level": 4,
-        "skill_effect": "공격당 MP 10 소비, 최대 4명의 적을 발당 635%의 데미지로 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMA"
+        "skill_effect": "소드 오브 버닝 소울의 최종 데미지 14% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMA"
     },
     {
-        "skill_name": "트라이플링 윔 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령이 매우 큰 변덕을 부려 적들의 육체와 정신을 붕괴시킨다.\n정령의 기운은 윈드브레이커가 바라보는 방향의 일정 영역으로 발생한다. 단, 일부 스킬로 타격 시 바라보는 방향과 관계없이 발생한다.\n범위 내 최대 HP가 가장 높은 보스 몬스터를 무조건 포함하여 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 트라이플링 윔 III 30레벨 이상",
+        "skill_name": "콤보 인스팅트 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n콤보 인스팅트를 강화한다.",
+        "skill_level": 4,
+        "skill_effect": "콤보 인스팅트의 최종 데미지 14% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMB"
+    },
+    {
+        "skill_name": "소드 일루전 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n소드 일루전을 강화한다.",
         "skill_level": 1,
-        "skill_effect": "적을 타격할 때 50% 확률로 정령의 기운이 최대 5개 발생하여 314%의 데미지로 주위의 적을 랜덤하게 공격\n 20% 확률로 443%의 데미지를 주는 강화된 정령의 기운 발생",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMB"
-    },
-    {
-        "skill_name": "스톰 브링어 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n폭풍의 힘을 불러 적들을 응징하는 힘을 얻는다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 스톰 브링어 VI는 버프 지속시간 증가 효과를 받는다.\n필요 스킬 : 스톰 브링어 15레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 70 소비, 200초 동안 공격 시 45% 확률로 거대한 화살을 소환하여 707%의 데미지로 추가 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMD"
-    },
-    {
-        "skill_name": "페어리 턴 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n바람과 함께 춤을 추듯 가볍게 제자리에서 활을 휘둘러 적을 밀쳐내는 거센 바람을 일으킨다. 일부 몬스터는 저항하여 밀리지 않는다. \n필요 스킬 : 페어리 턴 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 36 소비, 최대 7명의 적을 뒤로 밀쳐내며 422%의 데미지로 5번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBME"
-    },
-    {
-        "skill_name": "몬순 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n세상을 감싼 채 도도히 흐르는 계절풍을 소환한다.\n필요 스킬 : 몬순 1레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 352 소비, 최대 15명의 적을 473%의 데미지로 12번 공격, 30초 동안 1초마다 220%의 도트 데미지\n재사용 대기시간 30초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMF"
-    },
-    {
-        "skill_name": "스톰 윔 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령이 내린 가호로 잠시동안 변덕스러운 바람의 힘을 극한까지 다룰 수 있게 된다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 스톰 윔 1레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 201 소비, 30초 동안 공격 시 30% 확률로 거센 정령의 기운이 추가로 나타나 616%의 데미지로 공격\n재사용 대기시간 120초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMG"
-    },
-    {
-        "skill_name": "아네모이",
-        "skill_description": "[마스터 레벨 : 30]\r\n바람의 정령들의 투지에 감화한 대정령이 현신하여 승리의 바람을 가져온다. 아네모이는 일정 시간마다 가벼운 손짓으로 강력한 바람을 일으켜 공격한다.\n아네모이의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n대정령 투명도 적용 온오프 : 마우스 우클릭",
-        "skill_level": 1,
-        "skill_effect": "MP 35 소비, 아네모이가 현신하며 최대 12명의 적을 950%의 데미지로 15번 공격, 이후 20초 동안 일정 시간마다 최대 10명의 적을 980%의 데미지로 10번 공격\n재사용 대기시간 60초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPBMH"
-    },
-    {
-        "skill_name": "미스트랄 스프링",
-        "skill_description": "[마스터 레벨 : 30]\r\n강력한 바람의 기운을 품고 있는 에메랄드에 호기심 많은 정령들이 이끌려 돌풍이 이는 바람의 샘이 생성된다.\n일정 시간마다 신난 바람의 정령이 돌풍을 타고 분출되어 주변의 적을 공격한다.\n바람의 샘이 존재할 때 스킬키 재입력 시 현재 위치를 기준으로 바람의 샘을 재소환할 수 있다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1,
-        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n에메랄드에 깃든 정령의 기운으로 최대 15명의 적을 858%의 데미지로 10번 공격하는 바람의 칼날이 13회 발생\n공격 종료 후 20초 동안 바람의 샘이 정령의 기운을 생성하여 적을 공격\n재설치 대기시간 3초\n정령의 기운 : 682%의 데미지로 5번 공격하는 정령의 기운 13개 생성\n신난 정령의 기운 : 744%의 데미지로 6번 공격하는 신난 정령의 기운 5개 생성\n거센 정령의 기운 : 666%의 데미지로 7번 공격하는 거센 정령의 기운 3개 생성\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOBKDPEMA"
-    },
-    {
-        "skill_name": "하울링 게일 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n하울링 게일을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "하울링 게일의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKI"
-    },
-    {
-        "skill_name": "아이들 윔 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n아이들 윔을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "아이들 윔의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKJ"
-    },
-    {
-        "skill_name": "볼텍스 스피어 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n볼텍스 스피어를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "볼텍스 스피어의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBLB"
-    },
-    {
-        "skill_name": "크래프트:자벨린 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n적들 사이를 빠르게 오가며 공격하는 날카로운 마법의 자벨린을 투척한다. 자벨린이 적에게 명중하면 파편으로 갈라져 추가 공격한다.\n크래프트:오브 II와 연계하여 사용 가능하고 다수 공격 스킬의 공격 대상 증가 효과를 받지 않는다.\n자벨린이 크리스탈 또는 적에 적중하면 크리스탈 파편을 획득한다. 크리스탈 파편을 일정량 이상 모으면 축적된 크리스탈의 힘을 자벨린에 부여하여 인챈트 자벨린을 사용할 수 있다. 인챈트 자벨린은 적을 자동으로 추적한다.\n자벨린, 인챈트 자벨린, 자벨린 파편은 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n필요 스킬 : 크래프트:자벨린 II 30레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 36 소비, 최대 5명의 적을 475%의 데미지로 3번 공격\n자벨린 적중 시 158%의 데미지로 공격하는 파편 2개 생성\n자벨린을 크리스탈 또는 적에 적중 시 크리스탈 파편 1개 획득, 자벨린 1회에 크리스탈 파편은 최대 1개까지 획득 가능\n크리스탈 파편을 30개 획득 시 다음 자벨린이 인챈트 자벨린으로 발동\n인챈트 자벨린 : 자벨린 한 번에 3개 투척\n인챈트 자벨린으로 생성된 자벨린 파편은 하나의 적에게 적중 시 두번째 자벨린 파편부터 최종 데미지 50% 감소",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMA"
-    },
-    {
-        "skill_name": "글로리 윙:자벨린 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n글로리 윙의 힘으로 강화된 자벨린을 투척한다. 자벨린은 적을 자동으로 추적하여 폭발하며 막대한 피해를 입힌다. 사용 시 적을 추적하는 매직 미사일이 함께 생성된다.\n자벨린이 적에 적중할 때마다 영광의 크리스탈 파편을 획득한다. 영광의 크리스탈 파편을 일정량 모으면 축적된 크리스탈의 힘을 자벨린에 부여하여 인챈트 자벨린을 사용할 수 있다.\n자벨린 및 매직 미사일은 최대 HP가 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 크래프트:자벨린 II 30레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 36 소비, 최대 5명의 적을 799%의 데미지로 6번 공격\n자벨린 적중 시 291%의 데미지로 3번 공격하는 매직 미사일 3개 생성\n자벨린 적중 시 영광의 크리스탈 파편 1개 획득, 자벨린 1회에 영광의 크리스탈 파편은 최대 1개까지 획득 가능\n크리스탈 파편을 10개 획득 시 다음 자벨린이 인챈트 자벨린으로 발동\n인챈트 자벨린 : 자벨린 한 번에 3개 투척\n인챈트 자벨린으로 생성된 매직 미사일은 하나의 적에게 적중 시 두번째 매직 미사일부터 최종 데미지 50% 감소",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBME"
-    },
-    {
-        "skill_name": "리액션:디스트럭션 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:자벨린 또는 크래프트:롱기누스에 닿으면 공명하여 크리스탈 주변의 적들에게 파괴적인 기운을 두 차례 내뿜고, 공격한 적에게 커스 마크를 새긴다.\n필요 스킬 : 리액션:디스트럭션 Ⅱ 20레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "MP 178 소비, 최대 10명의 적을 821%의 데미지로 6번 공격하는 기운이 2번 발동, 보스 몬스터 공격 시 데미지 20% 증가\n재발동 대기시간 4초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMH"
-    },
-    {
-        "skill_name": "리액션:도미네이션 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:오브에 닿으면 공명하여 크리스탈 주변의 적들을 공격하고 공격한 적에게 커스 마크를 새긴다.\n필요 스킬 : 리액션:도미네이션 Ⅱ 20레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "MP 52 소비, 최대 12명의 적을 591%의 데미지로 5번 공격\n재발동 대기시간 4초 ",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMI"
-    },
-    {
-        "skill_name": "글로리 윙:모탈 윙비트 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n모든 마력을 날개 끝에 집중한 뒤 빠르게 회전하며 주변을 휩쓴다. 응집된 마력은 적에게 저주의 표식을 남긴다.\n추가로 크래프트:자벨린 VI와 글로리 윙:자벨린 VI의 인챈트 자벨린을 영구적으로 강화한다.\n글로리 윙 중 1회 사용 가능\n필요 스킬 : 글로리 윙:모탈 윙비트 30레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "MP 140 소비, 최대 15명의 적을 1660%의 데미지로 15번 공격하는 마력 폭풍이 5번 발생\n[패시브 효과 : 인챈트 자벨린의 데미지 62%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMJ"
-    },
-    {
-        "skill_name": "리요 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n든든한 기계친구 리요를 소환한다. 리요는 한 명의 적에게 일정 시간 지속 공격한다.\n리요는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 리요 20레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 94 소비, 207초 동안 소환, 공격 목표에게 이동하여 일정 간격으로 336%의 데미지로 지속 공격\n40회 공격 시 공격 종료",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNA"
-    },
-    {
-        "skill_name": "마키나 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n기계친구 마키나를 소환한다.\n마키나는 크리스탈 근처에 소환되어 크리스탈을 수호하며 적을 끌어모은다. 크리스탈이 이동하면 함께 이동하며 경로상의 적들을 공격한다.\n마키나는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 마키나 20레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 104 소비, 207초 동안 소환\n최대 5명의 적을 483%의 데미지로 4번 공격\n크리스탈 이동 시 이동 경로 상의 적을 1회 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNB"
-    },
-    {
-        "skill_name": "크리스탈 스킬:데우스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n리요와 마키나의 힘을 하나로 합쳐 데우스를 불러낸다. 데우스는 주변의 적을 추적하여 공격하는 위성을 소환한다.\n데우스는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 크리스탈 차지 : 90 이상\n※사용 후 크리스탈 차지가 초기화돼야 재사용 가능\n필요 스킬 : 크리스탈 스킬:데우스 30레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 312 소비, 15초 동안 소환\n데우스는 최대 10명의 적을 809%의 데미지로 10번 공격\n위성 : 최대 5개 소환, 위성은 한명의 적에게는 최대 3개까지 소환되며 152%의 데미지로 지속 공격, 위성당 최대 40회까지 공격 가능",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNC"
-    },
-    {
-        "skill_name": "크래프트:롱기누스 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n신창 롱기누스를 그려내어 투척한다. 롱기누스는 크리스탈을 향해 날아가며 경로상의 모든 적에게 막대한 피해를 입힌다. 단, 크리스탈이 없는 경우 직선으로 날아간다. 적 혹은 크리스탈에 적중 시 한 번에 많은 마력을 크리스탈에 차지시킨다.\n필요 스킬 : 크래프트:롱기누스 30레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 159 소비, 최대 10명의 적을 1202%의 데미지로 14번 공격\n적 또는 크리스탈에 적중 시 크래프트:자벨린 VI의 크리스탈 파편 2개, 글로리 윙:자벨린 VI의 영광의 크리스탈 파편 3개 획득, 크리스탈 15 차지\n보스 몬스터 공격 시 데미지 20% 증가, 추가 크리티컬 확률 100%\n크리스탈 스킬:글로리 윙 중 보스 몬스터 공격 시 데미지 20% 추가 증가\n재사용 대기시간 13초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNE"
-    },
-    {
-        "skill_name": "커스 마크 완성 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n커스 마크가 새겨진 적에게 강한 추가 타격을 입힌다. 추가로 크래프트:자벨린 VI를 영구히 강화한다.\n필요 스킬 : 커스 마크 완성 10레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "커스 마크가 새겨진 적을 공격하면 커스 마크 중첩 개수와 상관 없이 380% 데미지의 추가 타격 발생\n[패시브 효과 : 크래프트:자벨린 VI, 크래프트:인챈트 자벨린의 데미지 9%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDOBNG"
-    },
-    {
-        "skill_name": "롱기누스 존 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n신창 롱기누스 6자루를 그려내어 넓은 지역에 공격을 퍼붓는다.\n필요 스킬 : 롱기누스 존 1레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 212 소비, 최대 12명의 적을 1194%의 데미지로 5번 공격하는 폭발이 4회 발동\n시전 동작 중 무적\n재사용 대기시간 120초 ",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNF"
-    },
-    {
-        "skill_name": "언리미티드 크리스탈",
-        "skill_description": "[마스터 레벨 : 30]\r\n크리스탈에 담긴 무한한 마력을 해방하여 폭발시킨 후, 무한의 크리스탈을 소환한다.\n무한의 크리스탈은 크리스탈이 리액션을 일으킬 때마다 공명하여 강력한 리액션을 일으킨다. 리액션이 일정 횟수 이상 발동하면, 무한의 크리스탈 속에 응축되어 있던 순수한 마력이 분출되어 크리스탈 결정을 생성한다.\n글로리 윙 지속 중 언리미티드 크리스탈 사용 시 크리스탈의 무한한 마력이 글로리 윙에 깃들어 글로리 윙의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n크리스탈 결정은 최대 HP가 높은 보스 몬스터를 우선 추적하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1,
-        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n글로리 윙 지속 중 사용 시 글로리 윙 지속시간 5초 증가\n최대 15명의 적을 620%의 데미지로 8번 공격하는 마력 폭발이 12회, 692%의 데미지로 10번 공격하는 마력 폭발이 13회, 775%의 데미지로 15번 공격하는 마력 폭발이 16회 발생\n20초 동안 무한의 크리스탈 소환\n크리스탈에 리액션 발생 시 무한의 크리스탈에서 최대 15명의 적을 992%의 데미지로 15번 공격하는 공명 발생, 공명 재발동 시간 1초\n공명이 3번 발생하면 다음 공명 대신 620%의 데미지로 2번 공격하는 크리스탈 결정이 25개 생성, 크리스탈 결정 재생성 대기시간 2초\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPEMA"
-    },
-    {
-        "skill_name": "크리스탈 이그니션 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n크리스탈 이그니션, 리액션:스펙트럼을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "크리스탈 이그니션, 리액션:스펙트럼의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKE"
-    },
-    {
-        "skill_name": "그람홀더 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n그람홀더를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "그람홀더의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKF"
+        "skill_effect": "소드 일루전의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMD"
     }
 ]

@@ -1,171 +1,101 @@
-996
+995
 [
     {
         "skill_name": "얼티메이트-메테리얼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n이계의 오브제를 들어올려 전방의 적들에게 수직으로 내리꽂는다. 오브제에 맞은 적들은 일정 시간 방어율이 감소한다. 방어율 감소 효과는 싸이킥 그랩 및 얼티메이트-싸이킥 샷에 의한 효과와 중첩되지 않는다.\n필요 스킬 : 얼티메이트-메테리얼 10레벨 이상",
-        "skill_level": 9100,
+        "skill_level": 9126,
         "skill_effect": "싸이킥 포인트 6칸 소비\n최대 12명의 적을 1195%의 데미지로 10번 공격, 공격을 받은 적은 30초 동안 방어율 15% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPBMA"
     },
     {
         "skill_name": "싸이킥 그랩 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n강력한 염동력의 힘으로 전방의 몬스터나 사물을 들어 올린다. 보스 몬스터 및 고정형 몬스터나 자신보다 레벨이 11레벨 이상 높은 적은 들어 올릴 수 없다.\n공격에 적중한 적은 일정 시간 방어율이 감소한다. 방어율 감소 효과는 얼티메이트-메테리얼 및 얼티메이트-싸이킥 샷에 의한 효과와 중첩되지 않는다.\n싸이킥 그랩이 유지된 상태에서 추가 조작을 통해 다음 행동이 가능하다.\n필요 스킬 : 싸이킥 그랩2 30레벨 이상\n\n[싸이킥 스매싱 VI] : 몬스터를 들고 있는 상태에서 [싸이킥 그랩 VI] 스킬을 재사용 시 들고 있는 적을 전방에 내리꽂아 주변 적을 타격한다.\n\n[얼티메이트-싸이킥 샷 VI] : 몬스터를 들고 있는 상태에서 ↑+[싸이킥 그랩 VI] 을 입력 시 몬스터를 바라보고 있는 방향으로 강하게 집어 던진다.",
-        "skill_level": 2767,
+        "skill_level": 2783,
         "skill_effect": "최대 5명의 적을 들어 올려 염동력의 힘으로 지배\n[싸이킥 스매싱] : 들고 있는 적을 포함하여 최대 8명의 적을 1000%의 데미지로 5번 공격, 스킬 사용 시 싸이킥 포인트 1칸 충전\n30초 동안 적중한 적의 방어율 15% 감소 효과 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDOBMB"
     },
     {
         "skill_name": "얼티메이트-싸이킥 샷 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n염동력으로 지배하던 몬스터와 사물을 탄환으로 삼아 사선 전방에 강력하게 발사한다.\n탄환을 맞은 적들은 일정 시간 방어율이 감소한다. 방어율 감소 효과는 얼티메이트-메테리얼 및 싸이킥 그랩에 의한 효과와 중첩되지 않는다.\n필요 스킬 : 싸이킥 그랩2 30레벨 이상",
-        "skill_level": 2767,
+        "skill_level": 2783,
         "skill_effect": "싸이킥 포인트 5칸 소비\n최대 15명의 적을 765%의 데미지로 4번 공격\n한명의 적에게는 최대 5번까지만 공격 발생\n스킬 사용 시 싸이킥 포인트 1칸 충전\n30초 동안 적중한 적의 방어율 15% 감소 효과 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDOBME"
     },
     {
         "skill_name": "얼티메이트-트레인 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n무인의 기차를 들어올려 자신의 전방에 고속으로 연속 충돌시킨다. 얼티메이트-트레인은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 얼티메이트-트레인 10레벨 이상",
-        "skill_level": 2836,
+        "skill_level": 2859,
         "skill_effect": "싸이킥 포인트 13칸 소비\n9초 동안 최대 5명의 적에게 350%의 데미지로 6번 공격하며, 공격이 지속될 때마다 얼티메이트-트레인의 데미지 5%씩 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPBMF"
     },
     {
         "skill_name": "얼티메이트-B.P.M VI",
         "skill_description": "[마스터 레벨 : 30]\r\n시간의 간격보다 빠른 속도로 압축된 염동력을 전방에 쏟아낸다. 싸이킥 포인트를 모두 소모하면 염동력이 힘을 잃어, 일정 싸이킥 포인트 이상이 되었을 때 다시 쏟아내기 시작한다. 얼티메이트-B.P.M은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 얼티메이트-B.P.M 20레벨 이상",
-        "skill_level": 2836,
+        "skill_level": 2859,
         "skill_effect": "최대 3명의 적을 280%의 데미지로 7번 공격\n1회 발동 시 싸이킥 포인트 1칸 소비\n싸이킥 포인트 소진 시 공격 중지, 싸이킥 포인트 3 이상 회복 시 공격 재개\n재사용 대기시간 0.50초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPBMG"
     },
     {
         "skill_name": "텔레키네시스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n키네시스의 공격이 적중 시 일정 확률로 이계의 물질이 생성된다. 이계의 물질은 공격에 성공한 대상 중 최대 HP가 높은 보스 몬스터를 우선 추적한다. \n싸이킥 포스, 싸이킥 드레인, 싸이킥 샷, 에버싸이킥, 얼티메이트-B.P.M 스킬 사용시에는 발동되지 않는다.\n필요 스킬 : 텔레키네시스 10레벨 이상",
-        "skill_level": 3063,
+        "skill_level": 3097,
         "skill_effect": "공격 적중 시 70%의 확률로 이계의 물질이 생성되어 적을 560%의 데미지로 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDOBMH"
     },
     {
         "skill_name": "어나더 렐름",
         "skill_description": "[마스터 레벨 : 30]\r\n공간을 뒤트는 균열을 통해 이계의 물질을 떨어뜨려 초토화시킨다. 사용 시 얼티메이트-무빙 매터가 정지한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 6030,
+        "skill_level": 6016,
         "skill_effect": "싸이킥 포인트 5칸 소비, 시전 동작 중 무적\n최대 15명의 적을 1575%의 데미지로 12번 공격하는 균열이 32회 발생 후, 1586%의 데미지로 13번 공격하는 폭발이 44회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2518,
+        "skill_level": 2517,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2518,
+        "skill_level": 2517,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "싸이킥 토네이도 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n싸이킥 토네이도를 강화한다.",
-        "skill_level": 1440,
+        "skill_level": 1447,
         "skill_effect": "싸이킥 토네이도의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJG"
     },
     {
         "skill_name": "얼티메이트-무빙 매터 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n얼티메이트-무빙 매터를 강화한다.",
-        "skill_level": 4166,
+        "skill_level": 4143,
         "skill_effect": "얼티메이트-무빙 매터의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJH"
     },
     {
         "skill_name": "얼티메이트-싸이킥 불릿 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n얼티메이트-싸이킥 불릿을 강화한다.",
-        "skill_level": 520,
+        "skill_level": 523,
         "skill_effect": "얼티메이트-싸이킥 불릿의 최종 데미지 14% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJI"
     },
     {
         "skill_name": "로 오브 그라비티 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n로 오브 그라비티를 강화한다.",
-        "skill_level": 2637,
+        "skill_level": 2643,
         "skill_effect": "로 오브 그라비티의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJJ"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 583,
+        "skill_level": 584,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
-    },
-    {
-        "skill_name": "매화검 본초 : 선참 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n검을 매우 빠르게 휘둘러 전방의 적을 크게 베어낸다. 키다운 스킬이며 스킬 사용 중 청풍보를 사용할 수 있다.\n필요 스킬 : 매화검 본초 : 선참 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 11 소비, 최대 8명의 적을 202%의 데미지로 5번 지속 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMA"
-    },
-    {
-        "skill_name": "망혼검 본초 : 영격 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n영격을 강화한다. 매화검 본초, 섬무 적중 시 이무기의 내공이 실린 검격이 추가로 적을 벤다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 망혼검 본초 : 영격 III 30레벨 이상",
-        "skill_level": 2,
-        "skill_effect": "매화검 본초, 섬무 적중 시 35%의 확률로 적중한 적 위치에 발동, 적중한 적이 이미 처치된 경우 캐릭터 위치에서 발동\n최대 8명의 적을 846%의 데미지로 4번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMB"
-    },
-    {
-        "skill_name": "망혼강림 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n망혼검 절기 일정 횟수 이상 적중 시 이무기의 내력을 실은 검기가 발사되어 적을 섬멸한다.\n검기는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 3,
-        "skill_effect": "망혼검 절기 8번 적중 시 최대 8명의 적을 894%의 데미지로 5번 공격하는 검기 2개 발사, 검기 하나 당 한명의 적에게는 최대 1번까지만 공격 발생\n몬스터 방어율 20% 추가 무시",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDOBMF"
-    },
-    {
-        "skill_name": "망혼검 절기 : 열지 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n강력한 검격이 땅을 가른다.\n필요 스킬 : 망혼검 절기 : 열지 20레벨 이상, 망혼검 절기 : 망탄 30레벨 이상, 망혼검 절기 : 무량겁 1레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "MP 41 소비\n전방을 베어내며 최대 10명의 적을 880%의 데미지로 5번 공격, 이후 검격이 땅을 가르며 최대 10명의 적을 945%의 데미지로 7번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMC"
-    },
-    {
-        "skill_name": "망혼검 절기 : 망탄 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n이무기의 내공을 실어 검을 내지른다. 거친 내공이 검과 함께 뻗어나가 적을 집어삼킨다. 망혼검 절기 : 열지 VI 이후 사용할 수 있다.\n필요 스킬 : 망혼검 절기 : 열지 20레벨 이상, 망혼검 절기 : 망탄 30레벨 이상, 망혼검 절기 : 무량겁 1레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "MP 41 소비, 최대 10명의 적을 1440%의 데미지로 9번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMD"
-    },
-    {
-        "skill_name": "망혼검 절기 : 무량겁 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n극의에 달한 셀 수 없는 검로가 펼쳐진다. 망혼검 절기 : 망탄 VI 이후 사용할 수 있다.\n내공으로 발화한 불꽃은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 망혼검 절기 : 열지 20레벨 이상, 망혼검 절기 : 망탄 30레벨 이상, 망혼검 절기 : 무량겁 1레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "MP 61 소비\n최대 12명의 적을 421%의 데미지로 7번 공격하는 참격이 8회 발생\n공격에 적중한 적은 내공으로 발화한 불꽃에 휩싸여 5초 동안 106%의 데미지로 3번 지속 피해",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBME"
-    },
-    {
-        "skill_name": "매화검 2초식 : 쇄매 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n공격 적중 시 허공에 흩어진 내공의 잔흔이 매화 꽃잎으로 형상화되어 적을 향해 쇄도한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 매화검 2초식 : 쇄매 20레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "직접 공격하는 스킬 적중 시 35%의 확률로 발동\n126%의 데미지로 3번 공격하는 매화 꽃잎이 5개 발생, 일반 몬스터 공격 시 데미지 135%p 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDOBMH"
-    },
-    {
-        "skill_name": "매화검 3초식 : 예인 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n내공을 빚어 스스로 움직이는 검기를 생성한다. 검기는 전진하며 적을 공격한다. 일정 거리 도달 시 반대 방향을 향해 재생성되며 일정 횟수 이상 재생성 시 소멸된다.\n일격예인 VI 활성화 시 검기가 재생성되지 않으며 더 느리게 전진한다. 망혼검 1초식 : 운기를 발동시키지 않는다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n일격예인 VI 온오프 : 마우스 우클릭\n필요 스킬 : 매화검 3초식 : 예인 20레벨 이상",
-        "skill_level": 3,
-        "skill_effect": "MP 83 소비, 최대 6명의 적을 696%의 데미지로 4번 지속 공격\n검기는 맵 내에 1개까지만 존재 가능, 첫 시전을 포함하여 최대 28회 생성되며 한명의 적에게는 최대 3번까지만 공격 발생\n검기는 10초 마다 준비되며 최대 2개까지 준비 가능\n예인 VI, 일격예인 VI 전환 시 일격예인 VI의 재사용 대기시간 동안 스킬 사용 불가, 예인 VI의 준비된 검기 개수 초기화",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMJ"
-    },
-    {
-        "skill_name": "망혼검 2초식 : 연참 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동된다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 망혼검 2초식 : 연참 20레벨 이상",
-        "skill_level": 2,
-        "skill_effect": "[파이널 어택류 스킬] 62%의 확률로 241%의 데미지로 2번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDOBNA"
-    },
-    {
-        "skill_name": "창룡파천검 : 승천",
-        "skill_description": "[마스터 레벨 : 30]\r\n이무기의 내공이 렌의 내공과 온전히 어우러져 하늘도 가르는 창룡의 기운을 품은 검법을 펼친다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1,
-        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n렌과 이무기의 무공이 창룡의 기운으로 승화되며 15명의 적을 775%의 데미지로 12번 공격하는 파동이 58회 발생\n창룡의 힘을 품은 검이 세상을 일격에 가르며 최대 15명의 적을 1085%의 데미지로 15번 공격하는 참격이 27회 발생\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPEMA"
     }
 ]
