@@ -1,5 +1,8 @@
 name: Test Call the API (Dynamic Branch Push)
 on:
+  push:
+    branches:
+      - feature-add-new-character
   workflow_dispatch: # 수동 실행용
 jobs:
   call-api-and-save-data:
