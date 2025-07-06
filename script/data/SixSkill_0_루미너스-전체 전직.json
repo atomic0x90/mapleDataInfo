@@ -3,176 +3,176 @@
     {
         "skill_name": "앱솔루트 킬 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[이퀄리브리엄]\n빛과 어둠의 검을 적에게 꽂아 넣어 강력한 피해를 입힌다.\n필요 스킬 : 앱솔루트 킬 30레벨 이상",
-        "skill_level": 21148,
+        "skill_level": 21193,
         "skill_effect": "MP 69 소비, 최대 3명의 적에게 빛과 어둠의 검 낙하\n빛과 어둠의 검은 최대 3명의 적을 688%의 데미지로 7번 공격\n빛과 어둠의 검은 한 명의 적에게는 최대 한 번까지만 충돌 발생\n추가 크리티컬 확률 100%, 몬스터 방어율 45% 추가 무시\n재사용 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDPBMA"
     },
     {
         "skill_name": "라이트 리플렉션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[빛 마법]\n대상에게 강력한 빛을 발사한다. 빛은 적에게 맞을 때마다 갈라지며 주위 적들에게 반사된다. 단, 반사될 때마다 피해는 점차 감소한다.\n필요 스킬 : 라이트 리플렉션 30레벨 이상",
-        "skill_level": 18873,
+        "skill_level": 18931,
         "skill_effect": "MP 91 소비, 최대 8명의 적을 799%의 데미지로 4번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDPBMB"
     },
     {
         "skill_name": "엔드리스 다크니스",
         "skill_description": "[마스터 레벨 : 30]\r\n[어둠 마법]\n적의 내면에 잠들어있던 끝없는 어둠이 일어나 적을 집어삼킨다. 이클립스 또는 이퀄리브리엄 상태에서 어둠 마법, 이퀄리브리엄 마법 사용 시 발동된다. 이터널 라이트니스와 재사용 대기시간을 공유한다.\n추가로 앱솔루트 킬 VI를 영구히 강화한다.",
-        "skill_level": 18962,
+        "skill_level": 19020,
         "skill_effect": "MP 80 소비, 최대 6명의 적을 1555%의 데미지로 5번 공격\n재발동 대기시간 2초\n[패시브 효과 : 앱솔루트 킬 VI 데미지 127%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDOBMC"
     },
     {
         "skill_name": "아포칼립스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[어둠 마법]\n어둠의 틈을 열어 적들을 태우는 지옥의 불길을 소환하여 적들에게 피해를 입힌다.\n필요 스킬 : 아포칼립스 30레벨 이상",
-        "skill_level": 11931,
+        "skill_level": 12012,
         "skill_effect": "MP 105 소비, 최대 8명의 적을 456%의 데미지로 7번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDPBME"
     },
     {
         "skill_name": "이터널 라이트니스",
         "skill_description": "[마스터 레벨 : 30]\r\n[빛 마법]\n끝없이 밝은 빛이 어둠과 함께 적을 지워버린다. 선파이어 또는 이퀄리브리엄 상태에서 빛 마법, 이퀄리브리엄 마법 사용 시 발동된다. 엔드리스 다크니스와 재사용 대기시간을 공유한다.",
-        "skill_level": 11931,
+        "skill_level": 12012,
         "skill_effect": "MP 80 소비, 최대 6명의 적을 705%의 데미지로 7번 공격\n재발동 대기시간 2초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDOBMF"
     },
     {
         "skill_name": "트와일라잇 노바 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[빛 마법]\n빛과 어둠의 힘으로 폭발을 일으킨다.\n필요 스킬 : 트와일라잇 노바 30레벨 이상",
-        "skill_level": 19084,
+        "skill_level": 19224,
         "skill_effect": "MP 86 소비, 최대 8명의 적을 공격\n선파이어 : 1030%의 데미지로 7번 공격하는 폭발 3회 발생\n이클립스 : 1030%의 데미지로 7번 공격하는 폭발 3회 발생\n이퀄리브리엄 : 750%의 데미지로 7번 공격하는 폭발 4회 발생\n재사용 대기시간 15초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDPBMH"
     },
     {
         "skill_name": "하모닉 패러독스",
         "skill_description": "[마스터 레벨 : 30]\r\n[이퀄리브리엄]\n빛과 어둠의 진리에 도달한 조화의 사념체를 소환한다. 조화의 사념체는 일정 시간 동안 응축된 빛과 어둠의 마력을 휘몰아치게 해 적을 세례한 후, 두 속성의 힘을 모두 해방시켜 진리의 권능을 실현한다. 하모닉 패러독스로 이퀄리브리엄 진입 혹은 이퀄리브리엄 효과 중 사용 시 적용 중인 이퀄리브리엄의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 12787,
+        "skill_level": 12816,
         "skill_effect": "MP 3000 소비, 적용 중인 이퀄리브리엄의 지속시간 10초 증가, 시전 동작 중 무적\n최대 3.5초 동안 키다운하여 최대 15명의 적을 2500%의 데미지로 7번 공격하는 조화의 사념체 소환\n키다운 종료 시 조화의 사념체의 힘이 해방되며 15명의 적을 1278%의 데미지로 7번 공격하는 폭발이 39회 발생하는 진리의 권능 실현\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFNFKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 10498,
+        "skill_level": 10588,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 10498,
+        "skill_level": 10588,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "퍼니싱 리소네이터 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n퍼니싱 리소네이터를 강화한다.",
-        "skill_level": 10413,
+        "skill_level": 10450,
         "skill_effect": "퍼니싱 리소네이터의 최종 데미지 14% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMB"
     },
     {
         "skill_name": "빛과 어둠의 세례 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n빛과 어둠의 세례를 강화한다.",
-        "skill_level": 13820,
+        "skill_level": 13841,
         "skill_effect": "빛과 어둠의 세례의 최종 데미지 46% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMC"
     },
     {
         "skill_name": "리버레이션 오브 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n리버레이션 오브를 강화한다.",
-        "skill_level": 8720,
+        "skill_level": 8780,
         "skill_effect": "리버레이션 오브의 최종 데미지 28% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMD"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 973,
+        "skill_level": 974,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     },
     {
         "skill_name": "진리의 문 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n진리의 문을 강화한다.",
-        "skill_level": 2484,
+        "skill_level": 2518,
         "skill_effect": "진리의 문의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMA"
     },
     {
-        "skill_name": "매화검 본초 : 선참 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n검을 매우 빠르게 휘둘러 전방의 적을 크게 베어낸다. 키다운 스킬이며 스킬 사용 중 청풍보를 사용할 수 있다.\n필요 스킬 : 매화검 본초 : 선참 30레벨 이상",
-        "skill_level": 2,
-        "skill_effect": "MP 11 소비, 최대 8명의 적을 205%의 데미지로 5번 지속 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMA"
+        "skill_name": "레이징 블로우 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[검술] 전방의 적 다수를 순식간에 여러 번 베어낸다. 마지막 공격은 반드시 크리티컬로 적용된다. 콤보가 완충되면 스킬이 강화된다.\n필요 스킬 : 레이징 블로우 30레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "MP 51 소비, 최대 8명의 적을 530%의 데미지로 4번 공격하고 마지막 공격은 크리티컬 판정, 소드 오브 버닝 소울 일반 상태의 공격 범위 증가\n강화 레이징 블로우 : 700%의 데미지로 4번 공격, 마지막 두 번의 공격은 크리티컬 판정, 콤보 인스팅트와 소드 오브 버닝 소울 일반 상태의 공격 범위 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMA"
     },
     {
-        "skill_name": "망혼검 본초 : 영격 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n영격을 강화한다. 매화검 본초, 섬무 적중 시 이무기의 내공이 실린 검격이 추가로 적을 벤다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 망혼검 본초 : 영격 III 30레벨 이상",
-        "skill_level": 7,
-        "skill_effect": "매화검 본초, 섬무 적중 시 35%의 확률로 적중한 적 위치에 발동, 적중한 적이 이미 처치된 경우 캐릭터 위치에서 발동\n최대 8명의 적을 911%의 데미지로 4번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMB"
+        "skill_name": "레이지 업라이징 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n고대 전사의 분노를 구현하여 전방의 적을 초토화시킨다.\n필요 스킬 : 레이지 업라이징 1레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "MP 230 소비\n최대 10명의 적을 297%의 데미지로 8번 공격하는 참격 4회 발동\n재사용 대기시간 10초\n[패시브 효과 : 레이징 블로우 VI 데미지 148%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMC"
     },
     {
-        "skill_name": "망혼강림 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n망혼검 절기 일정 횟수 이상 적중 시 이무기의 내력을 실은 검기가 발사되어 적을 섬멸한다.\n검기는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 9,
-        "skill_effect": "망혼검 절기 8번 적중 시 최대 8명의 적을 1002%의 데미지로 5번 공격하는 검기 2개 발사, 검기 하나 당 한명의 적에게는 최대 1번까지만 공격 발생\n몬스터 방어율 20% 추가 무시",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDOBMF"
+        "skill_name": "오라 블레이드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n원하는 방향으로 적을 찢어발기는 검기를 날린다. 8방향으로 날릴 수 있어 방향키와 함께 사용하면 해당 방향으로 날린다.\n연속으로 사용할 경우 파이널 블레이드로 연계할 수 있다.\n필요 스킬 : 오라 블레이드 20레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "MP 32 소비, 최대 8명의 적을 508%의 데미지로 5번 공격하는 검기 발사\n오라 블레이드 VI의 일반 몬스터 공격 시 데미지 290%p 증가\n오라 블레이드는 4초마다 1개씩 준비되며 최대 2개까지 충전 가능\n2초 내 재사용 시 다음 공격 파이널 블레이드로 대체 \n 파이널 블레이드 : 최대 8명의 적을 762%의 데미지로 5번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMD"
     },
     {
-        "skill_name": "망혼검 절기 : 열지 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n강력한 검격이 땅을 가른다.\n필요 스킬 : 망혼검 절기 : 열지 20레벨 이상, 망혼검 절기 : 망탄 30레벨 이상, 망혼검 절기 : 무량겁 1레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 43 소비\n전방을 베어내며 최대 10명의 적을 940%의 데미지로 5번 공격, 이후 검격이 땅을 가르며 최대 10명의 적을 1035%의 데미지로 7번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMC"
+        "skill_name": "퓨리어스 엣지",
+        "skill_description": "[마스터 레벨 : 30]\r\n검술이 극의에 달하여 강력한 검의 상흔을 남긴다. 검의 상흔은 직접 공격하는 스킬이 일정 횟수 적중 시 생성된다. 검의 상흔은 최대 HP가 가장 높은 보스 몬스터를 우선하여 생성된다.",
+        "skill_level": 30,
+        "skill_effect": "자신이 직접 공격하는 스킬 5번 적중 시 검의 상흔 생성\n발할라, 공간의 상처, 스피릿 칼리버는 2번 적중 시 1회 공격으로 간주\r\n 검의 상흔은 1.5초 동안 최대 8명의 적을 277%의 데미지로 3번 공격, 32회 공격 시 사라지며 한 명의 적에게는 최대 4번 까지만 공격\n최대 5개까지 생성 가능 하며 콤보 인스팅트 지속 중 최대 10개까지 생성 가능",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDOBMF"
     },
     {
-        "skill_name": "망혼검 절기 : 망탄 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n이무기의 내공을 실어 검을 내지른다. 거친 내공이 검과 함께 뻗어나가 적을 집어삼킨다. 망혼검 절기 : 열지 VI 이후 사용할 수 있다.\n필요 스킬 : 망혼검 절기 : 열지 20레벨 이상, 망혼검 절기 : 망탄 30레벨 이상, 망혼검 절기 : 무량겁 1레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 43 소비, 최대 10명의 적을 1620%의 데미지로 9번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMD"
+        "skill_name": "발할라 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n고대 전사들의 의지가 깃들어 강력한 힘을 발휘한다. 히어로가 검술 스킬 사용 시 일정 시간마다 공격이 발생한 위치에 검격이 잔상처럼 남아 적을 추가 공격한다. 검격은 최대 HP가 가장 높은 보스 몬스터에게 우선적으로 생성된다. 공용 스킬, 5차 스킬에 의해서는 검격이 발생하지 않는다.\n필요 스킬 : 발할라 1레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "MP 360 소비, 30초 동안 적의 어떠한 공격에도 밀려나지 않고 콤보 최대치로 완충\n버프 지속 중 공격력 50, 크리티컬 확률 30%, 상태 이상 내성 100, 모든 속성 내성 100% 증가\n일정 시간마다 최대 6명의 적을 1010%의 데미지로 2번 공격하는 검격 3개씩 발생, 검격은 최대 12회까지 발생하며 검격이 모두 발생하면 더 이상 발생하지 않음\n재사용 대기시간 120초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMG"
     },
     {
-        "skill_name": "망혼검 절기 : 무량겁 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n극의에 달한 셀 수 없는 검로가 펼쳐진다. 망혼검 절기 : 망탄 VI 이후 사용할 수 있다.\n내공으로 발화한 불꽃은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 망혼검 절기 : 열지 20레벨 이상, 망혼검 절기 : 망탄 30레벨 이상, 망혼검 절기 : 무량겁 1레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 63 소비\n최대 12명의 적을 463%의 데미지로 7번 공격하는 참격이 8회 발생\n공격에 적중한 적은 내공으로 발화한 불꽃에 휩싸여 5초 동안 118%의 데미지로 3번 지속 피해",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBME"
+        "skill_name": "인사이징 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n[검술] 정신을 집중하여 전방으로 검을 크게 내리긋는다. 궁극의 검술로 영혼에 새겨진 검이 실체화되어 공격하는 것처럼 보인다. 공격 당한 적은 상처를 입어 일정 시간 동안 도트 데미지를 입고, 도트 데미지를 입는 동안 크리티컬에 의한 피해량이 증가한다.\n필요 스킬 : 인사이징 30레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "MP 42 소비, 최대 8명의 적을 640%의 데미지로 4번 공격, 일반 몬스터 공격 시 데미지 50% 증가\n공격당한 적은 100% 확률로 60초 동안 2초마다 266%의 피해를 입으며 크리티컬에 한해 데미지 26% 증가, 파티원이 공격 시 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPBMI"
     },
     {
-        "skill_name": "매화검 2초식 : 쇄매 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n공격 적중 시 허공에 흩어진 내공의 잔흔이 매화 꽃잎으로 형상화되어 적을 향해 쇄도한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 매화검 2초식 : 쇄매 20레벨 이상",
-        "skill_level": 8,
-        "skill_effect": "직접 공격하는 스킬 적중 시 35%의 확률로 발동\n136%의 데미지로 3번 공격하는 매화 꽃잎이 5개 발생, 일반 몬스터 공격 시 데미지 160%p 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDOBMH"
+        "skill_name": "파이널 어택 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동되며 최대 HP가 가장 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 어드밴스드 파이널 어택 30레벨 이상",
+        "skill_level": 30,
+        "skill_effect": "[파이널 어택류 스킬] 61%의 확률로 266%의 데미지로 3번 공격하는 파이널 어택 발동",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDOBMJ"
     },
     {
-        "skill_name": "매화검 3초식 : 예인 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n내공을 빚어 스스로 움직이는 검기를 생성한다. 검기는 전진하며 적을 공격한다. 일정 거리 도달 시 반대 방향을 향해 재생성되며 일정 횟수 이상 재생성 시 소멸된다.\n일격예인 VI 활성화 시 검기가 재생성되지 않으며 더 느리게 전진한다. 망혼검 1초식 : 운기를 발동시키지 않는다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n일격예인 VI 온오프 : 마우스 우클릭\n필요 스킬 : 매화검 3초식 : 예인 20레벨 이상",
-        "skill_level": 8,
-        "skill_effect": "MP 85 소비, 최대 6명의 적을 756%의 데미지로 4번 지속 공격\n검기는 맵 내에 1개까지만 존재 가능, 첫 시전을 포함하여 최대 28회 생성되며 한명의 적에게는 최대 3번까지만 공격 발생\n검기는 10초 마다 준비되며 최대 2개까지 준비 가능\n예인 VI, 일격예인 VI 전환 시 일격예인 VI의 재사용 대기시간 동안 스킬 사용 불가, 예인 VI의 준비된 검기 개수 초기화",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPBMJ"
+        "skill_name": "스피릿 칼리버",
+        "skill_description": "[마스터 레벨 : 30]\r\n[검술] 검과 영혼이 하나가 되어 모든 것을 벤다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 30,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 472%의 데미지로 14번 공격하는 참격이 33회 발생 후, 470%의 데미지로 15번 공격하는 마무리 일격이 48회 발생\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDKDPEMA"
     },
     {
-        "skill_name": "망혼검 2초식 : 연참 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동된다. 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 망혼검 2초식 : 연참 20레벨 이상",
-        "skill_level": 7,
-        "skill_effect": "[파이널 어택류 스킬] 62%의 확률로 256%의 데미지로 2번 공격",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDOBNA"
+        "skill_name": "소드 오브 버닝 소울 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n소드 오브 버닝 소울을 강화한다.",
+        "skill_level": 30,
+        "skill_effect": "소드 오브 버닝 소울의 최종 데미지 60% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMA"
     },
     {
-        "skill_name": "창룡파천검 : 승천",
-        "skill_description": "[마스터 레벨 : 30]\r\n이무기의 내공이 렌의 내공과 온전히 어우러져 하늘도 가르는 창룡의 기운을 품은 검법을 펼친다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1,
-        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n렌과 이무기의 무공이 창룡의 기운으로 승화되며 15명의 적을 775%의 데미지로 12번 공격하는 파동이 58회 발생\n창룡의 힘을 품은 검이 세상을 일격에 가르며 최대 15명의 적을 1085%의 데미지로 15번 공격하는 참격이 27회 발생\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJDKDPEMA"
+        "skill_name": "콤보 인스팅트 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n콤보 인스팅트를 강화한다.",
+        "skill_level": 30,
+        "skill_effect": "콤보 인스팅트의 최종 데미지 60% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMB"
     },
     {
-        "skill_name": "망혼검 절기 : 심검 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n망혼검 절기 : 심검을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "망혼검 절기 : 심검의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKDMI"
+        "skill_name": "소드 일루전 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n소드 일루전을 강화한다.",
+        "skill_level": 30,
+        "skill_effect": "소드 일루전의 최종 데미지 60% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMD"
     }
 ]
