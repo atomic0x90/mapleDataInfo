@@ -51,6 +51,7 @@
 .class-img-ark:hover,
 .class-img-lara:hover,
 .class-img-hoyoung:hover,
+.class-img-len:hover,
 .class-img-zero:hover,
 .class-img-kinesis:hover{
 	background-color: var(--orange);
@@ -100,6 +101,7 @@
 .class-img-ark,
 .class-img-lara,
 .class-img-hoyoung,
+.class-img-len,
 .class-img-zero,
 .class-img-kinesis{
 	min-width: 150px;
@@ -285,6 +287,10 @@
 .class-img-hoyoung{
 	background: url('../img/호영.png') no-repeat;
 	background-position: -200px -150px;
+}
+.class-img-len{
+	background: url('../img/렌.png') no-repeat;
+	background-position: -140px -250px;
 }
 .class-img-zero{
 	background: url('../img/제로.png') no-repeat;
@@ -586,6 +592,9 @@ ul{
 }
 .class-anima-detail-list > .detail-list-hoyoung::before{
 	content:"호영";
+}
+.class-anima-detail-list > .detail-list-len::before{
+	content:"렌";
 }
 .class-etc-detail-list > .detail-list-zero::before{
 	content:"제로";
