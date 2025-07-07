@@ -3,239 +3,134 @@
     {
         "skill_name": "크래프트:자벨린 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n적들 사이를 빠르게 오가며 공격하는 날카로운 마법의 자벨린을 투척한다. 자벨린이 적에게 명중하면 파편으로 갈라져 추가 공격한다.\n크래프트:오브 II와 연계하여 사용 가능하고 다수 공격 스킬의 공격 대상 증가 효과를 받지 않는다.\n자벨린이 크리스탈 또는 적에 적중하면 크리스탈 파편을 획득한다. 크리스탈 파편을 일정량 이상 모으면 축적된 크리스탈의 힘을 자벨린에 부여하여 인챈트 자벨린을 사용할 수 있다. 인챈트 자벨린은 적을 자동으로 추적한다.\n자벨린, 인챈트 자벨린, 자벨린 파편은 최대 HP가 높은 보스 몬스터를 우선 추적한다.\n필요 스킬 : 크래프트:자벨린 II 30레벨 이상",
-        "skill_level": 21659,
+        "skill_level": 21687,
         "skill_effect": "MP 40 소비, 최대 5명의 적을 580%의 데미지로 3번 공격\n자벨린 적중 시 200%의 데미지로 공격하는 파편 2개 생성\n자벨린을 크리스탈 또는 적에 적중 시 크리스탈 파편 1개 획득, 자벨린 1회에 크리스탈 파편은 최대 1개까지 획득 가능\n크리스탈 파편을 30개 획득 시 다음 자벨린이 인챈트 자벨린으로 발동\n인챈트 자벨린 : 자벨린 한 번에 3개 투척\n인챈트 자벨린으로 생성된 자벨린 파편은 하나의 적에게 적중 시 두번째 자벨린 파편부터 최종 데미지 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMA"
     },
     {
         "skill_name": "글로리 윙:자벨린 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n글로리 윙의 힘으로 강화된 자벨린을 투척한다. 자벨린은 적을 자동으로 추적하여 폭발하며 막대한 피해를 입힌다. 사용 시 적을 추적하는 매직 미사일이 함께 생성된다.\n자벨린이 적에 적중할 때마다 영광의 크리스탈 파편을 획득한다. 영광의 크리스탈 파편을 일정량 모으면 축적된 크리스탈의 힘을 자벨린에 부여하여 인챈트 자벨린을 사용할 수 있다.\n자벨린 및 매직 미사일은 최대 HP가 높은 보스 몬스터를 우선 공격한다.\n필요 스킬 : 크래프트:자벨린 II 30레벨 이상",
-        "skill_level": 21659,
+        "skill_level": 21687,
         "skill_effect": "MP 40 소비, 최대 5명의 적을 925%의 데미지로 6번 공격\n자벨린 적중 시 375%의 데미지로 3번 공격하는 매직 미사일 3개 생성\n자벨린 적중 시 영광의 크리스탈 파편 1개 획득, 자벨린 1회에 영광의 크리스탈 파편은 최대 1개까지 획득 가능\n크리스탈 파편을 10개 획득 시 다음 자벨린이 인챈트 자벨린으로 발동\n인챈트 자벨린 : 자벨린 한 번에 3개 투척\n인챈트 자벨린으로 생성된 매직 미사일은 하나의 적에게 적중 시 두번째 매직 미사일부터 최종 데미지 50% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBME"
     },
     {
         "skill_name": "리액션:디스트럭션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:자벨린 또는 크래프트:롱기누스에 닿으면 공명하여 크리스탈 주변의 적들에게 파괴적인 기운을 두 차례 내뿜고, 공격한 적에게 커스 마크를 새긴다.\n필요 스킬 : 리액션:디스트럭션 Ⅱ 20레벨 이상",
-        "skill_level": 13627,
+        "skill_level": 13653,
         "skill_effect": "MP 205 소비, 최대 10명의 적을 1145%의 데미지로 6번 공격하는 기운이 2번 발동, 보스 몬스터 공격 시 데미지 20% 증가\n재발동 대기시간 4초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMH"
     },
     {
         "skill_name": "리액션:도미네이션 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈이 크래프트:오브에 닿으면 공명하여 크리스탈 주변의 적들을 공격하고 공격한 적에게 커스 마크를 새긴다.\n필요 스킬 : 리액션:도미네이션 Ⅱ 20레벨 이상",
-        "skill_level": 13627,
+        "skill_level": 13653,
         "skill_effect": "MP 70 소비, 최대 12명의 적을 915%의 데미지로 5번 공격\n재발동 대기시간 4초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMI"
     },
     {
         "skill_name": "글로리 윙:모탈 윙비트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n모든 마력을 날개 끝에 집중한 뒤 빠르게 회전하며 주변을 휩쓴다. 응집된 마력은 적에게 저주의 표식을 남긴다.\n추가로 크래프트:자벨린 VI와 글로리 윙:자벨린 VI의 인챈트 자벨린을 영구적으로 강화한다.\n글로리 윙 중 1회 사용 가능\n필요 스킬 : 글로리 윙:모탈 윙비트 30레벨 이상",
-        "skill_level": 13627,
+        "skill_level": 13653,
         "skill_effect": "MP 200 소비, 최대 15명의 적을 2200%의 데미지로 15번 공격하는 마력 폭풍이 5번 발생\n[패시브 효과 : 인챈트 자벨린의 데미지 170%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBMJ"
     },
     {
         "skill_name": "리요 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n든든한 기계친구 리요를 소환한다. 리요는 한 명의 적에게 일정 시간 지속 공격한다.\n리요는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 리요 20레벨 이상",
-        "skill_level": 11558,
+        "skill_level": 11598,
         "skill_effect": "MP 105 소비, 270초 동안 소환, 공격 목표에게 이동하여 일정 간격으로 504%의 데미지로 지속 공격\n40회 공격 시 공격 종료",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNA"
     },
     {
         "skill_name": "마키나 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n기계친구 마키나를 소환한다.\n마키나는 크리스탈 근처에 소환되어 크리스탈을 수호하며 적을 끌어모은다. 크리스탈이 이동하면 함께 이동하며 경로상의 적들을 공격한다.\n마키나는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 마키나 20레벨 이상",
-        "skill_level": 11558,
+        "skill_level": 11598,
         "skill_effect": "MP 115 소비, 270초 동안 소환\n최대 5명의 적을 735%의 데미지로 4번 공격\n크리스탈 이동 시 이동 경로 상의 적을 1회 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNB"
     },
     {
         "skill_name": "크리스탈 스킬:데우스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n리요와 마키나의 힘을 하나로 합쳐 데우스를 불러낸다. 데우스는 주변의 적을 추적하여 공격하는 위성을 소환한다.\n데우스는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다.\n필요 크리스탈 차지 : 90 이상\n※사용 후 크리스탈 차지가 초기화돼야 재사용 가능\n필요 스킬 : 크리스탈 스킬:데우스 30레벨 이상",
-        "skill_level": 11558,
+        "skill_level": 11598,
         "skill_effect": "MP 345 소비, 15초 동안 소환\n데우스는 최대 10명의 적을 1460%의 데미지로 10번 공격\n위성 : 최대 5개 소환, 위성은 한명의 적에게는 최대 3개까지 소환되며 278%의 데미지로 지속 공격, 위성당 최대 40회까지 공격 가능",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNC"
     },
     {
         "skill_name": "크래프트:롱기누스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n신창 롱기누스를 그려내어 투척한다. 롱기누스는 크리스탈을 향해 날아가며 경로상의 모든 적에게 막대한 피해를 입힌다. 단, 크리스탈이 없는 경우 직선으로 날아간다. 적 혹은 크리스탈에 적중 시 한 번에 많은 마력을 크리스탈에 차지시킨다.\n필요 스킬 : 크래프트:롱기누스 30레벨 이상",
-        "skill_level": 13204,
+        "skill_level": 13248,
         "skill_effect": "MP 180 소비, 최대 10명의 적을 1790%의 데미지로 14번 공격\n적 또는 크리스탈에 적중 시 크래프트:자벨린 VI의 크리스탈 파편 2개, 글로리 윙:자벨린 VI의 영광의 크리스탈 파편 3개 획득, 크리스탈 15 차지\n보스 몬스터 공격 시 데미지 20% 증가, 추가 크리티컬 확률 100%\n크리스탈 스킬:글로리 윙 중 보스 몬스터 공격 시 데미지 20% 추가 증가\n재사용 대기시간 13초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNE"
     },
     {
         "skill_name": "커스 마크 완성 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n커스 마크가 새겨진 적에게 강한 추가 타격을 입힌다. 추가로 크래프트:자벨린 VI를 영구히 강화한다.\n필요 스킬 : 커스 마크 완성 10레벨 이상",
-        "skill_level": 13204,
+        "skill_level": 13248,
         "skill_effect": "커스 마크가 새겨진 적을 공격하면 커스 마크 중첩 개수와 상관 없이 800% 데미지의 추가 타격 발생\n[패시브 효과 : 크래프트:자벨린 VI, 크래프트:인챈트 자벨린의 데미지 30%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDOBNG"
     },
     {
         "skill_name": "롱기누스 존 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n신창 롱기누스 6자루를 그려내어 넓은 지역에 공격을 퍼붓는다.\n필요 스킬 : 롱기누스 존 1레벨 이상",
-        "skill_level": 13204,
+        "skill_level": 13248,
         "skill_effect": "MP 245 소비, 최대 12명의 적을 1530%의 데미지로 5번 공격하는 폭발이 4회 발동\n시전 동작 중 무적\n재사용 대기시간 120초 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPBNF"
     },
     {
         "skill_name": "언리미티드 크리스탈",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈에 담긴 무한한 마력을 해방하여 폭발시킨 후, 무한의 크리스탈을 소환한다.\n무한의 크리스탈은 크리스탈이 리액션을 일으킬 때마다 공명하여 강력한 리액션을 일으킨다. 리액션이 일정 횟수 이상 발동하면, 무한의 크리스탈 속에 응축되어 있던 순수한 마력이 분출되어 크리스탈 결정을 생성한다.\n글로리 윙 지속 중 언리미티드 크리스탈 사용 시 크리스탈의 무한한 마력이 글로리 윙에 깃들어 글로리 윙의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n크리스탈 결정은 최대 HP가 높은 보스 몬스터를 우선 추적하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 7604,
+        "skill_level": 7634,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n글로리 윙 지속 중 사용 시 글로리 윙 지속시간 5초 증가\n최대 15명의 적을 1200%의 데미지로 8번 공격하는 마력 폭발이 12회, 1330%의 데미지로 10번 공격하는 마력 폭발이 13회, 1500%의 데미지로 15번 공격하는 마력 폭발이 16회 발생\n20초 동안 무한의 크리스탈 소환\n크리스탈에 리액션 발생 시 무한의 크리스탈에서 최대 15명의 적을 1920%의 데미지로 15번 공격하는 공명 발생, 공명 재발동 시간 1초\n공명이 3번 발생하면 다음 공명 대신 1200%의 데미지로 2번 공격하는 크리스탈 결정이 25개 생성, 크리스탈 결정 재생성 대기시간 2초\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEKAKDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 6891,
+        "skill_level": 6894,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 6891,
+        "skill_level": 6894,
         "skill_effect": "최대 HP의 10% 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "크리스탈 이그니션 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈 이그니션, 리액션:스펙트럼을 강화한다.",
-        "skill_level": 6434,
+        "skill_level": 6466,
         "skill_effect": "크리스탈 이그니션, 리액션:스펙트럼의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKE"
     },
     {
         "skill_name": "그람홀더 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n그람홀더를 강화한다.",
-        "skill_level": 3825,
+        "skill_level": 3850,
         "skill_effect": "그람홀더의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKF"
     },
     {
         "skill_name": "소울 오브 크리스탈 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n소울 오브 크리스탈을 강화한다.",
-        "skill_level": 2529,
+        "skill_level": 2532,
         "skill_effect": "소울 오브 크리스탈의 리액션 스킬 최종 데미지 반영률 90%로 증가\n[패시브 효과 : 올스탯 90 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKG"
     },
     {
         "skill_name": "크리스탈 게이트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n크리스탈 게이트를 강화한다.",
-        "skill_level": 6672,
+        "skill_level": 6677,
         "skill_effect": "크리스탈 게이트의 최종 데미지 60% 증가, 지속시간 130초, 버프의 마력 증가량 95로 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAKH"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 977,
+        "skill_level": 978,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
-    },
-    {
-        "skill_name": "정기 뿌리기 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n땅에 흐르는 정기를 끌어올려 적을 공격한다. 추가로 산 꼬마, 산의 씨앗의 데미지가 증가한다. 정기 뿌리기 VI는 풍수지리의 데미지 증가 효과를 받지 않는다.\n필요 스킬 : 지음 10레벨 이상",
-        "skill_level": 4,
-        "skill_effect": "MP 30 소비, 최대 7명의 적을 528%의 데미지로 4번 공격\n[패시브 효과 : 산 꼬마, 산의 씨앗의 데미지 140%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMA"
-    },
-    {
-        "skill_name": "용맥 분출 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬\n주변의 용맥을 소모하여 용맥에 잠재되어 있는 힘을 분출시킨다. 용맥이 머금은 속성에 해당하는 토지령들이 분출된 자리에 머물며 논다.\n분출 스킬 지속 중 동일 속성의 분출 스킬이나 흡수 스킬이 발동되면 지속 중이던 분출 스킬은 종료된다.\n분출 스킬은 자유로운 용맥을 가장 우선하며 자유로운 용맥이 없다면 가까운 용맥을 우선 소모한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않고 시전 동작 중 스탠스 100%가 적용된다.\n분출 스킬은 소환수 지속시간 증가로 지속시간이 증가하지 않지만 그에 비례해서 위력이 강해진다. 추가로 흡수 스킬의 최종 데미지를 영구히 증가시킨다.\n필요 스킬 : 풍월주인 10레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "MP 57 소비, 용맥의 속성에 맞는 분출 스킬 발동\n소환수 지속시간 증가 2%당 분출 스킬의 데미지 1% 증가\n재사용 대기시간 0.30초\n[패시브 효과 : 흡수 스킬의 최종 데미지 11% 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMB"
-    },
-    {
-        "skill_name": "분출 : 너울이는 강 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬, 분출 스킬\n여러 강의 토지령이 힘을 합쳐 거대화한 후 일정 간격으로 너울을 일으켜 주변을 공격한다.\n필요 스킬 : 풍월주인 10레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "18초 동안 강의 토지령 유지\n강의 토지령이 일으킨 너울은 최대 8명의 적을 879%의 데미지로 5번 공격, 일정 간격으로 큰 너울이 발생하여 최대 10명의 적을 1047%의 데미지로 8번 공격\n일반 너울과 큰 너울을 합하여 너울 총 9번 발생",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMC"
-    },
-    {
-        "skill_name": "분출 : 돌개바람 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬, 분출 스킬\n바람의 토지령이 일정 시간마다 크게 숨을 내뱉는다. 바람의 토지령의 숨결로 돌개바람이 생성되어 주변의 적을 지속 공격한다.\n필요 스킬 : 풍월주인 10레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "18초 동안 바람의 토지령 유지\n바람의 토지령이 만든 돌개바람은 최대 10명의 적을 564%의 데미지로 5번 지속 공격, 돌개바람은 최대 5번 생성",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMF"
-    },
-    {
-        "skill_name": "분출 : 해돋이 우물 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬, 분출 스킬\n여러 해의 토지령이 힘을 합쳐 무서운 거인이 된 후 흩어져 내리며 주변을 용암이 솟아오르는 지역으로 만든다. 용암 지역에서 일정 간격으로 화산탄이 생성되어 용암 지역 위의 적을 공격한다.\n화산탄은 범위 내의 최대 HP가 가장 높은 보스 몬스터를 우선하여 추적한다.\n필요 스킬 : 풍월주인 10레벨 이상",
-        "skill_level": 9,
-        "skill_effect": "거인이 솟아오르며 최대 10명의 적을 850% 데미지로 6번 공격\n공격 후 18초 동안 용암 지역 형성\n용암 지역은 1초 마다 최대 10명의 적을 495%의 데미지로 1번 공격\n일정 간격마다 적을 528%의 데미지로 3번 공격하는 화산탄이 5개 생성\n화산탄은 최대 5번 생성되며 하나의 적이 여러 개의 화산탄에 맞을 경우 두번째 화산탄부터 최종 데미지 10% 감소\n화산탄에 맞은 적은 8초 동안 153%의 도트 데미지",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMH"
-    },
-    {
-        "skill_name": "용맥 흡수 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬\n주변의 용맥을 소모하여 용맥에 잠재되어 있는 힘을 흡수한다. 용맥이 머금은 속성에 해당하는 힘이 라라에게 흡수되어 정기 뿌리기 혹은 잠 깨우기 적중 시 흡수된 속성의 토지령들이 나타나 라라를 도와 공격한다. 흡수 스킬 지속 중 동일 속성의 분출 스킬이 발동되면 지속 중인 흡수 스킬은 종료된다. 흡수 스킬은 자유로운 용맥을 가장 우선하며 자유로운 용맥이 없다면 가까운 용맥을 우선 소모한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않고 시전 동작 중 스탠스 100%가 적용된다. 추가로 분출 VI 스킬의 최종 데미지를 영구히 증가시킨다.\n필요 스킬 : 흡수 : 강 웅덩이 물벼락, 흡수 : 소소리 바람, 흡수 : 햇빛 맹아리 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "MP 30 소비, 용맥의 속성에 맞는 흡수 스킬 발동 \n재사용 대기시간 0.30초\n[패시브 효과 : 분출 VI 스킬의 최종 데미지 6% 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBNA"
-    },
-    {
-        "skill_name": "흡수 : 강 웅덩이 물벼락 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬, 흡수 스킬\n정기 뿌리기 적중 시 장난꾸러기 강의 토지령이 강 웅덩이와 함께 등장하여 적에게 물벼락을 뿌려 공격한다. 흡수 : 강 웅덩이 물벼락 VI는 버프 지속시간 증가 효과를 받는다.\n필요 스킬 :  흡수 : 강 웅덩이 물벼락 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "95초 동안 정기 뿌리기 적중 시 강의 토지령이 나타나 최대 6명의 적을 572%의 데미지로 10번 공격\n재발동 대기시간 2.5초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBNC"
-    },
-    {
-        "skill_name": "흡수 : 소소리 바람 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬, 흡수 스킬\n정기 뿌리기 적중 시 바람의 토지령이 조용히 나타나 적을 지속 공격하는 소소리 바람을 일으킨다. 흡수 : 소소리 바람 VI는 버프 지속시간 증가 효과를 받는다.\n필요 스킬 :  흡수 : 소소리 바람 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "95초 동안 정기 뿌리기 적중 시 적중한 적 중 하나의 위치에 소소리 바람이 발생, 소소리 바람은 최대 6명의 적을 273%의 데미지로 3번 지속 공격\n재발동 대기시간 2.5초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBNF"
-    },
-    {
-        "skill_name": "흡수 : 햇빛 맹아리 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬, 흡수 스킬\n정기 뿌리기 적중 시 해의 토지령이 모여 뜨거운 햇빛이 응축된 화염구를 뿜어내 적을 추적 공격한다. 화염구는 범위 내의 보스 몬스터를 우선하여 추적하며, 보스 몬스터가 여럿일 경우 최대 HP가 가장 높은 몬스터를 우선하여 추적한다. 흡수 : 햇빛 맹아리 VI는 버프 지속시간 증가 효과를 받는다.\n필요 스킬 : 흡수 : 햇빛 맹아리 30레벨 이상",
-        "skill_level": 1,
-        "skill_effect": "95초 동안 정기 뿌리기 적중 시 해의 토지령이 나타나 화염구 5개를 뿜어 공격, 화염구는 주변의 적을 추적하여 293%의 데미지로 6번 공격\n하나의 적에게 여러 개의 화염구가 적중했을 때 두 번째 화염구부터 최종 데미지 40% 감소\n재발동 대기시간 2.5초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBNI"
-    },
-    {
-        "skill_name": "잠 깨우기 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n용맥 스킬\n잠들어 있는 용맥의 힘을 정제되지 않은 방식으로 깨우면 무형의 기운으로 변해 주변의 적을 추적 공격한다. 잠 깨우기는 자유로운 용맥이 아닌 가까운 용맥을 우선으로 소모하며 공격 반사 상태의 적을 공격해도 피해를 입지 않고 시전 동작 중 스탠스 100%가 적용된다. 사용 시 깨어난 용맥의 위치에 자유로운 용맥이 생성된다. 추가로 분출, 흡수 스킬의 최종 데미지를 영구히 증가시킨다.\n필요 스킬 : 잠 깨우기 20레벨, 자유로운 용맥 1레벨 이상",
-        "skill_level": 2,
-        "skill_effect": "MP 31 소비, 무형의 기운은 범위 내의 적의 수만큼 생성되며 최소 7개에서 최대 12개 생성 가능, 각 무형의 기운은 730%의 데미지로 4번 공격\n하나의 적에게 여러 개의 무형의 기운이 적중했을 때 두 번째 기운부터 최종 데미지 40% 감소\n재사용 대기시간 15초\n[패시브 효과 : 분출, 흡수 스킬의 최종 데미지 1% 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBOA"
-    },
-    {
-        "skill_name": "새록새록 꽃누리",
-        "skill_description": "[마스터 레벨 : 30]\r\n거대한 양의 땅의 정기가 잠든 지맥에 산, 강, 바람, 해의 토지령이 모여 정기가 온누리를 뒤덮는 꽃으로 피어난다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 1,
-        "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n토지령이 모여들어 최대 15명의 적을 1085%의 데미지로 7번 공격하는 꽃 8회 생성\n이후 꽃이 강하게 피어나 최대 15명의 적을 718%의 데미지로 14번 공격하는 지맥의 기운 64회 방출\n재사용 대기시간 360초",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPEMA"
-    },
-    {
-        "skill_name": "큰 기지개 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n큰 기지개를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "큰 기지개의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALG"
-    },
-    {
-        "skill_name": "해 강 산 바람 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n해 강 산 바람을 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "해 강 산 바람의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALH"
-    },
-    {
-        "skill_name": "용솟음치는 정기 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n용솟음치는 정기를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "용솟음치는 정기의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALI"
-    },
-    {
-        "skill_name": "산등성이 굽이굽이 강화",
-        "skill_description": "[마스터 레벨 : 30]\r\n산등성이 굽이굽이를 강화한다.",
-        "skill_level": 1,
-        "skill_effect": "산등성이 굽이굽이의 최종 데미지 11% 증가",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALJ"
     }
 ]
