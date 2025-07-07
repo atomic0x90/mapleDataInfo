@@ -43,6 +43,7 @@ function classChangeKorean(className){
 	else if(className == 'illium') name = '일리움-전체 전직';
 	else if(className == 'ark') name = '아크-전체 전직';
 	else if(className == 'hoyoung') name = '호영-전체 전직';
+	else if(className == 'len') name = '렌-전체 전직';
 	else if(className == 'adele') name = '아델-전체 전직';
 	else if(className == 'kaine') name = '카인-전체 전직';
 	else if(className == 'lara') name = '라라-전체 전직';

@@ -1,0 +1,59 @@
+name: Test Call the API (Dynamic Branch Push)
+on:
+  push:
+    branches:
+      - feature-add-new-character
+  workflow_dispatch: # 수동 실행용
+jobs:
+  call-api-and-save-data:
+    runs-on: ubuntu-latest
+    name: Call the API of ranking overall, ID, skill(link, hyperpassive, 6)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+
+      - name: Install node-fetch-commonjs
+        run: npm install node-fetch-commonjs
+
+      - name: Get current branch
+        id: get-branch
+        run: |
+          echo "CURRENT_BRANCH=${GITHUB_REF##refs/heads/}" >> $GITHUB_ENV
+
+      - name: 🚫 Prevent execution on main
+        if: env.CURRENT_BRANCH == 'main'
+        run: |
+          echo "❌ This workflow should not run on the 'main' branch."
+          exit 1
+
+      - name: Reset local branch to remote
+        run: |
+          git config user.email "hanyujun.study@gmail.com"
+          git config user.name "atomic0x90"
+          git checkout ${{ env.CURRENT_BRANCH }}
+          git fetch origin ${{ env.CURRENT_BRANCH }}
+          git reset --hard origin/${{ env.CURRENT_BRANCH }}
+
+      - name: Run Call JS scripts
+        run: |
+          node script/CallRankingOverall.js
+          node script/CallCharacterID.js
+          node script/CallLinkSkill.js
+          node script/CallHyperpassiveSkill.js
+          node script/CallSixSkill.js
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+
+      - name: Push data to current branch
+        run: |
+          current_date=$(date "+%Y-%m-%d")
+          git add ./script/data/HyperpassiveSkill*
+          git add ./script/data/LinkSkill*
+          git add ./script/data/SixSkill*
+          git commit -m "Auto-generated file - ${current_date}" || echo "No changes"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ env.CURRENT_BRANCH }}
+
