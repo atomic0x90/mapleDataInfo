@@ -1,101 +1,178 @@
-998
+997
 [
     {
         "skill_name": "궁니르 디센트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n신화 속의 창을 적에게 던져 치명적인 피해를 입힌다. 최대 HP에 비례하여 더 큰 데미지를 입힐 수 있다.\n필요 스킬 : 궁니르 디센트 30레벨 이상",
-        "skill_level": 17518,
+        "skill_level": 17488,
         "skill_effect": "MP 70 소비, 최대 4명의 적을 390%의 데미지로 12번 공격\n공격 시 최대 HP의 120% 만큼의 데미지가 공격마다 증가되고 적의 방어 40% 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPBMA"
     },
     {
         "skill_name": "다크 임페일 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n눈에 보이지 않을 정도로 빠르게 창을 찔러 전방의 적 다수를 공격한다. 일정 시간마다 어둠의 힘을 창에 담아 적을 크게 휩쓰는 다크 바이던트를 사용할 수 있다.\n필요 스킬 : 다크 임페일 30레벨 이상",
-        "skill_level": 10365,
+        "skill_level": 10404,
         "skill_effect": "MP 55 소비, 최대 8명의 적을 568% 데미지로 6번 공격\n6초마다 다크 바이던트로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPBMB"
     },
     {
         "skill_name": "다크 신서시스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n내부에 잠들어 있는 어둠의 힘을 개방하여 주위를 휩쓴다. 다크 스피어 사용 중 사용 시 시전 동작 없이 사용할 수 있다. 추가로 궁니르 디센트 VI를 영구히 강화한다.\n필요 스킬 : 다크 신서시스 1레벨 이상",
-        "skill_level": 10365,
+        "skill_level": 10404,
         "skill_effect": "MP 220 소비, 최대 12명의 적을 750%의 데미지로 12번 공격\n몬스터의 방어율 60% 무시, 보스 몬스터 공격 시 데미지 30% 증가\n재사용 대기시간 10초\n[패시브 효과 : 궁니르 디센트 VI 데미지 145%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPBMD"
     },
     {
         "skill_name": "비홀더스 리벤지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n비홀더가 적에게 반격한다. 다크나이트가 직접 공격한 적에게 비홀더가 피해를 입힌다.\n비홀더가 일정 횟수 공격 시 복수의 낙인이 새겨지며 복수의 낙인이 모두 채워지면 강화 비홀더스 리벤지가 발동한다.\n비홀더의 공격은 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 비홀더스 리벤지 30레벨 이상",
-        "skill_level": 6410,
+        "skill_level": 6444,
         "skill_effect": "다크나이트의 직접 공격 스킬 적중 시 60%의 확률로 공격하여 최대 10명의 적을 148%의 데미지로 5번 공격, 2회 적중 시 복수의 낙인을 새김\n복수의 낙인이 3개가 될 경우 복수의 낙인을 전부 소모하여 비홀더스 퍼니시먼트 발생\n 비홀더스 퍼니시먼트 : 223%의 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDOBME"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동된다. 단, 반드시 창과 폴암을 들었을 경우에만 발동이 가능하다.\n필요 스킬 : 파이널 어택 20레벨 이상",
-        "skill_level": 6410,
+        "skill_level": 6444,
         "skill_effect": "[파이널 어택류 스킬] 65%의 확률로 117%의 데미지로 2번 공격하는 파이널 어택 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDOBMH"
     },
     {
         "skill_name": "비홀더 쇼크 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n비홀더가 비명을 내질러 주위 적들을 기절시키고 피해를 준다. 비홀더에서 응축된 암흑 투기가 발사되어 추가 피해를 입힌다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n필요 스킬 : 비홀더스 리벤지 30레벨 이상",
-        "skill_level": 6688,
+        "skill_level": 6736,
         "skill_effect": "자신 앞으로 비홀더가 이동해 최대 10명의 적을 1280%의 데미지로 7번 공격, 적중한 적은 90%의 확률로 5초 동안 기절\n공격과 동시에 4개의 암흑 투기를 발사해 최대 3명의 적을 860%의 데미지로 5번 추가 공격\n재사용 대기시간 10초\n [다크 신서시스 VI]의 데미지가 307%p만큼 증가\n [비홀더스 리벤지 VI]의 데미지가 37%p만큼 증가\n [비홀더스 퍼니시먼트]의 데미지가 55%p만큼 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPBMI"
     },
     {
         "skill_name": "데드 스페이스",
         "skill_description": "[마스터 레벨 : 30]\r\n어둠의 기운을 응집시킨 창을 던져 주변의 모든 생명을 거두어 간다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 8165,
+        "skill_level": 8150,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1200%의 데미지로 6번 공격하는 참격이 6회 발생, 이후 최대 15명의 적을 1035%의 데미지로 14번 공격하는 어둠의 기운 58회 방출\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPEMA"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 5648,
+        "skill_level": 5683,
         "skill_effect": "HP 500 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 67% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 5648,
+        "skill_level": 5683,
         "skill_effect": "최대 HP의 10% 소비\n80초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 590%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "다크 스피어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크 스피어를 강화한다.",
-        "skill_level": 10313,
+        "skill_level": 10304,
         "skill_effect": "다크 스피어의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMI"
     },
     {
         "skill_name": "비홀더 임팩트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n비홀더 임팩트를 강화한다.",
-        "skill_level": 4875,
+        "skill_level": 4896,
         "skill_effect": "비홀더 임팩트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMJ"
     },
     {
         "skill_name": "피어스 사이클론 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n피어스 사이클론을 강화한다.",
-        "skill_level": 6664,
+        "skill_level": 6661,
         "skill_effect": "피어스 사이클론의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNA"
     },
     {
         "skill_name": "다크니스 오라 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크니스 오라를 강화한다.",
-        "skill_level": 2880,
+        "skill_level": 2916,
         "skill_effect": "다크니스 오라의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNB"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 944,
+        "skill_level": 945,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
+    },
+    {
+        "skill_name": "기가 슬래셔 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n빠르게 검을 휘둘러 검기를 방출하여 적을 공격한다. 보스를 포함한 모든 적은 기가 슬래셔에 적중 시 슬로우 상태가 된다.\n커맨드 스킬 : 공격 도중 + 기가 슬래셔\n필요 스킬 : 기가 슬래셔 30레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 61 소비, 최대 3명의 적을 424%의 데미지로 9번 공격\n파이널 피규레이션 : MP 71 소비, 최대 4명의 적을 424%의 데미지로 11번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKDPBMA"
+    },
+    {
+        "skill_name": "소드 스트라이크 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n여러 개의 검을 소환하여 내려꽂으며 폭발시켜 적들을 공격한다.\n커맨드 스킬 : 공격 도중 + ↓커맨드 \n필요 스킬 : 소드 스트라이크 20레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 60 소비, 최대 12명의 적을 550%의 데미지로 5번 공격",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKDPBMC"
+    },
+    {
+        "skill_name": "윌 오브 소드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n일정 시간마다 사용하고 있는 검을 5개 소환한다. 윌 오브 소드 : 차지로 소환한 검을 움직여 주변의 몬스터를 추적하여 타격한다. 검은 최대 HP가 가장 높은 적을 우선하여 추적한다.\n고대의 용의 분노로 윌 오브 소드 : 차지로 소환된 검 적중 시 잠든 용의 표식이 새겨지고, 한 번 더 적중하여 용의 표식이 깨어나면 기가 슬래셔나 드라코 슬래셔로 인한 공격 적중 시 드래곤 블로우가 발생한다. 윌 오브 소드 : 스트라이크로 인한 공격은 표식이 중첩되지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n필요 스킬 : 어드밴스드 윌 오브 소드 30레벨 이상",
+        "skill_level": 2,
+        "skill_effect": "MP 70 소비, 3초마다 장비중인 무기의 분신 5개 소환\n소환 후 윌 오브 소드 : 차지 사용 시 각각의 무기는 적에게 날아가 꽂히며 551%의 데미지로 4번 공격하고 파이널 피규레이션 효과가 지속 중인 경우에는 공격 횟수가 1회 증가\n[드래곤 블로우] : 2680%의 데미지로 10번 공격하는 추가 공격 발생",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKDPBMG"
+    },
+    {
+        "skill_name": "인퍼널 브레스 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n고대의 용을 불러내서 화염을 쏟아낸다. 일정 횟수 사용 시 고대의 용과 완전히 공명하여 더 강력한 공격을 가할 수 있다.필요 스킬 : 인퍼널 브레스 20레벨 이상",
+        "skill_level": 9,
+        "skill_effect": "MP 75 소비, 최대 15명의 적에게 2109%의 데미지로 14번 공격\n인퍼널 브레스 2회 사용 시 다음 공격 강화\n얼티밋 인퍼널 브레스 : 최대 15명의 적을 1367%의 데미지로 8번 공격하는 브레스 4회 발생\n재사용 대기시간 19초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKDPBMJ"
+    },
+    {
+        "skill_name": "윙비트 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n회오리바람을 일으켜 지정된 횟수만큼 몬스터가 사망할 때까지 타격한다. 일정 거리 이상 이동하거나 일정 시간 이상 유지되면 소멸한다. 윙비트는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 최대 2개까지 존재할 수 있다.\n추가로 기가 슬래셔 VI와 드라코 슬래셔의 데미지를 영구히 증가시킨다.\n커맨드 스킬 : 공격 도중 + 점프 키 + 커맨드\n필요 스킬 : 윙비트 20레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 36 소비, 15초 동안 최대 8명의 적을 238%의 데미지로 최대 40번 공격\n보스 몬스터를 제외한 적에게 40% 확률로 5초 동안 슬로우\n[패시브 효과 : 기가 슬래셔 VI의 데미지 23%p, 드라코 슬래셔의 데미지 \n32%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKDPBNF"
+    },
+    {
+        "skill_name": "페트리파이드 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n용의 화신을 소환하여 좌우의 몬스터를 끌어당겨서 슬로우를 걸고 데미지를 준다. 페트리파이드는 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 소환수 지속시간 증가 효과를 받는다.\n필요 스킬 : 페트리파이드 15레벨 이상",
+        "skill_level": 4,
+        "skill_effect": "MP 36 소비, 60초 동안 일정 간격마다 최대 8명의 적을 470%의 데미지로 \n3번 공격하는 용의 화신 소환\n보스 몬스터를 제외한 적에게 75% 확률로 3초 동안 슬로우\n일반 몬스터 공격 시 데미지 50% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKDPBND"
+    },
+    {
+        "skill_name": "마이트 오브 노바",
+        "skill_description": "[마스터 레벨 : 30]\r\n수호자의 사명을 대대로 지켜온 선대들의 의지를 계승하여 노바족의 안위를 위협하는 모든 적을 처단한다. 파이널 피규레이션 효과 중 사용 시 적용 중인 파이널 피규레이션의 지속시간이 증가하며, 증가하는 지속시간에는 버프 지속시간 증가 효과가 적용되지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
+        "skill_level": 1,
+        "skill_effect": "MP 1200 소비, 시전 동작 중 무적, 적용 중인 파이널 피규레이션의 지속 시간 10초 증가\n선대들의 의지가 이어져 최대 15명의 적을 1226%의 데미지로 8번 공격하는 참격이 14회 발생\n이후 최대 15명의 적을 981%의 데미지로 13번 공격하는 마무리 일격 47회 발생\n재사용 대기시간 360초",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJDKDPEMA"
+    },
+    {
+        "skill_name": "가디언 오브 노바 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n가디언 오브 노바를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "가디언 오브 노바의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAPG"
+    },
+    {
+        "skill_name": "윌 오브 소드 : 스트라이크 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n윌 오브 소드 : 스트라이크를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "윌 오브 소드 : 스트라이크의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAPH"
+    },
+    {
+        "skill_name": "드라코 슬래셔 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n드라코 슬래셔를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "드라코 슬래셔의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAPI"
+    },
+    {
+        "skill_name": "드래곤 블레이즈 강화",
+        "skill_description": "[마스터 레벨 : 30]\r\n드래곤 블레이즈를 강화한다.",
+        "skill_level": 1,
+        "skill_effect": "드래곤 블레이즈의 최종 데미지 11% 증가",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAPJ"
     }
 ]
