@@ -31,7 +31,7 @@
     {
         "skill_name": "퍼지롭 매스커레이드-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지롭 매스커레이드의 방어무시 비율을 증가시킨다.",
-        "skill_level": 508,
+        "skill_level": 507,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBIH"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "홀로그램 그래피티-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n홀로그램 그래피티의 공격 횟수를 증가시킨다.",
-        "skill_level": 887,
+        "skill_level": 888,
         "skill_effect": "홀로그램 그래피티의 공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMEKFOBIJ"
     },
