@@ -3,42 +3,42 @@
     {
         "skill_name": "궁니르 디센트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n신화 속의 창을 적에게 던져 치명적인 피해를 입힌다. 최대 HP에 비례하여 더 큰 데미지를 입힐 수 있다.\r\n필요 스킬 : 궁니르 디센트 30레벨 이상",
-        "skill_level": 17681,
+        "skill_level": 17695,
         "skill_effect": "MP 70 소비, 최대 4명의 적을 353%의 데미지로 12번 공격\n공격 시 최대 HP의 120% 만큼의 데미지가 공격마다 증가되고 적의 방어 40% 무시",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPBMA"
     },
     {
         "skill_name": "다크 임페일 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n눈에 보이지 않을 정도로 빠르게 창을 찔러 전방의 적 다수를 공격한다. 일정 시간마다 어둠의 힘을 창에 담아 적을 크게 휩쓰는 다크 바이던트를 사용할 수 있다.\r\n필요 스킬 : 다크 임페일 30레벨 이상",
-        "skill_level": 11050,
+        "skill_level": 11122,
         "skill_effect": "MP 55 소비, 최대 8명의 적을 568% 데미지로 6번 공격\n6초마다 다크 바이던트로 강화",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPBMB"
     },
     {
         "skill_name": "다크 신서시스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n내부에 잠들어 있는 어둠의 힘을 개방하여 주위를 휩쓴다. 다크 스피어 사용 중 사용 시 시전 동작 없이 사용할 수 있다. 추가로 궁니르 디센트 VI를 영구히 강화한다.\r\n필요 스킬 : 다크 신서시스 1레벨 이상",
-        "skill_level": 11050,
+        "skill_level": 11122,
         "skill_effect": "MP 220 소비, 최대 12명의 적을 750%의 데미지로 12번 공격\n몬스터의 방어율 60% 무시, 보스 몬스터 공격 시 데미지 30% 증가\n재사용 대기시간 10초\n[패시브 효과 : 궁니르 디센트 VI 데미지 120%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPBMD"
     },
     {
         "skill_name": "비홀더스 리벤지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n비홀더가 적에게 반격한다. 다크나이트가 직접 공격한 적에게 비홀더가 피해를 입힌다.\n비홀더가 일정 횟수 공격 시 복수의 낙인이 새겨지며 복수의 낙인이 모두 채워지면 강화 비홀더스 리벤지가 발동한다.\n비홀더의 공격은 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 비홀더스 리벤지 30레벨 이상",
-        "skill_level": 7193,
+        "skill_level": 7259,
         "skill_effect": "다크나이트의 직접 공격 스킬 적중 시 60%의 확률로 공격하여 최대 10명의 적을 148%의 데미지로 5번 공격, 2회 적중 시 복수의 낙인을 새김\n복수의 낙인이 3개가 될 경우 복수의 낙인을 전부 소모하여 비홀더스 퍼니시먼트 발생\n 비홀더스 퍼니시먼트 : 223%의 데미지로 5번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDOBME"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 확률로 직접 공격하는 공격 스킬이 사용된 후 추가 타격이 발동된다. 단, 반드시 창과 폴암을 들었을 경우에만 발동이 가능하다.\r\n필요 스킬 : 파이널 어택 20레벨 이상",
-        "skill_level": 7193,
+        "skill_level": 7259,
         "skill_effect": "[파이널 어택류 스킬] 65%의 확률로 117%의 데미지로 2번 공격하는 파이널 어택 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDOBMH"
     },
     {
         "skill_name": "비홀더 쇼크 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n비홀더가 비명을 내질러 주위 적들을 기절시키고 피해를 준다. 비홀더에서 응축된 암흑 투기가 발사되어 추가 피해를 입힌다.\n공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 비홀더스 리벤지 30레벨 이상",
-        "skill_level": 7555,
+        "skill_level": 7632,
         "skill_effect": "자신 앞으로 비홀더가 이동해 최대 10명의 적을 1280%의 데미지로 7번 공격, 적중한 적은 90%의 확률로 5초 동안 기절\n공격과 동시에 4개의 암흑 투기를 발사해 최대 3명의 적을 860%의 데미지로 5번 추가 공격\n재사용 대기시간 10초\n [다크 신서시스 VI]의 데미지가 307%p만큼 증가\n [비홀더스 리벤지 VI]의 데미지가 37%p만큼 증가\n [비홀더스 퍼니시먼트]의 데미지가 55%p만큼 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPBMI"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "다크 헬리덤",
         "skill_description": "[마스터 레벨 : 30]\r\n어둠의 계약이 깃든 창을 쥐고 모든 적을 파멸로 이끈다.\n\n10레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n20레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n30레벨 : 몬스터 방어율 무시 20% 증가",
-        "skill_level": 3549,
+        "skill_level": 3630,
         "skill_effect": "MP 1000 소비, 시전 동작 중 무적\n어둠의 계약이 깃든 창을 던져 최대 15명의 적을 2800%의 데미지로 12번 공격하는 관통이 12회 발생\n이후 창을 잡고 휘둘러 3759%의 데미지로 15번 공격하는 일격이 16회 발생\n몬스터 방어율 60% 추가 무시, 보스 몬스터 공격 시 데미지 40% 증가, 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPDIDPEMC"
     },
@@ -73,35 +73,35 @@
     {
         "skill_name": "다크 스피어 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크 스피어를 강화한다.",
-        "skill_level": 10462,
+        "skill_level": 10477,
         "skill_effect": "다크 스피어의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMI"
     },
     {
         "skill_name": "비홀더 임팩트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n비홀더 임팩트를 강화한다.",
-        "skill_level": 5055,
+        "skill_level": 5082,
         "skill_effect": "비홀더 임팩트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBMJ"
     },
     {
         "skill_name": "피어스 사이클론 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n피어스 사이클론을 강화한다.",
-        "skill_level": 6733,
+        "skill_level": 6735,
         "skill_effect": "피어스 사이클론의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNA"
     },
     {
         "skill_name": "다크니스 오라 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n다크니스 오라를 강화한다.",
-        "skill_level": 3004,
+        "skill_level": 3006,
         "skill_effect": "다크니스 오라의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBNB"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 943,
+        "skill_level": 944,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }
