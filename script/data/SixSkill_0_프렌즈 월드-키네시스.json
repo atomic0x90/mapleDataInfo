@@ -1,114 +1,114 @@
-996
+997
 [
     {
         "skill_name": "싸이킥 스매싱 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n이계의 물체를 들어 적을 향해 내리찍는다. \r\n필요 스킬 : 싸이킥 스매싱 30레벨 이상",
-        "skill_level": 16328,
+        "skill_level": 16509,
         "skill_effect": "MP 50 소비, 최대 8명의 적을 727%의 데미지로 5번 공격\n적중한 적은 60초 동안 방어율 15%, 이동속도 30% 감소",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPBMA"
     },
     {
         "skill_name": "얼티메이트 : 프레셔 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n강력한 염동력이 공간을 일그러뜨려 마이크로 블랙홀을 생성한다.\n마이크로 블랙홀은 공격 반사 상태의 적을 공격해도 피해를 입지 않으며, 최대 HP가 높은 보스 몬스터의 위치를 우선하여 생성된다.\n마이크로 블랙홀의 재발동 대기시간은 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 얼티메이트 : 프레셔 20레벨 이상",
-        "skill_level": 17879,
+        "skill_level": 17976,
         "skill_effect": "공용 스킬을 제외한 키네시스의 직접 공격하는 스킬 사용 시 100%의 확률로 일정 범위 내의 적 위치에 마이크로 블랙홀 발생\n마이크로 블랙홀 : 최대 8명의 적을 428%의 데미지로 4번 공격하는 중력파가 6회 발생, 한명의 적에게는 최대 4번까지만 공격 발생\n재발동 대기시간 6초\n언리시 재발동 대기시간 2초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDOBMB"
     },
     {
         "skill_name": "얼티메이트 : 체크 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n막대한 에너지를 구체로 압축해 날려 보내, 적을 위협한다.\n얼티메이트 : 체크 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 얼티메이트 : 체크 30레벨 이상",
-        "skill_level": 17081,
+        "skill_level": 17223,
         "skill_effect": "MP 10 소비, 최대 8명의 적을 1175%의 데미지로 7번 공격하는 에너지 구체를 5개 발사\n한 명의 적에게는 모든 에너지 구체를 합해 최대 3번까지만 공격 발생\n재사용 대기시간 30초\n언리시 재사용 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPBMC"
     },
     {
         "skill_name": "얼티메이트 : 오프닝 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n만유인력의 법칙을 극대화시켜 전투의 서막을 연다.\n범위 내에 최대 HP가 가장 높은 적에게 디버프를 부여하고, 디버프가 있는 적 주변에 강력한 중력장이 형성되어 물체를 끌어당기며 주변을 공격한다.\n얼티메이트 : 오프닝 VI의 첫 공격을 제외한 모든 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 얼티메이트 : 오프닝 20레벨 이상",
-        "skill_level": 16869,
+        "skill_level": 17033,
         "skill_effect": "MP 1 소비, 최대 1명의 적을 530%의 데미지로 6번 공격 후 해당 적에게 7초 동안 디버프 부여\n디버프가 부여된 적에게 물체가 당겨지며 최대 8명의 적을 530%의 데미지로 6번 공격하는 중력장이 최대 2회 발생\n디버프 지속 시간 종료 시 폭발하여 디버프가 부여된 적을 796%의 데미지로 12번 공격\n오프닝이 지속 중인 적에게 오프닝 사용 시 이전에 진행되던 오프닝은 즉시 종료되고 폭발 발동하며 남은 중력장 공격 횟수 만큼 추가 공격\n재사용 대기시간 30초\n언리시 재사용 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPBMD"
     },
     {
         "skill_name": "얼티메이트 : 갬빗 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n무인 열차를 고속으로 충돌시켜 전세를 뒤집는 승부수를 띄운다.\n얼티메이트 : 갬빗 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 얼티메이트 : 갬빗 30레벨 이상",
-        "skill_level": 15396,
+        "skill_level": 15644,
         "skill_effect": "MP 100 소비, 최대 12명의 적을 281%의 데미지로 9번 공격하는 충돌이 9회 발생\n재사용 대기시간 30초\n언리시 재사용 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPBMH"
     },
     {
         "skill_name": "텔레키네시스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n키네시스가 직접 공격하는 스킬 적중 시 압축된 에너지가 추가로 적을 공격한다.\n텔레키네시스 VI는 최대 HP가 높은 보스 몬스터를 우선 추적하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 텔레키네시스 15레벨 이상",
-        "skill_level": 18022,
+        "skill_level": 18347,
         "skill_effect": "공용 스킬을 제외한 키네시스가 직접 공격하는 스킬 적중 시 50% 확률로 압축된 에너지탄 3개 생성, 얼티메이트 스킬은 40% 확률로 생성\n에너지탄 : 185%의 데미지로 3번 공격\n[패시브 효과 : 싸이킥 스매싱 VI 데미지 246%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDOBMI"
     },
     {
         "skill_name": "어나더 렐름",
         "skill_description": "[마스터 레벨 : 30]\r\n공간을 뒤트는 균열을 통해 이계의 물질을 떨어뜨려 초토화시킨다.\n언리시 지속 중에는 해방된 초능력으로 위력이 강화된다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가\r\n필요 스킬 : 언리시 30레벨 이상",
-        "skill_level": 11649,
+        "skill_level": 11609,
         "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n언리시 지속 중 스킬 최종 데미지 8% 증가\n최대 15명의 적을 1103%의 데미지로 12번 공격하는 균열이 32회 발생 후,\n1063%의 데미지로 13번 공격하는 폭발이 44회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPEMA"
     },
     {
         "skill_name": "프렉탈 호라이즌",
         "skill_description": "[마스터 레벨 : 30]\r\n프렉탈 구조로 무한하게 복제된 이계의 물질을 조종하여 일대를 휩쓴다.\n\n10레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n20레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n30레벨 : 몬스터 방어율 무시 20% 증가",
-        "skill_level": 9118,
+        "skill_level": 9227,
         "skill_effect": "MP 1000 소비, 시전 동작 중 무적\n이계의 물질을 날려 최대 15명의 적을 1070%의 데미지로 15번 공격하는 충격이 75회 발생\n몬스터 방어율 60% 추가 무시, 보스 몬스터 공격 시 데미지 40% 증가, 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDPEMC"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 11742,
+        "skill_level": 11917,
         "skill_effect": "HP 100 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 11742,
+        "skill_level": 11917,
         "skill_effect": "HP 100 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "얼티메이트 : 체크메이트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n얼티메이트 : 체크메이트를 강화한다.",
-        "skill_level": 7875,
+        "skill_level": 8045,
         "skill_effect": "얼티메이트 : 체크메이트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJG"
     },
     {
         "skill_name": "싸이킥 노바 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n싸이킥 노바를 강화한다.",
-        "skill_level": 8537,
+        "skill_level": 8485,
         "skill_effect": "싸이킥 노바의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJH"
     },
     {
         "skill_name": "싸이킥 불릿 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n싸이킥 불릿을 강화한다.",
-        "skill_level": 2619,
+        "skill_level": 2148,
         "skill_effect": "싸이킥 불릿의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJI"
     },
     {
         "skill_name": "싸이킥 보드 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n싸이킥 보드를 강화한다.",
-        "skill_level": 8681,
+        "skill_level": 8726,
         "skill_effect": "싸이킥 보드의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAJJ"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 978,
+        "skill_level": 980,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     },
     {
         "skill_name": "얼티메이트-싸이킥 샷 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n염동력으로 지배하던 몬스터와 사물을 탄환으로 삼아 사선 전방에 강력하게 발사한다.\n탄환을 맞은 적들은 일정 시간 방어율이 감소한다. 방어율 감소 효과는 얼티메이트-메테리얼 및 싸이킥 그랩에 의한 효과와 중첩되지 않는다.\r\n필요 스킬 : 싸이킥 그랩2 30레벨 이상",
-        "skill_level": 798,
+        "skill_level": 753,
         "skill_effect": "싸이킥 포인트 5칸 소비\n최대 15명의 적을 666%의 데미지로 4번 공격\n한명의 적에게는 최대 5번까지만 공격 발생\n스킬 사용 시 싸이킥 포인트 1칸 충전\n30초 동안 적중한 적의 방어율 15%, 이동속도 30% 감소 효과 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KELAKDOBME"
     }
