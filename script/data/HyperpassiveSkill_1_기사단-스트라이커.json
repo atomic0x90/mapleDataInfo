@@ -3,7 +3,7 @@
     {
         "skill_name": "질풍-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n질풍의 데미지를 증가시킨다.",
-        "skill_level": 296,
+        "skill_level": 297,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBID"
     },
@@ -24,21 +24,21 @@
     {
         "skill_name": "벽력-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 데미지를 증가시킨다.",
-        "skill_level": 722,
+        "skill_level": 721,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIG"
     },
     {
         "skill_name": "벽력-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 36,
+        "skill_level": 37,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBIH"
     },
     {
         "skill_name": "벽력-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n벽력의 공격 횟수를 증가시킨다.",
-        "skill_level": 931,
+        "skill_level": 930,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOHKFOBII"
     },
