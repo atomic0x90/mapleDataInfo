@@ -3,203 +3,203 @@
     {
         "skill_name": "와일드 발칸 : 에이펙스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[석궁 스킬] 석궁을 한 번 더 개량한다. 적을 관통하는 화살을 기관식으로 발사한다. 일정 시간마다 강력한 폭발을 일으키는 유탄이 추가 발사된다. 키다운 스킬이다.\n유탄은 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 와일드 발칸 : 에이펙스 30레벨 이상",
-        "skill_level": 14864,
+        "skill_level": 15273,
         "skill_effect": "MP 12 소비, 최대 8명의 적을 862%의 데미지로 지속 공격\n일정 시간마다 최대 8명의 적을 702%의 데미지로 4번 공격하는 폭발이 발생하는 유탄 추가 발사, 유탄의 일반 몬스터 공격 시 데미지 408%p 증가\n유탄 재발사 대기시간 1.2초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMA"
     },
     {
         "skill_name": "어시스트 : 렌드 클로우 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[어시스트 스킬] 아실리를 통해 흘러 들어온 자연의 힘이 석궁 스킬 적중 시 스피릿 재규어의 형태로 자동으로 발현된다.\n스피릿 재규어의 거친 발톱이 적을 가른다.\n렌드 클로우 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 어시스트 스킬은 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 어시스트 : 렌드 클로우 10레벨 이상",
-        "skill_level": 14188,
+        "skill_level": 14436,
         "skill_effect": "재발동 대기시간이 아닐 때 석궁 스킬 적중 시 자동 발동\n최대 8명의 적을 1421%의 데미지로 6번 공격\n어시스트 스킬 재발동 대기시간 2.50초\n재발동 대기시간은 모든 어시스트 스킬이 공유",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDOBMD"
     },
     {
         "skill_name": "어시스트 : 팽 스냅 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[어시스트 스킬] 스피릿 재규어가 적을 무자비하게 물어뜯는다. 어시스트 : 렌드 클로우 VI 이후 발동한다.\n팽 스냅 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 어시스트 스킬은 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 어시스트 : 팽 스냅 20레벨 이상",
-        "skill_level": 14188,
+        "skill_level": 14436,
         "skill_effect": "재발동 대기시간이 아닐 때 석궁 스킬 적중 시 자동 발동\n최대 8명의 적을 1543%의 데미지로 6번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDOBME"
     },
     {
         "skill_name": "어시스트 : 스컬 배쉬 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[어시스트 스킬] 스피릿 재규어가 적을 들이받는다. 어시스트 : 팽 스냅 VI 이후 발동한다.\n스컬 배쉬 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다. 어시스트 스킬은 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 어시스트 : 스컬 배쉬 20레벨 이상",
-        "skill_level": 14188,
+        "skill_level": 14436,
         "skill_effect": "재발동 대기시간이 아닐 때 석궁 스킬 적중 시 자동 발동\n최대 8명의 적을 1664%의 데미지로 6번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDOBMF"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n석궁을 이용한 직접 공격 스킬 적중 시 일정 확률로 추가 타격이 발동된다.\r\n필요 스킬 : 어드밴스드 파이널 어택 20레벨 이상",
-        "skill_level": 12225,
+        "skill_level": 12470,
         "skill_effect": "[파이널 어택류 스킬] 석궁을 이용한 직접 공격 스킬 적중 시 71%의 확률로 346%의 데미지로 공격하는 파이널 어택 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDOBMG"
     },
     {
         "skill_name": "커맨드 : 알파 서지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[커맨드 스킬] 아실리와 공명하여 자연의 거대한 힘을 직접 사용할 수 있게 된다. 명령을 받은 스피릿 재규어 무리가 적을 향해 맹렬히 돌진한다.\n커맨드 스킬은 석궁 스킬 사용 중 시전 동작 없이 사용할 수 있으며 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 커맨드 : 알파 서지 30레벨 이상",
-        "skill_level": 15189,
+        "skill_level": 15516,
         "skill_effect": "MP 120 소비, 최대 12명의 적을 1296%의 데미지로 6번 공격하는 충돌이 5회 발생\n재사용 대기시간 20초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMH"
     },
     {
         "skill_name": "커맨드 : 타이탄 파운스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[커맨드 스킬] 거대한 스피릿 재규어가 적을 덮친다. 스피릿 재규어는 일정 범위 내 최대 HP가 높은 보스 몬스터를 우선하여 표적으로 삼는다.\n커맨드 스킬은 석궁 스킬 사용 중 시전 동작 없이 사용할 수 있으며 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 커맨드 : 타이탄 파운스 1레벨 이상",
-        "skill_level": 15180,
+        "skill_level": 15507,
         "skill_effect": "MP 180 소비, 최대 12명의 적을 882%의 데미지로 8번 공격하는 충격이 7회 발생\n재사용 대기시간 20초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMI"
     },
     {
         "skill_name": "트랩 시더 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n적에게 닿으면 폭발하는 지뢰를 사방으로 살포하는 보조 유닛을 설치한다. 지뢰를 새로 살포할 때마다 이전에 살포된 지뢰는 자동으로 회수된다.\n트랩 시더 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n트랩 시더 VI를 사용해도 전투 상태에 돌입하지 않으며, 일정 시간 이상 전투 상태가 지속되지 않으면 유닛이 지뢰를 살포하지 않는다.\r\n필요 스킬 : 트랩 시더 20레벨 이상",
-        "skill_level": 12592,
+        "skill_level": 12826,
         "skill_effect": "MP 90 소비, 60초 동안 설치되어 5초 마다 지뢰 살포\n지뢰에 적이 닿을 경우 최대 5명의 적을 1360%의 데미지로 4번 공격하는 폭발 발생\n함께 살포된 지뢰끼리는 한명의 보스 몬스터에게 1번까지만 폭발 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMJ"
     },
     {
         "skill_name": "어나더 바이트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n스피릿 재규어 공격 적중 시 야성의 분노가 적에게 새겨진다. 어나더 바이트 디버프를 가진 적을 석궁 스킬로 공격 시 야성의 분노가 표출되며 적을 추가 공격한다.\n어나더 바이트 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 어나더 바이트 15레벨 이상",
-        "skill_level": 12104,
+        "skill_level": 12356,
         "skill_effect": "스피릿 재규어 공격 적중 시 90초 동안 지속되는 어나더 바이트 디버프 발생\n어나더 바이트 디버프는 최대 50개까지 중첩 가능\n어시스트 스킬은 공격 당 1개, 커맨드 스킬은 공격 당 2개 중첩\n어나더 바이트 디버프를 가진 적을 석궁 스킬로 공격 시 450%의 데미지로 2번 공격하는 추가 공격 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDOBNB"
     },
     {
         "skill_name": "링크드 임팩트",
         "skill_description": "[마스터 레벨 : 30]\r\n재규어와 완벽하게 공조를 이루어 연계하여 공격한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 7379,
+        "skill_level": 7369,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 2496%의 데미지로 7번 공격하는 일격이 44회 발동, 이후 2730%의 데미지로 14번 공격하는 야참이 10회 발동\n모든 공격은 어나더 바이트 디버프를 발생시키는 동시에 소비\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPEMA"
     },
     {
         "skill_name": "기어 스톰",
         "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스의 첨단 기술이 집약된 거대 발리스타를 소환하여 사방을 초토화한다.\n\n10레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n20레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n30레벨 : 몬스터 방어율 무시 20% 증가",
-        "skill_level": 6340,
+        "skill_level": 6398,
         "skill_effect": "MP 1000 소비, 시전 동작 중 무적\n거대 발리스타가 소환되어 최대 15명의 적을 3290%의 데미지로 12번 공격하는 강타가 23회 발생, 이후 주위를 초토화시키며 7735%의 데미지로 15번 공격하는 무차별 폭격이 11회 발생\n몬스터 방어율 60% 추가 무시, 보스 몬스터 공격 시 데미지 40% 증가, 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPEME"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 7001,
+        "skill_level": 7096,
         "skill_effect": "HP 100 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 7001,
+        "skill_level": 7096,
         "skill_effect": "HP 100 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 690%의 데미지로 6번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "솔 헤카테",
         "skill_description": "[마스터 레벨 : 30]\r\n대적자의 결의에 이끌린 솔 에르다가 모여 패밀리어로 탄생한다. 솔 헤카테는 대적자와의 의지에 감응해 자동으로 적을 공격하고 전용 스킬을 사용한다.\n솔 헤카테는 레벨에 따라 성장하며, 일정 레벨 도달 시 사용할 수 있는 전용 스킬이 추가로 활성화된다.\n솔 헤카테 : 팩텀을 통해 솔 헤카테가 어떤 스킬에 감응하여 전용 스킬을 사용할지 설정할 수 있다.\n솔 헤카테는 최대 HP가 높은 보스 몬스터를 우선 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n솔 헤카테 반투명 적용 온오프 : 마우스 우클릭\n\n10레벨 : 몬스터 방어율 무시 20% 증가, 보스 몬스터 공격 시 데미지 20% 증가\n20레벨 : 전용 스킬 카론 활성화, 몬스터 방어율 무시 20% 증가, 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 전용 스킬 플레게톤 활성화",
-        "skill_level": 4221,
+        "skill_level": 4491,
         "skill_effect": "HP 100 소비, 솔 헤카테 소환\n솔 헤카테는 적을 자동으로 추적하며 일정 시간마다 고밀도의 솔 에르다 입자를 4개 생성\n솔 에르다 입자 : 0%의 데미지로 0번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMF"
     },
     {
         "skill_name": "솔 헤카테 : 스틱스",
         "skill_description": "[마스터 레벨 : 30]\r\n짙게 농축된 솔 에르다의 파도를 방출해 적을 죽음으로 인도한다. 파도에 휩쓸린 적은 행동 불가 상태가 되며, 죽음의 씨앗이 심어진다.\n죽음의 씨앗은 일정 시간 동안 숙주 속에서 자라며 지속적으로 공격하고 완전히 개화해 생명을 거두어들인다.\n솔 헤카테 : 팩텀으로 스킬 발현 방식을 규정할 수 있다.\n솔 헤카테 : 스틱스는 다른 스킬 사용 중 사용 가능하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 4221,
+        "skill_level": 4491,
         "skill_effect": "HP 50 소비, 최대 15명의 적을 280%의 데미지로 8번 공격\n적중한 적은 4초 동안 행동 불가\n3초 동안 자라는 죽음의 씨앗 디버프 적용\n스틱스의 행동 불가는 다른 행동 불가 상태 이상에 중첩되어 추가 적용, 행동 불가 적용 후 저항 시간 47초\n죽음의 씨앗 : 자라며 0%의 데미지로 0번 공격, 완전히 개화 시 0%의 데미지로 0번 공격하는 생명의 수확이 7회 발생\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMG"
     },
     {
         "skill_name": "솔 헤카테 : 카론",
         "skill_description": "[마스터 레벨 : 30]\r\n계약자가 사망에 이르는 공격을 받았을 때 죽음의 운명으로부터 계약자를 보호한다.\n솔 헤카테 : 팩텀으로 스킬 종료 방식을 규정할 수 있다.\r\n필요 스킬 : 솔 헤카테 20레벨 이상",
-        "skill_level": 2104,
+        "skill_level": 2289,
         "skill_effect": "HP가 0이 될 경우 발동하여 사망 무시, 이후 10초 동안 무적\n솔 헤카테 : 팩텀으로 설정한 커맨드 사용 시 종료 가능\n재발동 대기시간 600초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHOBMH"
     },
     {
         "skill_name": "솔 헤카테 : 플레게톤",
         "skill_description": "[마스터 레벨 : 30]\r\n세계를 이루는 솔 에르다의 질서를 무너뜨려 잠시 동안 이승과 명계의 경계를 허문다.\n현실에 드러난 명계의 격류가 적을 불태운다. 경계가 닫힌 후 남은 불안정한 에너지가 사방으로 만개하며 모든 것을 무로 되돌린다.\n솔 헤카테 : 팩텀으로 스킬 발현 방식을 규정할 수 있다.\n솔 헤카테 : 플레게톤은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n일러스트 연출 온오프 : 마우스 우클릭\r\n필요 스킬 : 솔 헤카테 30레벨 이상",
-        "skill_level": 1380,
+        "skill_level": 1530,
         "skill_effect": "HP 50 소비, 최대 15명의 적을 0%의 데미지로 4번 공격하는 격류가 8회 발생\n경계가 닫힌 후 0%의 데미지로 0번 공격하는 만개가 10회 발생\n재사용 대기시간 120초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMI"
     },
     {
         "skill_name": "솔 헤카테 : 팩텀",
         "skill_description": "[마스터 레벨 : 1]\r\n대적자와 솔 헤카테의 의지를 조율하여 솔 헤카테의 전용 스킬이 발현하는 방식을 규정한다.\r\n필요 스킬 : 솔 헤카테 1레벨 이상",
-        "skill_level": 724,
+        "skill_level": 756,
         "skill_effect": "전용 스킬 스틱스, 플레게톤이 감응할 스킬 설정\n전용 스킬 카론의 무적 효과를 취소할 커맨드 설정",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMJ"
     },
     {
         "skill_name": "커맨드 : 프레데터스 아이 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n커맨드 : 프레데터스 아이를 강화한다.",
-        "skill_level": 9047,
+        "skill_level": 8937,
         "skill_effect": "커맨드 : 프레데터스 아이의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANG"
     },
     {
         "skill_name": "오버바이트 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n오버바이트를 강화한다.",
-        "skill_level": 4368,
+        "skill_level": 4401,
         "skill_effect": "오버바이트의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANH"
     },
     {
         "skill_name": "프라이멀 블룸 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n프라이멀 블룸을 강화한다.",
-        "skill_level": 6528,
+        "skill_level": 6572,
         "skill_effect": "프라이멀 블룸 지속 중 어시스트 및 커맨드 스킬 데미지 증가\n어시스트 : 렌드 클로우 VI 데미지 155%p 증가\n어시스트 : 팽 스냅 VI 데미지 180%p 증가\n어시스트 : 스컬 배쉬 VI 데미지 190%p 증가\n커맨드 : 알파 서지 VI 데미지 130%p 증가\n커맨드 : 타이탄 파운스 VI 데미지 95%p 증가\n커맨드 : 프레데터스 아이 데미지 80%p 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANI"
     },
     {
         "skill_name": "와일드 발칸 : 오버 드라이브 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n와일드 발칸 : 오버 드라이브를 강화한다.",
-        "skill_level": 4822,
+        "skill_level": 4830,
         "skill_effect": "와일드 발칸 : 오버 드라이브의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKANJ"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 967,
+        "skill_level": 970,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     },
     {
         "skill_name": "클로우 컷 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[재규어 스킬] 재규어의 앞발로 전방의 적 다수를 연속 공격한다. 적을 공격하면 HP를 회복하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 클로우 컷 1레벨 이상",
-        "skill_level": 488,
+        "skill_level": 470,
         "skill_effect": "MP 35 소비, 최대 8명의 적을 700%의 데미지로 4번 공격\n공격 시 최대 HP의 7% 회복\n어나더 바이트 디버프가 없는 적 공격 시 100% 확률로 디버프 발생, 이후 공격 시 30% 확률로 어나더 바이트 디버프 추가 발생\n재사용 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMG"
     },
     {
         "skill_name": "재규어 소울 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[재규어 스킬] 재규어의 영혼을 담은 울부짖음이 적의 모든 버프를 해제하고 행동 불가 상태로 만든다.\n재규어 소울은 범위 내의 적 중 최대 HP가 가장 높은 적을 우선으로 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n공격을 받은 적은 90초 동안 행동 불가 상태 이상에 저항하여 재규어 소울 및 다른 스킬로 인한 행동 불가 상태 이상에 걸리지 않는다.\r\n필요 스킬 : 재규어 소울 1레벨 이상",
-        "skill_level": 488,
+        "skill_level": 470,
         "skill_effect": "MP 330 소비, 최대 10명의 적을 462%의 데미지로 12번 공격\n공격당한 적은 10초 동안 행동 불가 상태, 재규어 소울로 적에게 준 데미지에 따라 행동 불가 지속시간 최대 100% 증가\n공격 시 100% 확률로 어나더 바이트 디버프 발생\n재사용 대기시간 120초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBNB"
     },
     {
         "skill_name": "플래쉬 레인 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스 기술의 정수를 사용한다. 재규어에 탑승했거나 재규어를 소환하지 않았을 때 사용할 수 있다.\n재규어를 소환하면 램피지 애즈 원 VI으로 대체되며 재사용 대기시간을 공유한다.\r\n필요 스킬 : 플래쉬 레인 1레벨 이상",
-        "skill_level": 488,
+        "skill_level": 470,
         "skill_effect": "MP 220 소비, 최대 15명의 적을 646%의 데미지로 11번 공격\n재사용 대기시간 12초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBND"
     },
     {
         "skill_name": "서먼 재규어 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n재규어를 소환하여 함께 싸운다. 재규어는 캐릭터가 공격하는 적을 우선해서 공격한다. 재규어에게 [재규어 스킬]을 사용하도록 지시할 수 있다. 재규어 스킬은 공격 범위 내의 최대 HP가 높은 보스 몬스터를 우선 공격한다. 보스 몬스터가 없다면 캐릭터가 보는 방향으로 공격한다.\n재규어가 소환된 상태에서 아래 방향키와 함께 스킬을 재사용하여 메인 재규어를 해당 위치에 고정되어 전투하도록 지시할 수 있다.\n고정된 재규어는 공격 범위 내의 최대 HP가 높은 보스 몬스터 쪽을 우선하여 공격하며 캐릭터와 일정 거리 이상 멀어지면 다시 캐릭터 위치로 이동한다. 단, 일정 거리 내에 보스 몬스터가 존재한다면 캐릭터와 일정 거리 이상 멀어져도 캐릭터 위치로 이동하지 않는다.\n재규어 라이딩을 사용하면 재규어를 탑승할 수 있다.\r\n필요 스킬 : 서먼 재규어 1레벨 이상",
-        "skill_level": 155,
+        "skill_level": 147,
         "skill_effect": "MP 21 소비, 최대 6명의 적을 438%의 데미지로 공격하는 재규어 소환\n재규어가 공격 시 15%의 확률로 최대 3회까지 중첩되고 20초 동안 지속되는 디버프 발생\n어나더 바이트 : [파이널 어택류 스킬] 디버프에 걸린 적을 석궁을 사용하는 스킬로 공격하면 중첩 당 204%의 데미지로 추가 공격\n재사용 대기시간 1초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBNE"
     },
     {
         "skill_name": "어시스턴트 헌팅 유닛 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스의 기술을 빌려 사냥에 도움을 주는 보조 유닛을 전방에 발사한다.\n어시스턴트 헌팅 유닛은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 어시스턴트 헌팅 유닛 20레벨 이상",
-        "skill_level": 121,
+        "skill_level": 114,
         "skill_effect": "MP 65 소비, 60초 동안 설치되어 5초 공격 후 2초 동안 장전을 반복\n매 공격마다 최대 8명의 적을 165%의 데미지로 3번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBOD"
     },
     {
         "skill_name": "드릴 컨테이너 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스의 기술을 빌려 거대한 드릴을 발사하는 유닛을 설치한다.\n드릴 컨테이너는 공격 반사의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 드릴 컨테이너 30레벨 이상",
-        "skill_level": 121,
+        "skill_level": 114,
         "skill_effect": "MP 55 소비, 60초 동안 드릴 컨테이너 설치\n드릴 컨테이너는 일정 간격마다 최대 10명의 적을 478%의 데미지로 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBOE"
     }
