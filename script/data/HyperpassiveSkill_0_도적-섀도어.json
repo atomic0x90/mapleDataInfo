@@ -24,7 +24,7 @@
     {
         "skill_name": "크루얼 스탭-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n크루얼 스탭의 데미지를 증가시킨다.",
-        "skill_level": 46,
+        "skill_level": 48,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGJFOBIG"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "암살-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n암살의 데미지를 증가시킨다.",
-        "skill_level": 987,
+        "skill_level": 986,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGJFOBIJ"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "암살-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n암살의 방어율 무시를 증가시킨다.",
-        "skill_level": 741,
+        "skill_level": 740,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGJFOBJB"
     }

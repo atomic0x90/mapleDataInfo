@@ -24,7 +24,7 @@
     {
         "skill_name": "퍼지 에어리어-인핸스",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지 에어리어로 감소되는 적 공격력 및 방어율 수치를 증가시킨다.",
-        "skill_level": 201,
+        "skill_level": 202,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGKFOBIG"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "퍼지 에어리어-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n퍼지 에어리어에 보스도 걸리도록 한다.",
-        "skill_level": 975,
+        "skill_level": 974,
         "skill_effect": "퍼지 에어리어 보스 적용",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPGKFOBII"
     },

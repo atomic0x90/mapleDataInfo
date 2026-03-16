@@ -1,65 +1,65 @@
-999
+1000
 [
     {
         "skill_name": "와일드 발칸 : 에이펙스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n와일드 발칸 : 에이펙스의 데미지를 증가시킨다.",
-        "skill_level": 981,
+        "skill_level": 982,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPB"
     },
     {
         "skill_name": "와일드 발칸 : 에이펙스-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n와일드 발칸 : 에이펙스에 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 32,
+        "skill_level": 36,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPC"
     },
     {
         "skill_name": "와일드 발칸 : 에이펙스-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n와일드 발칸 : 에이펙스의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 19,
+        "skill_level": 22,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPD"
     },
     {
         "skill_name": "어시스트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n어시스트 스킬의 데미지를 증가시킨다.",
-        "skill_level": 964,
+        "skill_level": 967,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPE"
     },
     {
         "skill_name": "어시스트-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n어시스트 스킬의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 41,
+        "skill_level": 39,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPF"
     },
     {
         "skill_name": "어시스트-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n어시스트 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 939,
+        "skill_level": 942,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPG"
     },
     {
         "skill_name": "어나더 바이트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n어나더 바이트의 데미지를 증가시킨다.",
-        "skill_level": 954,
+        "skill_level": 953,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPH"
     },
     {
         "skill_name": "어나더 바이트-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n어나더 바이트에 방어율 무시 수치를 증가시킨다.",
-        "skill_level": 18,
+        "skill_level": 17,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPI"
     },
     {
         "skill_name": "어나더 바이트-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n어나더 바이트의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 964,
+        "skill_level": 963,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPJ"
     }
