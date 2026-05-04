@@ -1,9 +1,9 @@
-983
+981
 [
     {
         "skill_name": "와일드 발칸 : 에이펙스-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n와일드 발칸 : 에이펙스의 데미지를 증가시킨다.",
-        "skill_level": 903,
+        "skill_level": 901,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPB"
     },
@@ -24,21 +24,21 @@
     {
         "skill_name": "어시스트-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n어시스트 스킬의 데미지를 증가시킨다.",
-        "skill_level": 816,
+        "skill_level": 813,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPE"
     },
     {
         "skill_name": "어시스트-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n어시스트 스킬의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 169,
+        "skill_level": 167,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPF"
     },
     {
         "skill_name": "어시스트-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n어시스트 스킬의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 716,
+        "skill_level": 717,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPG"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "어나더 바이트-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n어나더 바이트의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 839,
+        "skill_level": 836,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKFOBPJ"
     }
