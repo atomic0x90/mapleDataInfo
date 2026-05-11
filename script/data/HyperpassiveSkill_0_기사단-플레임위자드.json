@@ -1,4 +1,4 @@
-998
+999
 [
     {
         "skill_name": "오비탈 플레임-애드 레인지",
@@ -17,7 +17,7 @@
     {
         "skill_name": "오비탈 플레임-스플릿 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 플레임IV의 데미지가 감소되는 대신, 공격 횟수를 증가시킨다.",
-        "skill_level": 977,
+        "skill_level": 978,
         "skill_effect": "데미지 90%p 감소, 공격 횟수 1회 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKFOBIF"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "블레이징 익스팅션-애드 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n블레이징 익스팅션의 공격 횟수를 증가시킨다.",
-        "skill_level": 975,
+        "skill_level": 974,
         "skill_effect": "공격 횟수 1회 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKFOBIG"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "오비탈 익스플로젼-이그노어 가드",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 익스플로젼의 몬스터 방어율 무시를 증가시킨다.",
-        "skill_level": 13,
+        "skill_level": 12,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKFOBJB"
     },
     {
         "skill_name": "오비탈 익스플로젼-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n오비탈 익스플로젼의 데미지를 증가시킨다.",
-        "skill_level": 75,
+        "skill_level": 76,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKFOBIJ"
     }

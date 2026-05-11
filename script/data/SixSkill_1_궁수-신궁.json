@@ -1,149 +1,149 @@
-988
+989
 [
     {
         "skill_name": "스나이핑 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n몬스터의 급소를 정확히 노려 치명적인 공격을 가한다.\n또 스나이핑을 위한 인핸스 애로우가 강화된다. 스나이핑 적중 시 두 번째 사용하는 스나이핑에 인핸스 애로우가 준비되며 네 번째 사용하는 스나이핑에는 보다 특별한 얼티밋 애로우가 2개 준비된다.\n스나이핑 적중 시 적중한 적의 약점을 파악하여 표식을 남기고, 인핸스 애로우로 표식이 남은 적을 공격 시 적의 약점을 꿰뚫어 추가 공격이 발생한다.\n스나이핑 및 인핸스 애로우로 강화되는 스나이핑은 최대 HP가 가장 높은 적을 우선하여 공격한다.\r\n필요 스킬 : 스나이핑 30레벨 이상, 어드밴스드 인핸스 애로우 20레벨 이상",
-        "skill_level": 7728,
+        "skill_level": 7739,
         "skill_effect": "스나이핑 : MP 70 소비, 617%의 데미지로 9번 공격\n적중한 적에게 표식을 남김\n인핸스 스나이핑 : MP 140 소비, 590%의 데미지로 10번 공격\n표식이 새겨진 적 적중 시 380%의 데미지로 5번 공격하는 추가타 발생\n얼티밋 스나이핑 : MP 140 소비\n325%의 데미지로 10번 공격하는 화살을 2발 발사\n표식이 새겨진 적 적중 시 385%의 데미지로 5번 공격하는 추가타 발생\n스나이핑, 인핸스 스나이핑, 얼티밋 스나이핑은 몬스터 방어율 40% 무시, 추가 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBMA"
     },
     {
         "skill_name": "피어싱 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n적을 꿰뚫을 때마다 데미지가 증폭되는 관통 화살을 발사한다.\n인핸스 애로우가 더욱 강화되어 피어싱 적중 시 두 번째 사용하는 피어싱에 인핸스 애로우가 준비되며 네 번째 피어싱 사용 시 얼티밋 애로우를 발동할 수 있다. \n 피어싱이 적에게 적중 시 피어싱 공격 경로 근처에 화살 조각이 튀어 피어싱이 꿰뚫지 못한 적을 추가 공격할 수 있다.\n추가로 스나이핑 VI를 영구히 강화한다.\r\n필요 스킬 : 피어싱 ll 30레벨 이상, 어드밴스드 인핸스 애로우 20레벨 이상",
-        "skill_level": 4976,
+        "skill_level": 4984,
         "skill_effect": "피어싱 : MP 65 소비, 최대 8명의 적을 관통하며 555%의 데미지로 5번 공격\n 화살이 적을 관통할 때마다 최종 데미지가 15%씩 증가, 증가하는 데미지 간에는 곱 적용\n 처음 관통한 적 근처에 화살 조각이 튀어 최대 3명의 적을 595%의 데미지로 4번 공격\n인핸스 피어싱 : MP 110 소비, 최대 10명의 적을 670%의 데미지로 6번 공격, 소멸 지점에서 화살이 폭발하여 최대 10명의 적을 425%의 데미지로 10번 추가 공격 \n얼티밋 피어싱 : MP 110 소비, 최대 10명의 적을 680%의 데미지로 6번 공격, 소멸 지점에서 화살이 폭발하여 최대 10명의 적을 440%의 데미지로 10번 추가 공격\n[패시브 효과 : 스나이핑 VI 데미지 90%p, 인핸스 스나이핑 VI 데미지 132%p, 인핸스 스나이핑 VI 추가타 데미지 60%p, 얼티밋 스나이핑 VI 데미지 60%p, 얼티밋 스나이핑 VI 추가타 데미지 60%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBMF"
     },
     {
         "skill_name": "프리져 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 동안 냉기 속성을 지닌 프리져를 소환한다. 프리져의 공격은 공격 반사 상태의 적을 공격해도 피해를 입지 않고 소환수 지속시간 증가 효과를 받는다. 추가로 스나이핑 VI를 영구히 강화한다.\r\n필요 스킬 : 프리져 10레벨 이상",
-        "skill_level": 4399,
+        "skill_level": 4409,
         "skill_effect": "MP 90 소비, 600초 동안 프리져 소환\n프리져는 최대 6명의 적을 480%의 데미지로 3번 공격\n공격에 맞은 적은 3초 동안 빙결\n[패시브 효과 : 스나이핑 VI 데미지 102%p, 인핸스 스나이핑 VI 데미지 90%p, 인핸스 스나이핑 VI 추가타 데미지 100%p, 얼티밋 스나이핑 VI 데미지 65%p, 얼티밋 스나이핑 VI 추가타 데미지 60%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBNC"
     },
     {
         "skill_name": "볼트 스위프트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n화살을 사방으로 발사해 주변에 있는 다수의 적을 공격한다.\r\n필요 스킬 : 볼트 스위프트 20레벨 이상",
-        "skill_level": 4399,
+        "skill_level": 4409,
         "skill_effect": "MP 110 소비, 최대 8명의 적을 680%의 데미지로 7번 공격\n재사용 대기시간 7초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBND"
     },
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n직접 공격하는 공격 스킬 적중 시 일정 확률로 추가타가 발동된다. 다만, 반드시 석궁 계열 무기를 들었을 경우에만 발동이 가능하다.\n추가로 스나이핑 VI를 영구히 강화한다.\r\n필요 스킬 : 파이널 어택 : 석궁 20레벨 이상",
-        "skill_level": 3112,
+        "skill_level": 3121,
         "skill_effect": "[파이널 어택류 스킬] 60% 확률로 340% 데미지의 파이널 어택 발동\n[패시브 효과 : 스나이핑 VI 데미지 30%p, 인핸스 스나이핑 VI 데미지 30%p, 인핸스 스나이핑 VI 추가타 데미지 30%p, 얼티밋 스나이핑 VI 데미지 30%p, 얼티밋 스나이핑 VI 추가타 데미지 30%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDOBNE"
     },
     {
         "skill_name": "롱 레인지 트루샷 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n정신을 집중하여 거리 내 어떤 적이라도 단 일격에 격침시킨다.\r\n필요 스킬 : 롱 레인지 트루샷 1레벨 이상",
-        "skill_level": 3106,
+        "skill_level": 3115,
         "skill_effect": "MP 360 소비, 최대 12명의 적을 552%의 데미지로 9번 공격하는 타격이 6회 발생\n재사용 대기시간 40초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPBNF"
     },
     {
         "skill_name": "파이널 에임",
         "skill_description": "[마스터 레벨 : 30]\r\n저격술의 극의에 달하여 매우 먼 거리에서 적을 정확히 조준해 꿰뚫는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 6171,
+        "skill_level": 6168,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1560%의 데미지로 7번 공격하는 파동 35회 발생\n이후 최대 15명의 적을 1710%의 데미지로 13번 공격하는 화살 35회 명중\n파이널 에임 적중 시 스플릿 애로우의 화살 최대 13번까지만 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPEMA"
     },
     {
         "skill_name": "페이탈 트리거",
         "skill_description": "[마스터 레벨 : 30]\r\n절멸을 품은 화살을 장전한 뒤, 두 발에 걸쳐 경로 내 모든 것을 일소한다.\n\n10레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n20레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n30레벨 : 몬스터 방어율 무시 20% 증가",
-        "skill_level": 1875,
+        "skill_level": 1887,
         "skill_effect": "MP 1000 소비, 시전 동작 중 무적\n첫 번째 화살을 장전 후 발사하여 15명의 적을 7953%의 데미지로 11번 공격하는 파열이 12회 발생\n이후 두 번째 화살을 발사하여 8134%의 데미지로 14번 공격하는 일격이 12회 발생\n몬스터 방어율 60% 추가 무시, 보스 몬스터 공격 시 데미지 40% 증가, 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPEMC"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 2750,
+        "skill_level": 2759,
         "skill_effect": "HP 100 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 100% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 2750,
+        "skill_level": 2759,
         "skill_effect": "HP 100 소비\n120초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 0%의 데미지로 0번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "솔 헤카테",
         "skill_description": "[마스터 레벨 : 30]\r\n대적자의 결의에 이끌린 솔 에르다가 모여 패밀리어로 탄생한다. 솔 헤카테는 대적자와의 의지에 감응해 자동으로 적을 공격하고 전용 스킬을 사용한다.\n솔 헤카테는 레벨에 따라 성장하며, 일정 레벨 도달 시 사용할 수 있는 전용 스킬이 추가로 활성화된다.\n솔 헤카테 : 팩텀을 통해 솔 헤카테가 어떤 스킬에 감응하여 전용 스킬을 사용할지 설정할 수 있다.\n솔 헤카테는 최대 HP가 높은 보스 몬스터를 우선 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n\n10레벨 : 몬스터 방어율 무시 20% 증가, 보스 몬스터 공격 시 데미지 20% 증가\n20레벨 : 전용 스킬 카론 활성화, 몬스터 방어율 무시 20% 증가, 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 전용 스킬 플레게톤 활성화",
-        "skill_level": 1105,
+        "skill_level": 1126,
         "skill_effect": "HP 100 소비, 솔 헤카테 소환\n솔 헤카테는 적을 자동으로 추적하며 일정 시간마다 고밀도의 솔 에르다 입자를 4개 생성\n솔 에르다 입자 : 0%의 데미지로 0번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMF"
     },
     {
         "skill_name": "솔 헤카테 : 스틱스",
         "skill_description": "[마스터 레벨 : 30]\r\n짙게 농축된 솔 에르다의 파도를 방출해 적을 죽음으로 인도한다. 파도에 휩쓸린 적은 행동 불가 상태가 되며, 죽음의 씨앗이 심어진다.\n죽음의 씨앗은 일정 시간 동안 숙주 속에서 자라며 지속적으로 공격하고 완전히 개화해 생명을 거두어들인다.\n솔 헤카테 : 팩텀으로 스킬 발현 방식을 규정할 수 있다.\n솔 헤카테 : 스틱스는 다른 스킬 사용 중 사용 가능하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 1105,
+        "skill_level": 1126,
         "skill_effect": "HP 50 소비, 최대 15명의 적을 280%의 데미지로 8번 공격\n적중한 적은 4초 동안 행동 불가\n3초 동안 자라는 죽음의 씨앗 디버프 적용\n스틱스의 행동 불가는 다른 행동 불가 상태 이상에 중첩되어 추가 적용, 행동 불가 적용 후 저항 시간 47초\n죽음의 씨앗 : 자라며 0%의 데미지로 0번 공격, 완전히 개화 시 0%의 데미지로 0번 공격하는 생명의 수확이 7회 발생\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMG"
     },
     {
         "skill_name": "솔 헤카테 : 카론",
         "skill_description": "[마스터 레벨 : 30]\r\n계약자가 사망에 이르는 공격을 받았을 때 죽음의 운명으로부터 계약자를 보호한다.\n솔 헤카테 : 팩텀으로 스킬 종료 방식을 규정할 수 있다.\r\n필요 스킬 : 솔 헤카테 20레벨 이상",
-        "skill_level": 691,
+        "skill_level": 699,
         "skill_effect": "HP가 0이 될 경우 발동하여 사망 무시, 이후 10초 동안 무적\n솔 헤카테 : 팩텀으로 설정한 커맨드 사용 시 종료 가능\n재발동 대기시간 600초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHOBMH"
     },
     {
         "skill_name": "솔 헤카테 : 플레게톤",
         "skill_description": "[마스터 레벨 : 30]\r\n세계를 이루는 솔 에르다의 질서를 무너뜨려 잠시 동안 이승과 명계의 경계를 허문다.\n현실에 드러난 명계의 격류가 적을 불태운다. 경계가 닫힌 후 남은 불안정한 에너지가 사방으로 만개하며 모든 것을 무로 되돌린다.\n솔 헤카테 : 팩텀으로 스킬 발현 방식을 규정할 수 있다.\n솔 헤카테 : 플레게톤은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n일러스트 연출 온오프 : 마우스 우클릭\r\n필요 스킬 : 솔 헤카테 30레벨 이상",
-        "skill_level": 510,
+        "skill_level": 570,
         "skill_effect": "HP 50 소비, 최대 15명의 적을 0%의 데미지로 4번 공격하는 격류가 8회 발생\n경계가 닫힌 후 0%의 데미지로 0번 공격하는 만개가 10회 발생\n재사용 대기시간 120초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMI"
     },
     {
         "skill_name": "솔 헤카테 : 팩텀",
         "skill_description": "[마스터 레벨 : 1]\r\n대적자와 솔 헤카테의 의지를 조율하여 솔 헤카테의 전용 스킬이 발현하는 방식을 규정한다.\r\n필요 스킬 : 솔 헤카테 1레벨 이상",
-        "skill_level": 214,
+        "skill_level": 221,
         "skill_effect": "전용 스킬 스틱스, 플레게톤이 감응할 스킬 설정\n전용 스킬 카론의 무적 효과를 취소할 커맨드 설정\n솔 헤카테 소환수의 외형을 설정",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMJ"
     },
     {
         "skill_name": "이볼브 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n신비한 힘으로 프리져를 일정 시간 강화시킨다. 이볼브가 일정 시간 동안 혹한의 궤적이 되어 사방을 휩쓴 뒤 자신의 곁으로 돌아와 적을 공격한다.\n이볼브는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 이볼브 25레벨 이상",
-        "skill_level": 674,
+        "skill_level": 716,
         "skill_effect": "MP 900 소비, 혹한의 궤적이 발동하며 40초 동안 프리져 강화\n혹한의 궤적 : 4초 동안 사방을 휩쓸며 최대 15명의 적을 1859%의 데미지로 8번 지속 공격\r\n혹한의 궤적 종료 후 남은 지속 시간 동안 일정 간격마다 최대 10명의 적을 2152%의 데미지로 11번 공격\n재사용 대기시간 120초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBOG"
     },
     {
         "skill_name": "트루 스나이핑 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n트루 스나이핑을 강화한다.",
-        "skill_level": 1542,
+        "skill_level": 1545,
         "skill_effect": "트루 스나이핑의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOI"
     },
     {
         "skill_name": "스플릿 애로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스플릿 애로우를 강화한다.",
-        "skill_level": 6089,
+        "skill_level": 6095,
         "skill_effect": "스플릿 애로우의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOJ"
     },
     {
         "skill_name": "차지드 애로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n차지드 애로우를 강화한다.",
-        "skill_level": 620,
+        "skill_level": 628,
         "skill_effect": "차지드 애로우의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBPA"
     },
     {
         "skill_name": "리피팅 크로스보우 카트리지 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n리피팅 크로스보우 카트리지를 강화한다.",
-        "skill_level": 2538,
+        "skill_level": 2541,
         "skill_effect": "리피팅 크로스보우 카트리지의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBPB"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 769,
+        "skill_level": 771,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }
