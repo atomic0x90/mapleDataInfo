@@ -3,175 +3,175 @@
     {
         "skill_name": "정기 뿌리기 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n땅에 흐르는 정기를 끌어올려 적을 공격한다. 추가로 산 꼬마, 산의 씨앗의 데미지와 산 꼬마의 공격 범위가 증가한다. 정기 뿌리기 VI는 풍수지리의 데미지 증가 효과를 받지 않는다.\r\n필요 스킬 : 지음 10레벨 이상",
-        "skill_level": 23916,
+        "skill_level": 24145,
         "skill_effect": "MP 35 소비, 최대 7명의 적을 654%의 데미지로 4번 공격\n[패시브 효과 : 산 꼬마, 산의 씨앗의 데미지 700%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMA"
     },
     {
         "skill_name": "용맥 분출 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n땅에 잠들어 있는 용맥을 찾아 용맥에 잠재되어 있는 힘을 분출시킨다. 용맥은 해, 강, 바람 순서대로 찾을 수 있으며 용맥이 머금은 속성에 해당하는 토지령들이 분출된 자리에 머물며 논다. 공격 반사 상태의 적을 공격해도 피해를 입지 않고 시전 동작 중 스탠스 100%가 적용된다. 분출 스킬은 소환수 지속시간 증가로 지속시간이 증가하지 않지만 그에 비례해서 위력이 강해진다. 추가로 용맥 흡수 스킬의 최종 데미지를 영구히 증가시킨다.\r\n필요 스킬 : 풍월주인 10레벨 이상",
-        "skill_level": 27963,
+        "skill_level": 27950,
         "skill_effect": "MP 60 소비, 용맥의 속성에 맞는 분출 스킬 발동\n소환수 지속시간 증가 2%당 분출 스킬의 데미지 1% 증가\n재사용 대기시간 0.30초\n[패시브 효과 : 용맥 흡수, 용맥 흡수 VI 스킬의 최종 데미지 21% 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMB"
     },
     {
         "skill_name": "분출 : 너울이는 강 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n분출 스킬\n여러 강의 토지령이 힘을 합쳐 거대화한 후 일정 간격으로 너울을 일으켜 주변을 공격한다.\r\n필요 스킬 : 풍월주인 10레벨 이상",
-        "skill_level": 27963,
+        "skill_level": 27950,
         "skill_effect": "30초 동안 강의 토지령 유지\n강의 토지령이 일으킨 너울은 최대 8명의 적을 1025%의 데미지로 7번 공격\n너울 총 15번 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMC"
     },
     {
         "skill_name": "분출 : 돌개바람 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n분출 스킬\n바람의 토지령이 일정 시간마다 크게 숨을 내뱉는다. 바람의 토지령의 숨결로 돌개바람이 생성되어 주변의 적을 지속 공격한다.\r\n필요 스킬 : 풍월주인 10레벨 이상",
-        "skill_level": 27963,
+        "skill_level": 27950,
         "skill_effect": "30초 동안 바람의 토지령 유지\n바람의 토지령이 만든 돌개바람은 최대 10명의 적을 482%의 데미지로 6번 지속 공격, 돌개바람은 최대 10번 생성",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMF"
     },
     {
         "skill_name": "분출 : 해돋이 우물 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n분출 스킬\n여러 해의 토지령이 힘을 합쳐 무서운 거인이 된 후 흩어져 내리며 주변을 용암이 솟아오르는 지역으로 만든다. 용암 지역에서 일정 간격으로 화산탄이 생성되어 용암 지역 위의 적을 공격한다.\n화산탄은 범위 내의 최대 HP가 가장 높은 보스 몬스터를 우선하여 추적한다.\r\n필요 스킬 : 풍월주인 10레벨 이상",
-        "skill_level": 27963,
+        "skill_level": 27950,
         "skill_effect": "거인이 솟아오르며 최대 10명의 적을 440% 데미지로 6번 공격\n공격 후 30초 동안 용암 지역 형성\n용암 지역은 1초 마다 최대 10명의 적을 708%의 데미지로 1번 공격\n일정 간격마다 적을 480%의 데미지로 3번 공격하는 화산탄이 5개 생성\n화산탄은 최대 13번 생성되며 하나의 적이 여러 개의 화산탄에 맞을 경우 두번째 화산탄부터 최종 데미지 10% 감소\n화산탄에 맞은 적은 8초 동안 195%의 도트 데미지",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBMH"
     },
     {
         "skill_name": "용맥 흡수 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n땅에 잠들어 있는 용맥을 찾아 용맥에 잠재되어 있는 힘을 흡수한다. 용맥이 머금은 속성에 해당하는 힘이 흡수되어 토지령들이 라라를 따라다닌다. 정기 뿌리기 적중 시 흡수된 속성의 토지령들이 나타나 라라를 도와 공격한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않고 시전 동작 중 스탠스 100%가 적용된다. 추가로 용맥 분출 VI 스킬의 최종 데미지를 영구히 증가시킨다. 용맥 흡수 VI는 재사용 대기시간 초기화의 효과를 받지 않는다.\r\n필요 스킬 : 흡수 : 강 웅덩이 물벼락 30레벨 이상, 흡수 : 소소리 바람 30레벨 이상, 흡수 : 햇빛 맹아리 30레벨 이상",
-        "skill_level": 22328,
+        "skill_level": 22430,
         "skill_effect": "MP 44 소비, 120초 동안 해, 강, 바람의 토지령 소환\n재사용 대기시간 0.30초\n[패시브 효과 : 용맥 분출 VI 스킬의 최종 데미지 26% 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBNA"
     },
     {
         "skill_name": "흡수 : 강 웅덩이 물벼락 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n흡수 스킬\n정기 뿌리기 적중 시 장난꾸러기 강의 토지령이 강 웅덩이와 함께 등장하여 적에게 물벼락을 뿌려 공격한다. 흡수 : 강 웅덩이 물벼락 VI는 소환수 지속시간 증가 효과를 받는다. 흡수 : 강 웅덩이 물벼락 VI은 재사용 대기시간 초기화의 효과를 받지 않는다.\r\n필요 스킬 : 흡수 : 강 웅덩이 물벼락 30레벨 이상",
-        "skill_level": 22328,
+        "skill_level": 22430,
         "skill_effect": "120초 동안 정기 뿌리기 적중 시 강의 토지령이 나타나 764%의 데미지로 5번 공격\n재발동 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBNC"
     },
     {
         "skill_name": "흡수 : 소소리 바람 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n흡수 스킬\n정기 뿌리기 적중 시 바람의 토지령이 강한 바람을 몰고 적에게 향한다. 흡수 : 소소리 바람 VI는 소환수 지속시간 증가 효과를 받는다. 흡수 : 소소리 바람 VI은 재사용 대기시간 초기화의 효과를 받지 않는다.\r\n필요 스킬 : 흡수 : 소소리 바람 30레벨 이상",
-        "skill_level": 22328,
+        "skill_level": 22430,
         "skill_effect": "120초 동안 정기 뿌리기 적중 시 소소리 바람이 발생, 소소리 바람은 전진하며 최대 6명의 적을 214%의 데미지로 3번 지속 공격, 한명의 적에게는 최대 6번까지만 공격 발생\n재발동 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBNF"
     },
     {
         "skill_name": "흡수 : 햇빛 맹아리 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n흡수 스킬\n정기 뿌리기 적중 시 해의 토지령이 모여 뜨거운 햇빛이 응축된 화염구를 뿜어내 적을 추적 공격한다. 화염구는 범위 내의 보스 몬스터를 우선하여 추적하며, 보스 몬스터가 여럿일 경우 최대 HP가 가장 높은 몬스터를 우선하여 추적한다. 흡수 : 햇빛 맹아리 VI는 소환수 지속시간 증가 효과를 받는다. 흡수 : 햇빛 맹아리 VI는 재사용 대기시간 초기화의 효과를 받지 않는다.\r\n필요 스킬 : 흡수 : 햇빛 맹아리 30레벨 이상",
-        "skill_level": 22328,
+        "skill_level": 22430,
         "skill_effect": "120초 동안 정기 뿌리기 적중 시 해의 토지령이 나타나 화염구 5개를 뿜어 공격, 화염구는 주변의 적을 추적하여 218%의 데미지로 6번 공격\n하나의 적에게 여러 개의 화염구가 적중했을 때 두 번째 화염구부터 최종 데미지 55% 감소\n재발동 대기시간 5초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBNI"
     },
     {
         "skill_name": "잠 깨우기 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n잠들어 있는 용맥의 힘을 정제되지 않은 방식으로 깨우면 무형의 기운으로 변해 주변의 적을 추적 공격한다. 잠 깨우기는 공격 반사 상태의 적을 공격해도 피해를 입지 않고 시전 동작 중 스탠스 100%가 적용된다. 잠 깨우기는 최대 HP가 가장 높은 보스 몬스터를 우선 추적한다. 추가로 분출, 흡수 스킬의 최종 데미지를 영구히 증가시킨다.\r\n필요 스킬 : 잠 깨우기 20레벨 이상",
-        "skill_level": 22933,
+        "skill_level": 23075,
         "skill_effect": "MP 44 소비, 무형의 기운이 7개 생성, 각 무형의 기운은 1135%의 데미지로 4번 공격\n하나의 적에게 여러 개의 무형의 기운이 적중했을 때 두 번째 기운부터 최종 데미지 40% 감소\n재사용 대기시간 15초\n[패시브 효과 : 분출, 흡수 스킬의 최종 데미지 15% 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPBOA"
     },
     {
         "skill_name": "새록새록 꽃누리",
         "skill_description": "[마스터 레벨 : 30]\r\n거대한 양의 땅의 정기가 잠든 지맥에 산, 강, 바람, 해의 토지령이 모여 정기가 온누리를 뒤덮는 꽃으로 피어난다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 15833,
+        "skill_level": 15896,
         "skill_effect": "MP 1500 소비, 시전 동작 중 무적\n토지령이 모여들어 최대 15명의 적을 2100%의 데미지로 7번 공격하는 꽃 8회 생성\n이후 꽃이 강하게 피어나 최대 15명의 적을 1385%의 데미지로 14번 공격하는 지맥의 기운 64회 방출\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPEMA"
     },
     {
         "skill_name": "안다미로",
         "skill_description": "[마스터 레벨 : 30]\r\n대자연과 토지령의 기운이 꽃으로 승화되어 전역에 흩뿌려진다.\n\n10레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n20레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n30레벨 : 몬스터 방어율 무시 20% 증가",
-        "skill_level": 14555,
+        "skill_level": 14679,
         "skill_effect": "MP 1000 소비, 시전 동작 중 무적\n최대 15명의 적을 8435%의 데미지로 14번 공격하는 기운이 21회 발생\n몬스터 방어율 60% 추가 무시, 보스 몬스터 공격 시 데미지 40% 증가, 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KEJAKDPEMC"
     },
     {
         "skill_name": "솔 야누스",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 지닌 근원의 힘을 두 개의 모습으로 끌어낸다.\n스킬 사용 후 방향키를 입력하여 솔 야누스 : 새벽 또는 솔 야누스 : 황혼을 선택할 수 있다.\n보스 전투맵에서는 솔 야누스의 모든 모습을 사용할 수 없다.",
-        "skill_level": 10364,
+        "skill_level": 10291,
         "skill_effect": "HP 100 소비, 솔 야누스의 모습을 결정\n재사용 대기시간 3초\n[패시브 효과 : 경험치 획득량 67% 증가] ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMA"
     },
     {
         "skill_name": "솔 야누스 : 새벽",
         "skill_description": "[마스터 레벨 : 30]\r\n솔 에르다가 끊임없이 창조되고 소멸하는 순환의 고리를 소환한다. 지속적으로 변화하는 솔 에르다의 흐름이 주변의 적을 공격한다.\n순환의 고리를 소환한 개수가 많아질 때마다 고리 하나에서 발생하는 솔 에르다의 흐름은 축소된다. 순환의 고리는 공중에도 소환할 수 있으며 이전에 소환한 순환의 고리와 너무 가깝거나 먼 곳에는 소환할 수 없다.\n순환의 고리는 공격 반사 상태의 적을 공격해도 피해를 입히지 않는다.\n쉐도우 파트너, 미러 이미징, 벅 샷, 폴링 문, 솔루나 타임, 쉐도우 서번트, 축뢰, 블루 블러드, 버추얼 프로젝션 적용 시 공격 횟수 증가 효과 대신 동일한 효과의 최종 데미지 증가 효과가 적용된다.\n\n30레벨 : 일반 몬스터 데미지 30% 증가",
-        "skill_level": 10364,
+        "skill_level": 10291,
         "skill_effect": "HP 100 소비\n80초 동안 순환의 고리 소환, 최대 3개까지 소환 가능\n순환의 고리 : 최대 10명의 적을 0%의 데미지로 0번 공격\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMC"
     },
     {
         "skill_name": "솔 헤카테",
         "skill_description": "[마스터 레벨 : 30]\r\n대적자의 결의에 이끌린 솔 에르다가 모여 패밀리어로 탄생한다. 솔 헤카테는 대적자와의 의지에 감응해 자동으로 적을 공격하고 전용 스킬을 사용한다.\n솔 헤카테는 레벨에 따라 성장하며, 일정 레벨 도달 시 사용할 수 있는 전용 스킬이 추가로 활성화된다.\n솔 헤카테 : 팩텀을 통해 솔 헤카테가 어떤 스킬에 감응하여 전용 스킬을 사용할지 설정할 수 있다.\n솔 헤카테는 최대 HP가 높은 보스 몬스터를 우선 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n\n10레벨 : 몬스터 방어율 무시 20% 증가, 보스 몬스터 공격 시 데미지 20% 증가\n20레벨 : 전용 스킬 카론 활성화, 몬스터 방어율 무시 20% 증가, 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 전용 스킬 플레게톤 활성화",
-        "skill_level": 13555,
+        "skill_level": 13842,
         "skill_effect": "HP 100 소비, 솔 헤카테 소환\n솔 헤카테는 적을 자동으로 추적하며 일정 시간마다 고밀도의 솔 에르다 입자를 4개 생성\n솔 에르다 입자 : 0%의 데미지로 0번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMF"
     },
     {
         "skill_name": "솔 헤카테 : 스틱스",
         "skill_description": "[마스터 레벨 : 30]\r\n짙게 농축된 솔 에르다의 파도를 방출해 적을 죽음으로 인도한다. 파도에 휩쓸린 적은 행동 불가 상태가 되며, 죽음의 씨앗이 심어진다.\n죽음의 씨앗은 일정 시간 동안 숙주 속에서 자라며 지속적으로 공격하고 완전히 개화해 생명을 거두어들인다.\n솔 헤카테 : 팩텀으로 스킬 발현 방식을 규정할 수 있다.\n솔 헤카테 : 스틱스는 다른 스킬 사용 중 사용 가능하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 13555,
+        "skill_level": 13842,
         "skill_effect": "HP 50 소비, 최대 15명의 적을 280%의 데미지로 8번 공격\n적중한 적은 4초 동안 행동 불가\n3초 동안 자라는 죽음의 씨앗 디버프 적용\n스틱스의 행동 불가는 다른 행동 불가 상태 이상에 중첩되어 추가 적용, 행동 불가 적용 후 저항 시간 47초\n죽음의 씨앗 : 자라며 0%의 데미지로 0번 공격, 완전히 개화 시 0%의 데미지로 0번 공격하는 생명의 수확이 7회 발생\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMG"
     },
     {
         "skill_name": "솔 헤카테 : 카론",
         "skill_description": "[마스터 레벨 : 30]\r\n계약자가 사망에 이르는 공격을 받았을 때 죽음의 운명으로부터 계약자를 보호한다.\n솔 헤카테 : 팩텀으로 스킬 종료 방식을 규정할 수 있다.\r\n필요 스킬 : 솔 헤카테 20레벨 이상",
-        "skill_level": 9142,
+        "skill_level": 9463,
         "skill_effect": "HP가 0이 될 경우 발동하여 사망 무시, 이후 10초 동안 무적\n솔 헤카테 : 팩텀으로 설정한 커맨드 사용 시 종료 가능\n재발동 대기시간 600초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHOBMH"
     },
     {
         "skill_name": "솔 헤카테 : 플레게톤",
         "skill_description": "[마스터 레벨 : 30]\r\n세계를 이루는 솔 에르다의 질서를 무너뜨려 잠시 동안 이승과 명계의 경계를 허문다.\n현실에 드러난 명계의 격류가 적을 불태운다. 경계가 닫힌 후 남은 불안정한 에너지가 사방으로 만개하며 모든 것을 무로 되돌린다.\n솔 헤카테 : 팩텀으로 스킬 발현 방식을 규정할 수 있다.\n솔 헤카테 : 플레게톤은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n일러스트 연출 온오프 : 마우스 우클릭\r\n필요 스킬 : 솔 헤카테 30레벨 이상",
-        "skill_level": 6870,
+        "skill_level": 7080,
         "skill_effect": "HP 50 소비, 최대 15명의 적을 0%의 데미지로 4번 공격하는 격류가 8회 발생\n경계가 닫힌 후 0%의 데미지로 0번 공격하는 만개가 10회 발생\n재사용 대기시간 120초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMI"
     },
     {
         "skill_name": "솔 헤카테 : 팩텀",
         "skill_description": "[마스터 레벨 : 1]\r\n대적자와 솔 헤카테의 의지를 조율하여 솔 헤카테의 전용 스킬이 발현하는 방식을 규정한다.\r\n필요 스킬 : 솔 헤카테 1레벨 이상",
-        "skill_level": 950,
+        "skill_level": 951,
         "skill_effect": "전용 스킬 스틱스, 플레게톤이 감응할 스킬 설정\n전용 스킬 카론의 무적 효과를 취소할 커맨드 설정\n솔 헤카테 소환수의 외형을 설정",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMJ"
     },
     {
         "skill_name": "화중군자 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n상서로운 힘을 품은 연꽃을 소환한다.\n사망에 이르는 공격을 받아도 사망하는 대신 백련의 축복을 받아 백련에서 다시 태어날 수 있다. 영구적으로 홍련의 기운이 몸에 깃들어 공격 적중 시 적에게서 홍련이 피어오른다. 홍련은 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 화중군자 25레벨 이상",
-        "skill_level": 8843,
+        "skill_level": 9476,
         "skill_effect": "백련 : MP 500 소비, 1800초 동안 지속되는 상서로운 백련 소환\n부활 후 5.5초 동안 무적\n스킬 재사용 시 백련 재소환 가능, 재소환 대기시간 1초\n재사용 대기시간 400초, 부활 성공 시 스킬 재사용 대기시간 1400초 증가, 백련의 축복을 받지 않고 백련 소멸 시 재사용 대기시간 초기화\n홍련 : 직접 공격하는 스킬 적중 시 최대 15명의 적을 1244%의 데미지로 7번 공격하는 홍련이 최대 3회까지 발생\n재발동 대기시간 4초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPAOB"
     },
     {
         "skill_name": "큰 기지개 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n큰 기지개를 강화한다.",
-        "skill_level": 12234,
+        "skill_level": 12214,
         "skill_effect": "큰 기지개의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALG"
     },
     {
         "skill_name": "해 강 산 바람 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n해 강 산 바람을 강화한다.",
-        "skill_level": 12563,
+        "skill_level": 12589,
         "skill_effect": "해 강 산 바람의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALH"
     },
     {
         "skill_name": "용솟음치는 정기 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n용솟음치는 정기를 강화한다.",
-        "skill_level": 11444,
+        "skill_level": 11599,
         "skill_effect": "용솟음치는 정기의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALI"
     },
     {
         "skill_name": "산등성이 굽이굽이 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n산등성이 굽이굽이를 강화한다.",
-        "skill_level": 12648,
+        "skill_level": 12654,
         "skill_effect": "산등성이 굽이굽이의 최종 데미지 60% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKALJ"
     },
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 998,
+        "skill_level": 995,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }
