@@ -1,4 +1,4 @@
-987
+988
 [
     {
         "skill_name": "더블 럭키 다이스-원모어찬스",
@@ -24,14 +24,14 @@
     {
         "skill_name": "래피드 파이어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 데미지를 증가시킨다.",
-        "skill_level": 878,
+        "skill_level": 881,
         "skill_effect": "데미지 30% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBIJ"
     },
     {
         "skill_name": "래피드 파이어-애드 레인지",
         "skill_description": "[마스터 레벨 : 1]\r\n래피드 파이어의 사거리를 증가시킨다.",
-        "skill_level": 444,
+        "skill_level": 445,
         "skill_effect": "사거리 100 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBJA"
     },
@@ -45,21 +45,21 @@
     {
         "skill_name": "헤드 샷-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n헤드 샷의 데미지를 증가시킨다.",
-        "skill_level": 936,
+        "skill_level": 938,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBIG"
     },
     {
         "skill_name": "헤드 샷-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n헤드 샷의 공격 횟수를 증가시킨다.",
-        "skill_level": 928,
+        "skill_level": 930,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBIH"
     },
     {
         "skill_name": "헤드 샷-보스 킬러",
         "skill_description": "[마스터 레벨 : 1]\r\n헤드 샷의 보스 몬스터 공격 시 데미지를 증가시킨다.",
-        "skill_level": 931,
+        "skill_level": 933,
         "skill_effect": "보스 몬스터 공격 시 데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJFOBII"
     }
