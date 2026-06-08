@@ -1,4 +1,4 @@
-992
+993
 [
     {
         "skill_name": "서포트 몽키-리인포스",
@@ -17,7 +17,7 @@
     {
         "skill_name": "서포트 몽키-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n서포트 몽키의 공격 횟수를 증가시킨다.",
-        "skill_level": 755,
+        "skill_level": 756,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBIF"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "캐논 바주카-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 바주카의 공격 횟수를 증가시킨다.",
-        "skill_level": 658,
+        "skill_level": 660,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBII"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "캐논 버스터-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n캐논 버스터의 공격 횟수를 증가시킨다.",
-        "skill_level": 836,
+        "skill_level": 837,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIFOBJB"
     }
