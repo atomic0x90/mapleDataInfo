@@ -1,4 +1,4 @@
-990
+989
 [
     {
         "skill_name": "데몬 임팩트 VI",
@@ -45,14 +45,14 @@
     {
         "skill_name": "데몬 어웨이크닝 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n데몬 어웨이크닝을 강화한다.",
-        "skill_level": 22,
+        "skill_level": 23,
         "skill_effect": "데몬 어웨이크닝의 최종 데미지 17% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAME"
     },
     {
         "skill_name": "요르문간드 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n요르문간드를 강화한다.",
-        "skill_level": 5,
+        "skill_level": 6,
         "skill_effect": "요르문간드의 최종 데미지 12% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAMF"
     },
