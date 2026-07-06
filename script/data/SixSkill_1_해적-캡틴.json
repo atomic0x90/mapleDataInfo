@@ -1,12 +1,5 @@
-992
+991
 [
-    {
-        "skill_name": "래피드 파이어 VI",
-        "skill_description": "[마스터 레벨 : 30]\r\n아주 빠른 속도로 탄을 발사한다. 스킬 키를 누르고 있으면 지속적으로 탄이 나가며 좌우로 이동할 수 있다. 일정 횟수 적중 시 클립이 충전되고 클립이 전부 충전되면 난사 모드로 변한다.\n함장의 기개로 캡틴 디그니티의 데미지가 증가한다.\r\n필요 스킬 : 래피드 파이어 30레벨 이상",
-        "skill_level": 78,
-        "skill_effect": "공격당 MP 15 소비, 발당 최대 4명의 적에게 526%의 데미지, 공격 5회 적중 시 클립 1개 충전, 클립이 10개만큼 충전되면 난사 모드로 변경\n[패시브 효과 : 캡틴 디그니티의 데미지 89%p 증가]",
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBMA"
-    },
     {
         "skill_name": "드레드노트",
         "skill_description": "[마스터 레벨 : 30]\r\n두려움을 모르는 함장의 지휘로 거대한 함선이 미지의 바다를 헤치고 나타난다. 함선은 주변의 적에게 무차별 포격을 가한다. 폭격은 최대 HP가 가장 높은 보스 몬스터에게 우선적으로 가해진다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
@@ -55,6 +48,13 @@
         "skill_level": 9,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
+    },
+    {
+        "skill_name": "래피드 파이어 VI",
+        "skill_description": "[마스터 레벨 : 30]\r\n아주 빠른 속도로 탄을 발사한다. 스킬 키를 누르고 있으면 지속적으로 탄이 나가며 좌우로 이동할 수 있다. 일정 횟수 적중 시 클립이 충전되고 클립이 전부 충전되면 난사 모드로 변한다.\n함장의 기개로 캡틴 디그니티의 데미지가 증가한다.\r\n필요 스킬 : 래피드 파이어 30레벨 이상",
+        "skill_level": 62,
+        "skill_effect": "공격당 MP 12 소비, 발당 최대 4명의 적에게 472%의 데미지, 공격 5회 적중 시 클립 1개 충전, 클립이 10개만큼 충전되면 난사 모드로 변경\n[패시브 효과 : 캡틴 디그니티의 데미지 53%p 증가]",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHJDPBMA"
     },
     {
         "skill_name": "배틀쉽 봄버 VI",

@@ -1,4 +1,4 @@
-991
+993
 [
     {
         "skill_name": "스나이핑 VI",
@@ -17,7 +17,7 @@
     {
         "skill_name": "파이널 에임",
         "skill_description": "[마스터 레벨 : 30]\r\n저격술의 극의에 달하여 매우 먼 거리에서 적을 정확히 조준해 꿰뚫는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 84,
+        "skill_level": 85,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 806%의 데미지로 7번 공격하는 파동 35회 발생\n이후 최대 15명의 적을 869%의 데미지로 13번 공격하는 화살 35회 명중\n파이널 에임 적중 시 스플릿 애로우의 화살 최대 13번까지만 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPBJDPEMA"
     },
@@ -45,7 +45,7 @@
     {
         "skill_name": "스플릿 애로우 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n스플릿 애로우를 강화한다.",
-        "skill_level": 44,
+        "skill_level": 45,
         "skill_effect": "스플릿 애로우의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBOJ"
     },
