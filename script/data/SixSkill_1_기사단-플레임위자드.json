@@ -1,9 +1,9 @@
-983
+984
 [
     {
         "skill_name": "오비탈 플레임 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n화염 마법에 통달하여 오비탈 플레임의 데미지가 강화된다.\n일정 횟수 사용 시 강화된 오비탈 플레임을 사용할 수 있다.\n강력한 마력으로 일정 시간마다 오비탈 플레임이 지나간 곳에 거대한 불꽃이 형성된다. 불 속성의 공격이다.\r\n필요 스킬 : 오비탈 플레임 IV 30레벨 이상",
-        "skill_level": 8,
+        "skill_level": 10,
         "skill_effect": "MP 45 소비, 최대 8명의 적을 333%의 데미지로 2번 공격, 일반 몬스터 공격 시 데미지 50% 증가\n3회 사용 시 다음 공격 강화 오비탈 플레임 VI 발동, 15초마다 최대 6명의 적을 446%의 데미지로 9번 공격하는 불길 4회 발생\n강화 오비탈 플레임 : 370%로 데미지 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBMA"
     },
@@ -52,7 +52,7 @@
     {
         "skill_name": "인피니티 플레임 서클 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n인피니티 플레임 서클을 강화한다.",
-        "skill_level": 23,
+        "skill_level": 22,
         "skill_effect": "인피니티 플레임 서클의 최종 데미지 18% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKG"
     },
@@ -66,42 +66,42 @@
     {
         "skill_name": "플레임 콘체르토",
         "skill_description": "[마스터 레벨 : 30]\r\n두 화염의 화신이 연주하는 불꽃의 협주곡이 순환하는 폭렬의 화염으로 완성된다.\n\n10레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n20레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n30레벨 : 몬스터 방어율 무시 20% 증가",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "MP 769 소비, 시전 동작 중 무적\n최대 15명의 적을 521%의 데미지로 12번 공격하는 불꽃의 연주 13회 발생\n이후 840%의 데미지로 15번 공격하는 폭렬의 화염이 15회 발생\n몬스터 방어율 60% 추가 무시, 보스 몬스터 공격 시 데미지 40% 증가, 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPEMD"
     },
     {
         "skill_name": "오비탈 익스플로젼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n화염의 본질을 이해하고 해방한다. \n일정 횟수 이상 오비탈 플레임, 블레이징 오비탈 플레임, 인피니티 플레임 서클, 이터니티 적중 시 다음 공격에 불 속성의 화염의 기운 추가타가 발생한다. \n 화염의 기운 추가타는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 오비탈 익스플로젼 10레벨 이상",
-        "skill_level": 4,
+        "skill_level": 6,
         "skill_effect": "오비탈 플레임, 블레이징 오비탈 플레임, 인피니티 플레임 서클, 이터니티 \n10회 적중 시 다음 오비탈 플레임류 스킬, 인피니티 플레임 서클, 이터니티의 공격에 122%의 데미지로 3번 공격하는 추가타 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDOBNF"
     },
     {
         "skill_name": "피닉스 드라이브 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n불사조의 현신으로 모든 것을 불태우는 화염의 흐름을 만들어낸다.\r\n필요 스킬 : 피닉스 드라이브 1레벨 이상",
-        "skill_level": 4,
+        "skill_level": 6,
         "skill_effect": "MP 304 소비, 20초 동안 지속\n최대 8명의 적을 890%의 데미지로 6번 지속 공격\n재사용 대기시간 120초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBNA"
     },
     {
         "skill_name": "솔 헤카테",
         "skill_description": "[마스터 레벨 : 30]\r\n대적자의 결의에 이끌린 솔 에르다가 모여 패밀리어로 탄생한다. 솔 헤카테는 대적자와의 의지에 감응해 자동으로 적을 공격하고 전용 스킬을 사용한다.\n솔 헤카테는 레벨에 따라 성장하며, 일정 레벨 도달 시 사용할 수 있는 전용 스킬이 추가로 활성화된다.\n솔 헤카테 : 팩텀을 통해 솔 헤카테가 어떤 스킬에 감응하여 전용 스킬을 사용할지 설정할 수 있다.\n솔 헤카테는 최대 HP가 높은 보스 몬스터를 우선 공격하며 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n스킬 사용 시 효과가 활성화되고 재사용 시 비활성화되는 온오프 스킬\n\n10레벨 : 몬스터 방어율 무시 20% 증가, 보스 몬스터 공격 시 데미지 20% 증가\n20레벨 : 전용 스킬 카론 활성화, 몬스터 방어율 무시 20% 증가, 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 전용 스킬 플레게톤 활성화",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "HP 100 소비, 솔 헤카테 소환\n솔 헤카테는 적을 자동으로 추적하며 일정 시간마다 고밀도의 솔 에르다 입자를 4개 생성\n솔 에르다 입자 : 0%의 데미지로 0번 공격",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMF"
     },
     {
         "skill_name": "솔 헤카테 : 스틱스",
         "skill_description": "[마스터 레벨 : 30]\r\n짙게 농축된 솔 에르다의 파도를 방출해 적을 죽음으로 인도한다. 파도에 휩쓸린 적은 행동 불가 상태가 되며, 죽음의 씨앗이 심어진다.\n죽음의 씨앗은 일정 시간 동안 숙주 속에서 자라며 지속적으로 공격하고 완전히 개화해 생명을 거두어들인다.\n솔 헤카테 : 팩텀으로 스킬 발현 방식을 규정할 수 있다.\n솔 헤카테 : 스틱스는 다른 스킬 사용 중 사용 가능하며, 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "HP 50 소비, 최대 15명의 적을 193%의 데미지로 8번 공격\n적중한 적은 4초 동안 행동 불가\n3초 동안 자라는 죽음의 씨앗 디버프 적용\n스틱스의 행동 불가는 다른 행동 불가 상태 이상에 중첩되어 추가 적용, 행동 불가 적용 후 저항 시간 47초\n죽음의 씨앗 : 자라며 0%의 데미지로 0번 공격, 완전히 개화 시 0%의 데미지로 0번 공격하는 생명의 수확이 7회 발생\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMG"
     },
     {
         "skill_name": "솔 헤카테 : 팩텀",
         "skill_description": "[마스터 레벨 : 1]\r\n대적자와 솔 헤카테의 의지를 조율하여 솔 헤카테의 전용 스킬이 발현하는 방식을 규정한다.\r\n필요 스킬 : 솔 헤카테 1레벨 이상",
-        "skill_level": 1,
+        "skill_level": 2,
         "skill_effect": "전용 스킬 스틱스, 플레게톤이 감응할 스킬 설정\n전용 스킬 카론의 무적 효과를 취소할 커맨드 설정\n솔 헤카테 소환수의 외형을 설정",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBMJ"
     },
