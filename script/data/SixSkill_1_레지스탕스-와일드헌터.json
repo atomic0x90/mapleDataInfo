@@ -1,9 +1,9 @@
-989
+987
 [
     {
         "skill_name": "와일드 발칸 : 에이펙스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[석궁 스킬] 석궁을 한 번 더 개량한다. 적을 관통하는 화살을 기관식으로 발사한다. 일정 시간마다 강력한 폭발을 일으키는 유탄이 추가 발사된다. 키다운 스킬이다.\n유탄은 공격 반사 상태의 적을 공격해도 피해를 입지 않으며 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 와일드 발칸 : 에이펙스 30레벨 이상",
-        "skill_level": 12,
+        "skill_level": 9,
         "skill_effect": "MP 12 소비, 최대 8명의 적을 485%의 데미지로 지속 공격\n일정 시간마다 최대 8명의 적을 412%의 데미지로 4번 공격하는 폭발이 발생하는 유탄 추가 발사, 유탄의 일반 몬스터 공격 시 데미지 205%p 증가\n유탄 재발사 대기시간 1.2초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMA"
     },
@@ -31,49 +31,49 @@
     {
         "skill_name": "파이널 어택 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n석궁을 이용한 직접 공격 스킬 적중 시 일정 확률로 추가 타격이 발동된다.\r\n필요 스킬 : 어드밴스드 파이널 어택 20레벨 이상",
-        "skill_level": 4,
+        "skill_level": 2,
         "skill_effect": "[파이널 어택류 스킬] 석궁을 이용한 직접 공격 스킬 적중 시 71%의 확률로 230%의 데미지로 공격하는 파이널 어택 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDOBMG"
     },
     {
         "skill_name": "커맨드 : 알파 서지 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[커맨드 스킬] 아실리와 공명하여 자연의 거대한 힘을 직접 사용할 수 있게 된다. 명령을 받은 스피릿 재규어 무리가 적을 향해 맹렬히 돌진한다.\n커맨드 스킬은 석궁 스킬 사용 중 시전 동작 없이 사용할 수 있으며 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 커맨드 : 알파 서지 30레벨 이상",
-        "skill_level": 6,
+        "skill_level": 4,
         "skill_effect": "MP 120 소비, 최대 12명의 적을 803%의 데미지로 6번 공격하는 충돌이 5회 발생\n재사용 대기시간 20초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMH"
     },
     {
         "skill_name": "커맨드 : 타이탄 파운스 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n[커맨드 스킬] 거대한 스피릿 재규어가 적을 덮친다. 스피릿 재규어는 일정 범위 내 최대 HP가 높은 보스 몬스터를 우선하여 표적으로 삼는다.\n커맨드 스킬은 석궁 스킬 사용 중 시전 동작 없이 사용할 수 있으며 재사용 대기시간 초기화 효과를 받지 않는다.\r\n필요 스킬 : 커맨드 : 타이탄 파운스 1레벨 이상",
-        "skill_level": 6,
+        "skill_level": 4,
         "skill_effect": "MP 180 소비, 최대 12명의 적을 563%의 데미지로 8번 공격하는 충격이 7회 발생\n재사용 대기시간 20초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMI"
     },
     {
         "skill_name": "트랩 시더 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n적에게 닿으면 폭발하는 지뢰를 사방으로 살포하는 보조 유닛을 설치한다. 지뢰를 새로 살포할 때마다 이전에 살포된 지뢰는 자동으로 회수된다.\n트랩 시더 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\n트랩 시더 VI를 사용해도 전투 상태에 돌입하지 않으며, 일정 시간 이상 전투 상태가 지속되지 않으면 유닛이 지뢰를 살포하지 않는다.\r\n필요 스킬 : 트랩 시더 20레벨 이상",
-        "skill_level": 5,
+        "skill_level": 3,
         "skill_effect": "MP 80 소비, 60초 동안 설치되어 5초 마다 지뢰 살포\n지뢰에 적이 닿을 경우 최대 5명의 적을 838%의 데미지로 4번 공격하는 폭발 발생\n함께 살포된 지뢰끼리는 한명의 보스 몬스터에게 1번까지만 폭발 발동",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPBMJ"
     },
     {
         "skill_name": "어나더 바이트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n스피릿 재규어 공격 적중 시 야성의 분노가 적에게 새겨진다. 어나더 바이트 디버프를 가진 적을 석궁 스킬로 공격 시 야성의 분노가 표출되며 적을 추가 공격한다.\n어나더 바이트 VI는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 어나더 바이트 15레벨 이상",
-        "skill_level": 4,
+        "skill_level": 2,
         "skill_effect": "스피릿 재규어 공격 적중 시 90초 동안 지속되는 어나더 바이트 디버프 발생\n어나더 바이트 디버프는 최대 50개까지 중첩 가능\n어시스트 스킬은 공격 당 1개, 커맨드 스킬은 공격 당 2개 중첩\n어나더 바이트 디버프를 가진 적을 석궁 스킬로 공격 시 276%의 데미지로 2번 공격하는 추가 공격 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDOBNB"
     },
     {
         "skill_name": "링크드 임팩트",
         "skill_description": "[마스터 레벨 : 30]\r\n재규어와 완벽하게 공조를 이루어 연계하여 공격한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 25,
+        "skill_level": 15,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1307%의 데미지로 7번 공격하는 일격이 44회 발동, 이후 1425%의 데미지로 14번 공격하는 야참이 10회 발동\n모든 공격은 어나더 바이트 디버프를 발생시키는 동시에 소비\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPEMA"
     },
     {
         "skill_name": "기어 스톰",
         "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스의 첨단 기술이 집약된 거대 발리스타를 소환하여 사방을 초토화한다.\n\n10레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n20레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n30레벨 : 몬스터 방어율 무시 20% 증가",
-        "skill_level": 5,
+        "skill_level": 4,
         "skill_effect": "MP 1000 소비, 시전 동작 중 무적\n거대 발리스타가 소환되어 최대 15명의 적을 389%의 데미지로 12번 공격하는 강타가 23회 발생, 이후 주위를 초토화시키며 920%의 데미지로 15번 공격하는 무차별 폭격이 11회 발생\n몬스터 방어율 60% 추가 무시, 보스 몬스터 공격 시 데미지 40% 증가, 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMBKDPEME"
     },
