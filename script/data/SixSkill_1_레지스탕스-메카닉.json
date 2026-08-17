@@ -52,7 +52,7 @@
     {
         "skill_name": "그라운드 제로",
         "skill_description": "[마스터 레벨 : 30]\r\n레지스탕스의 기술이 집약된 대규모 미사일 시스템을 가동하여 폭격 지점을 완전히 초토화한다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 13,
+        "skill_level": 11,
         "skill_effect": "MP 1800 소비, 시전 동작 중 무적\n최대 15명의 적을 1054%의 데미지로 8번 공격하는 지진 10회 발동 이후 최대 15명의 적을 1023%의 데미지로 15번 공격하는 폭발 32회 발동\n대규모 폭격 : 30초 동안 지속, 일정 시간마다 최대 15명의 적을 1488%의 데미지로 15번 공격하는 폭격 발동\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKDPEMA"
     },
@@ -132,12 +132,5 @@
         "skill_level": 1,
         "skill_effect": "MP 650 소비, 15초 동안 레지스탕스 정예 보병대와 거대 함포 소환\n일정 간격마다 최대 12명의 적을 1671%의 데미지로 12번 공격, 최대 공격 가능 횟수 10회, 지속시간이 종료되거나 최대 공격 가능 횟수 도달 시 즉시 소멸\n스킬 재사용 시 보병대와 함포 재소환 가능, 재소환 대기시간 3초\n재사용 대기시간 60초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHPBKH"
-    },
-    {
-        "skill_name": "HEXA 스탯",
-        "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 1,
-        "skill_effect": null,
-        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     }
 ]
