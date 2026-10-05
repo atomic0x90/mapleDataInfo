@@ -1,51 +1,51 @@
-988
+989
 [
     {
         "skill_name": "체인아츠:스트로크 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n공격키를 입력하여 2연속 공격을 가한다. 체인을 채찍처럼 움켜쥔 뒤, 한차례 돌린 후 휘둘러 내려치는 연속 공격은 적을 순식간에 휩쓸고 지나간다. 2타째인 휘둘러 내려치는 공격에 맞은 적은 뒤로 밀려나며 체인에 닿은 적은 일정 시간 동안 슬로우 상태 이상에 걸린다.\n체인을 돌릴 때의 원심력을 이용하여 1타와 2타 사이에 다른 공격으로 연계가 가능하다. 이때의 원심력은 연계된 공격 스킬의 데미지를 더 강하게 만든다.\n일정 시간마다 체인을 더 강하게 휘둘러 내리쳐 내리친 위치에 충격파를 발생시킬 수 있다. 충격파는 2타에 적중된 적이 있을 때만 발동한다.\n자신의 스킬 사용 중에도 사용할 수 있다.\r\n필요 스킬 : 체인아츠:스트로크 10레벨 이상",
-        "skill_level": 94,
+        "skill_level": 87,
         "skill_effect": "MP 15 소비\n1타 : 최대 4명의 적을 180%의 데미지로 2번 공격\n2타 : 최대 8명의 적을 440%의 데미지로 5번 공격, 공격 시 100% 확률로 5초 동안 슬로우\n강화 2타 : 10초 마다 준비되며 최대 3번까지 사용 가능\n최대 8명의 적을 440%의 데미지로 5번 공격 후 545%의 데미지로 10번 공격하는 충격파 발생\n체인아츠:스트로크를 제외한 1타 직후 사용하는 스킬의 최종 데미지 13% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBMA"
     },
     {
         "skill_name": "웨폰 버라이어티 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n무기 간의 흐름을 완전히 깨우쳐 웨폰 버라이어티의 효과를 완성시킨다. 추가타 발동 시 일정 시간 동안 다크 사이트 상태가 되며 빠르게 소멸하는 보호막 효과가 발동된다.\r\n필요 스킬 : 웨폰 버라이어티 Ⅲ 10레벨 이상",
-        "skill_level": 24,
+        "skill_level": 23,
         "skill_effect": "체인아츠를 제외한 무기를 바꿔서 사용할 때마다 최대 7명의 적을 457%의 데미지로 4번 공격하는 추가타 발생\n추가타 발생 시 2초 동안 다크 사이트 및 최대 HP의 7%의 피해를 막아주는 보호막 생성\n보호막은 최대 HP의 25%만큼 누적 가능하며 초당 현재 보호막의 30% + 50씩 소멸\n추가타 재발동 대기시간 0.2초\n[패시브 효과 : 최종 데미지 1% 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBME"
     },
     {
         "skill_name": "서먼 커팅 시미터 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n시미터를 소환하여 거꾸로 쥔 뒤 적에게 순식간에 파고들며 가로로 가른다. 시전 동작 중 어떠한 공격에도 밀리지 않는다. 공중에서도 사용 가능하며, 자신의 스킬 사용 중에도 사용할 수 있다.\r\n필요 스킬 : 서먼 커팅 시미터 20레벨 이상",
-        "skill_level": 40,
+        "skill_level": 39,
         "skill_effect": "MP 15 소비, 최대 6명의 적을 552%의 데미지로 5번 공격\n재사용 대기시간 4초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBPA"
     },
     {
         "skill_name": "서먼 스크래칭 클로 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n클로를 소환하여 손에 장착한 뒤, 빠르게 할퀴며 전방 사선 방향으로 하강한다. 시전 동작 중 어떠한 공격에도 밀리지 않는다. 공중에서만 사용 가능하며 자신의 스킬 사용 중에도 사용할 수 있다.\r\n필요 스킬 : 서먼 스크래칭 클로 20레벨 이상",
-        "skill_level": 40,
+        "skill_level": 39,
         "skill_effect": "MP 20 소비, 최대 10명의 적을 583%의 데미지로 4번 공격\n재사용 대기시간 3초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBPE"
     },
     {
         "skill_name": "서먼 스로잉 윙대거 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n일정 시간 후 폭발하는 수리검을 소환하여 지면에 낮게 깔아 던진다. 수리검은 적을 밀어내며 공격하고 최대 HP가 가장 높은 보스 몬스터를 우선 추적한다. 공격 반사 상태의 적을 공격해도 피해를 입지 않고 일부 몬스터는 저항하여 밀리지 않는다. 사용 및 폭발 시 다크 사이트를 해제하지 않는다.\r\n필요 스킬 : 서먼 스로잉 윙대거 19레벨 이상",
-        "skill_level": 40,
+        "skill_level": 39,
         "skill_effect": "MP 28 소비, 7초 동안 일정 간격마다 1명의 적을 547%의 데미지로 \n1번 공격하는 수리검 소환, 최대 10번까지만 공격 발생\n7초가 지났거나 공격 발생 횟수가 채워진 경우 자동 폭발하며 스킬키를 재입력하여 수동 폭발 가능\n폭발 시 최대 8명의 적을 834%의 데미지로 3번 공격\n재사용 대기시간 10초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBPC"
     },
     {
         "skill_name": "서먼 비팅 니들배트 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n가시 박힌 방망이를 소환하여 머리 위로 가차 없이 내리꽂는다. 3번 연속해서 사용할 수 있으며 방향키와 함께 사용하면 앞으로 전진하며 사용한다. 연속 사용 중 공격 스킬을 사용하면 다음 타수를 사용할 수 없다. 시전 동작 중 어떠한 공격에도 밀리지 않는다.\r\n필요 스킬 : 서먼 비팅 니들배트 30레벨 이상",
-        "skill_level": 40,
+        "skill_level": 39,
         "skill_effect": "MP 40 소비\n1타 : 최대 8명의 적을 324%의 데미지로 12번 공격\n2타 : 최대 8명의 적을 426%의 데미지로 13번 공격\n3타 : 최대 10명의 적을 638%의 데미지로 14번 공격\n재사용 대기시간 12초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBMI"
     },
     {
         "skill_name": "체인아츠:크러시 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n여러 갈래의 체인을 공중에서부터 지면까지 한 번에 터져 나오게 하여 적을 찍어 누른다.\r\n필요 스킬 : 체인아츠:크러시 1레벨 이상",
-        "skill_level": 40,
+        "skill_level": 39,
         "skill_effect": "MP 303 소비, 최대 15명의 적을 589%의 데미지로 15번 공격\n재사용 대기시간 30초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPBOB"
     },
@@ -94,7 +94,7 @@
     {
         "skill_name": "체인아츠:매서커",
         "skill_description": "[마스터 레벨 : 30]\r\n다룰 수 있는 모든 무기를 총동원하여 적을 무자비하게 학살한다. 체인아츠:매서커의 모든 공격은 웨폰 버라이어티를 발동시킨다. 체인아츠:매서커는 체인아츠:스트로크로 인한 최종 데미지 증가 효과를 받지 않는다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 59,
+        "skill_level": 55,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 공격\n1차 연계 공격 : 352%의 데미지로 8번 공격하는 참격이 43회 발생\n2차 연계 공격 : 382%의 데미지로 9번 공격하는 참격이 17회 발생\n3차 연계 공격 : 403%의 데미지로 14번 공격하는 폭발이 35회 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFJGKDPEMA"
     },
@@ -115,7 +115,7 @@
     {
         "skill_name": "A.D 오드넌스 강화",
         "skill_description": "[마스터 레벨 : 30]\r\nA.D 오드넌스를 강화한다.",
-        "skill_level": 15,
+        "skill_level": 14,
         "skill_effect": "A.D 오드넌스의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAIF"
     },
@@ -136,7 +136,7 @@
     {
         "skill_name": "체인아츠:메일스트롬 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n체인아츠:메일스트롬을 강화한다.\n추가로 체인아츠를 제외한 무기와 A.D 오드넌스의 최종 데미지가 영구적으로 증가한다.",
-        "skill_level": 11,
+        "skill_level": 10,
         "skill_effect": "체인아츠:메일스트롬의 최종 데미지 11% 증가\n[패시브 효과 : A.D 오드넌스의 최종 데미지 13%, 체인아츠를 제외한 무기의 최종 데미지 7% 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKAIG"
     },
