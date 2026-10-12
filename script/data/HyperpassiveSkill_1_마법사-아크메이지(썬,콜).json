@@ -3,14 +3,14 @@
     {
         "skill_name": "블리자드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n블리자드의 데미지를 증가시킨다. 패시브 효과에는 적용되지 않는다.",
-        "skill_level": 221,
+        "skill_level": 233,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJFOBID"
     },
     {
         "skill_name": "썬더 스피어-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n썬더 스피어의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 3,
+        "skill_level": 2,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJFOBIE"
     },
@@ -24,21 +24,21 @@
     {
         "skill_name": "체인 라이트닝-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n체인 라이트닝의 데미지를 증가시킨다.",
-        "skill_level": 998,
+        "skill_level": 999,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJFOBIG"
     },
     {
         "skill_name": "체인 라이트닝-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n체인 라이트닝의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 734,
+        "skill_level": 725,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJFOBIH"
     },
     {
         "skill_name": "체인 라이트닝-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n체인 라이트닝의 공격 횟수를 증가시킨다.",
-        "skill_level": 994,
+        "skill_level": 995,
         "skill_effect": "공격 횟수 1 증가 ",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJFOBII"
     },
@@ -52,14 +52,14 @@
     {
         "skill_name": "프로즌 오브-엑스트라 타겟",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 오브의 최대 공격 가능한 몬스터 수를 증가시킨다.",
-        "skill_level": 66,
+        "skill_level": 63,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJFOBJA"
     },
     {
         "skill_name": "프로즌 오브-크리티컬 레이트",
         "skill_description": "[마스터 레벨 : 1]\r\n프로즌 오브의 크리티컬 확률을 증가시킨다.",
-        "skill_level": 9,
+        "skill_level": 8,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPAJFOBJB"
     }
