@@ -3,7 +3,7 @@
     {
         "skill_name": "오비탈 플레임 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n화염 마법에 통달하여 오비탈 플레임의 데미지가 강화된다.\n일정 횟수 사용 시 강화된 오비탈 플레임을 사용할 수 있다.\n강력한 마력으로 일정 시간마다 오비탈 플레임이 지나간 곳에 거대한 불꽃이 형성된다. 불 속성의 공격이다.\r\n필요 스킬 : 오비탈 플레임 IV 30레벨 이상",
-        "skill_level": 24,
+        "skill_level": 22,
         "skill_effect": "MP 45 소비, 최대 8명의 적을 333%의 데미지로 2번 공격, 일반 몬스터 공격 시 데미지 50% 증가\n3회 사용 시 다음 공격 강화 오비탈 플레임 VI 발동, 15초마다 최대 6명의 적을 446%의 데미지로 9번 공격하는 불길 4회 발생\n강화 오비탈 플레임 : 370%로 데미지 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBMA"
     },
@@ -17,7 +17,7 @@
     {
         "skill_name": "이터니티",
         "skill_description": "[마스터 레벨 : 30]\r\n생사의 순환을 관장하는 불사조가 현신하여 온 생명체를 죽음으로 인도한다. 불사조는 일정 시간 동안 지상에서 순환의 불꽃을 피워낸다.\n\n10레벨 : 몬스터 방어율 무시 20% 증가\n20레벨 : 보스 몬스터 공격 시 데미지 20% 증가\n30레벨 : 몬스터 방어율 무시 30% 증가, 보스 몬스터 공격 시 데미지 30% 증가",
-        "skill_level": 33,
+        "skill_level": 32,
         "skill_effect": "MP 1200 소비, 시전 동작 중 무적\n최대 15명의 적을 1085%의 데미지로 10번 공격하는 불꽃이 38회 발생, 30초 동안 일정 시간마다 최대 15명의 적을 1902%의 데미지로 13번 공격하는 순환의 불꽃 발생\n재사용 대기시간 360초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPEMA"
     },
@@ -38,7 +38,7 @@
     {
         "skill_name": "블레이징 오비탈 플레임 강화",
         "skill_description": "[마스터 레벨 : 30]\r\n블레이징 오비탈 플레임을 강화한다.",
-        "skill_level": 5,
+        "skill_level": 6,
         "skill_effect": "블레이징 오비탈 플레임의 최종 데미지 11% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLHKBKE"
     },
@@ -73,14 +73,14 @@
     {
         "skill_name": "오비탈 익스플로젼 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n화염의 본질을 이해하고 해방한다. \n일정 횟수 이상 오비탈 플레임, 블레이징 오비탈 플레임, 인피니티 플레임 서클, 이터니티 적중 시 다음 공격에 불 속성의 화염의 기운 추가타가 발생한다. \n 화염의 기운 추가타는 공격 반사 상태의 적을 공격해도 피해를 입지 않는다.\r\n필요 스킬 : 오비탈 익스플로젼 10레벨 이상",
-        "skill_level": 21,
+        "skill_level": 18,
         "skill_effect": "오비탈 플레임, 블레이징 오비탈 플레임, 인피니티 플레임 서클, 이터니티 \n10회 적중 시 다음 오비탈 플레임류 스킬, 인피니티 플레임 서클, 이터니티의 공격에 98%의 데미지로 3번 공격하는 추가타 발생",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDOBNF"
     },
     {
         "skill_name": "피닉스 드라이브 VI",
         "skill_description": "[마스터 레벨 : 30]\r\n불사조의 현신으로 모든 것을 불태우는 화염의 흐름을 만들어낸다.\r\n필요 스킬 : 피닉스 드라이브 1레벨 이상",
-        "skill_level": 21,
+        "skill_level": 18,
         "skill_effect": "MP 301 소비, 20초 동안 지속\n최대 8명의 적을 785%의 데미지로 6번 지속 공격\n재사용 대기시간 120초",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPBNA"
     },
@@ -94,7 +94,7 @@
     {
         "skill_name": "플레임 콘체르토",
         "skill_description": "[마스터 레벨 : 30]\r\n두 화염의 화신이 연주하는 불꽃의 협주곡이 순환하는 폭렬의 화염으로 완성된다.\n\n10레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n20레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n30레벨 : 몬스터 방어율 무시 20% 증가",
-        "skill_level": 4,
+        "skill_level": 3,
         "skill_effect": "MP 769 소비, 시전 동작 중 무적\n최대 15명의 적을 521%의 데미지로 12번 공격하는 불꽃의 연주 13회 발생\n이후 783%의 데미지로 15번 공격하는 폭렬의 화염이 15회 발생\n몬스터 방어율 60% 추가 무시, 보스 몬스터 공격 시 데미지 40% 증가, 크리티컬 확률 100%",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFOAKDPEMD"
     },
