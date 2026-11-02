@@ -1,16 +1,16 @@
-992
+993
 [
     {
         "skill_name": "마그네틱 필드-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 데미지를 증가시킨다.",
-        "skill_level": 14,
+        "skill_level": 12,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBID"
     },
     {
         "skill_name": "마그네틱 필드-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n마그네틱 필드의 지속 시간을 증가시킨다.",
-        "skill_level": 8,
+        "skill_level": 6,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIE"
     },
@@ -31,21 +31,21 @@
     {
         "skill_name": "로봇 팩토리 : RM1-퍼시스트",
         "skill_description": "[마스터 레벨 : 1]\r\n로봇 팩토리 : RM1의 지속 시간을 증가시킨다.",
-        "skill_level": 16,
+        "skill_level": 13,
         "skill_effect": "지속 시간 10초 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIH"
     },
     {
         "skill_name": "워머신 : 타이탄-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n워머신 : 타이탄의 데미지를 증가시킨다.",
-        "skill_level": 4,
+        "skill_level": 5,
         "skill_effect": "데미지 20% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBII"
     },
     {
         "skill_name": "매시브 파이어-리인포스",
         "skill_description": "[마스터 레벨 : 1]\r\n매시브 파이어 : SPLASH-F/IRON-B의 데미지를 증가시킨다. 매시브 파이어 : IRON-B, 매시브 파이어 : IRON-B VI의 2차 폭발에는 적용되지 않는다.",
-        "skill_level": 16,
+        "skill_level": 14,
         "skill_effect": "데미지 10% 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBIJ"
     },
@@ -59,7 +59,7 @@
     {
         "skill_name": "매시브 파이어 : IRON-B-보너스 어택",
         "skill_description": "[마스터 레벨 : 1]\r\n매시브 파이어 : IRON-B의 공격 횟수를 증가시킨다. 매시브 파이어 : IRON-B, 매시브 파이어 : IRON-B VI의 2차 폭발에는 적용되지 않는다.",
-        "skill_level": 16,
+        "skill_level": 14,
         "skill_effect": "공격 횟수 1 증가",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFMHKFOBJB"
     }
