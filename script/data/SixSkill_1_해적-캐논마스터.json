@@ -38,7 +38,7 @@
     {
         "skill_name": "HEXA 스탯",
         "skill_description": "[마스터 레벨 : 1]\r\n솔 에르다의 힘을 받아들여 능력치가 상승한다.",
-        "skill_level": 6,
+        "skill_level": 5,
         "skill_effect": null,
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KAPCLAPBMA"
     },
@@ -69,5 +69,12 @@
         "skill_level": 1,
         "skill_effect": "MP 330 소비, 10초 동안 캐논포 소환\n캐논포는 일정 시간마다 최대 10명의 적을 698%의 데미지로 5번 공격\n맥스 캐논 레인보우 : MP 330 소비, 10초 동안 캐논포 소환\n캐논포는 일정 시간마다 최대 10명의 적을 724%의 데미지로 5번 공격\n연락망은 60초 마다 1개씩 증가하며 최대 2개까지 소지 가능\n연락망 준비 시간은 재사용 대기시간 감소 효과를 적용받는다.\n[패시브 효과 : 캐논 버스터 VI의 데미지 4%p 증가]",
         "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIDPBNE"
+    },
+    {
+        "skill_name": "배럴 오브 몽키스",
+        "skill_description": "[마스터 레벨 : 30]\r\n하늘을 향해 소형 포탄을 빠르게 쏘아 올려 주변 일대를 붕괴시킨다.\n\n10레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n20레벨 : 몬스터 방어율 무시 10% 증가, 보스 몬스터 공격 시 데미지 10% 증가\n30레벨 : 몬스터 방어율 무시 20% 증가",
+        "skill_level": 1,
+        "skill_effect": "MP 1000 소비, 시전 동작 중 무적\n포탄을 하늘 높이 발사해 최대 15명의 적을 684%의 데미지로 10번 공격하는 여폭 6회 발생, 이후 탄이 지면으로 떨어지며 708%의 데미지로 15번 공격하는 산개 폭격 22회 발생\n몬스터 방어율 60% 추가 무시, 보스 몬스터 공격 시 데미지 40% 증가, 크리티컬 확률 100%",
+        "skill_icon": "https://open.api.nexon.com/static/maplestory/skill/icon/KFPHIDPEMC"
     }
 ]
